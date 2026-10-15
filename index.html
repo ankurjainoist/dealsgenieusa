@@ -10,54 +10,66 @@
 <meta property="og:type" content="website"><meta property="og:site_name" content="DealsGenie USA"><meta property="og:title" content="DealsGenie USA - Daily Amazon Deals"><meta property="og:description" content="Make a wish, get a deal. Fresh Amazon US deals and guides every day."><meta property="og:url" content="https://dealsgenieusa.com/">
 <meta name="twitter:card" content="summary">
 <style>
-:root{--bg:#0f0b24;--card:#1a1440;--text:#f5f3ff;--muted:#a79fd6;--gold:#ffc83d;--pink:#ff4fa3;--border:#2e2663;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme:light){:root:not([data-theme="dark"]){--bg:#f6f3ff;--card:#fff;--text:#1b1440;--muted:#6a5fa8;--border:#ddd6ff}}
-:root[data-theme="light"]{--bg:#f6f3ff;--card:#fff;--text:#1b1440;--muted:#6a5fa8;--border:#ddd6ff}
+:root{--bg:#0d0a24;--card:#181240;--text:#f5f3ff;--muted:#a79fd6;--gold:#ffc83d;--pink:#ff4fa3;--border:#2e2663;--ong:#1b1440;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+:root[data-theme="light"]{--bg:#f4f1ff;--card:#fff;--text:#1b1440;--muted:#5b4fa0;--gold:#d97706;--pink:#db2777;--border:#ddd6ff;--ong:#fff}
 *{box-sizing:border-box}
-body{margin:0;background:radial-gradient(circle at 50% -10%,#3b2a8f33,transparent 60%),var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-.tick{background:linear-gradient(90deg,var(--pink),var(--gold));color:#1b1440;font-weight:700;font-size:.8rem;overflow:hidden;white-space:nowrap}
-.tick div{display:inline-block;padding:6px 0;animation:m 28s linear infinite}
+body{margin:0;color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background-color:var(--bg);background-image:radial-gradient(circle at 12% 0%,#6d4cff33,transparent 45%),radial-gradient(circle at 92% 8%,#ff4fa326,transparent 40%);background-attachment:fixed}
+.tick{background:linear-gradient(90deg,var(--pink),var(--gold));color:var(--ong);font-weight:700;font-size:.82rem;overflow:hidden;white-space:nowrap}
+.tick div{display:inline-block;padding:7px 0;animation:m 40s linear infinite}
 @keyframes m{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-.wrap{max-width:760px;margin:0 auto;padding:0 14px 40px}
-.top{display:flex;justify-content:space-between;align-items:center;padding:14px 0}
-.logo{font-weight:900;font-size:1.3rem}.logo b{color:var(--gold)}
-.streak{background:var(--card);border:1px solid var(--border);border-radius:99px;padding:6px 12px;font-size:.85rem;font-weight:700}
-.hero{text-align:center;padding:10px 0 18px}
-.lamp{font-size:4rem;display:inline-block;animation:f 3s ease-in-out infinite;cursor:pointer}
+.bm{background:var(--card);border-bottom:1px solid var(--border);text-align:center;font-size:.85rem;padding:8px 38px 8px 12px;position:relative}
+.bm button{position:absolute;right:10px;top:5px;background:none;border:0;color:var(--muted);font-size:1.1rem;cursor:pointer}
+.wrap{max-width:1180px;margin:0 auto;padding:0 18px 48px}
+.top{display:flex;justify-content:space-between;align-items:center;padding:16px 0 8px}
+.logo{font-weight:900;font-size:1.5rem}.logo b{color:var(--gold)}
+.streak{background:var(--card);border:1px solid var(--border);border-radius:99px;padding:7px 14px;font-size:.85rem;font-weight:700;color:var(--text)}
+.nav{display:flex;gap:8px;justify-content:center;margin:6px 0 16px}.nav a,.post{text-decoration:none}.nav a{display:inline-block}
+.cat,.wish button{border:1px solid var(--border);background:var(--card);color:var(--text);border-radius:99px;padding:9px 18px;font-weight:700;cursor:pointer;font-size:.9rem;white-space:nowrap}
+.wish button:hover,.cat.on{background:var(--gold);color:var(--ong);border-color:var(--gold)}
+#dealsView{display:grid;grid-template-columns:1.05fr .95fr;gap:22px;align-items:center}
+#dealsView>*{min-width:0}
+.hero{grid-column:1;grid-row:1;text-align:center;padding:10px 0 18px}
+#pick{grid-column:2;grid-row:1}
+#dealsView>h2,#dealsView>.cats,#list{grid-column:1/-1}
+.lamp{font-size:4.2rem;display:inline-block;animation:f 3s ease-in-out infinite;cursor:pointer}
 @keyframes f{50%{transform:translateY(-8px) rotate(-6deg)}}
-h1{margin:6px 0;font-size:1.9rem;line-height:1.15}
+h1{margin:6px 0;font-size:clamp(2rem,4.2vw,3.1rem);line-height:1.1}
 h1 span{background:linear-gradient(90deg,var(--gold),var(--pink));-webkit-background-clip:text;background-clip:text;color:transparent}
-.muted{color:var(--muted);font-size:.92rem}
+.muted{color:var(--muted);font-size:.95rem}
 .clock{display:flex;justify-content:center;gap:8px;margin:12px 0}
-.clock div{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:8px 12px;min-width:58px}
-.clock b{display:block;font-size:1.4rem;color:var(--gold)}.clock small{color:var(--muted);font-size:.7rem}
+.clock div{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:8px 12px;min-width:62px}
+.clock b{display:block;font-size:1.5rem;color:var(--gold)}.clock small{color:var(--muted);font-size:.7rem}
 .wish{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:14px 0}
-.wish button,.cat{border:1px solid var(--border);background:var(--card);color:var(--text);border-radius:99px;padding:9px 16px;font-weight:700;cursor:pointer;font-size:.9rem}
-.wish button:hover,.cat.on{background:var(--gold);color:#1b1440;border-color:var(--gold)}
-.main{background:var(--card);border:2px solid var(--gold);border-radius:18px;padding:16px;margin:10px 0;box-shadow:0 0 28px #ffc83d33}
+.main{background:var(--card);border:2px solid var(--gold);border-radius:20px;padding:18px;box-shadow:0 12px 44px #ffc83d22}
 .tag{display:inline-block;background:var(--pink);color:#fff;font-size:.72rem;font-weight:800;padding:3px 9px;border-radius:6px}
 .row{display:flex;gap:12px;align-items:center}
-.em{font-size:3rem;background:#ffffff12;border-radius:14px;width:76px;height:76px;display:flex;align-items:center;justify-content:center;flex:none}
+.em{font-size:3rem;background:linear-gradient(135deg,#6d4cff33,#ffc83d33);border-radius:14px;width:76px;height:76px;display:flex;align-items:center;justify-content:center;flex:none}
 .t{font-weight:700;line-height:1.25}.p{font-size:1.5rem;font-weight:900;color:var(--gold)}.o{color:var(--muted);text-decoration:line-through;font-size:.9rem;margin-left:6px}
 .bar{height:8px;border-radius:9px;background:var(--border);overflow:hidden;margin:10px 0 4px}.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--pink))}
-.acts{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
-.acts a,.acts button{flex:1;min-width:110px;text-align:center;text-decoration:none;border:0;border-radius:10px;padding:11px;font-weight:800;cursor:pointer;font-size:.9rem}
-.buy{background:var(--gold);color:#1b1440}.sh{background:#25d366;color:#fff}.hot{background:var(--card);color:var(--text);border:1px solid var(--border)!important}
+.acts{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
+.acts a,.acts button{flex:1;min-width:110px;text-align:center;text-decoration:none;border:0;border-radius:10px;padding:12px;font-weight:800;cursor:pointer;font-size:.9rem}
+.buy{background:var(--gold);color:var(--ong)}.sh{background:#25d366;color:#fff}.hot{background:var(--card);color:var(--text);border:1px solid var(--border)!important}
 .cats{display:flex;gap:8px;overflow-x:auto;padding:8px 0}
-h2{font-size:1.05rem;margin:18px 0 4px}
-.card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px;margin:8px 0}
-.card .em{width:56px;height:56px;font-size:2rem}
+h2{font-size:1.3rem;margin:20px 0 4px}
+#list{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:14px}
+.card{position:relative;background:var(--card);border:1px solid var(--border);border-radius:16px;padding:14px;margin:0;transition:transform .2s,border-color .2s}
+.card:hover{transform:translateY(-3px);border-color:var(--gold)}
+.card .em{width:60px;height:60px;font-size:2.1rem}
 .left{color:var(--pink);font-size:.78rem;font-weight:700}
-.nav{display:flex;gap:8px;justify-content:center;margin:4px 0 10px}.nav a,.post{text-decoration:none}.nav a{display:inline-block}
+.newb{position:absolute;top:10px;right:10px;background:var(--pink);color:#fff;font-size:.66rem;font-weight:800;padding:2px 8px;border-radius:99px}
+#blogView{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+#blogView>h2,#blogView>p,#blogView>.art{grid-column:1/-1}
 .post{display:block;color:var(--text)}.post .t{font-size:1.05rem}.post .muted{margin-top:4px}
-.art h1{font-size:1.6rem;margin:10px 0}.art h3{margin:20px 0 4px;color:var(--gold)}.art p{line-height:1.7}.back{color:var(--gold);text-decoration:none;font-weight:700}
-footer{text-align:center;color:var(--muted);font-size:.75rem;padding:20px 0}
+.art{max-width:760px;margin:0 auto;width:100%}.art h1{font-size:1.7rem;margin:10px 0}.art h3{margin:20px 0 4px;color:var(--gold)}.art p{line-height:1.7}.back{color:var(--gold);text-decoration:none;font-weight:700}
+footer{text-align:center;color:var(--muted);font-size:.75rem;padding:24px 0}
+@media(max-width:860px){#dealsView{display:block}.logo{font-size:1.25rem}}
 </style>
 </head>
 <body>
 <div class="tick"><div id="tick"></div></div>
+<div id="bm" class="bm"></div>
 <div class="wrap">
-<div class="top"><div class="logo">Deals<b>Genie</b> 🇺🇸</div><div class="streak" id="streak">🔥 Day 1</div></div>
+<div class="top"><div class="logo">Deals<b>Genie</b> 🇺🇸</div><div style="display:flex;gap:8px"><button id="tg" class="streak" style="cursor:pointer" aria-label="theme">☀️</button><div class="streak" id="streak">🔥 Day 1</div></div></div>
 <div class="nav"><a id="tabD" class="cat on" href="#">🔥 Deals</a><a id="tabB" class="cat" href="#blog">📝 Blog</a><a class="cat" href="best-finds.html">✨ Best Finds</a></div>
 <div id="dealsView">
 <div class="hero">
@@ -132,7 +144,7 @@ cs.forEach(c=>{const b=document.createElement('button');b.className='cat'+(c===c
 $('list').innerHTML='';D.filter(d=>cat==='All'||d.c===cat).forEach(d=>{const w=document.createElement('div');w.className='card';
 w.innerHTML=`<div class="row"><div class="em">${d.e}</div><div style="flex:1"><div class="t"></div><div><span class="p" style="font-size:1.2rem">${pr(d)}</span>${d.o?`<span class="o">$${d.o.toFixed(2)}</span>`:''}</div><div class="left">${off(d)?'-'+off(d)+'% ':''}${d.n?'🎟️ '+d.n:''}${d.cl?' • '+d.cl+'% claimed':''}</div></div></div>
 <div class="acts"><a class="buy" target="_blank" rel="nofollow sponsored noopener">Buy</a><button class="sh">Share</button></div>`;
-w.querySelector('.t').textContent=d.t;w.querySelector('.buy').href=d.l;w.querySelector('.sh').onclick=()=>share(d);$('list').appendChild(w)})}
+w.querySelector('.t').textContent=d.t;w.querySelector('.buy').href=d.l;w.querySelector('.sh').onclick=()=>share(d);if(d.dt&&d.dt===D[0].dt)w.insertAdjacentHTML('afterbegin','<span class="newb">NEW</span>');$('list').appendChild(w)})}
 list();
 // BLOG: add new posts at the TOP. id = url name (no spaces). In b: plain text = paragraph, "## text" = heading, "DEAL:2" = shows deal number 2 from the deals list (counting from 0) with Buy button.
 const P=[
@@ -162,6 +174,16 @@ c.innerHTML='<div class="row"><div class="em">'+p.e+'</div><div><div class="t"><
 c.querySelector('.t').textContent=p.t;c.querySelector('.muted').textContent=p.d+' • '+p.x;bv.appendChild(c)})}
 scrollTo(0,0)}
 addEventListener('hashchange',route);route();
+</script>
+<script>
+(function(){const r=document.documentElement,t=document.getElementById('tg');let s='dark';try{s=localStorage.getItem('th')||'dark'}catch(e){}
+function ap(v){r.setAttribute('data-theme',v);t.textContent=v==='dark'?'☀️':'🌙'}ap(s);
+t.onclick=()=>{s=s==='dark'?'light':'dark';ap(s);try{localStorage.setItem('th',s)}catch(e){}}})();
+(function(){const b=document.getElementById('bm');let h='';try{h=localStorage.getItem('bmx')||''}catch(e){}
+if(h){b.remove();return}
+const m=/Android|iPhone|iPad/i.test(navigator.userAgent);
+b.innerHTML='⭐ '+(m?'Add DealsGenie to your Home screen: tap the menu (⋮ or Share) → Add to Home screen':'Never miss a deal! Press <b>'+(/Mac/i.test(navigator.platform)?'Cmd':'Ctrl')+' + D</b> to bookmark DealsGenie')+' <button id="bmx" aria-label="close">✕</button>';
+document.getElementById('bmx').onclick=()=>{try{localStorage.setItem('bmx','1')}catch(e){}b.remove()}})();
 </script>
 </body>
 </html>
