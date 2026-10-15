@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Amazon Best Finds | DealsGenie USA</title>
+<meta name="description" content="Our favorite Amazon finds for home, tech, kitchen, seasonal decor and more. Hand-picked by DealsGenie.">
+<link rel="canonical" href="https://dealsgenieusa.com/best-finds.html">
+<meta property="og:type" content="website"><meta property="og:title" content="Amazon Best Finds | DealsGenie USA"><meta property="og:description" content="Hand-picked Amazon finds for home, tech, kitchen and seasonal decor."><meta property="og:url" content="https://dealsgenieusa.com/best-finds.html"><meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧞</text></svg>">
+<style>
+:root{--bg:#0f0b24;--card:#1a1440;--text:#f5f3ff;--muted:#a79fd6;--gold:#ffc83d;--border:#2e2663;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:light){:root{--bg:#f6f3ff;--card:#fff;--text:#1b1440;--muted:#6a5fa8;--border:#ddd6ff}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.w{max-width:900px;margin:0 auto;padding:14px}.top{display:flex;justify-content:space-between;align-items:center;padding:6px 0}
+.logo{font-weight:900;font-size:1.2rem;color:var(--text);text-decoration:none}.logo b{color:var(--gold)}a.nav{color:var(--gold);font-weight:700;text-decoration:none}
+h1{margin:14px 0 4px;font-size:1.7rem}.m{color:var(--muted);font-size:.92rem;margin:0}
+.cats{display:flex;gap:8px;overflow-x:auto;padding:14px 0}
+.cat{border:1px solid var(--border);background:var(--card);color:var(--text);padding:8px 14px;border-radius:99px;font-weight:700;font-size:.88rem;cursor:pointer;white-space:nowrap}.cat.on{background:var(--gold);color:#1b1440;border-color:var(--gold)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(155px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.im{height:120px;display:flex;align-items:center;justify-content:center;font-size:3rem;background:linear-gradient(135deg,#3b2a8f55,#ffc83d33)}.im img{width:100%;height:100%;object-fit:cover}
+.b{padding:10px;display:flex;flex-direction:column;gap:8px;flex:1}.n{font-weight:700;font-size:.92rem;line-height:1.25}
+.btn{margin-top:auto;text-align:center;text-decoration:none;background:var(--gold);color:#1b1440;font-weight:800;font-size:.85rem;padding:9px;border-radius:9px}
+footer{text-align:center;color:var(--muted);font-size:.75rem;padding:24px 0}
+</style>
+</head>
+<body><div class="w">
+<div class="top"><a class="logo" href="/">Deals<b>Genie</b> 🧞</a><a class="nav" href="/">🔥 Today's deals</a></div>
+<h1>✨ Amazon Best Finds</h1>
+<p class="m">Hand-picked finds for your home, tech, kitchen and the season. Tap a card to see it on Amazon US.</p>
+<div class="cats" id="cats"></div>
+<div class="grid" id="grid"></div>
+</div>
+<footer>As an Amazon Associate we earn from qualifying purchases. Prices and availability may change.</footer>
+<script>
+// ADD FINDS: n=name, c=category, e=emoji, l=full amazon.com/dp link (optional, search link is used if empty), i=image url (optional)
+const F=[
+{n:"Neutral Floral Pillow Covers",c:"Home Decor",e:"🛋️"},
+{n:"Wireless Wall Sconce",c:"Home Decor",e:"💡"},
+{n:"Tiny Telephone Jewelry Holder",c:"Home Decor",e:"📞"},
+{n:"Bicycle Shape Flip Clock",c:"Home Decor",e:"🚲"},
+{n:"C-Shaped End Table",c:"Furniture",e:"🪑"},
+{n:"Arched Tilt Out Trash Can Cabinet",c:"Furniture",e:"🗑️"},
+{n:"Gingham Daybed with Trundle",c:"Furniture",e:"🛏️"},
+{n:"Halloween Pumpkin Nightlight",c:"Seasonal",e:"🎃"},
+{n:"Christmas Runner Rug",c:"Seasonal",e:"🎄"},
+{n:"3-in-1 Floor Scrub Brush",c:"Home Care",e:"🧽"},
+{n:"Touchless Vacuum Dustpan",c:"Home Care",e:"🧹"},
+{n:"Protected Spigot Cover",c:"Home Care",e:"🚰"},
+{n:"Instant Photo Printer",c:"Tech",e:"🖨️"},
+{n:"Cherry Flow Portable Charger",c:"Tech",e:"🔋"},
+{n:"Magnetic Selfie Ring Light",c:"Tech",e:"🤳"},
+{n:"Video To Digital Converter VHS",c:"Tech",e:"📼"},
+{n:"FlashEye Dot Smart Display Charger",c:"Tech",e:"🔌"},
+{n:"Tea Infuser Pot",c:"Kitchen & Living",e:"🫖"},
+{n:"Couch Cup Holder Tray",c:"Kitchen & Living",e:"🥤"},
+{n:"Disney Beauty Tea Cart Play Set",c:"Fun & More",e:"🧸"},
+{n:"Smooth Erasable Gel Pens",c:"Fun & More",e:"🖊️"},
+{n:"Perfect Girls Fall Shoes",c:"Fun & More",e:"👟"}
+];
+const g=document.getElementById('grid'),cs=document.getElementById('cats');let cur='All';
+function draw(){const all=['All',...new Set(F.map(x=>x.c))];cs.innerHTML='';
+all.forEach(c=>{const b=document.createElement('button');b.className='cat'+(c===cur?' on':'');b.textContent=c;b.onclick=()=>{cur=c;draw()};cs.appendChild(b)});
+g.innerHTML='';F.filter(x=>cur==='All'||x.c===cur).forEach(x=>{
+const a=document.createElement('div');a.className='card';
+a.innerHTML='<div class="im"></div><div class="b"><div class="n"></div><a class="btn" target="_blank" rel="nofollow sponsored noopener">View on Amazon</a></div>';
+const im=a.querySelector('.im');if(x.i){const t=document.createElement('img');t.src=x.i;t.alt=x.n;t.loading='lazy';im.appendChild(t)}else im.textContent=x.e;
+a.querySelector('.n').textContent=x.n;
+a.querySelector('.btn').href=x.l||'https://www.amazon.com/s?k='+encodeURIComponent(x.n);g.appendChild(a)})}
+draw();
+</script>
+</body>
+</html>
