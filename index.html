@@ -56,6 +56,7 @@ h2{font-size:1.3rem;margin:20px 0 4px}
 .card:hover{transform:translateY(-3px);border-color:var(--gold)}
 .card .em{width:60px;height:60px;font-size:2.1rem}
 .left{color:var(--pink);font-size:.78rem;font-weight:700}
+.card.old{opacity:.72}.card.old:hover{opacity:1}.newb.miss{background:#6b7280}
 .newb{position:absolute;top:10px;right:10px;background:var(--pink);color:#fff;font-size:.66rem;font-weight:800;padding:2px 8px;border-radius:99px}
 #blogView{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
 #blogView>h2,#blogView>p,#blogView>.art{grid-column:1/-1}
@@ -94,6 +95,25 @@ footer{text-align:center;color:var(--muted);font-size:.75rem;padding:24px 0}
 <script>
 // DAILY: add new deals at the TOP. t=title, c=category, e=emoji, n=coupon/code note (optional), dt=date posted, l=full amazon.com/dp link. Do not add prices.
 const D=[
+{t:"Bathroom Accessory Sets (Beige)",c:"Home",e:"🛁",n:"Use code HWVQ99PN",dt:"Oct 15",l:"https://www.amazon.com/dp/B0HFM7N1ZQ"},
+{t:"Fuzz Ball Squishy Stress Ball, Soft Fidget Squishy Fuzz Squeeze Ball",c:"Toys",e:"🧸",dt:"Oct 15",l:"https://www.amazon.com/dp/B0GYPTBH84"},
+{t:"Black Wooden Wall Vases Set of 3, Wall Planters with Glass Tube Kit",c:"Home",e:"🌿",n:"Clip the coupon",dt:"Oct 15",l:"https://www.amazon.com/dp/B0GL2NKJD9"},
+{t:"Buysenton Window Squeegee Cleaners",c:"Home",e:"🪟",n:"50% off with code IJBIH0N4",dt:"Oct 15",l:"https://www.amazon.com/dp/B0G5WZPHQ2"},
+{t:"Temporary Teeth Whitening Paints",c:"Health",e:"😁",n:"Clip the 40% coupon",dt:"Oct 15",l:"https://www.amazon.com/dp/B0HLKPG1P9"},
+{t:"Freshware Meal Prep Containers [50 Pack] 24 oz Food Containers with Lids",c:"Kitchen",e:"🥡",dt:"Oct 15",l:"https://www.amazon.com/dp/B0CBJWSHFF"},
+{t:"SUUNYN Outdoor Lounge Chairs",c:"Home",e:"⛱️",dt:"Oct 15",l:"https://www.amazon.com/dp/B0GTKHPVJQ"},
+{t:"HONIGMA Raw Sunflowers Honey, 250g / 8.8oz",c:"Grocery",e:"🍯",dt:"Oct 15",l:"https://www.amazon.com/dp/B0DCGDKJ7N"},
+{t:"44PCS Interactive Play Food with Smart Cutting Board, Sense & Sound",c:"Toys",e:"🍓",n:"Clip the coupon",dt:"Oct 15",l:"https://www.amazon.com/dp/B0H4RLCNT8"},
+{t:"Electric Salt and Pepper Grinder Set with Storage Base",c:"Kitchen",e:"🧂",n:"Use code LXVREUAQ",dt:"Oct 15",l:"https://www.amazon.com/dp/B0D1C8TFKK"},
+{t:"Kismile Cold Press Juicer Machine, 5.4 in Wide Feed Chute",c:"Kitchen",e:"🍊",n:"Use code SY9K57U2",dt:"Oct 15",l:"https://www.amazon.com/dp/B0G2WRPF64"},
+{t:"Adhesive Shower Caddy, 5 Pack Rustproof Shower Organizers & Storage, Black",c:"Home",e:"🚿",n:"Clip the coupon",dt:"Oct 15",l:"https://www.amazon.com/dp/B0HGD6VC4J"},
+{t:"LISEN MagSafe Car Mounts",c:"Electronics",e:"🚗",n:"Use code DAOQCFA3",dt:"Oct 15",l:"https://www.amazon.com/dp/B09R1G19K5"},
+{t:"Pokemon Card Collections",c:"Toys",e:"⚡",dt:"Oct 15",l:"https://www.amazon.com/dp/B0829FT44S"},
+{t:"Arboleaf Smart Scale for Body Weight and Fat, 14 Metrics in App, Black",c:"Health",e:"⚖️",n:"Clip the coupon (code KY13D1T2)",dt:"Oct 15",l:"https://www.amazon.com/dp/B0FMK9RZH1"},
+{t:"Uineer Vertical Ergonomic Mouse",c:"Electronics",e:"🖱️",n:"Use code A06501013",dt:"Oct 15",l:"https://www.amazon.com/dp/B0GK6971TJ"},
+{t:"Minthouz Magnetic Wireless Charger, Foldable, 20W Adapter",c:"Electronics",e:"🔌",n:"Clip the coupon (code KD2B4V1N)",dt:"Oct 15",l:"https://www.amazon.com/dp/B0F5Q2VJZ5"},
+{t:"Sonix x Sanrio Hello Kitty Plush Phone Holder, Smartphone Pillow Phone Stand",c:"Home",e:"🎀",dt:"Oct 15",l:"https://www.amazon.com/dp/B0GFLM13Q7"},
+{t:"Mrs. Meyer's Clean Day Liquid Dish Soap, Basil, 16 fl. oz, Pack of 6",c:"Home",e:"🧼",dt:"Oct 15",l:"https://www.amazon.com/dp/B0017K6DEE"},
 {t:"Back to School Chalkboards",c:"Kids",e:"📝",n:"Clip the coupon",dt:"Oct 15",l:"https://www.amazon.com/dp/B0H4GNBH43"},
 {t:"SKINNYPOP Original Popcorn Bags, .65 oz (30 Count)",c:"Grocery",e:"🍿",dt:"Oct 15",l:"https://www.amazon.com/dp/B00KE1E7YA"},
 {t:"Lay's Kettle Cooked Potato Chips, Variety Pack (Pack of 40)",c:"Grocery",e:"🥔",n:"Clip the coupon",dt:"Oct 15",l:"https://www.amazon.com/dp/B076DJ7ZZV"},
@@ -113,6 +133,10 @@ const D=[
 const $=id=>document.getElementById(id);let cat='All';
 const TAG="";/* after Amazon approves you, put your tag here, for example "yourname-20" */
 const lk=u=>TAG?u.split("?")[0]+"?tag="+TAG:u;
+// a deal is "missed" when it was posted 2+ days ago (or has no date): sticker shown, coupon codes hidden
+const NOW=new Date(),TODAY=new Date(NOW.getFullYear(),NOW.getMonth(),NOW.getDate());
+const age=d=>d.dt?Math.floor((TODAY-new Date(d.dt+", "+NOW.getFullYear()))/864e5):99;
+const missed=d=>age(d)>=2;
 function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v)}catch(e){return null}}
 // streak
 (function(){const today=new Date().toDateString(),last=ls('last');let s=+ls('streak')||0;
@@ -123,30 +147,31 @@ function clock(){const n=new Date(),e=new Date(n);e.setHours(24,0,0,0);let x=Mat
 const p=v=>String(v).padStart(2,'0');$('h').textContent=p(Math.floor(x/3600));$('m').textContent=p(Math.floor(x%3600/60));$('s').textContent=p(x%60)}
 clock();setInterval(clock,1000);
 // ticker
-$('tick').innerHTML=(D.slice(0,10).map(d=>`🔥 ${d.t}${d.n?' - '+d.n:''}`).join(' &nbsp;•&nbsp; ')+' &nbsp;•&nbsp; ').repeat(2);
-function share(d){const txt='🔥 '+d.t+(d.n?'\n'+d.n:'')+'\nSee the deal: https://dealsgenieusa.com/';
+const A=D.filter(d=>!missed(d)).slice(0,10);
+$('tick').innerHTML=((A.length?A.map(d=>`🔥 ${d.t}${d.n?' - '+d.n:''}`):['🧞 New deals every day']).join(' &nbsp;•&nbsp; ')+' &nbsp;•&nbsp; ').repeat(2);
+function share(d){const txt='🔥 '+d.t+(d.n&&!missed(d)?'\n'+d.n:'')+'\nSee the deal: https://dealsgenieusa.com/';
 open('https://wa.me/?text='+encodeURIComponent(txt),'_blank')}
 function votes(d){return +ls('v_'+d.t)||0}
-function big(d,label){const w=document.createElement('div');w.className='main';
-w.innerHTML=`<span class="tag">${label}</span><div class="row" style="margin-top:10px"><div class="em">${d.e}</div><div><div class="t"></div>${d.n?`<div class="left" style="color:var(--gold);margin-top:6px">🎟️ <span class="nt"></span></div>`:''}<div class="muted" style="font-size:.78rem;margin-top:4px">${d.dt?'Posted '+d.dt+'. ':''}Check Amazon for the current price and offer.</div></div></div>
+function big(d,label){const nt=missed(d)?'':d.n;const w=document.createElement('div');w.className='main';
+w.innerHTML=`<span class="tag">${label}</span><div class="row" style="margin-top:10px"><div class="em">${d.e}</div><div><div class="t"></div>${nt?`<div class="left" style="color:var(--gold);margin-top:6px">🎟️ <span class="nt"></span></div>`:''}<div class="muted" style="font-size:.78rem;margin-top:4px">${d.dt?'Posted '+d.dt+'. ':''}${missed(d)?'This offer may have ended. ':''}Check Amazon for the current price and offer.</div></div></div>
 <div class="acts"><a class="buy" target="_blank" rel="nofollow sponsored noopener">View on Amazon</a><button class="sh">Share on WhatsApp</button><button class="hot">👍 ${votes(d)}</button></div>
 <div class="muted" style="font-size:.72rem;margin-top:8px">As an Amazon Associate I earn from qualifying purchases.</div>`;
-w.querySelector('.t').textContent=d.t;if(d.n)w.querySelector('.nt').textContent=d.n;w.querySelector('.buy').href=lk(d.l);
+w.querySelector('.t').textContent=d.t;if(nt)w.querySelector('.nt').textContent=nt;w.querySelector('.buy').href=lk(d.l);
 w.querySelector('.sh').onclick=()=>share(d);
 w.querySelector('.hot').onclick=e=>{ls('v_'+d.t,votes(d)+1);e.target.textContent='👍 '+votes(d)};return w}
 // wish buttons
 const W=[['For my home',['Home','Kitchen','Kids','Baby','Tools','Health']],['Something tasty',['Grocery']],['Surprise me',null]];
 W.forEach(([n,cs])=>{const b=document.createElement('button');b.textContent='✨ '+n;b.onclick=()=>{
-const pool=cs?D.filter(d=>cs.includes(d.c)):D;const d=pool[Math.floor(Math.random()*pool.length)]||D[0];
+const act=D.filter(d=>!missed(d));const pool=cs?act.filter(d=>cs.includes(d.c)):act;const d=pool[Math.floor(Math.random()*pool.length)]||D[0];
 $('pick').innerHTML='';$('pick').appendChild(big(d,'🧞 YOUR WISH GRANTED'));$('pick').scrollIntoView({behavior:'smooth'})};$('wish').appendChild(b)});
 $('lamp').onclick=()=>$('wish').lastChild.click();
 $('pick').appendChild(big(D[0],'⭐ DEAL OF THE DAY'));
-function list(){const cs=['All',...new Set(D.map(d=>d.c))];$('cats').innerHTML='';
+function list(){const cs=['All',...new Set(D.map(d=>d.c)),...(D.some(missed)?['⏰ Missed']:[])];$('cats').innerHTML='';
 cs.forEach(c=>{const b=document.createElement('button');b.className='cat'+(c===cat?' on':'');b.textContent=c;b.onclick=()=>{cat=c;list()};$('cats').appendChild(b)});
-$('list').innerHTML='';D.filter(d=>cat==='All'||d.c===cat).forEach(d=>{const w=document.createElement('div');w.className='card';
-w.innerHTML=`<div class="row"><div class="em">${d.e}</div><div style="flex:1"><div class="t"></div>${d.n?`<div class="left">🎟️ <span class="nt"></span></div>`:''}<div class="muted" style="font-size:.75rem">${d.dt?'Posted '+d.dt:''}</div></div></div>
+$('list').innerHTML='';D.filter(d=>cat==='All'||(cat==='⏰ Missed'?missed(d):d.c===cat)).forEach(d=>{const nt=missed(d)?'':d.n;const w=document.createElement('div');w.className='card'+(missed(d)?' old':'');
+w.innerHTML=`<div class="row"><div class="em">${d.e}</div><div style="flex:1"><div class="t"></div>${nt?`<div class="left">🎟️ <span class="nt"></span></div>`:''}<div class="muted" style="font-size:.75rem">${d.dt?'Posted '+d.dt+'. ':''}${missed(d)?'Offer may have ended.':''}</div></div></div>
 <div class="acts"><a class="buy" target="_blank" rel="nofollow sponsored noopener">View on Amazon</a><button class="sh">Share</button></div>`;
-w.querySelector('.t').textContent=d.t;if(d.n)w.querySelector('.nt').textContent=d.n;w.querySelector('.buy').href=lk(d.l);w.querySelector('.sh').onclick=()=>share(d);if(d.dt&&d.dt===D[0].dt)w.insertAdjacentHTML('afterbegin','<span class="newb">NEW</span>');$('list').appendChild(w)})}
+w.querySelector('.t').textContent=d.t;if(nt)w.querySelector('.nt').textContent=nt;w.querySelector('.buy').href=lk(d.l);w.querySelector('.sh').onclick=()=>share(d);if(missed(d))w.insertAdjacentHTML('afterbegin','<span class="newb miss">MISSED</span>');else if(d.dt&&d.dt===D[0].dt)w.insertAdjacentHTML('afterbegin','<span class="newb">NEW</span>');$('list').appendChild(w)})}
 list();
 // BLOG: add new posts at the TOP. id = url name (no spaces). In b: plain text = paragraph, "## text" = heading, "DEAL:2" = shows deal number 2 from the deals list (counting from 0) with Buy button.
 const P=[
