@@ -1,10 +1,9 @@
 /* DealsGenie USA - optional Google Analytics 4 loader.
-   1) Replace the placeholder below with your real GA4 Measurement ID (looks like G-ABC123XYZ9).
-   2) Until you do, this file loads nothing and sends nothing.
+   GA4 Measurement ID is set below. (If it is ever reset to G-XXXXXXXXXX this file loads nothing and sends nothing.)
    Only these values are ever sent: page path (GA default), deal title, deal category, placement, ASIN and the word "amazon.com".
    No names, emails or other personal information. Skipped entirely for Do Not Track / Global Privacy Control. */
 (function () {
-  var GA_ID = 'G-XXXXXXXXXX';
+  var GA_ID = 'G-K5P7CCXZ1D';
   var ok = /^G-[A-Z0-9]{6,}$/.test(GA_ID) && GA_ID !== 'G-XXXXXXXXXX';
   window.dataLayer = window.dataLayer || [];
   function gtag() { window.dataLayer.push(arguments); }
