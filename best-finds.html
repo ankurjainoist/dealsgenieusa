@@ -9,7 +9,7 @@
 <link rel="canonical" href="https://dealsgenieusa.com/best-finds.html">
 <meta property="og:type" content="website"><meta property="og:title" content="Amazon Best Finds | DealsGenie USA"><meta property="og:description" content="Hand-picked Amazon finds for home, tech, kitchen and seasonal decor."><meta property="og:url" content="https://dealsgenieusa.com/best-finds.html"><meta name="twitter:card" content="summary">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧞</text></svg>">
-<style>
+<script defer src="/analytics.js"></script><style>
 :root{--bg:#0f0b24;--card:#1a1440;--text:#f5f3ff;--muted:#a79fd6;--gold:#ffc83d;--border:#2e2663;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
@@ -66,7 +66,7 @@ all.forEach(c=>{const b=document.createElement('button');b.className='cat'+(c===
 g.innerHTML='';F.filter(x=>cur==='All'||x.c===cur).forEach(x=>{
 const a=document.createElement('div');a.className='card';
 a.innerHTML='<div class="im"></div><div class="b"><div class="n"></div><a class="btn" target="_blank" rel="nofollow sponsored noopener">View on Amazon</a></div>';
-const im=a.querySelector('.im');if(x.i){const t=document.createElement('img');t.src=x.i;t.alt=x.n;t.loading='lazy';im.appendChild(t)}else im.textContent=x.e;
+const im=a.querySelector('.im');if(x.i){const t=document.createElement('img');t.src=x.i;t.alt=x.n;t.loading='lazy';t.decoding='async';t.width=300;t.height=120;im.appendChild(t)}else im.textContent=x.e;
 a.querySelector('.n').textContent=x.n;
 if(x.l){a.querySelector('.btn').href=x.l}else{a.querySelector('.btn').remove();a.querySelector('.b').insertAdjacentHTML('beforeend','<div class="m">Link coming soon</div>')}g.appendChild(a)})}
 draw();
