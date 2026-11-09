@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bone Conduction Bluetooth Headphones",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 9",l:"https://www.amazon.com/dp/B0HDP37VPB"},
 {t:"Cascade Free and Clear Dishwasher Pods, Dishwasher Detergent Pacs Dawn Dish Soap, Lemon Essence Scent, 47",c:"Grocery",e:"🛒",n:"Clip the coupon",dt:"Nov 9",l:"https://www.amazon.com/dp/B0DPLMLY6K"},
 {t:"National Tree Company 6.5ft Pre-Lit Dunhill Fir Artificial Christmas Tree",c:"Home",e:"🎄",dt:"Nov 9",l:"https://www.amazon.com/dp/B004G7RI76"},
 {t:"CELSIUS PEACH VIBE Sparkling White Peach, Sugar Free Energy Drink, 12 Fl Oz (Pack of 12)",c:"Home",e:"🏠",dt:"Nov 9",l:"https://www.amazon.com/dp/B086ZL794C"},
