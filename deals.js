@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"National Tree Company 6.5ft Pre-Lit Dunhill Fir Artificial Christmas Tree",c:"Home",e:"🎄",dt:"Nov 9",l:"https://www.amazon.com/dp/B004G7RI76"},
 {t:"CELSIUS PEACH VIBE Sparkling White Peach, Sugar Free Energy Drink, 12 Fl Oz (Pack of 12)",c:"Home",e:"🏠",dt:"Nov 9",l:"https://www.amazon.com/dp/B086ZL794C"},
 {t:"DeckTheHalls Soy Wax Candles",c:"Home",e:"🏠",n:"Use code 2LW1PO01",dt:"Nov 9",l:"https://www.amazon.com/dp/B0CH9N6171"},
 {t:"AI Translation Earbuds (Rose)",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 9",l:"https://www.amazon.com/dp/B0HH89QF7Y"},
