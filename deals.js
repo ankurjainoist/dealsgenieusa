@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"12V Cordless Drill Tool Set",c:"Tools",e:"🔧",n:"43% off with code RJBJKVI8",dt:"Nov 9",l:"https://www.amazon.com/dp/B0FJXV7Q3S"},
 {t:"Solar Christmas Tree Stake Lights",c:"Home",e:"🎄",n:"Use code 6KW8KFE9",dt:"Nov 6",l:"https://www.amazon.com/dp/B0HPKT5GFG"},
 {t:"Artificial Christmas Greenery Stems",c:"Home",e:"🌿",n:"Use code 0OWNXW9T",dt:"Nov 6",l:"https://www.amazon.com/dp/B0F9TC9TJJ"},
 {t:"Cuisinart Stand Mixer, 5.5 Quart",c:"Kitchen",e:"🍰",dt:"Nov 6",l:"https://www.amazon.com/dp/B074MQBTFX"},
