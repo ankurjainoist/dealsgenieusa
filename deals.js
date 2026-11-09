@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cordless Vacuum Cleaner SET",c:"Home",e:"🏠",n:"45% off with code B0PX5CFD",dt:"Nov 9",l:"https://www.amazon.com/dp/B0HMQSPBSV"},
 {t:"Bluetooth Thermal Shipping Label Printer SET",c:"Electronics",e:"🔌",n:"40% off with code TEOOYXSL",dt:"Nov 9",l:"https://www.amazon.com/dp/B0GZVKHXNG"},
 {t:"Personal Blender SET",c:"Kitchen",e:"🍳",n:"50% off with code QQSMTBD2",dt:"Nov 9",l:"https://www.amazon.com/dp/B0HCNBTQGV"},
 {t:"Delay ON Time Relays 16A",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 9",l:"https://www.amazon.com/dp/B0DYVFX5FV"},
