@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cascade Free and Clear Dishwasher Pods, Dishwasher Detergent Pacs Dawn Dish Soap, Lemon Essence Scent, 47",c:"Grocery",e:"🛒",n:"Clip the coupon",dt:"Nov 9",l:"https://www.amazon.com/dp/B0DPLMLY6K"},
 {t:"National Tree Company 6.5ft Pre-Lit Dunhill Fir Artificial Christmas Tree",c:"Home",e:"🎄",dt:"Nov 9",l:"https://www.amazon.com/dp/B004G7RI76"},
 {t:"CELSIUS PEACH VIBE Sparkling White Peach, Sugar Free Energy Drink, 12 Fl Oz (Pack of 12)",c:"Home",e:"🏠",dt:"Nov 9",l:"https://www.amazon.com/dp/B086ZL794C"},
 {t:"DeckTheHalls Soy Wax Candles",c:"Home",e:"🏠",n:"Use code 2LW1PO01",dt:"Nov 9",l:"https://www.amazon.com/dp/B0CH9N6171"},
