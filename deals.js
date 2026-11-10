@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hefty Ultra Strong Kitchen Trash Bags",c:"Kitchen",e:"🍳",dt:"Nov 10",l:"https://www.amazon.com/dp/B01FSY4YKO"},
 {t:"Halloween Candy & Snack Baskets",c:"Grocery",e:"🎃",dt:"Nov 10",l:"https://www.amazon.com/dp/B0FN67FP8F"},
 {t:"Weber Smoque XL 34‑Inch Pellet Smoker, Pellet Grill, Black",c:"Kitchen",e:"🍳",dt:"Nov 10",l:"https://www.amazon.com/dp/B0FM9Q332P"},
 {t:"Remote Control Car",c:"Auto",e:"🚗",n:"50% off with code W8J5ZIHJ",dt:"Nov 10",l:"https://www.amazon.com/dp/B0H5HTGH2Y"},
