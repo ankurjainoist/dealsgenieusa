@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Golf Rangefinder with Slope Switch, Pin-Lock Vibration & 7X Magnification, 1200 Yards Reliable Distance",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B0DZT95QBC"},
 {t:"Magic Water Elf Toy Kit for Kids with 20 Gels and 24 Molds, Aqua Fairy,Fun DIY Craft Kit, Squishy Maker",c:"Toys",e:"🧸",dt:"Nov 10",l:"https://www.amazon.com/dp/B0DS1VLNVM"},
 {t:"Juice WRLD",c:"Grocery",e:"🛒",dt:"Nov 10",l:"https://www.amazon.com/dp/B0DPT4PVP1"},
 {t:"LEGO Harry Potter Enchanted Flying Ford Anglia 76470",c:"Toys",e:"🧸",dt:"Nov 10",l:"https://www.amazon.com/dp/B0FMS67MBV"},
