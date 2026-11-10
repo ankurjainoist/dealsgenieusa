@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Cluster Lights 40 FT 800 LED Firecracker String Lights Warm White",c:"Home",e:"🎄",n:"Use code 5BCWX6ZI",dt:"Nov 10",l:"https://www.amazon.com/dp/B0GZSTR3HQ"},
 {t:"Beard Grooming Spa Sets",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B0F1FF63XH"},
 {t:"Repretty Full Body Red Light Therapy Mats",c:"Health",e:"💊",n:"Use code REPRETTY1436",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HB4K53B1"},
 {t:"Apple 3-in-1 Foldable Charging Stations",c:"Home",e:"🏠",n:"62% off with code Z68S24NL",dt:"Nov 10",l:"https://www.amazon.com/dp/B0H3976X75"},
