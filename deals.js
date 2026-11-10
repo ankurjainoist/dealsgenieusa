@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Mattel Buzz Lightyear Toy Story Figures",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 10",l:"https://www.amazon.com/dp/B0FK1HHCTB"},
 {t:"Astercook 6-Piece Silicone Spatula Set, 560°F Heat Resistant Rubber Spatulas with Stainless Steel Core",c:"Home",e:"🏠",n:"Use code 4YSWBRE6",dt:"Nov 10",l:"https://www.amazon.com/dp/B0GXDJS3Q6"},
 {t:"Solar Spot Lights Outdoor 2 pk",c:"Home",e:"🏠",n:"40% off with code CYMJJKZJ",dt:"Nov 10",l:"https://www.amazon.com/dp/B0FBWZWG4C"},
 {t:"Hot Bee Unicorn Trains",c:"Home",e:"🏠",n:"Use code BMBYR6H3",dt:"Nov 10",l:"https://www.amazon.com/dp/B0H7G73QMC"},
