@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"294 PCS Christmas Party Favors for Kids",c:"Kids",e:"🎄",n:"Use code 4QUBX8KH",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HGFP734Z"},
 {t:"Soyee 52PCS Magnetic Tiles Toys",c:"Toys",e:"🧸",n:"Use code EG8IMZ6A",dt:"Nov 10",l:"https://www.amazon.com/dp/B08Q3L7PQT"},
 {t:"9.86ft 2-IN-1 Slot Car Track Sets Toy with 4 Cars",c:"Auto",e:"🚗",n:"Use code BX8PRFMO",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HGN2C78Y"},
 {t:"Cottonelle Fresh Feel Flushable Wipes",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 10",l:"https://www.amazon.com/dp/B07ND3WR64"},
