@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"9.86ft 2-IN-1 Slot Car Track Sets Toy with 4 Cars",c:"Auto",e:"🚗",n:"Use code BX8PRFMO",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HGN2C78Y"},
 {t:"Cottonelle Fresh Feel Flushable Wipes",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 10",l:"https://www.amazon.com/dp/B07ND3WR64"},
 {t:"Led Face Mask Light Therapy",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HB96377T"},
 {t:"Bruntmor Enameled Cast Iron Skillet - 12 Inch Deep Cast Iron Skillet with Lid for Sautéing, Frying, Baking -",c:"Home",e:"🏠",dt:"Nov 9",l:"https://www.amazon.com/dp/B07L46LD7X"},
