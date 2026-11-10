@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Jif Peanut Butter & Chocolate, 15 Ounce (Pack of 12), Less Sugar, Thick & Creamy Texture",c:"Grocery",e:"🛒",n:"Clip the coupon",dt:"Nov 10",l:"https://www.amazon.com/dp/B0CXQWFPQQ"},
 {t:"Will sell out",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B07B4M3BPZ"},
 {t:"18inch Heavy-Duty Push Broom 70 in Handle Stiff Bristles",c:"Home",e:"🏠",n:"Use code 22HX9XD9",dt:"Nov 10",l:"https://www.amazon.com/dp/B0GSFGR2SD"},
 {t:"Space Heater, 1500W Electric Heaters Indoor",c:"Home",e:"🏠",n:"Use code RY89L1P6",dt:"Nov 10",l:"https://www.amazon.com/dp/B0895QVCYC"},
