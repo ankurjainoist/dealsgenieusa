@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lyeasw Solar Elephant Statues with Lantern",c:"Home",e:"🏠",n:"50% off with code Z0XH5WL4",dt:"Nov 10",l:"https://www.amazon.com/dp/B0FLXNFJN7"},
 {t:"Richard Scarry’s What Do People Do All Day? (Richard Scarry’s Busy World)",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/0553520598"},
 {t:"500+ Words Talking Sound Book",c:"Home",e:"🏠",n:"50% off with code MHRNEWFU",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HDHNJ4PV"},
 {t:"Mens Classic Brogue Oxfords, Lace-Up Formal Dress Shoes for Business",c:"Fashion",e:"👗",dt:"Nov 10",l:"https://www.amazon.com/dp/B0BYNJ75C9"},
