@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"24 Pack Glass Spice Jars : 492 Lables & Lids",c:"Home",e:"🏠",n:"Use code FFMVYXG8",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HDQ4XH5W"},
 {t:"Black Round Shag Rugs",c:"Home",e:"🏠",n:"50% off with code 2N9OQE8J",dt:"Nov 10",l:"https://www.amazon.com/dp/B0DSKCWVT3"},
 {t:"3 Pack Sweatpants for Men with Zipper Pockets",c:"Home",e:"🏠",n:"Use code 7AWRF97S",dt:"Nov 10",l:"https://www.amazon.com/dp/B0DFH3R1G6"},
 {t:"Magnetic Phone Tripod 53 in Portable Selfie Stick",c:"Home",e:"🏠",n:"Use code I62ERLT6",dt:"Nov 10",l:"https://www.amazon.com/dp/B0G4MHWHTV"},
