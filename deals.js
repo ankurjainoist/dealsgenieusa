@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"2PC Christmas Stocking Holders for Mantle Glitter Green Xmas Tree Gold Stocking Holder for Fireplace Home",c:"Home",e:"🎄",dt:"Nov 10",l:"https://www.amazon.com/dp/B0CGVBYPKC"},
 {t:"Heavy Duty Garden Trellises",c:"Home",e:"🏠",n:"Use code RC96H8KJ",dt:"Nov 10",l:"https://www.amazon.com/dp/B0G4172J7L"},
 {t:"Aiicrgb Smart Outdoor Light Strips",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HJTZTS7M"},
 {t:"Christmas Cluster Lights 40 FT 800 LED Firecracker String Lights Warm White",c:"Home",e:"🎄",n:"Use code 5BCWX6ZI",dt:"Nov 10",l:"https://www.amazon.com/dp/B0GZSTR3HQ"},
