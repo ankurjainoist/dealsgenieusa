@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Matte Black Taper Candle Holder Set of 6, Tall Candlestick Holders",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B0BL7939SQ"},
 {t:"POPUX P11 Pro Android Tablets (Purple)",c:"Home",e:"🏠",n:"Clip the 46% coupon",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HJC9MVF8"},
 {t:"Pokémon Pikachu Puppetronic by RealFX",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B0G2296B3J"},
 {t:"2PC Christmas Stocking Holders for Mantle Glitter Green Xmas Tree Gold Stocking Holder for Fireplace Home",c:"Home",e:"🎄",dt:"Nov 10",l:"https://www.amazon.com/dp/B0CGVBYPKC"},
