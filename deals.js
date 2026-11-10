@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bruntmor Enameled Cast Iron Skillet - 12 Inch Deep Cast Iron Skillet with Lid for Sautéing, Frying, Baking -",c:"Home",e:"🏠",dt:"Nov 9",l:"https://www.amazon.com/dp/B07L46LD7X"},
 {t:"Philips Solar Security 196 LED Floodlight - Outdoor, Wall-Mounted - 4 Pack",c:"Home",e:"🏠",dt:"Nov 9",l:"https://www.amazon.com/dp/B0FY64ZGQZ"},
 {t:"In stock",c:"Home",e:"🏠",dt:"Nov 9",l:"https://www.amazon.com/dp/B0GV18WJTQ"},
 {t:"Solar Bug Zappers",c:"Home",e:"🏠",n:"50% off with code 94499GA5",dt:"Nov 9",l:"https://www.amazon.com/dp/B0G2VVGKBH"},
