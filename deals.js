@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"FEW LEFT",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B0DYSZ5LLB"},
 {t:"Pomesea Elevated Cat Beds",c:"Pets",e:"🐾",n:"50% off with code 2RSVWCAA",dt:"Nov 10",l:"https://www.amazon.com/dp/B0DLN4LYQX"},
 {t:"Mens Dress Shoes Leather Cap Toe Lace-up Oxfords",c:"Fashion",e:"👗",dt:"Nov 10",l:"https://www.amazon.com/dp/B074T7MYK3"},
 {t:"Golf Rangefinder with Slope Switch, Pin-Lock Vibration & 7X Magnification, 1200 Yards Reliable Distance",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B0DZT95QBC"},
