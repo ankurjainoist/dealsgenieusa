@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LOVEVOOK Laptop Work Totes",c:"Electronics",e:"🔌",n:"Use code OLGAL9Y5",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HKHD5CXP"},
 {t:"Leewjed Fidget Toys for Kids",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HHN4285L"},
 {t:"Diflart Mirror Tile Trims (Gold)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HBB98M3M"},
 {t:"Rechargeable Electric Hand Warmers",c:"Home",e:"🏠",n:"Use code TEP3OTA6",dt:"Nov 10",l:"https://www.amazon.com/dp/B0FKTJHRCW"},
