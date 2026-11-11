@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"JDGJYDS Waterproof Rope Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0GXS9QD3X"},
 {t:"Queen Blanket for Bed & Couch Sofa Livingroom, 90 inx90 in",c:"Home",e:"🏠",n:"Use code MWORU6XO",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H256ZQ5Z"},
 {t:"The Honest Company Daytime Daytime Diapers, Barnyard Babies, Size 3, 62 Ct",c:"Baby",e:"👶",dt:"Nov 11",l:"https://www.amazon.com/dp/B0CKV1H66K"},
 {t:"3D Memory Foam Car Seat Cushions",c:"Auto",e:"🚗",n:"50% off with code SWMH47SB",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H75PSQXV"},
