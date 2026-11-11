@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Vacuum Sealer Machines",c:"Home",e:"🏠",n:"Use code KMX6JS76",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HPJWBVFC"},
 {t:"Electric Train Sets with Glow-in-Dark Tracks",c:"Home",e:"🏠",n:"40% off with code F3N1DKX2",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H5WCLZNK"},
 {t:"Amazon Beautyvent Calendar, Exclusive 25 Days of Beauty 2026, 19 Full-Size and 6 Mini-Size Favorites",c:"Home",e:"🏠",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H8GKFBCW"},
 {t:"Stuffed Animal Storage, Wood Stuffed Animal Zoo Storage, Space Save Toy Organizer, Large Capacity Stuffed",c:"Toys",e:"🧸",dt:"Nov 11",l:"https://www.amazon.com/dp/B0G7JFH31D"},
