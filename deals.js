@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"3D Memory Foam Car Seat Cushions",c:"Auto",e:"🚗",n:"50% off with code SWMH47SB",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H75PSQXV"},
 {t:"Slime Mart Disney Shopping Bag Stitch Cupcake by ZURU",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0GCHCNVS3"},
 {t:"VTech Little CEO Learning Desk Toddler Activity Center",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0GN95NWWS"},
 {t:"Slime Mart Disney Shopping Bag Mickey MoUse Macarons by ZURU",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0GCFWNRDX"},
