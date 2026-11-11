@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Gift Bags with Handles",c:"Home",e:"🎄",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H6WVMXWD"},
 {t:"Broom Holders and Mop Hangers",c:"Home",e:"🏠",n:"Use code AG07GML2",dt:"Nov 11",l:"https://www.amazon.com/dp/B09P3N4C57"},
 {t:"YANGTE Christmas Gift Bags",c:"Home",e:"🎄",n:"Use code I3ZRZP13",dt:"Nov 11",l:"https://www.amazon.com/dp/B0FDKWX8VP"},
 {t:"ASSRECT Exploding Gift Boxes",c:"Home",e:"🏠",n:"Use code VGN82EZ9",dt:"Nov 11",l:"https://www.amazon.com/dp/B0FMKBD8NN"},
