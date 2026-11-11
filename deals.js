@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Flexible Race Track Sets",c:"Home",e:"🏠",n:"40% off with code RZCETOYSSS",dt:"Nov 11",l:"https://www.amazon.com/dp/B0FH689PMP"},
 {t:"Boat Trash Cans with Bags",c:"Home",e:"🏠",n:"Use code RIOMV5Q7",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H98RTXJS"},
 {t:"JDGJYDS Waterproof Rope Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0GXS9QD3X"},
 {t:"Queen Blanket for Bed & Couch Sofa Livingroom, 90 inx90 in",c:"Home",e:"🏠",n:"Use code MWORU6XO",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H256ZQ5Z"},
