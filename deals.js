@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Smart Ring Health Trackers",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HM39599Z"},
 {t:"Caged Ceiling Fans with Dimmable Light",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0F9VHR561"},
 {t:"Flexible Race Track Sets",c:"Home",e:"🏠",n:"40% off with code RZCETOYSSS",dt:"Nov 11",l:"https://www.amazon.com/dp/B0FH689PMP"},
 {t:"Boat Trash Cans with Bags",c:"Home",e:"🏠",n:"Use code RIOMV5Q7",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H98RTXJS"},
