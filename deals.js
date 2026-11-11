@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Kenneth Cole Luggage Sets",c:"Home",e:"🏠",dt:"Nov 11",l:"https://www.amazon.com/dp/B09NJPYY4M"},
 {t:"Thanksgiving Party Favor Sets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0GYR3G9LT"},
 {t:"Stroller Organizers with Cup Holders",c:"Home",e:"🏠",n:"Use code CV2DZPCF",dt:"Nov 11",l:"https://www.amazon.com/dp/B0FDJZ5VMZ"},
 {t:"Magnetic Selfie Monitor Screens",c:"Electronics",e:"🔌",n:"Use code EONK8ZKE",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H9KYDYQ4"},
