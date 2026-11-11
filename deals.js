@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Rkwins Lightweight Puffer Jackets",c:"Home",e:"🏠",n:"50% off with code C0ECFMJM",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HPT1B9CB"},
 {t:"Ribbon Squishy Toys",c:"Toys",e:"🧸",n:"Use code 1QWZ9D2U",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HFVWX117"},
 {t:"Pore Vacuum Blackhead Removers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HM3CX7R8"},
 {t:"Christmas Wreaths with Bow Lights",c:"Home",e:"🎄",n:"Use code SONOZER",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HHD22WD4"},
