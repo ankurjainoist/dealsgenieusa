@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fisher-Price Toy Story Garbage Trucks",c:"Auto",e:"🚗",dt:"Nov 11",l:"https://www.amazon.com/dp/B0FBWRDGM8"},
 {t:"Ninja Nutri Blenders with To-Go Cups",c:"Kitchen",e:"🍳",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HFTD6CWD"},
 {t:"Sleep Zone Twin Sheet Sets",c:"Home",e:"🏠",n:"Use code GB105RMC",dt:"Nov 11",l:"https://www.amazon.com/dp/B0C8HGWSJT"},
 {t:"Kenneth Cole Luggage Sets",c:"Home",e:"🏠",dt:"Nov 11",l:"https://www.amazon.com/dp/B09NJPYY4M"},
