@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Motion Sensor LED Night Lights",c:"Home",e:"🏠",n:"Use code OELH94IN",dt:"Nov 10",l:"https://www.amazon.com/dp/B0FT354P9D"},
 {t:"KOOPER Solar Christmas Lights",c:"Home",e:"🎄",n:"Clip the coupon",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HBQTQCZR"},
 {t:"Blackout Curtains (Grey)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 10",l:"https://www.amazon.com/dp/B0CT5C7P7F"},
 {t:"Trovease 15-Color Travel Watercolor Sets",c:"Home",e:"🏠",n:"40% off with code Y1CZZT78",dt:"Nov 10",l:"https://www.amazon.com/dp/B0GGH5W12C"},
