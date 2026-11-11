@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Nanobebe Flexy Silicone Baby Bottles – Anti-Colic, Natural Feel, Non-Collapsing Nipple, Non-Tip Stable Base",c:"Baby",e:"👶",dt:"Nov 10",l:"https://www.amazon.com/dp/B0BCC5WV5F"},
 {t:"Rattan Nightstands with Marble Top",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HHYVZPP6"},
 {t:"DeLonghi Magnifica Duo Automatic Espresso Machine, Milk Frother, Silver",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B0H31SYSWZ"},
 {t:"Fishingvent Calendar",c:"Home",e:"🏠",n:"50% off with code 97SOTMRQ",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HNHB79H5"},
