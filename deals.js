@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fishingvent Calendar",c:"Home",e:"🏠",n:"50% off with code 97SOTMRQ",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HNHB79H5"},
 {t:"Add 4 + Subscribe",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 10",l:"https://www.amazon.com/dp/B0B9YVG4LR"},
 {t:"WISELIFE Faux Fur Christmas Tree Skirts",c:"Home",e:"🎄",n:"Use code VJSVGWQ1",dt:"Nov 10",l:"https://www.amazon.com/dp/B0H1J3ZPGF"},
 {t:"Magnetic Selfie Monitor Screen",c:"Electronics",e:"🔌",n:"Use code 0EIFQR0O",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HKVXKKXY"},
