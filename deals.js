@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Sandy Coleman-Donnette SHOP ALL PRODUCTS HERE:",c:"Home",e:"🏠",dt:"Nov 11",l:"https://www.amazon.com/dp/B094NVV9R2"},
 {t:"TV Stand with Mount for 75 Inch TV, w/LED & Outlets, 59 Black",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0G13YHP7Y"},
 {t:"BALDR Indoor Thermometer Humidity Meters",c:"Home",e:"🏠",n:"Use code X04JLWW7",dt:"Nov 11",l:"https://www.amazon.com/dp/B0GVN1NSTY"},
 {t:"Equipment Storage Racks",c:"Home",e:"🏠",n:"Use code QD2P0251",dt:"Nov 11",l:"https://www.amazon.com/dp/B0DFH1T97X"},
