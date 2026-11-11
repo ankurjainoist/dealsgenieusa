@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Stuffed Animal Storage, Wood Stuffed Animal Zoo Storage, Space Save Toy Organizer, Large Capacity Stuffed",c:"Toys",e:"🧸",dt:"Nov 11",l:"https://www.amazon.com/dp/B0G7JFH31D"},
 {t:"Plant Protectors for Animals",c:"Home",e:"🏠",n:"Use code HS7Y1UAF",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H7NGJ67F"},
 {t:"Sandy Coleman-Donnette SHOP ALL PRODUCTS HERE:",c:"Home",e:"🏠",dt:"Nov 11",l:"https://www.amazon.com/dp/B094NVV9R2"},
 {t:"TV Stand with Mount for 75 Inch TV, w/LED & Outlets, 59 Black",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B0G13YHP7Y"},
