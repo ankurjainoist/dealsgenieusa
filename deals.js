@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Magnetic Selfie Monitor Screen",c:"Electronics",e:"🔌",n:"Use code 0EIFQR0O",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HKVXKKXY"},
 {t:"Grilling Gifts for Family: 5-in-1 Outdoor BBQ Food Prep Tray & Carry System, Meat Marinating Container with",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B0GT8M6NYF"},
 {t:"Matte Black Taper Candle Holder Set of 6, Tall Candlestick Holders",c:"Home",e:"🏠",dt:"Nov 10",l:"https://www.amazon.com/dp/B0BL7939SQ"},
 {t:"POPUX P11 Pro Android Tablets (Purple)",c:"Home",e:"🏠",n:"Clip the 46% coupon",dt:"Nov 10",l:"https://www.amazon.com/dp/B0HJC9MVF8"},
