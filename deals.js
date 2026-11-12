@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Yunsheng Solar Motion Lights",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 12",l:"https://www.amazon.com/dp/B0GY7MC6T8"},
 {t:"Ephaclad Silicone Kitchen Utensil Sets",c:"Kitchen",e:"🍳",n:"Use code IETJ7YMN",dt:"Nov 12",l:"https://www.amazon.com/dp/B0GTXGDNJT"},
 {t:"Gold Glitter Mesh Ribbons",c:"Home",e:"🏠",n:"50% off with code KSE4WQ8O",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HNZXRXT3"},
 {t:"FLORASIS Phoenix Makeup Palettes",c:"Beauty",e:"💄",n:"40% off with code 6PIRIUUT",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HHQW9G7K"},
