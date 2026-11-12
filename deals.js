@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"POPUX P11Pro 11 Inch Tablets",c:"Home",e:"🏠",n:"Clip the 48% coupon",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HJC5LMYD"},
 {t:"Balance Beam Stepping Stones",c:"Home",e:"🏠",n:"40% off with code OBZO0E7D",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HHD9JH65"},
 {t:"Check for coupon",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0D5TTKNZD"},
 {t:"LEGO Star Wars: The Phantom Menace Battle Droid with STAP 75428",c:"Toys",e:"🧸",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DRW6VY43"},
