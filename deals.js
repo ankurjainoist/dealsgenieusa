@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Handheld Steam Cleaner SET",c:"Home",e:"🏠",n:"40% off with code WWR4PDML",dt:"Nov 12",l:"https://www.amazon.com/dp/B0H6M8FRMQ"},
 {t:"Pickup Truck Table Decor",c:"Auto",e:"🚗",n:"40% off with code R61WOVU7",dt:"Nov 12",l:"https://www.amazon.com/dp/B0H5SQNPC4"},
 {t:"OTC Hearing Aids for Seniors",c:"Home",e:"🏠",n:"67% off with code QW7DUUCJ",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HG2271QH"},
 {t:"Obsession (2026) - Collector’s Edition 4K Ultra HD + Blu-ray + Digital",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0GXMWGLWN"},
