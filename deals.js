@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Obsession (2026) - Collector’s Edition 4K Ultra HD + Blu-ray + Digital",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0GXMWGLWN"},
 {t:"Suction Cup Hooks for Shower, Heavy Duty Vacuum Suction Hooks for Bathroom, Removable Towel Hooks for Glass",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0H6XZGS31"},
 {t:"Utopia Bedding Heavy Duty Bed Risers, 3, 5, 8 Inch, Pack of 4, White",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B073WF65GH"},
 {t:"Sleeveless Laundry Apron Comfortable Big Pocket Large Capacity - Waterproof",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DFC78SQL"},
