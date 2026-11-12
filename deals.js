@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"FLORASIS Phoenix Makeup Palettes",c:"Beauty",e:"💄",n:"40% off with code 6PIRIUUT",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HHQW9G7K"},
 {t:"Christmas Tree Cookie Stamps",c:"Home",e:"🎄",n:"Use code AUK5G5CZ",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HNW7TCD7"},
 {t:"WISELIFE Green Christmas Garlands",c:"Home",e:"🎄",n:"Clip the coupon",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HCV3ZN4L"},
 {t:"GUND Cinnamoroll Plush Toys",c:"Toys",e:"🧸",dt:"Nov 12",l:"https://www.amazon.com/dp/B0FKVBWNY6"},
