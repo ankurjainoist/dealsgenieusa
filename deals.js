@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Rechargeable LED Drawing Boards",c:"Home",e:"🏠",n:"40% off with code 3DRX017J",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HBQ32YY5"},
 {t:"Barbie Doll & Pets Set featuring Mommy Dog and Puppies",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B09BW3CP9V"},
 {t:"Vibration Plates for Lymphatic Drainage",c:"Home",e:"🏠",dt:"Nov 11",l:"https://www.amazon.com/dp/B0F87KVXWK"},
 {t:"Pcs 3d Printed Animalsvent Calendar with Capsule Vending Machine",c:"Home",e:"🏠",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H6PGB66M"},
