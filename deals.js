@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Kook Ceramic Gravy Boat, Spill-Free, 14 oz, White",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0D7J5WVP8"},
 {t:"Ford F150 Seat Switch Bezels",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DG5S4PMB"},
 {t:"Melamine Soup Spoons Sets",c:"Home",e:"🏠",n:"Use code 94MFN1N3",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HNK81K4H"},
 {t:"American Mahjong Set, Purple Tiles 15 Different Hand Carved Patterns",c:"Home",e:"🏠",n:"40% off with code TX6XMCJM",dt:"Nov 12",l:"https://www.amazon.com/dp/B0H6ZP4LD9"},
