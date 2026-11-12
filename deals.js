@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LEGO Star Wars: The Phantom Menace Battle Droid with STAP 75428",c:"Toys",e:"🧸",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DRW6VY43"},
 {t:"YAMAHA HPH-MT5 Monitor Headphones, Black",c:"Electronics",e:"🔌",dt:"Nov 12",l:"https://www.amazon.com/dp/B01N4P1Q1Z"},
 {t:"Fisher-Price Little People Load and Roll Hauler Playset",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 12",l:"https://www.amazon.com/dp/B0G27H3QLN"},
 {t:"Yunsheng Solar Motion Lights",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 12",l:"https://www.amazon.com/dp/B0GY7MC6T8"},
