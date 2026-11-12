@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Balance Beam Stepping Stones",c:"Home",e:"🏠",n:"40% off with code OBZO0E7D",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HHD9JH65"},
 {t:"Check for coupon",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0D5TTKNZD"},
 {t:"LEGO Star Wars: The Phantom Menace Battle Droid with STAP 75428",c:"Toys",e:"🧸",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DRW6VY43"},
 {t:"YAMAHA HPH-MT5 Monitor Headphones, Black",c:"Electronics",e:"🔌",dt:"Nov 12",l:"https://www.amazon.com/dp/B01N4P1Q1Z"},
