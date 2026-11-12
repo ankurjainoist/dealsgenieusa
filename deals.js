@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"24-Day Christmasvent Calendar with 24 Unique Accessories, Jewelry, Hair Accessories, Stickers, Keychains and",c:"Beauty",e:"🎄",n:"50% off with code UQ339MIH",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HJ22RFNN"},
 {t:"10ft Inflatable Gymnastics Mat",c:"Home",e:"🏠",n:"65% off with code BGOEDWOE",dt:"Nov 12",l:"https://www.amazon.com/dp/B0H9761J1W"},
 {t:"Handheld Steam Cleaner SET",c:"Home",e:"🏠",n:"40% off with code WWR4PDML",dt:"Nov 12",l:"https://www.amazon.com/dp/B0H6M8FRMQ"},
 {t:"Pickup Truck Table Decor",c:"Auto",e:"🚗",n:"40% off with code R61WOVU7",dt:"Nov 12",l:"https://www.amazon.com/dp/B0H5SQNPC4"},
