@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"3 Pcs Wicker Storage Baskets for Shelves",c:"Home",e:"🏠",n:"50% off with code V9OXBSCW",dt:"Nov 12",l:"https://www.amazon.com/dp/B0GV97V8C5"},
 {t:"Kook Ceramic Gravy Boat, Spill-Free, 14 oz, White",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0D7J5WVP8"},
 {t:"Ford F150 Seat Switch Bezels",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DG5S4PMB"},
 {t:"Melamine Soup Spoons Sets",c:"Home",e:"🏠",n:"Use code 94MFN1N3",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HNK81K4H"},
