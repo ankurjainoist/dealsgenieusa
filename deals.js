@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Kids Bookshelves with Storage",c:"Kids",e:"🎨",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H6FXLZGJ"},
 {t:"WideCube Purple Extension Cords",c:"Electronics",e:"🔌",n:"Use code F2PM54G8",dt:"Nov 11",l:"https://www.amazon.com/dp/B0G2BW25DB"},
 {t:"Collapsible Shopping Carts with Wheels",c:"Home",e:"🏠",n:"Use code PVJL656N",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H69HS5R5"},
 {t:"Aztioca Cordless Scalp Massagers",c:"Health",e:"💊",n:"Use code PRBGFE2S",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HJ5QDKG8"},
