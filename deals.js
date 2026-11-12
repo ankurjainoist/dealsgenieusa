@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Aztioca Cordless Scalp Massagers",c:"Health",e:"💊",n:"Use code PRBGFE2S",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HJ5QDKG8"},
 {t:"Gleeglee Instant Print Kids Cameras",c:"Electronics",e:"🔌",n:"Use code CJDHI357",dt:"Nov 11",l:"https://www.amazon.com/dp/B0FQC85T41"},
 {t:"Rechargeable LED Drawing Boards",c:"Home",e:"🏠",n:"40% off with code 3DRX017J",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HBQ32YY5"},
 {t:"Barbie Doll & Pets Set featuring Mommy Dog and Puppies",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 11",l:"https://www.amazon.com/dp/B09BW3CP9V"},
