@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MissHeel Knee High Strappy Heels Gladiator Sandals with Turquoise Stones",c:"Fashion",e:"👗",dt:"Nov 12",l:"https://www.amazon.com/dp/B0FLXSDY8P"},
 {t:"Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Summer Sweetness",c:"Kitchen",e:"🍳",dt:"Nov 12",l:"https://www.amazon.com/dp/B0FJZYF2YK"},
 {t:"Amazon business accounts",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0F4KCQF7F"},
 {t:"Hexagon LED Garage Light, Super Bright 48W 6500K Daylight White LED Car Garage Light, 5 Hexagonal Grids for",c:"Auto",e:"🚗",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DGXMJQFT"},
