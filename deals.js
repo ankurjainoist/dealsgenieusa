@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"GUND Cinnamoroll Plush Toys",c:"Toys",e:"🧸",dt:"Nov 12",l:"https://www.amazon.com/dp/B0FKVBWNY6"},
 {t:"Grownsy Portable Bottle Warmers",c:"Kitchen",e:"🍳",n:"Use code CH75LNU6",dt:"Nov 11",l:"https://www.amazon.com/dp/B0H99MH5CP"},
 {t:"Mini Drones for Kids",c:"Kids",e:"🎨",n:"Use code MFN9303A",dt:"Nov 11",l:"https://www.amazon.com/dp/B0HGYDMHYY"},
 {t:"Marc Jacobs Daisy Dream Perfumes",c:"Beauty",e:"💄",dt:"Nov 11",l:"https://www.amazon.com/dp/B00MRR0YJQ"},
