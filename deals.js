@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"ECOHERO 15.6 Inch Laptops",c:"Electronics",e:"🔌",n:"Use code KBMSXAEP",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HDNVLQVF"},
 {t:"Cordless Hot Glue Guns",c:"Home",e:"🏠",n:"Use code HY4O0KYK",dt:"Nov 12",l:"https://www.amazon.com/dp/B0C2YC57FJ"},
 {t:"Emergency Roadside Car Safety Kits",c:"Auto",e:"🚗",n:"Use code PG1P6QVV",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DPFW54MS"},
 {t:"Cushioned Anti-Fatigue Kitchen Mats",c:"Kitchen",e:"🍳",n:"Use code Y8NBZV97",dt:"Nov 12",l:"https://www.amazon.com/dp/B0D222W978"},
