@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Goose Outfit Sets",c:"Home",e:"🎄",n:"Use code MWHO7FG7",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HDL6R43X"},
 {t:"4 Gallon Collapsible Bucket with Handle,Waterproof- Car Wash Bucket Foldable Water Storage Container for",c:"Auto",e:"🚗",dt:"Nov 13",l:"https://www.amazon.com/dp/B0G4VYZB83"},
 {t:"Pre-Lit Artificial Christmas Trees",c:"Home",e:"🎄",n:"Use code PTYDQYS5",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HQ37H5G9"},
 {t:"Silicone Bottle Cleaning Brushes",c:"Kitchen",e:"🍳",n:"Use code WA9JZ1P2",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HGFHZNYX"},
