@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Gold Star Sparkly Costume Dresses",c:"Fashion",e:"👗",n:"Use code 9SVHY6XU",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HR6156V5"},
 {t:"RRUHHK 5000mAh Power Banks",c:"Home",e:"🏠",n:"42% off with code LFPKMRV7",dt:"Nov 13",l:"https://www.amazon.com/dp/B0FKGMQFSD"},
 {t:"KidKraft Llama Pinata Building Bricks Table",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0CPK6N88B"},
 {t:"Open Ear Wireless Earbuds (Black)",c:"Electronics",e:"🔌",n:"Coupon: 40% off",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HN7YQGSN"},
