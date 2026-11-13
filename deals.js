@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Emergency Roadside Car Safety Kits",c:"Auto",e:"🚗",n:"Use code PG1P6QVV",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DPFW54MS"},
 {t:"Cushioned Anti-Fatigue Kitchen Mats",c:"Kitchen",e:"🍳",n:"Use code Y8NBZV97",dt:"Nov 12",l:"https://www.amazon.com/dp/B0D222W978"},
 {t:"Great Northern Popcorn Air Popper Popcorn Maker, 6-Cup Capacity, White",c:"Grocery",e:"🛒",dt:"Nov 12",l:"https://www.amazon.com/dp/B0BDSM6ZGG"},
 {t:"Portable Water Flossers",c:"Home",e:"🏠",n:"Use code 1CXLNY76",dt:"Nov 12",l:"https://www.amazon.com/dp/B07T7M2VT2"},
