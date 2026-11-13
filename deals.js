@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"itcLUME Rechargeable Motion Sensor Ceiling Lights",c:"Home",e:"🏠",n:"Use code BV7YLMW1",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HFVQJKXN"},
 {t:"Yoving Anti-Scratch Furniture Protectors",c:"Home",e:"🏠",n:"46% off with code JDSQV635",dt:"Nov 13",l:"https://www.amazon.com/dp/B0H8DF1QQG"},
 {t:"Kivora Color Changing Lipsticks",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HMQJ3MXS"},
 {t:"Gold Star Sparkly Costume Dresses",c:"Fashion",e:"👗",n:"Use code 9SVHY6XU",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HR6156V5"},
