@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bean Bag Chair Couches (Beige)",c:"Home",e:"🏠",n:"Use code PEK83DQC",dt:"Nov 12",l:"https://www.amazon.com/dp/B0G4CQCV3Y"},
 {t:"Roku Streaming Sticks HD",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DXXYS4BJ"},
 {t:"Candle Warmer Lamps with Timer",c:"Home",e:"🏠",n:"Use code U23YG23B",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HF5RPKBD"},
 {t:"ECOHERO 15.6 Inch Laptops",c:"Electronics",e:"🔌",n:"Use code KBMSXAEP",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HDNVLQVF"},
