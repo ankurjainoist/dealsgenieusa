@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"3 in 1 Neck Massage Pillow",c:"Home",e:"🏠",n:"61% off with code 4T8MV8XC",dt:"Nov 12",l:"https://www.amazon.com/dp/B0H9S9XCXK"},
 {t:"11 in 1 Electric Nut Milk Maker",c:"Home",e:"🏠",n:"Use code D147BWMC",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HPF1167X"},
 {t:"Heat & Cold Facial Massager, 3-Level Portable Metal Wand, White",c:"Health",e:"💊",n:"56% off with code 35SEFGYV",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HLDGZN8L"},
 {t:"24-Day Christmasvent Calendar with 24 Unique Accessories, Jewelry, Hair Accessories, Stickers, Keychains and",c:"Beauty",e:"🎄",n:"50% off with code UQ339MIH",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HJ22RFNN"},
