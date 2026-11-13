@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wearable Blanket Hoodie",c:"Fashion",e:"👗",n:"50% off with code SMBICGIO",dt:"Nov 12",l:"https://www.amazon.com/dp/B0D5GFHB2M"},
 {t:"3-Pcs Travel Makeup Bag Set",c:"Beauty",e:"💄",n:"42% off with code SGNSVG6D",dt:"Nov 12",l:"https://www.amazon.com/dp/B0F5Q4N43J"},
 {t:"Dangkiy Impact Socket Sets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 12",l:"https://www.amazon.com/dp/B0FHQ2W7ND"},
 {t:"Cordless Neck Massager with Heat",c:"Health",e:"💊",n:"30% off with code HHYARV5G",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HJ58LTTZ"},
