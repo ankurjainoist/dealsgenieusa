@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Smart Watches with GPS & ChatGPT",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HH8VP6KW"},
 {t:"45W Dual USB-C Charging Blocks",c:"Toys",e:"🧸",n:"Use code 97U12LRC",dt:"Nov 12",l:"https://www.amazon.com/dp/B0G5YDYYD7"},
 {t:"Bean Bag Chair Couches (Beige)",c:"Home",e:"🏠",n:"Use code PEK83DQC",dt:"Nov 12",l:"https://www.amazon.com/dp/B0G4CQCV3Y"},
 {t:"Roku Streaming Sticks HD",c:"Home",e:"🏠",dt:"Nov 12",l:"https://www.amazon.com/dp/B0DXXYS4BJ"},
