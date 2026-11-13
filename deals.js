@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"1ml Disposable Syringes (100 Pack)",c:"Home",e:"🏠",n:"40% off with code JTANMV0X",dt:"Nov 13",l:"https://www.amazon.com/dp/B0H5VLY5W9"},
 {t:"4 Pack Reusable Bread Bags for Baguette Bag, With Baking Paper",c:"Home",e:"🏠",n:"50% off with code XCPIP2TU",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GL1D1P9X"},
 {t:"Compression Packing Cubes, Travel Organizers",c:"Health",e:"💊",n:"35% off with code LGFJMXTV",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GVJ45HF6"},
 {t:"Faux Suede Knee High Boots for Women",c:"Fashion",e:"👗",n:"67% off with code VYLB9F7D",dt:"Nov 13",l:"https://www.amazon.com/dp/B0H4VBVF43"},
