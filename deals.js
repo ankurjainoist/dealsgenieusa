@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hand Massager with Heat and Compression for Pain Relief",c:"Health",e:"💊",n:"74% off with code 9H9UY2MT",dt:"Nov 13",l:"https://www.amazon.com/dp/B0FK4HRQLZ"},
 {t:"Susanou Candle & Soap Making Kits",c:"Home",e:"🏠",n:"50% off with code 1750Q70L",dt:"Nov 13",l:"https://www.amazon.com/dp/B0G91CZNPF"},
 {t:"KIZONLY 3D Rolling Ball Maze Cubes",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GZH2TRMC"},
 {t:"Shiatsu Neck and Back Massager",c:"Health",e:"💊",n:"50% off with code 1YAZ6F1L",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HD6YWRZQ"},
