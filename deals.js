@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LeapFrog Little Office Learning Centers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B07C5HZX1F"},
 {t:"Decorative Book Storage Box Set, Faux Linen",c:"Home",e:"🏠",n:"40% off with code OQDQ8H1B",dt:"Nov 13",l:"https://www.amazon.com/dp/B0F4D1JVBP"},
 {t:"Chancee Ergonomic Seat Cushions (Large Black)",c:"Home",e:"🏠",n:"Use code OAC9GTPO",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GCHH6RKC"},
 {t:"Shapewear Dress Long Sleeve Midi Dress Tummy Control Mock Neck, Thermal",c:"Fashion",e:"👗",n:"70% off with code HDD2YVI6",dt:"Nov 13",l:"https://www.amazon.com/dp/B0DFWJP8YT"},
