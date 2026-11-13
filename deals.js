@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wiwoo 32GB Kids MP3 Players",c:"Kids",e:"🎨",n:"Use code 21KOVU91",dt:"Nov 13",l:"https://www.amazon.com/dp/B0BF4YJKKG"},
 {t:"LED Trifold Makeup Mirrors with Lights",c:"Beauty",e:"💄",n:"50% off with code N861A3JR",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HD67NJ14"},
 {t:"itcLUME Rechargeable Motion Sensor Ceiling Lights",c:"Home",e:"🏠",n:"Use code BV7YLMW1",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HFVQJKXN"},
 {t:"Yoving Anti-Scratch Furniture Protectors",c:"Home",e:"🏠",n:"46% off with code JDSQV635",dt:"Nov 13",l:"https://www.amazon.com/dp/B0H8DF1QQG"},
