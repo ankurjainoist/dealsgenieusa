@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Rachael Ray Cucina Hard-Anodized Nonstick Frying Pan, 14-Inch",c:"Kitchen",e:"🍳",dt:"Nov 13",l:"https://www.amazon.com/dp/B00JYHMROW"},
 {t:"XP600 Printer Head Cables",c:"Electronics",e:"🔌",n:"Clip the 40% coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B0H8MJV2GJ"},
 {t:"Christmas Goose Outfit Sets",c:"Home",e:"🎄",n:"Use code MWHO7FG7",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HDL6R43X"},
 {t:"4 Gallon Collapsible Bucket with Handle,Waterproof- Car Wash Bucket Foldable Water Storage Container for",c:"Auto",e:"🚗",dt:"Nov 13",l:"https://www.amazon.com/dp/B0G4VYZB83"},
