@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Delta Children 4-Piece Toddler Playroom Set, Grey/White",c:"Baby",e:"👶",dt:"Nov 12",l:"https://www.amazon.com/dp/B0B48RKXVL"},
 {t:"Polar Animal Figure Sets",c:"Home",e:"🏠",n:"Use code 1KTO5N0Z",dt:"Nov 12",l:"https://www.amazon.com/dp/B0B5Z4XR7D"},
 {t:"Wearable Heated Blanket",c:"Home",e:"🏠",n:"40% off with code KTC2WHZV",dt:"Nov 12",l:"https://www.amazon.com/dp/B0GD656D9Q"},
 {t:"Travel Vacuum Bags Set",c:"Kitchen",e:"🍳",n:"50% off with code U6SXJAGZ",dt:"Nov 12",l:"https://www.amazon.com/dp/B0HQ4D7WZF"},
