@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Compression Packing Cubes, Travel Organizers",c:"Health",e:"💊",n:"35% off with code LGFJMXTV",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GVJ45HF6"},
 {t:"Faux Suede Knee High Boots for Women",c:"Fashion",e:"👗",n:"67% off with code VYLB9F7D",dt:"Nov 13",l:"https://www.amazon.com/dp/B0H4VBVF43"},
 {t:"Slushie Machine: No Ice Needed Slushy Machine for Home, 72oz Capacity",c:"Home",e:"🏠",n:"50% off with code 4RPW5CVM",dt:"Nov 13",l:"https://www.amazon.com/dp/B0DT429T6D"},
 {t:"Rachael Ray Cucina Hard-Anodized Nonstick Frying Pan, 14-Inch",c:"Kitchen",e:"🍳",dt:"Nov 13",l:"https://www.amazon.com/dp/B00JYHMROW"},
