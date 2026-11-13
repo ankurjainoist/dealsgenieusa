@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Check for coupon",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/B08V57P86Z"},
 {t:"Cigar Humidors with Accessories",c:"Home",e:"🏠",n:"Use code 4269VW1U",dt:"Nov 13",l:"https://www.amazon.com/dp/B0DK5FRH4P"},
 {t:"AI Smart Glasses with Camera",c:"Electronics",e:"🔌",n:"Clip the 40% coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HPF1PDXW"},
 {t:"Wiwoo 32GB Kids MP3 Players",c:"Kids",e:"🎨",n:"Use code 21KOVU91",dt:"Nov 13",l:"https://www.amazon.com/dp/B0BF4YJKKG"},
