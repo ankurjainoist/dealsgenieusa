@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hair Crimper Tools Double Barrel",c:"Tools",e:"🔧",n:"50% off with code 2UIX0CZX",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GCGVH1X8"},
 {t:"Primal Hatch Megalodon Hatching Shark Egg Interactive Toy",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GHBKG64Q"},
 {t:"DEWALT Xtreme 12V MAX* Reciprocating Saw, One-Handed, Cordless, Tool Only (DCS312B)",c:"Tools",e:"🔧",dt:"Nov 13",l:"https://www.amazon.com/dp/B0847NP274"},
 {t:"COOK WITH COLOR Glass Olive Oil Bottle Dispenser - 2 Pack- 17oz Oil and Vinegar Cruet - Olive Oil Carafe",c:"Kitchen",e:"🍳",dt:"Nov 13",l:"https://www.amazon.com/dp/B0DQLD8L1X"},
