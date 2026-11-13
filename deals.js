@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pre-Lit Artificial Christmas Trees",c:"Home",e:"🎄",n:"Use code PTYDQYS5",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HQ37H5G9"},
 {t:"Silicone Bottle Cleaning Brushes",c:"Kitchen",e:"🍳",n:"Use code WA9JZ1P2",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HGFHZNYX"},
 {t:"Wildfleur HydrO18 Face Moisturizer, LH2.0 Triple Lipid Barrier Repair Cream",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GG7PMPY1"},
 {t:"Hair Crimper Tools Double Barrel",c:"Tools",e:"🔧",n:"50% off with code 2UIX0CZX",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GCGVH1X8"},
