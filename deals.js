@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"CS Cosddi Finger Skateboard Parks",c:"Home",e:"🏠",n:"Use code XMAPMK81",dt:"Nov 13",l:"https://www.amazon.com/dp/B0CG818BRY"},
 {t:"Astronaut Galaxy Projectors",c:"Electronics",e:"🔌",n:"Use code 8NLBPZ6S",dt:"Nov 13",l:"https://www.amazon.com/dp/B0D95CLB9W"},
 {t:"Stackable Wire Pantry Baskets",c:"Home",e:"🏠",n:"Use code KC329VB3",dt:"Nov 13",l:"https://www.amazon.com/dp/B0F1TQSTVR"},
 {t:"LeapFrog Little Office Learning Centers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B07C5HZX1F"},
