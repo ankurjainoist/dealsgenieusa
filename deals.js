@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PICNIC TIME America250 On The Go Lunch Bag Cooler",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GJ2Q4T5M"},
 {t:"Bitzee Hamster Ball Interactive Toy & Digital Pet, Ages 5+",c:"Pets",e:"🐾",dt:"Nov 13",l:"https://www.amazon.com/dp/B0DSCGXCT4"},
 {t:"Dartboard Wall Protectors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GTZQ8WT3"},
 {t:"Bstge LED Light Ball Orbs",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GYD84DX9"},
