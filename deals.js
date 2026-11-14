@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"60-in-1 Magnetic Screwdriver Sets",c:"Tools",e:"🔧",n:"50% off with code BIV2KYAD",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GZ2FSW2Z"},
 {t:"GHK-Cu Peptide Hair Shampoos",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GZNCDCVR"},
 {t:"Single Din Car Radios with Apple CarPlay",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HHRH5TGJ"},
 {t:"Hisense 50“ Hi-QLED S7 CanvasTV Series 4K UHD Smart Art Google TV (50S7SG, 2026 New) - Art Mode, Anti-Glare",c:"Electronics",e:"🔌",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GRGTZKHT"},
