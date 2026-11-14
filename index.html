@@ -11,7 +11,7 @@
 <meta property="og:image" content="https://dealsgenieusa.com/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="DealsGenie USA - daily Amazon US deals and guides"><meta property="og:locale" content="en_US"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://dealsgenieusa.com/og-image.png">
 <meta name="theme-color" content="#0d0a24">
 <meta name="p:domain_verify" content="6e770c326e6b5bd603c7e4ed9d864f05"/>
-<script>try{var d=document.documentElement;if(localStorage.getItem("bmx"))d.classList.add("nobm");var t=localStorage.getItem("th");if(t)d.setAttribute("data-theme",t)}catch(e){}</script>
+<script>try{var d=document.documentElement,_n=new Date();if(_n.getMonth()==10||/[?&]tg=1/.test(location.search))d.classList.add("tgv");if(localStorage.getItem("bmx"))d.classList.add("nobm");var t=localStorage.getItem("th");if(t)d.setAttribute("data-theme",t)}catch(e){}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebSite", "@id": "https://dealsgenieusa.com/#website", "url": "https://dealsgenieusa.com/", "name": "DealsGenie USA", "description": "Daily hand-picked Amazon US deals, coupon codes and money-saving guides.", "inLanguage": "en-US"}, {"@type": "Organization", "@id": "https://dealsgenieusa.com/#org", "name": "DealsGenie USA", "url": "https://dealsgenieusa.com/", "sameAs": ["https://www.facebook.com/profile.php?id=61574544237243"]}]}</script>
 <script defer src="/analytics.js"></script>
 <style>
@@ -88,6 +88,49 @@ footer{text-align:center;color:var(--muted);font-size:.75rem;padding:24px 0}
 .jb.fb{background:linear-gradient(135deg,#1877f2,#0c5fd6)}
 @keyframes jp{0%,100%{box-shadow:0 0 0 0 rgba(42,171,238,.5)}50%{box-shadow:0 0 0 10px rgba(42,171,238,0)}}
 @media(prefers-reduced-motion:reduce){.jb,.jb.tg{transition:none;animation:none}}
+
+/* ===== deal photos ===== */
+.em.has-img{padding:0;overflow:hidden;background:var(--border)}
+.em img{width:100%;height:100%;object-fit:cover;display:block}
+.main .em.has-img{width:112px;height:112px}
+.card .em.has-img{width:84px;height:84px}
+/* ===== join bar (top) ===== */
+.top-join{max-width:none;margin:2px 0 12px;padding:0}
+.top-join .join-box{display:flex;align-items:center;justify-content:space-between;gap:10px 18px;flex-wrap:wrap;padding:12px 16px;text-align:left;border-radius:16px}
+.top-join .jt{flex:1 1 220px;line-height:1.3}
+.top-join .jt b{font-size:1.05rem}
+.top-join .jt span{display:block;font-size:.8rem}
+.top-join .join-btns{margin:0;flex:1 1 340px}
+.top-join .jb{min-height:46px;flex:1 1 130px;font-size:.92rem}
+@media(max-width:520px){.top-join .jb small{display:none}.top-join .jt span{display:none}.top-join .join-box{padding:10px 12px}}
+/* ===== Thanksgiving (auto-on during November) ===== */
+.tgb{display:none}
+:root.tgv:not([data-theme="light"]){--bg:#1c0e07;--card:#2e1709;--text:#fff4e3;--muted:#dcb995;--gold:#ffb340;--pink:#ee6a1a;--border:#5b3216;--ong:#26120a}
+:root.tgv[data-theme="light"]{--bg:#fff3e0;--card:#fffaf2;--text:#3a1c0a;--muted:#8a5530;--gold:#c2410c;--pink:#b4531a;--border:#f0cfa5;--ong:#fff}
+.tgv body{background-image:radial-gradient(circle at 10% 0%,#ff8a2b2e,transparent 46%),radial-gradient(circle at 94% 6%,#b91c1c26,transparent 42%),radial-gradient(circle at 50% 100%,#f59e0b1a,transparent 50%)}
+.tgv .logo::after{content:" 🦃"}
+.tgv .tick{background:linear-gradient(90deg,#b45309,#ea580c,#f59e0b)}
+.tgv .jb.fb{background:linear-gradient(135deg,#1877f2,#0c5fd6)}
+.tgv .main{box-shadow:0 12px 44px #ff8a2b30}
+.tgv .card:hover{box-shadow:0 8px 26px #ff8a2b22}
+.tgv .lamp::after{content:"🍂";position:absolute;font-size:1.5rem;margin:30px 0 0 -6px;transform:rotate(-20deg)}
+.tgv .lamp{position:relative}
+.tgv .tgb{display:block;margin:0 0 14px;border-radius:20px;padding:20px 18px;text-align:center;color:#fff4e3;
+ background:linear-gradient(135deg,#7a2e0e 0%,#b4440f 48%,#e8890c 100%);border:1px solid #ffb34066;box-shadow:0 10px 36px #b4440f40;position:relative;overflow:hidden}
+.tgb::before,.tgb::after{content:"🍁";position:absolute;font-size:5.5rem;opacity:.16;line-height:1;pointer-events:none}
+.tgb::before{left:-6px;top:-14px;transform:rotate(-18deg)}
+.tgb::after{content:"🦃";right:-4px;bottom:-12px;transform:rotate(10deg)}
+.tgb h2{margin:0;font-size:clamp(1.35rem,3.6vw,2rem);font-family:Georgia,"Iowan Old Style","Palatino Linotype",serif;font-weight:700;letter-spacing:.2px;color:#fff4e3}
+.tgb p{margin:6px auto 0;max-width:560px;font-size:.92rem;opacity:.95}
+.tgd{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:14px;position:relative}
+.tgd span{background:#26120a66;border:1px solid #ffffff33;border-radius:99px;padding:7px 14px;font-weight:800;font-size:.85rem;backdrop-filter:blur(2px)}
+.tgd span b{color:#ffd27a}
+.tgq{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:12px;position:relative}
+.tgq button{border:0;border-radius:99px;padding:9px 16px;font-weight:800;font-size:.85rem;cursor:pointer;background:#fff4e3;color:#7a2e0e;min-height:40px}
+.tgq button:hover{background:#ffd27a}
+.leaf{position:fixed;top:-40px;z-index:5;pointer-events:none;user-select:none;animation:fall linear infinite;will-change:transform}
+@keyframes fall{0%{transform:translate3d(0,0,0) rotate(0)}100%{transform:translate3d(var(--dx,60px),calc(100vh + 80px),0) rotate(540deg)}}
+@media(prefers-reduced-motion:reduce){.leaf{display:none}}
 </style>
 </head>
 <body>
@@ -95,7 +138,22 @@ footer{text-align:center;color:var(--muted);font-size:.75rem;padding:24px 0}
 <div id="bm" class="bm"><span class="bm-d">⭐ Never miss a deal! Press <b id="bmk">Ctrl</b> + D to bookmark DealsGenie</span><span class="bm-m">⭐ Add DealsGenie to your Home screen: tap the menu (⋮ or Share) → Add to Home screen</span> <button id="bmx" aria-label="Close tip">✕</button></div>
 <div class="wrap" role="main">
 <div class="top" role="banner"><div class="logo">Deals<b>Genie</b> 🇺🇸</div><div style="display:flex;gap:8px"><button id="tg" class="streak" style="cursor:pointer" aria-label="theme">☀️</button><div class="streak" id="streak">🔥 Day 1 streak</div></div></div>
+<section class="join top-join" aria-label="Join DealsGenie">
+<div class="join-box">
+<div class="jt"><b>🧞 Join the Genie Club</b><span class="muted">Get deals the moment they drop, before they sell out.</span></div>
+<div class="join-btns">
+<a class="jb tg" href="https://t.me/dealsgenieusa" target="_blank" rel="noopener"><span>✈️</span><span>Join our Telegram<small>Instant deal alerts</small></span></a>
+<a class="jb fb" href="https://www.facebook.com/share/14x2Jcebrdu/" target="_blank" rel="noopener"><span>👍</span><span>Follow on Facebook<small>Daily picks and giveaways</small></span></a>
+</div>
+</div>
+</section>
 <div class="nav" role="navigation" aria-label="Main"><a id="tabD" class="cat on" href="#">🔥 Deals</a><a id="tabB" class="cat" href="#blog">📝 Blog</a><a class="cat" href="amazon-kitchen-finds.html">🍳 Kitchen Finds</a></div>
+<div id="tgb" class="tgb" aria-label="Thanksgiving deals">
+<h2>🦃 Happy Thanksgiving from the Genie</h2>
+<p>Harvest-season savings: kitchen helpers, cozy home picks and early gift ideas, posted fresh every day.</p>
+<div class="tgd" id="tgd"></div>
+<div class="tgq" id="tgq"></div>
+</div>
 <div id="dealsView">
 <div class="hero">
 <div class="lamp" id="lamp" role="button" tabindex="0" aria-label="Surprise me: grant a random wish">🧞</div>
@@ -146,16 +204,6 @@ footer{text-align:center;color:var(--muted);font-size:.75rem;padding:24px 0}
 <div class="acts"><a class="buy" target="_blank" rel="nofollow sponsored noopener" href="https://www.amazon.com/dp/B093KVHS75?tag=dealsgenie203-20" data-deal="ATTITUDE Liquid Laundry Detergent, Summer Berries, 40 Loads" data-cat="Home" data-pl="list">View on Amazon</a><button class="sh">Share</button></div></div><div class="card old"><span class="newb miss">MISSED</span><div class="row"><div class="em" aria-hidden="true">🎮</div><div style="flex:1"><div class="t" role="heading" aria-level="3">007 First Light Collector's Edition (PlayStation 5)</div><div class="muted" style="font-size:.75rem">Posted Nov 2. Offer may have ended.</div></div></div>
 <div class="acts"><a class="buy" target="_blank" rel="nofollow sponsored noopener" href="https://www.amazon.com/dp/B0G4XGHWQ3?tag=dealsgenie203-20" data-deal="007 First Light Collector's Edition (PlayStation 5)" data-cat="Games" data-pl="list">View on Amazon</a><button class="sh">Share</button></div></div><button class="cat" id="moreOlder" style="grid-column: 1 / -1; justify-self: center; margin: 8px 0px;">Show 30 more older deals (234 left)</button><!--/SSR-list--></div>
 </div>
-<section class="join" aria-label="Join DealsGenie">
-<div class="join-box">
-<h2>🧞 Join the Genie Club</h2>
-<p class="muted" style="margin:0">Get deals the moment they drop, before they sell out.</p>
-<div class="join-btns">
-<a class="jb tg" href="https://t.me/dealsgenieusa" target="_blank" rel="noopener"><span>✈️</span><span>Join our Telegram<small>Instant deal alerts</small></span></a>
-<a class="jb fb" href="https://www.facebook.com/share/14x2Jcebrdu/" target="_blank" rel="noopener"><span>👍</span><span>Follow on Facebook<small>Daily picks and giveaways</small></span></a>
-</div>
-</div>
-</section>
 <div id="blogView" style="display:none"></div>
 </div>
 <!--POSTS--><nav style="max-width:760px;margin:0 auto;padding:0 14px;font-size:.85rem;color:var(--muted);line-height:1.8"><b>Latest guides:</b> <a href="ai-shopping-assistants-how-to-use-them-smartly.html" style="color:var(--gold)">AI Shopping Assistants: How to Use Them Smartly</a> &nbsp;•&nbsp; <a href="ai-holiday-shopping-planner-ways-to-save-time.html" style="color:var(--gold)">5 Ways to Use AI to Plan Your Holiday Shopping</a> &nbsp;•&nbsp; <a href="can-you-trust-ai-product-recommendations.html" style="color:var(--gold)">Can You Trust AI Product Recommendations? A Quick Checklist</a> &nbsp;•&nbsp; <a href="last-minute-halloween-2026-ideas.html" style="color:var(--gold)">Last-Minute Halloween 2026 Ideas on a Budget</a> &nbsp;•&nbsp; <a href="missed-prime-big-deal-days-how-to-save.html" style="color:var(--gold)">Missed Prime Big Deal Days? How to Still Save Before Black Friday</a> &nbsp;•&nbsp; <a href="fall-hosting-game-day-essentials.html" style="color:var(--gold)">Fall Hosting &amp; Game Day Essentials on a Budget</a> &nbsp;•&nbsp; <a href="7-amazon-money-saving-tricks.html" style="color:var(--gold)">7 Amazon Money-Saving Tricks Most People Don&#x27;t Know</a> &nbsp;•&nbsp; <a href="early-black-friday-2026-shop-smart.html" style="color:var(--gold)">Early Black Friday 2026: A Simple Plan to Shop Smart</a> &nbsp;•&nbsp; <a href="cheap-gifts-under-30-that-look-expensive.html" style="color:var(--gold)">Budget-Friendly Gift Ideas That Look Expensive</a> &nbsp;•&nbsp; <a href="best-amazon-finds-under-25.html" style="color:var(--gold)">Best Amazon Finds on a Budget</a> &nbsp;•&nbsp; <a href="how-to-spot-a-fake-deal.html" style="color:var(--gold)">How to Spot a Fake Amazon Deal</a></nav><!--/POSTS-->
@@ -182,7 +230,11 @@ const p=v=>String(v).padStart(2,'0');$('h').textContent=p(Math.floor(x/3600));$(
 clock();setInterval(clock,1000);
 // ticker
 const A=D.filter(d=>!missed(d)).slice(0,10);
-$('tick').innerHTML=((A.length?A.map(d=>`🔥 ${d.t}${d.n?' - '+d.n:''}`):['🧞 New deals every day']).join(' &nbsp;•&nbsp; ')+' &nbsp;•&nbsp; ').repeat(2);
+const TGV=document.documentElement.classList.contains('tgv');
+$('tick').innerHTML=(((TGV?['🦃 Happy Thanksgiving from DealsGenie!']:[]).concat(A.length?A.map(d=>`🔥 ${d.t}${d.n?' - '+d.n:''}`):['🧞 New deals every day'])).join(' &nbsp;•&nbsp; ')+' &nbsp;•&nbsp; ').repeat(2);
+const imgOf=d=>{const u=String(d.img||d.image||d.photo||d.pic||'').trim();return u&&!/api\.telegram\.org/i.test(u)&&/^(https:\/\/|\/|[\w.\-\/]+\.(jpe?g|png|webp|gif)(\?.*)?$)/i.test(u)?u:''};
+function pic(el,d){const u=imgOf(d);if(!u||!el)return;const i=document.createElement('img'),e=el.textContent;i.alt=d.t||'';i.loading='lazy';i.decoding='async';i.referrerPolicy='no-referrer';
+i.onerror=()=>{el.classList.remove('has-img');el.textContent=e;el.setAttribute('aria-hidden','true')};i.src=u;el.textContent='';el.removeAttribute('aria-hidden');el.classList.add('has-img');el.appendChild(i)}
 function share(d){window.dgTrack&&window.dgTrack('share',{method:'whatsapp',item_id:d.t});const txt='🔥 '+d.t+(d.n&&!missed(d)?'\n'+d.n:'')+'\nSee the deal: https://dealsgenieusa.com/';
 open('https://wa.me/?text='+encodeURIComponent(txt),'_blank')}
 function votes(d){return +ls('v_'+d.t)||0}
@@ -190,7 +242,7 @@ function big(d,label){const nt=missed(d)?'':d.n;const w=document.createElement('
 w.innerHTML=`<span class="tag">${label}</span><div class="row" style="margin-top:10px"><div class="em" aria-hidden="true">${d.e}</div><div><div class="t" role="heading" aria-level="3"></div>${nt?`<div class="left" style="color:var(--gold);margin-top:6px">🎟️ <span class="nt"></span></div>`:''}<div class="muted" style="font-size:.78rem;margin-top:4px">${d.dt?'Posted '+d.dt+'. ':''}${missed(d)?'This offer may have ended. ':''}Check Amazon for the current price and offer.</div></div></div>
 <div class="acts"><a class="buy" target="_blank" rel="nofollow sponsored noopener">View on Amazon</a><button class="sh">Share on WhatsApp</button><button class="hot">👍 ${votes(d)}</button></div>
 <div class="muted" style="font-size:.72rem;margin-top:8px">As an Amazon Associate I earn from qualifying purchases.</div>`;
-w.querySelector('.t').textContent=d.t;if(nt)w.querySelector('.nt').textContent=nt;w.querySelector('.buy').href=lk(d.l);tag(w,d,'deal_of_the_day');
+w.querySelector('.t').textContent=d.t;pic(w.querySelector('.em'),d);if(nt)w.querySelector('.nt').textContent=nt;w.querySelector('.buy').href=lk(d.l);tag(w,d,'deal_of_the_day');
 w.querySelector('.sh').onclick=()=>share(d);
 w.querySelector('.hot').onclick=e=>{ls('v_'+d.t,votes(d)+1);e.target.textContent='👍 '+votes(d)};return w}
 // wish buttons
@@ -209,7 +261,7 @@ $('list').innerHTML=cat===MISS?'<p class="muted" style="grid-column:1/-1;margin:
 const card=d=>{const nt=missed(d)?'':d.n;const w=document.createElement('div');w.className='card'+(missed(d)?' old':'');
 w.innerHTML=`<div class="row"><div class="em" aria-hidden="true">${d.e}</div><div style="flex:1"><div class="t" role="heading" aria-level="3"></div>${nt?`<div class="left">🎟️ <span class="nt"></span></div>`:''}<div class="muted" style="font-size:.75rem">${d.dt?'Posted '+d.dt+'. ':''}${missed(d)?'Offer may have ended.':''}</div></div></div>
 <div class="acts"><a class="buy" target="_blank" rel="nofollow sponsored noopener">View on Amazon</a><button class="sh">Share</button></div>`;
-w.querySelector('.t').textContent=d.t;if(nt)w.querySelector('.nt').textContent=nt;w.querySelector('.buy').href=lk(d.l);tag(w,d,'list');w.querySelector('.sh').onclick=()=>share(d);if(missed(d))w.insertAdjacentHTML('afterbegin','<span class="newb miss">MISSED</span>');else if(d.dt&&d.dt===D[0].dt)w.insertAdjacentHTML('afterbegin','<span class="newb">NEW</span>');return w};
+w.querySelector('.t').textContent=d.t;pic(w.querySelector('.em'),d);if(nt)w.querySelector('.nt').textContent=nt;w.querySelector('.buy').href=lk(d.l);tag(w,d,'list');w.querySelector('.sh').onclick=()=>share(d);if(missed(d))w.insertAdjacentHTML('afterbegin','<span class="newb miss">MISSED</span>');else if(d.dt&&d.dt===D[0].dt)w.insertAdjacentHTML('afterbegin','<span class="newb">NEW</span>');return w};
 show.forEach(d=>$('list').appendChild(card(d)));
 const rec=act.length?old.filter(d=>age(d)<=7).slice(0,24):[];
 if(cat==='All'&&rec.length){$('list').insertAdjacentHTML('beforeend','<h2 style="grid-column:1/-1;font-size:1.1rem;margin:22px 0 0">⏰ Recently missed deals</h2><p class="muted" style="grid-column:1/-1;margin:0">These offers may have ended, so check the Amazon page for the current price and offer.</p>');rec.forEach(d=>$('list').appendChild(card(d)))}
@@ -464,7 +516,7 @@ const P=[
 }
 ];
 function route(){const h=location.hash.slice(1),isB=h.startsWith('blog'),bv=$('blogView');
-$('dealsView').style.display=isB?'none':'';bv.style.display=isB?'':'none';
+$('dealsView').style.display=isB?'none':'';{const tb=$('tgb');if(tb)tb.style.display=isB?'none':''}bv.style.display=isB?'':'none';
 $('tabD').className='cat'+(isB?'':' on');$('tabB').className='cat'+(isB?' on':'');
 document.title='DealsGenie USA – Daily Amazon Deals & Coupon Codes';if(!isB)return;bv.innerHTML='';
 const p=P.find(x=>x.id===h.split('/')[1]);
@@ -482,6 +534,19 @@ scrollTo(0,0)}
 addEventListener('hashchange',route);route();
 </script>
 <script>
+
+(function(){const r=document.documentElement;if(!r.classList.contains('tgv'))return;
+const y=new Date().getFullYear(),n1=new Date(y,10,1),th=new Date(y,10,1+((4-n1.getDay()+7)%7)+21);/* 4th Thursday of November */
+const day=d=>new Date(d.getFullYear(),d.getMonth(),d.getDate()),t0=day(new Date());
+const ev=[['🦃 Thanksgiving',th],['🛍️ Black Friday',new Date(+th+864e5)],['💻 Cyber Monday',new Date(+th+4*864e5)]],box=document.getElementById('tgd');
+ev.forEach(([n,d])=>{const k=Math.round((day(d)-t0)/864e5);if(k<0)return;const s=document.createElement('span');s.innerHTML=n+': <b></b>';s.querySelector('b').textContent=k===0?'Today!':k===1?'Tomorrow':'in '+k+' days';box.appendChild(s)});
+if(!box.children.length)box.remove();
+const q=document.getElementById('tgq');
+[['🍳 Kitchen picks','Kitchen'],['🏠 Cozy home','Home'],['🎁 All deals','All']].forEach(([n,c])=>{const b=document.createElement('button');b.textContent=n;b.onclick=()=>{cat=c;moreN=0;list();document.getElementById('cats').scrollIntoView({behavior:'smooth'})};q.appendChild(b)});
+if(!matchMedia('(prefers-reduced-motion:reduce)').matches){const L=['🍂','🍁','🍂','🍁','🍂','🍁','🍂','🍁'];
+L.forEach((e,i)=>{const s=document.createElement('span');s.className='leaf';s.setAttribute('aria-hidden','true');s.textContent=e;
+s.style.left=(6+i*12+Math.random()*6)+'%';s.style.fontSize=(16+Math.random()*12)+'px';s.style.animationDuration=(14+Math.random()*10)+'s';s.style.animationDelay=(-Math.random()*20)+'s';s.style.setProperty('--dx',(Math.random()*120-30)+'px');s.style.opacity=.55;document.body.appendChild(s)})}
+})();
 (function(){const r=document.documentElement,t=document.getElementById('tg');let s='dark';try{s=localStorage.getItem('th')||'dark'}catch(e){}
 function ap(v){r.setAttribute('data-theme',v);t.textContent=v==='dark'?'☀️':'🌙'}ap(s);
 t.onclick=()=>{s=s==='dark'?'light':'dark';ap(s);try{localStorage.setItem('th',s)}catch(e){}}})();
