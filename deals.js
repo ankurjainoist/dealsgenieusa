@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hisense 50“ Hi-QLED S7 CanvasTV Series 4K UHD Smart Art Google TV (50S7SG, 2026 New) - Art Mode, Anti-Glare",c:"Electronics",e:"🔌",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GRGTZKHT"},
 {t:"Flowy Wide Leg Outfit Sets",c:"Home",e:"🏠",n:"Use code UWSM1O16",dt:"Nov 13",l:"https://www.amazon.com/dp/B0DNYJWN4B"},
 {t:"LEGO Santa Minifigures",c:"Toys",e:"🧸",dt:"Nov 13",l:"https://www.amazon.com/dp/B0G2T5PP7W"},
 {t:"VIVIDVISTA Wireless Dog Fences",c:"Pets",e:"🐾",n:"Coupon: 40% off",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HJWZHVKX"},
