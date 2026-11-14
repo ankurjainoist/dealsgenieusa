@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BOSCH GBR18V-15SN18X 18V 5 In. Concrete Surface Grinder with 13-Amp Equivalent Brushless Motor & 3-Speed",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GFXQ363H"},
 {t:"Asmodee Star Wars: Unlimited TCG Shadows of The Galaxy Starter Set - Master The Galaxy! Fast-Paced Trading",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0CZ1QVNB6"},
 {t:"Super Mario Galaxy Movie Minus World Diorama Playset, Wart and Penguin Toad",c:"Toys",e:"🧸",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FR9FJBY5"},
 {t:"McFarlane Toys- Fallout T-45B Nuka Cola (McFarlane Elite Edition #13) 7in Deluxe Action Figure",c:"Toys",e:"🧸",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GT2C7CLF"},
