@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Amazon Essentials Puffer Jackets",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FFJRBQ5T"},
 {t:"60-in-1 Magnetic Screwdriver Sets",c:"Tools",e:"🔧",n:"50% off with code BIV2KYAD",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GZ2FSW2Z"},
 {t:"GHK-Cu Peptide Hair Shampoos",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GZNCDCVR"},
 {t:"Single Din Car Radios with Apple CarPlay",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HHRH5TGJ"},
