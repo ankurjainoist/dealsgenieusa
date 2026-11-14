@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fall Leaf Thermal Insulated Drapes",c:"Home",e:"🏠",n:"Use code UMH6ROU1",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FB9BM81X",img:"img/B0FB9BM81X.jpg"},
 {t:"Vintage Pink Wine Glasses",c:"Home",e:"🏠",n:"Use code 7LC2WPVK",dt:"Nov 14",l:"https://www.amazon.com/dp/B0H87BCN83",img:"img/B0H87BCN83.jpg"},
 {t:"Braided Hair Ties (Multicolor)",c:"Beauty",e:"💄",n:"Use code PTW6USRG",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HDSW6B21",img:"img/B0HDSW6B21.jpg"},
 {t:"Topuro RGB Outdoor Smart Lights",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HJV78LMS",img:"img/B0HJV78LMS.jpg"},
