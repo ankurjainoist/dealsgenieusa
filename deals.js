@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Melissa & Doug Hi-Rise Wooden DollhoUse with Dolls and DollhoUse Furniture",c:"Toys",e:"🧸",dt:"Nov 14",l:"https://www.amazon.com/dp/B00CPHX6WA",img:"img/B00CPHX6WA.jpg"},
 {t:"Hummingbird Candle Warmer Lamp with Timer Dimmer, Gifts for Mom",c:"Home",e:"🏠",n:"Use code 1C3J8DOQ",dt:"Nov 14",l:"https://www.amazon.com/dp/B0D12922FH",img:"img/B0D12922FH.jpg"},
 {t:"ACEBEAM Tactical LED Flashlights",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0F9WK7Q52",img:"img/B0F9WK7Q52.jpg"},
 {t:"Inflatable Oversized Christmas Ornaments",c:"Home",e:"🎄",n:"30% off with code W7Z8T35W",dt:"Nov 14",l:"https://www.amazon.com/dp/B0CHDLXR2P"},
