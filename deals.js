@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Topuro RGB Outdoor Smart Lights",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HJV78LMS",img:"img/B0HJV78LMS.jpg"},
 {t:"Unidragon Wooden Sagrada Familia Puzzles",c:"Toys",e:"🧸",n:"Clip the 50% coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B09HHRMC3K",img:"img/B09HHRMC3K.jpg"},
 {t:"Finish Ultimate Quantum Dishwasher Pods",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0CBL8TGXQ",img:"img/B0CBL8TGXQ.jpg"},
 {t:"FUNNGO Christmas Nativity Yard Decorations",c:"Home",e:"🎄",n:"Use code 5TU38W83",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HD76RLZ9",img:"img/B0HD76RLZ9.jpg"},
