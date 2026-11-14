@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Super Mario Galaxy Movie Minus World Diorama Playset, Wart and Penguin Toad",c:"Toys",e:"🧸",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FR9FJBY5"},
 {t:"McFarlane Toys- Fallout T-45B Nuka Cola (McFarlane Elite Edition #13) 7in Deluxe Action Figure",c:"Toys",e:"🧸",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GT2C7CLF"},
 {t:"Alcohol Markers,80 Colors Dual Tip",c:"Kids",e:"🎨",n:"Use code 5PP80TIO",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GXZW41L1"},
 {t:"AI Smart Glasses with Camera",c:"Electronics",e:"🔌",n:"Use code FENL7W6D",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HP9WRMBG"},
