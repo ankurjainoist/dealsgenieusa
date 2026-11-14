@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Delta Children Deluxe Toy Box, Spider-Man",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B08CGF7415"},
 {t:"jejeloiu Kids Halloween Bedding Set for Boys Girls Comforter Set Queen Size",c:"Kids",e:"🎃",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FJ5DYZQ9"},
 {t:"Christmas HoUse Diamond Painting Kits",c:"Home",e:"🎄",n:"40% off with code FU8LPDKG",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HK7KLXPZ"},
 {t:"Electric Nail Clippers (Blue)",c:"Beauty",e:"💄",n:"50% off with code 56ZYZELD",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HJVYPRT8"},
