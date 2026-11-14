@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"VOZUJI 50FT Outdoor String Lights",c:"Home",e:"🏠",n:"Use code G49U7K1E",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FHKWJ2VH"},
 {t:"Christmas Pearl Diamond Painting Kits",c:"Home",e:"🎄",n:"Use code NFTL5A2T",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HR5SQ2MP"},
 {t:"Automatic Interactive Cat Toys",c:"Pets",e:"🐾",n:"50% off with code Q2JQK3HN",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HDS5S5CJ"},
 {t:"Fujifilm Instax Mini 12 Instant Film Camera - Pastel Blue",c:"Electronics",e:"🔌",dt:"Nov 14",l:"https://www.amazon.com/dp/B0BWNZLQ69"},
