@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Eric Carle Six Classic s Box Set",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/0062815687"},
 {t:"Smart Robot Dogs",c:"Pets",e:"🐾",n:"Use code YQYPCQ0E",dt:"Nov 13",l:"https://www.amazon.com/dp/B0DDCPDZXS"},
 {t:"Outdoor LED Strip Lights",c:"Home",e:"🏠",n:"Use code PV6GS7T2",dt:"Nov 13",l:"https://www.amazon.com/dp/B0CT2X2VNN"},
 {t:"PICNIC TIME America250 On The Go Lunch Bag Cooler",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/B0GJ2Q4T5M"},
