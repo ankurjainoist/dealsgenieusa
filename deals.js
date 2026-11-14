@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Zeacool Fitness Trackers (Black)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HNNWW3T3",img:"img/B0HNNWW3T3.jpg"},
 {t:"GloryAir Cool Mist Humidifiers",c:"Home",e:"🏠",n:"Use code OFVBQJ91",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FHK9DYTC",img:"img/B0FHK9DYTC.jpg"},
 {t:"Friendsgiving Party Decoration Sets",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FMT846K3",img:"img/B0FMT846K3.jpg"},
 {t:"Bissell Crosswave Turbo Vacuum Mops",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0C9V48DDZ",img:"img/B0C9V48DDZ.jpg"},
