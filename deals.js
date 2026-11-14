@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dance with Danny Interactive Plush, Motion-Activated Dancing Toy",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FWDC9NZW",img:"img/B0FWDC9NZW.jpg"},
 {t:"Japanese Chef Knives (8 Inch)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FMS1Q7WK",img:"img/B0FMS1Q7WK.jpg"},
 {t:"Dr. Seuss The Grinch Grouchy Greetings Blind Box Vinyl Plush",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GFGLPHC3",img:"img/B0GFGLPHC3.jpg"},
 {t:"12.xxMonopoly Junior Super Mario Edition Board Game, Fun Kids Ages 5 and Up",c:"Kids",e:"🎨",dt:"Nov 14",l:"https://www.amazon.com/dp/B09D44P9HK",img:"img/B09D44P9HK.jpg"},
