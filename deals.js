@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Mochiby Freeze-Dried Raw Dog Foods",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HKHC4KFH",img:"img/B0HKHC4KFH.jpg"},
 {t:"Youtanic Oversize Folding Rocking Chairs",c:"Home",e:"🏠",n:"Use code A1WWC7TA",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HQ6B1MZL",img:"img/B0HQ6B1MZL.jpg"},
 {t:"Zeacool Fitness Trackers (Black)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HNNWW3T3",img:"img/B0HNNWW3T3.jpg"},
 {t:"GloryAir Cool Mist Humidifiers",c:"Home",e:"🏠",n:"Use code OFVBQJ91",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FHK9DYTC",img:"img/B0FHK9DYTC.jpg"},
