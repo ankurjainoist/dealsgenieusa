@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"ApplianPar Engine Torque Strut Mounts",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 13",l:"https://www.amazon.com/dp/B0CX8JX745"},
 {t:"Rechargeable Hand Warmers (2-Pack)",c:"Home",e:"🏠",n:"Use code BMP4ZCBH",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HH974TM8"},
 {t:"Collapsible Laundry Hampers (3-Pack)",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/B0F61ZPK4D"},
 {t:"INTEX Explorer Compact Inflatable Boat Series: Dual Air Chambers – Welded Oar Locks – Grab Handles – Bow Rope",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/B005OHEYVA"},
