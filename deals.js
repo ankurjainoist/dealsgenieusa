@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LEGO Santa Minifigures",c:"Toys",e:"🧸",dt:"Nov 13",l:"https://www.amazon.com/dp/B0G2T5PP7W"},
 {t:"VIVIDVISTA Wireless Dog Fences",c:"Pets",e:"🐾",n:"Coupon: 40% off",dt:"Nov 13",l:"https://www.amazon.com/dp/B0HJWZHVKX"},
 {t:"Eric Carle Six Classic s Box Set",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/0062815687"},
 {t:"Smart Robot Dogs",c:"Pets",e:"🐾",n:"Use code YQYPCQ0E",dt:"Nov 13",l:"https://www.amazon.com/dp/B0DDCPDZXS"},
