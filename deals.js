@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dr. Seuss The Grinch Grouchy Greetings Blind Box Vinyl Plush",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GFGLPHC3",img:"img/B0GFGLPHC3.jpg"},
 {t:"12.xxMonopoly Junior Super Mario Edition Board Game, Fun Kids Ages 5 and Up",c:"Kids",e:"🎨",dt:"Nov 14",l:"https://www.amazon.com/dp/B09D44P9HK",img:"img/B09D44P9HK.jpg"},
 {t:"Melissa & Doug Hi-Rise Wooden DollhoUse with Dolls and DollhoUse Furniture",c:"Toys",e:"🧸",dt:"Nov 14",l:"https://www.amazon.com/dp/B00CPHX6WA",img:"img/B00CPHX6WA.jpg"},
 {t:"Hummingbird Candle Warmer Lamp with Timer Dimmer, Gifts for Mom",c:"Home",e:"🏠",n:"Use code 1C3J8DOQ",dt:"Nov 14",l:"https://www.amazon.com/dp/B0D12922FH",img:"img/B0D12922FH.jpg"},
