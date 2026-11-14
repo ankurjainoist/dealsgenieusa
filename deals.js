@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Collapsible Laundry Hampers (3-Pack)",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/B0F61ZPK4D"},
 {t:"INTEX Explorer Compact Inflatable Boat Series: Dual Air Chambers – Welded Oar Locks – Grab Handles – Bow Rope",c:"Home",e:"🏠",dt:"Nov 13",l:"https://www.amazon.com/dp/B005OHEYVA"},
 {t:"Velvet Christmas Ball Ornaments",c:"Home",e:"🎄",n:"Use code KQIF11E4",dt:"Nov 13",l:"https://www.amazon.com/dp/B0H32ZTZXZ"},
 {t:"Womens Knit Fuzzy Slippers Memory Foam Indoor HoUse Shoes",c:"Fashion",e:"👗",n:"Use code AVQ8561F",dt:"Nov 13",l:"https://www.amazon.com/dp/B0FT2HDC86"},
