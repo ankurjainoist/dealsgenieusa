@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"AI Smart Glasses with Camera",c:"Electronics",e:"🔌",n:"Use code FENL7W6D",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HP9WRMBG"},
 {t:"MAGNA-TILES Coral Reef 25-Piece Magnetic Construction Set, The Original Magnetic Building Brand",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GGV5GXTL"},
 {t:"Christmas Lighted Gift Boxes",c:"Home",e:"🎄",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FG2LDQY3"},
 {t:"FeisDa Crochet Starter Kits",c:"Home",e:"🏠",n:"Coupon: 50% off",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HLCM6RJ6"},
