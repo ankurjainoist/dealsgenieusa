@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"FUNNGO Christmas Nativity Yard Decorations",c:"Home",e:"🎄",n:"Use code 5TU38W83",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HD76RLZ9",img:"img/B0HD76RLZ9.jpg"},
 {t:"Carrot Strawberry Cheese Squishy Toys",c:"Toys",e:"🧸",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HCKX8MRL",img:"img/B0HCKX8MRL.jpg"},
 {t:"Dance with Danny Interactive Plush, Motion-Activated Dancing Toy",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FWDC9NZW",img:"img/B0FWDC9NZW.jpg"},
 {t:"Japanese Chef Knives (8 Inch)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FMS1Q7WK",img:"img/B0FMS1Q7WK.jpg"},
