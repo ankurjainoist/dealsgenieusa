@@ -131,6 +131,30 @@ footer{text-align:center;color:var(--muted);font-size:.75rem;padding:24px 0}
 .leaf{position:fixed;top:-40px;z-index:5;pointer-events:none;user-select:none;animation:fall linear infinite;will-change:transform}
 @keyframes fall{0%{transform:translate3d(0,0,0) rotate(0)}100%{transform:translate3d(var(--dx,60px),calc(100vh + 80px),0) rotate(540deg)}}
 @media(prefers-reduced-motion:reduce){.leaf{display:none}}
+
+/* ===== bigger 2-column deal cards ===== */
+#list{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+@media(max-width:700px){#list{grid-template-columns:1fr}}
+#list .card{display:flex;flex-direction:column;padding:20px;border-radius:20px}
+#list .card .row{gap:16px;align-items:flex-start}
+#list .card .t{font-size:1.12rem;line-height:1.3}
+#list .card .em{width:84px;height:84px;font-size:2.8rem}
+#list .card .em.has-img{width:132px;height:132px;border-radius:16px}
+#list .card .muted{font-size:.82rem!important}
+#list .card .left{font-size:.92rem;margin:8px 0 4px;font-weight:700;line-height:1.9}
+#list .card .acts{margin-top:auto;padding-top:16px}
+#list .card .acts a,#list .card .acts button{min-height:48px;font-size:.95rem}
+.main .em.has-img{width:140px;height:140px}
+.main .left{font-size:.95rem;line-height:1.9}
+@media(max-width:480px){#list .card{padding:16px}#list .card .em.has-img{width:104px;height:104px}#list .card .em{width:72px;height:72px;font-size:2.3rem}.main .em.has-img{width:112px;height:112px}}
+/* ===== click-to-copy coupon chip ===== */
+.cp{display:inline-flex;align-items:center;gap:8px;margin:2px 2px;padding:6px 12px;border:2px dashed var(--gold);border-radius:10px;background:transparent;color:var(--gold);font:800 1rem ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:.8px;cursor:pointer;min-height:38px;vertical-align:middle;transition:background .15s,color .15s}
+.cp::after{content:"Tap to copy";font:600 .7rem system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;letter-spacing:0;color:var(--muted)}
+.cp:hover{background:#ffc83d22}
+.cp:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.cp.done{background:var(--gold);color:var(--ong);border-style:solid}
+.cp.done::after{content:"Copied ✓";color:var(--ong)}
+@media(prefers-reduced-motion:reduce){.cp{transition:none}}
 </style>
 </head>
 <body>
@@ -235,6 +259,13 @@ $('tick').innerHTML=(((TGV?['🦃 Happy Thanksgiving from DealsGenie!']:[]).conc
 const imgOf=d=>{const u=String(d.img||d.image||d.photo||d.pic||'').trim();return u&&!/api\.telegram\.org/i.test(u)&&/^(https:\/\/|\/|[\w.\-\/]+\.(jpe?g|png|webp|gif)(\?.*)?$)/i.test(u)?u:''};
 function pic(el,d){const u=imgOf(d);if(!u||!el)return;const i=document.createElement('img'),e=el.textContent;i.alt=d.t||'';i.loading='lazy';i.decoding='async';i.referrerPolicy='no-referrer';
 i.onerror=()=>{el.classList.remove('has-img');el.textContent=e;el.setAttribute('aria-hidden','true')};i.src=u;el.textContent='';el.removeAttribute('aria-hidden');el.classList.add('has-img');el.appendChild(i)}
+function copyCode(c,b){const ok=()=>{b.classList.add('done');clearTimeout(b._t);b._t=setTimeout(()=>b.classList.remove('done'),1800)};
+const fb=()=>{const t=document.createElement('textarea');t.value=c;t.setAttribute('readonly','');t.style.cssText='position:fixed;top:0;left:0;opacity:0';document.body.appendChild(t);t.select();try{document.execCommand('copy')}catch(e){}t.remove();ok()};
+if(navigator.clipboard&&window.isSecureContext)navigator.clipboard.writeText(c).then(ok,fb);else fb()}
+function fillNote(el,nt){const m=/\b[Cc]ode\s*:?\s*([A-Z0-9]{5,12})\b/.exec(nt);if(!m){el.textContent=nt;return}
+const code=m[1],at=m.index+m[0].length-code.length,b=document.createElement('button');b.type='button';b.className='cp';b.textContent=code;b.setAttribute('aria-label','Copy coupon code '+code);
+b.onclick=e=>{e.preventDefault();e.stopPropagation();copyCode(code,b)};
+el.appendChild(document.createTextNode(nt.slice(0,at)));el.appendChild(b);el.appendChild(document.createTextNode(nt.slice(at+code.length)))}
 function share(d){window.dgTrack&&window.dgTrack('share',{method:'whatsapp',item_id:d.t});const txt='🔥 '+d.t+(d.n&&!missed(d)?'\n'+d.n:'')+'\nSee the deal: https://dealsgenieusa.com/';
 open('https://wa.me/?text='+encodeURIComponent(txt),'_blank')}
 function votes(d){return +ls('v_'+d.t)||0}
@@ -242,7 +273,7 @@ function big(d,label){const nt=missed(d)?'':d.n;const w=document.createElement('
 w.innerHTML=`<span class="tag">${label}</span><div class="row" style="margin-top:10px"><div class="em" aria-hidden="true">${d.e}</div><div><div class="t" role="heading" aria-level="3"></div>${nt?`<div class="left" style="color:var(--gold);margin-top:6px">🎟️ <span class="nt"></span></div>`:''}<div class="muted" style="font-size:.78rem;margin-top:4px">${d.dt?'Posted '+d.dt+'. ':''}${missed(d)?'This offer may have ended. ':''}Check Amazon for the current price and offer.</div></div></div>
 <div class="acts"><a class="buy" target="_blank" rel="nofollow sponsored noopener">View on Amazon</a><button class="sh">Share on WhatsApp</button><button class="hot">👍 ${votes(d)}</button></div>
 <div class="muted" style="font-size:.72rem;margin-top:8px">As an Amazon Associate I earn from qualifying purchases.</div>`;
-w.querySelector('.t').textContent=d.t;pic(w.querySelector('.em'),d);if(nt)w.querySelector('.nt').textContent=nt;w.querySelector('.buy').href=lk(d.l);tag(w,d,'deal_of_the_day');
+w.querySelector('.t').textContent=d.t;pic(w.querySelector('.em'),d);if(nt)fillNote(w.querySelector('.nt'),nt);w.querySelector('.buy').href=lk(d.l);tag(w,d,'deal_of_the_day');
 w.querySelector('.sh').onclick=()=>share(d);
 w.querySelector('.hot').onclick=e=>{ls('v_'+d.t,votes(d)+1);e.target.textContent='👍 '+votes(d)};return w}
 // wish buttons
@@ -261,7 +292,7 @@ $('list').innerHTML=cat===MISS?'<p class="muted" style="grid-column:1/-1;margin:
 const card=d=>{const nt=missed(d)?'':d.n;const w=document.createElement('div');w.className='card'+(missed(d)?' old':'');
 w.innerHTML=`<div class="row"><div class="em" aria-hidden="true">${d.e}</div><div style="flex:1"><div class="t" role="heading" aria-level="3"></div>${nt?`<div class="left">🎟️ <span class="nt"></span></div>`:''}<div class="muted" style="font-size:.75rem">${d.dt?'Posted '+d.dt+'. ':''}${missed(d)?'Offer may have ended.':''}</div></div></div>
 <div class="acts"><a class="buy" target="_blank" rel="nofollow sponsored noopener">View on Amazon</a><button class="sh">Share</button></div>`;
-w.querySelector('.t').textContent=d.t;pic(w.querySelector('.em'),d);if(nt)w.querySelector('.nt').textContent=nt;w.querySelector('.buy').href=lk(d.l);tag(w,d,'list');w.querySelector('.sh').onclick=()=>share(d);if(missed(d))w.insertAdjacentHTML('afterbegin','<span class="newb miss">MISSED</span>');else if(d.dt&&d.dt===D[0].dt)w.insertAdjacentHTML('afterbegin','<span class="newb">NEW</span>');return w};
+w.querySelector('.t').textContent=d.t;pic(w.querySelector('.em'),d);if(nt)fillNote(w.querySelector('.nt'),nt);w.querySelector('.buy').href=lk(d.l);tag(w,d,'list');w.querySelector('.sh').onclick=()=>share(d);if(missed(d))w.insertAdjacentHTML('afterbegin','<span class="newb miss">MISSED</span>');else if(d.dt&&d.dt===D[0].dt)w.insertAdjacentHTML('afterbegin','<span class="newb">NEW</span>');return w};
 show.forEach(d=>$('list').appendChild(card(d)));
 const rec=act.length?old.filter(d=>age(d)<=7).slice(0,24):[];
 if(cat==='All'&&rec.length){$('list').insertAdjacentHTML('beforeend','<h2 style="grid-column:1/-1;font-size:1.1rem;margin:22px 0 0">⏰ Recently missed deals</h2><p class="muted" style="grid-column:1/-1;margin:0">These offers may have ended, so check the Amazon page for the current price and offer.</p>');rec.forEach(d=>$('list').appendChild(card(d)))}
