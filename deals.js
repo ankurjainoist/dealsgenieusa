@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Telescoping Magnetic Pickup Tools",c:"Tools",e:"🔧",n:"40% off with code NAH4F3BI",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GDQVYMJ4"},
 {t:"all free clear Laundry Detergent Pacs for Sensitive Skin, 66 Count, 2-Pack",c:"Grocery",e:"🛒",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B08CNGPC5B"},
 {t:"LEGO Creator 3 in 1 Iconic Ferris Wheel 31389",c:"Toys",e:"🧸",dt:"Nov 14",l:"https://www.amazon.com/dp/B0G2T13NTV"},
 {t:"8BitDo All-Button Arcade Controller for Switch & Windows, N Edition",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0F7R4XTQX"},
