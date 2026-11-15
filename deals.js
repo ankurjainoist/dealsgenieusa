@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lash Clusters Kit Wispy Lashes Clusters Colored Lash Clusters Volume Eyelash Clusters Soft Cluster Eyelash",c:"Beauty",e:"💄",n:"Use code G96LQCPD",dt:"Nov 15",l:"https://www.amazon.com/dp/B0G1YBC93K",img:"img/B0G1YBC93K.jpg"},
 {t:"Amazon business accounts",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B0GPY41JGK",img:"img/B0GPY41JGK.jpg"},
 {t:"Barbie Signature Miley Cyrus Fashion Doll",c:"Toys",e:"🧸",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FK1PTMTP",img:"img/B0FK1PTMTP.jpg"},
 {t:"Wooden Kids Bookshelves",c:"Kids",e:"🎨",n:"50% off with code E5WJQ6X9",dt:"Nov 15",l:"https://www.amazon.com/dp/B0DT6PLVP7",img:"img/B0DT6PLVP7.jpg"},
