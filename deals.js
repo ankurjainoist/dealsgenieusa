@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"AYOLNY Electric Bikes",c:"Home",e:"🏠",n:"50% off with code GOVQ0KKJ",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H68WDQ1J",img:"img/B0H68WDQ1J.jpg"},
 {t:"Double Hammock with Spreader Bar",c:"Home",e:"🏠",n:"70% off with code N8OR6R30",dt:"Nov 15",l:"https://www.amazon.com/dp/B0DZCS3RZF",img:"img/B0DZCS3RZF.jpg"},
 {t:"10 Pack 18FT Solar C9 Christmas Lights, Outdoor Christmas Decorations",c:"Home",e:"🎄",n:"Use code WO5SKMUY",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HGF9HNHQ",img:"img/B0HGF9HNHQ.jpg"},
 {t:"Wireless Noise Cancelling Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HJLRRKS4",img:"img/B0HJLRRKS4.jpg"},
