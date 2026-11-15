@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Shilucheng King Size Sheet Sets",c:"Home",e:"🏠",n:"50% off with code L8ZY0XH9",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FWJQZDPY",img:"img/B0FWJQZDPY.jpg"},
 {t:"FANMATS NBA 30 oz Stainless Steel Tumbler – Durable Powder Coat Finish - Fits Most Cup Holders, Officially",c:"Fashion",e:"👗",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FSSXWM8B",img:"img/B0FSSXWM8B.jpg"},
 {t:"Medline Non-Sterile Matrix Elastic Bandages with Self-Closure, Stretched, 4 in x 10 yd. (10.2 cm x 9.1 m)",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B00OMFEEVA",img:"img/B00OMFEEVA.jpg"},
 {t:"EA SPORTS College Football 27 - Standard Edition PS5, Disc I VideoGame",c:"Games",e:"🎮",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H2K6W7P9",img:"img/B0H2K6W7P9.jpg"},
