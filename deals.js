@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LED Outdoor Mesh Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 14",l:"https://www.amazon.com/dp/B0BB273ZST",img:"img/B0BB273ZST.jpg"},
 {t:"Stainless Steel Food Storage Containers",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0H3B3Z6BW",img:"img/B0H3B3Z6BW.jpg"},
 {t:"Clear Plastic Cups with Lids",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HDJQQMYP",img:"img/B0HDJQQMYP.jpg"},
 {t:"PRICE DROP",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FHK7GK8B",img:"img/B0FHK7GK8B.jpg"},
