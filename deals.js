@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Nerf Minecraft Diamond Pickaxe Dart Blaster, Pull Back Priming, Foam Head, 8 Nerf Elite Darts, Ages 8+",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0G2TGZ867",img:"img/B0G2TGZ867.jpg"},
 {t:"Honey Maid Graham Crackers, Gingerbread HoUse Cookies, Original, 14.4 Oz (Pack of 3)",c:"Grocery",e:"🛒",dt:"Nov 15",l:"https://www.amazon.com/dp/B0BPRTCJTN",img:"img/B0BPRTCJTN.jpg"},
 {t:"Nerf Wild Venompack",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B0CSLT761J",img:"img/B0CSLT761J.jpg"},
 {t:"Lash Clusters Kit Wispy Lashes Clusters Colored Lash Clusters Volume Eyelash Clusters Soft Cluster Eyelash",c:"Beauty",e:"💄",n:"Use code G96LQCPD",dt:"Nov 15",l:"https://www.amazon.com/dp/B0G1YBC93K",img:"img/B0G1YBC93K.jpg"},
