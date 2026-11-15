@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"EA SPORTS College Football 27 - Standard Edition PS5, Disc I VideoGame",c:"Games",e:"🎮",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H2K6W7P9",img:"img/B0H2K6W7P9.jpg"},
 {t:"EA SPORTS NHL 27 - Physical Disc - PlayStation 5",c:"Games",e:"🎮",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H8QND851",img:"img/B0H8QND851.jpg"},
 {t:"JBL Tune 530BT (2026) – Wireless On-Ear Bluetooth Headphones (Purple)",c:"Electronics",e:"🔌",dt:"Nov 15",l:"https://www.amazon.com/dp/B0GMSKV7GK",img:"img/B0GMSKV7GK.jpg"},
 {t:"OZULER Stress Ball Making Kits",c:"Home",e:"🏠",n:"40% off with code 06N5AE3U",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HHMTQS3Y",img:"img/B0HHMTQS3Y.jpg"},
