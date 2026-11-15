@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"10 Pack 18FT Solar C9 Christmas Lights, Outdoor Christmas Decorations",c:"Home",e:"🎄",n:"Use code WO5SKMUY",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HGF9HNHQ",img:"img/B0HGF9HNHQ.jpg"},
 {t:"Wireless Noise Cancelling Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HJLRRKS4",img:"img/B0HJLRRKS4.jpg"},
 {t:"Bluetooth Wireless Headsets with Noise Canceling",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HPB7WCB5",img:"img/B0HPB7WCB5.jpg"},
 {t:"Shinmax Cordless Grill Brushes",c:"Kitchen",e:"🍳",n:"Clip the 50% coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HJQGHCKW",img:"img/B0HJQGHCKW.jpg"},
