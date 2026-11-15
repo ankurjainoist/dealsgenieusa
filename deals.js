@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Shinmax Cordless Grill Brushes",c:"Kitchen",e:"🍳",n:"Clip the 50% coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HJQGHCKW",img:"img/B0HJQGHCKW.jpg"},
 {t:"Solar Hummingbird Lanterns",c:"Home",e:"🏠",n:"Use code F2J9UKN6",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FPQZ9K76",img:"img/B0FPQZ9K76.jpg"},
 {t:"Grounding Mats for Bed",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0GSB8VTTQ",img:"img/B0GSB8VTTQ.jpg"},
 {t:"EA Sports UFC 6 Sony PlayStation 5, Disc, English",c:"Games",e:"🎮",dt:"Nov 15",l:"https://www.amazon.com/dp/B0GWGFCHFP",img:"img/B0GWGFCHFP.jpg"},
