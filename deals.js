@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"USB-C Fast Chargers",c:"Electronics",e:"🔌",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FSQL1TRF",img:"img/B0FSQL1TRF.jpg"},
 {t:"YICHEEY Small Crossbody Phone Bags (Black)",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0BG72H2T4",img:"img/B0BG72H2T4.jpg"},
 {t:"COAST Rechargeable Emergency Lanterns",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B0D2Z4JJZF",img:"img/B0D2Z4JJZF.jpg"},
 {t:"GobiDex Unicorn Toys Magnetic Tiles, Princess Castle Building Set for Girls",c:"Toys",e:"🧸",n:"Use code SHRZFJ86",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FH45FDZY",img:"img/B0FH45FDZY.jpg"},
