@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Stainless Steel Food Storage Containers",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0H3B3Z6BW",img:"img/B0H3B3Z6BW.jpg"},
 {t:"Clear Plastic Cups with Lids",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HDJQQMYP",img:"img/B0HDJQQMYP.jpg"},
 {t:"PRICE DROP",c:"Home",e:"🏠",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FHK7GK8B",img:"img/B0FHK7GK8B.jpg"},
 {t:"3 in 1 Wireless Charging Station for Multiple Devices",c:"Home",e:"🏠",n:"Use code QWGT8WJO",dt:"Nov 14",l:"https://www.amazon.com/dp/B0FMQDST3N",img:"img/B0FMQDST3N.jpg"},
