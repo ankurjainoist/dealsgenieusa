@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"6 in Mini Chainsaw Cordless with 2 lithium Batteries , Yellow",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HGLB6VVM",img:"img/B0HGLB6VVM.jpg"},
 {t:"Disney Junior Minnie MoUse Ring Me Rotary Pretend Play Phone",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B08SPCMDKH",img:"img/B08SPCMDKH.jpg"},
 {t:"18 Color Gel Food Colorings",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HJ1RWBQP",img:"img/B0HJ1RWBQP.jpg"},
 {t:"Nerf Minecraft Diamond Pickaxe Dart Blaster, Pull Back Priming, Foam Head, 8 Nerf Elite Darts, Ages 8+",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0G2TGZ867",img:"img/B0G2TGZ867.jpg"},
