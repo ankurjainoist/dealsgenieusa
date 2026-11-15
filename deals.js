@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Laser Levels with Tripod",c:"Home",e:"🏠",n:"Use code 9I6CNJ8U",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HN4FMZG4",img:"img/B0HN4FMZG4.jpg"},
 {t:"Fancyango 32 Gallon Storage Boxes",c:"Home",e:"🏠",n:"Use code YZ8KFT1C",dt:"Nov 15",l:"https://www.amazon.com/dp/B0GKF6P2JX",img:"img/B0GKF6P2JX.jpg"},
 {t:"Tubing Mascaras for Older Women",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HP8K7DTS",img:"img/B0HP8K7DTS.jpg"},
 {t:"USB-C Fast Chargers",c:"Electronics",e:"🔌",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FSQL1TRF",img:"img/B0FSQL1TRF.jpg"},
