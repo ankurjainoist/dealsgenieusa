@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Toffos Snow Tubes with Cover",c:"Home",e:"🏠",n:"Use code 59AXWN2V",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HJ8GKFP7",img:"img/B0HJ8GKFP7.jpg"},
 {t:"KDSFT Wooden Food Stamps",c:"Home",e:"🏠",n:"40% off with code 92VI9AYN",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GKMG23S6",img:"img/B0GKMG23S6.jpg"},
 {t:"UGG Kids Tasman Mule",c:"Kids",e:"🎨",dt:"Nov 14",l:"https://www.amazon.com/dp/B0F85NMMPM",img:"img/B0F85NMMPM.jpg"},
 {t:"EUCOS 62 in Tripod Phone Stands",c:"Home",e:"🏠",n:"Use code WNBSYKJ8",dt:"Nov 14",l:"https://www.amazon.com/dp/B0BQJ1CQXW",img:"img/B0BQJ1CQXW.jpg"},
