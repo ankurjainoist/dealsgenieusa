@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Anti-Burst Exercise Balls",c:"Home",e:"🏠",n:"Use code RRP26D7P",dt:"Nov 15",l:"https://www.amazon.com/dp/B0BYYPFB86",img:"img/B0BYYPFB86.jpg"},
 {t:"TAGRY Hybrid Active Noise Cancelling Headphones",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HQZ4P3PT",img:"img/B0HQZ4P3PT.jpg"},
 {t:"WUQID 5Pcs Tote Bag Decor Kit Compatible with YETI Camino 20/35/50 & Bogg",c:"Fashion",e:"👗",dt:"Nov 15",l:"https://www.amazon.com/dp/B0GD6J18CX",img:"img/B0GD6J18CX.jpg"},
 {t:"24 Pack Solar Christmas Candy Cane Lights",c:"Grocery",e:"🎄",n:"58% off with code 7KS4Y5PC",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HBTV2R2F",img:"img/B0HBTV2R2F.jpg"},
