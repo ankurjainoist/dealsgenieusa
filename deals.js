@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"GobiDex Unicorn Toys Magnetic Tiles, Princess Castle Building Set for Girls",c:"Toys",e:"🧸",n:"Use code SHRZFJ86",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FH45FDZY",img:"img/B0FH45FDZY.jpg"},
 {t:"Construction Vehicle Toy Sets",c:"Toys",e:"🧸",n:"40% off with code 0X2U3Q2X",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HC3RNGQV",img:"img/B0HC3RNGQV.jpg"},
 {t:"Anti-Burst Exercise Balls",c:"Home",e:"🏠",n:"Use code RRP26D7P",dt:"Nov 15",l:"https://www.amazon.com/dp/B0BYYPFB86",img:"img/B0BYYPFB86.jpg"},
 {t:"TAGRY Hybrid Active Noise Cancelling Headphones",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HQZ4P3PT",img:"img/B0HQZ4P3PT.jpg"},
