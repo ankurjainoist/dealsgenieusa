@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Armor All Ultra Shine Car Wash and Car Wax,Cleaning Fluid for Cars,Trucks,Motorcycles,64 Fl Oz Each,(Pack of",c:"Auto",e:"🚗",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GK26GH3W",img:"img/B0GK26GH3W.jpg"},
 {t:"AlpsWolf Magnetic LED Work Lights",c:"Home",e:"🏠",n:"Use code 9VOJ8LFG",dt:"Nov 14",l:"https://www.amazon.com/dp/B0H6FGB693",img:"img/B0H6FGB693.jpg"},
 {t:"Siref Electric Pole Saws",c:"Tools",e:"🔧",n:"Coupon: 49% off",dt:"Nov 14",l:"https://www.amazon.com/dp/B0GYLL2C65",img:"img/B0GYLL2C65.jpg"},
 {t:"Toffos Snow Tubes with Cover",c:"Home",e:"🏠",n:"Use code 59AXWN2V",dt:"Nov 14",l:"https://www.amazon.com/dp/B0HJ8GKFP7",img:"img/B0HJ8GKFP7.jpg"},
