@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"JBL Tune 530BT (2026) – Wireless On-Ear Bluetooth Headphones (Purple)",c:"Electronics",e:"🔌",dt:"Nov 15",l:"https://www.amazon.com/dp/B0GMSKV7GK",img:"img/B0GMSKV7GK.jpg"},
 {t:"OZULER Stress Ball Making Kits",c:"Home",e:"🏠",n:"40% off with code 06N5AE3U",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HHMTQS3Y",img:"img/B0HHMTQS3Y.jpg"},
 {t:"Crock-Pot Slow Cooker, Easy-to-Clean Nonstick, One-Touch Control, 6-Quart",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B0D9Z1TN3J",img:"img/B0D9Z1TN3J.jpg"},
 {t:"Rubbermaid Brilliance Plastic Airtight Food Storage Containers, 24-Count",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B07X5Y11CB",img:"img/B07X5Y11CB.jpg"},
