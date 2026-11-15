@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wooden Kids Bookshelves",c:"Kids",e:"🎨",n:"50% off with code E5WJQ6X9",dt:"Nov 15",l:"https://www.amazon.com/dp/B0DT6PLVP7",img:"img/B0DT6PLVP7.jpg"},
 {t:"10FT Outdoor Christmas Decorations LED Ladder Lights with Climbing Santa",c:"Home",e:"🎄",n:"Use code RIPDZ288",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H2F4TY5Z",img:"img/B0H2F4TY5Z.jpg"},
 {t:"Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - PlayStation 5",c:"Games",e:"🎮",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H3ZNY2G5",img:"img/B0H3ZNY2G5.jpg"},
 {t:"Breville BSV600PSS Joule Turbo Sous Vide Machine, Polished Stainless Steel",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B0C384T4P2",img:"img/B0C384T4P2.jpg"},
