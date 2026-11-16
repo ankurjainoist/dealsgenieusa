@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hudson Baby Cotton Bodysuits",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0BM4H6DXZ"},
+{t:"Better Barber Straight Edge Razors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0B46HVCPT"},
+{t:"30 Inch Christmas Wreaths with Lights",c:"Home",e:"🎄",n:"50% off with code KQ4TPFET",dt:"Nov 15",l:"https://www.amazon.com/dp/B0B8BGZ82N"},
+{t:"Kodiak Honey Oat Protein Granolas",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B0DP3JV2WB"},
+{t:"HAPBEAR Inflatable Paddle Boards",c:"Home",e:"🏠",n:"50% off with code JBKC1Z40",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HD7953SL"},
 {t:"DSMJF 4-Light Kitchen Island Pendants",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HLK8WNJQ"},
 {t:"Lifewit Car Seat Back Protectors",c:"Auto",e:"🚗",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H3TRL27Y"},
 {t:"Versace Eros Energy for Men 3.4 oz Eau de Parfum Spray",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B0DFVGMXT5"},
