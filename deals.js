@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Tree Topper Star, Brown Christmas Tree Decorations for Christmas Holiday Seasonal Home Fit for",c:"Home",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/B099MTDSFZ",img:"img/B099MTDSFZ.jpg"},
 {t:"Jiudungs Christmas Table Runner, Xmas Holiday Decorations for Home Decor",c:"Home",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/B09F3GLHPT",img:"img/B09F3GLHPT.jpg"},
 {t:"Muslogy Armrest Cover for Honda CR-V 2023-2026 2027, Regular Thick, Orange",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0C7VGF1QX",img:"img/B0C7VGF1QX.jpg"},
 {t:"GOOACC 635Pcs Car Push Retainer Clips & Auto Fasteners Assortment -16 Most Popular Sizes Nylon Bumper Fender",c:"Auto",e:"🚗",dt:"Nov 16",l:"https://www.amazon.com/dp/B07Z83X5CD",img:"img/B07Z83X5CD.jpg"},
