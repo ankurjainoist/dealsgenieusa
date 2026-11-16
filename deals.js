@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DSMJF 4-Light Kitchen Island Pendants",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HLK8WNJQ"},
+{t:"Lifewit Car Seat Back Protectors",c:"Auto",e:"🚗",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H3TRL27Y"},
+{t:"Versace Eros Energy for Men 3.4 oz Eau de Parfum Spray",c:"Home",e:"🏠",dt:"Nov 15",l:"https://www.amazon.com/dp/B0DFVGMXT5"},
+{t:"Premillow Ear Muffs for Women",c:"Fashion",e:"👗",n:"Use code RV9A17PL",dt:"Nov 15",l:"https://www.amazon.com/dp/B0D4R1Q1NN"},
+{t:"Delta Children Deluxe Toy Box, Disney Minnie MoUse",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B00P6KN7JU"},
 {t:"Shiny Christmas Ball Ornaments",c:"Home",e:"🎄",n:"Use code K3L0DNO6",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HPPQHCVX",img:"img/B0HPPQHCVX.jpg"},
 {t:"Portable Clothes Steamers",c:"Home",e:"🏠",n:"Use code GE7T4BM3",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HF4VWHBJ",img:"img/B0HF4VWHBJ.jpg"},
 {t:"National Tree Company 4.5ft Pre-Lit North Valley Spruce Christmas Tree",c:"Home",e:"🎄",dt:"Nov 15",l:"https://www.amazon.com/dp/B00MS7VNXQ",img:"img/B00MS7VNXQ.jpg"},
