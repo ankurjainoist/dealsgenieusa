@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"EZshoot Picatinny Laser Sights",c:"Home",e:"🏠",n:"40% off with code 9F90SAVL",dt:"Nov 16",l:"https://www.amazon.com/dp/B0FXGQWJJZ",img:"img/B0FXGQWJJZ.jpg"},
 {t:"GroovyySprout Indoor Herb Garden Kits",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HG3K1YNQ",img:"img/B0HG3K1YNQ.jpg"},
 {t:"Garmin vvoactive 5 Smartwatches",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CG6NBJ61",img:"img/B0CG6NBJ61.jpg"},
 {t:"Meta Quest 3S 128GB, VR Headset — Golf+ Included — Tee Off in VR",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0F2GYMC8H",img:"img/B0F2GYMC8H.jpg"},
