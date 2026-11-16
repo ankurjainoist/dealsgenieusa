@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"JBL Flip 7 Portable Speakers",c:"Electronics",e:"🔌",dt:"Nov 16",l:"https://www.amazon.com/dp/B0DMYJ48DK"},
+{t:"LEGO Book Rack Wall Shelf 18.9 in Black",c:"Toys",e:"🧸",dt:"Nov 16",l:"https://www.amazon.com/dp/B085QXDPTC"},
+{t:"Heated Hoodie with 18400mAh Battery",c:"Electronics",e:"🔌",n:"40% off with code DQ82B63M",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H8NFJ8Q4"},
+{t:"Stanley Quencher H2.0 Tumblers",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CK9GTLJY"},
+{t:"Mens Quarter Zip Sweater",c:"Fashion",e:"👗",n:"Use code 869RPLIR",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HK3SNF3K"},
 {t:"VTech Turn and Learn Drivers",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B078KGNGNS"},
 {t:"Delta Children CoComelon Toy Storage Organizers",c:"Toys",e:"🧸",dt:"Nov 16",l:"https://www.amazon.com/dp/B09WXYYFKV"},
 {t:"Bamboo Electric Toothbrushes",c:"Home",e:"🏠",n:"Use code NX6R31DD",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H9CJ3HKK"},
