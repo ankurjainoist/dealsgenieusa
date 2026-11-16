@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Shiny Christmas Ball Ornaments",c:"Home",e:"🎄",n:"Use code K3L0DNO6",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HPPQHCVX",img:"img/B0HPPQHCVX.jpg"},
 {t:"Portable Clothes Steamers",c:"Home",e:"🏠",n:"Use code GE7T4BM3",dt:"Nov 15",l:"https://www.amazon.com/dp/B0HF4VWHBJ",img:"img/B0HF4VWHBJ.jpg"},
 {t:"National Tree Company 4.5ft Pre-Lit North Valley Spruce Christmas Tree",c:"Home",e:"🎄",dt:"Nov 15",l:"https://www.amazon.com/dp/B00MS7VNXQ",img:"img/B00MS7VNXQ.jpg"},
 {t:"10.1 Inch Digital Calendars",c:"Home",e:"🏠",n:"Use code EJBMWWWQ",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FS5LTZX7",img:"img/B0FS5LTZX7.jpg"},
