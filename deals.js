@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"VTech Turn and Learn Drivers",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B078KGNGNS"},
+{t:"Delta Children CoComelon Toy Storage Organizers",c:"Toys",e:"🧸",dt:"Nov 16",l:"https://www.amazon.com/dp/B09WXYYFKV"},
+{t:"Bamboo Electric Toothbrushes",c:"Home",e:"🏠",n:"Use code NX6R31DD",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H9CJ3HKK"},
+{t:"Womens Sweatsuit SETS",c:"Fashion",e:"👗",n:"50% off with code RASY3HTU",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CC95SMNV"},
 {t:"ORIGINAL CREATOR-4 Pack Silicone Mason Jar Lids for Ball, Kerr and More,Fit Regular Mouth & Wide Mouth",c:"Home",e:"🏠",n:"Use code HQYYNRN4",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GR9HQF9D"},
 {t:"ENEPHE Wall Climbing RC Cars",c:"Auto",e:"🚗",n:"40% off with code 7EH15L6H",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HFM8WSSQ"},
 {t:"Cordless Electric Lunch Boxes",c:"Home",e:"🏠",n:"Use code EFYGSXF4",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H1VVBJBV"},
