@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Logitech G29 Driving Force Racing Wheel and Pedals, Force Feedback, Real Leather + Logitech G Driving Force",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B016JBE8LU",img:"img/B016JBE8LU.jpg"},
 {t:"ft 6.6ft 6ft Wood Arch Backdrop Cover Set of 3, Wrinkle Free Stretchy Spandex Vibrant Rustic Vintage Chiara",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0DX6MCNLP",img:"img/B0DX6MCNLP.jpg"},
 {t:"Fall Round Area Rug 6ft Autumn Pumpkin Maple Leaf Floor Carpets Indoor Floor Area Mat Stain-Proof Rugs for",c:"Home",e:"🎃",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CCTQMMWF",img:"img/B0CCTQMMWF.jpg"},
 {t:"check all",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HMXH3243",img:"img/B0HMXH3243.jpg"},
