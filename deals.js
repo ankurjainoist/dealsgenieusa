@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lumizone Extra Tall Pet Gates",c:"Pets",e:"🐾",dt:"Nov 15",l:"https://www.amazon.com/dp/B0CJ6G9D4R",img:"img/B0CJ6G9D4R.jpg"},
 {t:"justable Thigh Trainers",c:"Home",e:"🏠",n:"Use code MT9LC9AB",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H3692VB7",img:"img/B0H3692VB7.jpg"},
 {t:"Foldable Dog Bed Ramps",c:"Pets",e:"🐾",n:"Use code WQY9K6KY",dt:"Nov 15",l:"https://www.amazon.com/dp/B0H74ZS9G1",img:"img/B0H74ZS9G1.jpg"},
 {t:"Christmas Bath Mats & Towels",c:"Home",e:"🎄",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0FHQ8ZHF6",img:"img/B0FHQ8ZHF6.jpg"},
