@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Similac 360 Total Care Gentle Comfort Baby Formula, Easy-to-Digest Formula, Has 5 HMO Prebiotics, Powder",c:"Baby",e:"👶",n:"Subscribe & Save available",dt:"Nov 16",l:"https://www.amazon.com/dp/B0G3Q8DBY7",img:"img/B0G3Q8DBY7.jpg"},
 {t:"Christmas Door Banners",c:"Home",e:"🎄",n:"50% off with code 6SSF2F8X",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HR9BFDTJ",img:"img/B0HR9BFDTJ.jpg"},
 {t:"Similac 360 Total Care Baby Formula Powder, 5 HMO Prebiotics",c:"Baby",e:"👶",n:"Subscribe & Save available",dt:"Nov 16",l:"https://www.amazon.com/dp/B09F5X1JVR",img:"img/B09F5X1JVR.jpg"},
 {t:"Similac 360 Total Care Sensitive Baby Formula Powder, 5 HMO Prebiotic Blend",c:"Baby",e:"👶",n:"Subscribe & Save available",dt:"Nov 16",l:"https://www.amazon.com/dp/B09F5FHFPC",img:"img/B09F5FHFPC.jpg"},
