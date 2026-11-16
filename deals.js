@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Air Compression Leg and Calf Massager!",c:"Health",e:"💊",n:"Use code 812MTASD",dt:"Nov 16",l:"https://www.amazon.com/dp/B07CWK93RY",img:"img/B07CWK93RY.jpg"},
 {t:"MAREE Dark Spot Remover!",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HBX35YCW",img:"img/B0HBX35YCW.jpg"},
 {t:"Wireless Bluetooth Earphone Set!",c:"Electronics",e:"🔌",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HHYMYMV9",img:"img/B0HHYMYMV9.jpg"},
 {t:"4.5ft Best Choice Pre-Lit Christmas Tree!",c:"Home",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CH43Z3R5",img:"img/B0CH43Z3R5.jpg"},
