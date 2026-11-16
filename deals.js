@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Muslogy Armrest Cover for Honda CR-V 2023-2026 2027, Regular Thick, Orange",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0C7VGF1QX",img:"img/B0C7VGF1QX.jpg"},
 {t:"GOOACC 635Pcs Car Push Retainer Clips & Auto Fasteners Assortment -16 Most Popular Sizes Nylon Bumper Fender",c:"Auto",e:"🚗",dt:"Nov 16",l:"https://www.amazon.com/dp/B07Z83X5CD",img:"img/B07Z83X5CD.jpg"},
 {t:"3D Pin Art Board Impression Sensory Toys Gifts for Kids with Autism",c:"Toys",e:"🧸",dt:"Nov 16",l:"https://www.amazon.com/dp/B07V66SVXV",img:"img/B07V66SVXV.jpg"},
 {t:"GEARit Speaker Wire 14 Gauge 100 ft, UL CL3 Rated 14 Gauge Wire Copper Wire",c:"Electronics",e:"🔌",dt:"Nov 16",l:"https://www.amazon.com/dp/B01N3NVXV6",img:"img/B01N3NVXV6.jpg"},
