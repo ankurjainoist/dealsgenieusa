@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Mint 6-Inch Plant Pots with Drainage & Saucers 12 Pack, Indoor & Outdoor Planters for HoUseplants, Herbs, and",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0FKPKF9MH",img:"img/B0FKPKF9MH.jpg"},
 {t:"PlayStation Access Controller 5",c:"Games",e:"🎮",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CCGYBSW8",img:"img/B0CCGYBSW8.jpg"},
 {t:"Lyeasw Christmas Solar Garden Flags",c:"Home",e:"🎄",n:"50% off with code FVD493F9",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HL7ZJSVY",img:"img/B0HL7ZJSVY.jpg"},
 {t:"Similac 360 Total Care Gentle Comfort Baby Formula, Easy-to-Digest Formula, Has 5 HMO Prebiotics, Powder",c:"Baby",e:"👶",n:"Subscribe & Save available",dt:"Nov 16",l:"https://www.amazon.com/dp/B0G3Q8DBY7",img:"img/B0G3Q8DBY7.jpg"},
