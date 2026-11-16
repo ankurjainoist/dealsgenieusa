@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"41 in Wall Mounted Shelf with LED Light!",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HF6XTMCM",img:"img/B0HF6XTMCM.jpg"},
 {t:"32-Piece Beetles French Tip Press On Nails!",c:"Beauty",e:"💄",dt:"Nov 16",l:"https://www.amazon.com/dp/B0G2RJ2XB5",img:"img/B0G2RJ2XB5.jpg"},
 {t:"Air Compression Leg and Calf Massager!",c:"Health",e:"💊",n:"Use code 812MTASD",dt:"Nov 16",l:"https://www.amazon.com/dp/B07CWK93RY",img:"img/B07CWK93RY.jpg"},
 {t:"MAREE Dark Spot Remover!",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HBX35YCW",img:"img/B0HBX35YCW.jpg"},
