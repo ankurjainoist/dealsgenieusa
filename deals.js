@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Smart Interactive Cat Toys!",c:"Pets",e:"🐾",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GWXQ71L5",img:"img/B0GWXQ71L5.jpg"},
 {t:"Set of 5 Resistance Bands!",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GK1H4S9R",img:"img/B0GK1H4S9R.jpg"},
 {t:"108-Piece SEESII Cordless Drill Set!",c:"Tools",e:"🔧",n:"Use code JR6VOYQX",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H1GCNCCK",img:"img/B0H1GCNCCK.jpg"},
 {t:"Nicpro 6PCS Art Mechanical Pencil Set, 0.5/0.7/0.9/2mm Point",c:"Kids",e:"🎨",dt:"Nov 16",l:"https://www.amazon.com/dp/B07XMPTDMJ",img:"img/B07XMPTDMJ.jpg"},
