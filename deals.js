@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Low stock",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0C5H7M7T4",img:"img/B0C5H7M7T4.jpg"},
 {t:"PlayStation VR2 Sense Controller Charging Station",c:"Games",e:"🎮",dt:"Nov 16",l:"https://www.amazon.com/dp/B0BLZXLHKD",img:"img/B0BLZXLHKD.jpg"},
 {t:"SweeTARTS Original Candy, Sweet & Tart, Theater Box, 5 oz, Pack of 10",c:"Grocery",e:"🛒",dt:"Nov 16",l:"https://www.amazon.com/dp/B01N9RB2O9",img:"img/B01N9RB2O9.jpg"},
 {t:"3 More Inches Pre-wash Treatments",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CJG17ZTB",img:"img/B0CJG17ZTB.jpg"},
