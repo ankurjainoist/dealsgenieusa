@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"ORIGINAL CREATOR-4 Pack Silicone Mason Jar Lids for Ball, Kerr and More,Fit Regular Mouth & Wide Mouth",c:"Home",e:"🏠",n:"Use code HQYYNRN4",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GR9HQF9D"},
+{t:"ENEPHE Wall Climbing RC Cars",c:"Auto",e:"🚗",n:"40% off with code 7EH15L6H",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HFM8WSSQ"},
+{t:"Cordless Electric Lunch Boxes",c:"Home",e:"🏠",n:"Use code EFYGSXF4",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H1VVBJBV"},
+{t:"Lace Sheer Dress",c:"Fashion",e:"👗",n:"Use code VBW6YUOM",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H49J1SP1"},
+{t:"GARVEE Pre-Lit Christmas Wreaths",c:"Home",e:"🎄",n:"Use code SVA8PXX6",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HFVCM5S3"},
 {t:"Hudson Baby Cotton Bodysuits",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0BM4H6DXZ"},
 {t:"Better Barber Straight Edge Razors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 15",l:"https://www.amazon.com/dp/B0B46HVCPT"},
 {t:"30 Inch Christmas Wreaths with Lights",c:"Home",e:"🎄",n:"50% off with code KQ4TPFET",dt:"Nov 15",l:"https://www.amazon.com/dp/B0B8BGZ82N"},
