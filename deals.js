@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MNGARISTA Retractable Badge Holder,Heavy Duty Carabiner Clip Keychain Badge Reel,Tactical ID Card Key Holder",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B09J4BMF79",img:"img/B09J4BMF79.jpg"},
 {t:"1\\. 1920P Endoscope Camera – 8 LED Lights, 16.5FT Cable",c:"Electronics",e:"🔌",n:"Use code G3AYJ54N",dt:"Nov 16",l:"https://www.amazon.com/dp/B0C2P7KP5D"},
 {t:"2\\. Mommin Embroidered Ponytail Trucker Hat",c:"Home",e:"🏠",n:"Use code 6LH58WH0",dt:"Nov 16",l:"https://www.amazon.com/dp/B0DYNSBYFV"},
 {t:"3\\. Women's 2-Piece Fleece Sweatshirt & Sweatpants Set",c:"Fashion",e:"👗",n:"Use code T05WSS7T",dt:"Nov 16",l:"https://www.amazon.com/dp/B0FVYDM9NH"},
