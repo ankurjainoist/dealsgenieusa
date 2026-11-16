@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wireless Bluetooth Earphone Set!",c:"Electronics",e:"🔌",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HHYMYMV9",img:"img/B0HHYMYMV9.jpg"},
 {t:"4.5ft Best Choice Pre-Lit Christmas Tree!",c:"Home",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CH43Z3R5",img:"img/B0CH43Z3R5.jpg"},
 {t:"Smart Interactive Cat Toys!",c:"Pets",e:"🐾",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GWXQ71L5",img:"img/B0GWXQ71L5.jpg"},
 {t:"Set of 5 Resistance Bands!",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GK1H4S9R",img:"img/B0GK1H4S9R.jpg"},
