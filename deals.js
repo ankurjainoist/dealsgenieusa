@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Similac 360 Total Care Sensitive Baby Formula Powder, 5 HMO Prebiotic Blend",c:"Baby",e:"👶",n:"Subscribe & Save available",dt:"Nov 16",l:"https://www.amazon.com/dp/B09F5FHFPC",img:"img/B09F5FHFPC.jpg"},
 {t:"CHEFMAN Indoor Pizza Oven - Makes 12 Inch Pizzas in Minutes, Heats up to 800°F - Countertop Electric Pizza",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CM2YBHZ3",img:"img/B0CM2YBHZ3.jpg"},
 {t:"Logitech G29 Driving Force Racing Wheel and Pedals, Force Feedback, Real Leather + Logitech G Driving Force",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B016JBE8LU",img:"img/B016JBE8LU.jpg"},
 {t:"ft 6.6ft 6ft Wood Arch Backdrop Cover Set of 3, Wrinkle Free Stretchy Spandex Vibrant Rustic Vintage Chiara",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0DX6MCNLP",img:"img/B0DX6MCNLP.jpg"},
