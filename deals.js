@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fall Round Area Rug 6ft Autumn Pumpkin Maple Leaf Floor Carpets Indoor Floor Area Mat Stain-Proof Rugs for",c:"Home",e:"🎃",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CCTQMMWF",img:"img/B0CCTQMMWF.jpg"},
 {t:"check all",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HMXH3243",img:"img/B0HMXH3243.jpg"},
 {t:"Worx WX026L.920V Power Share LED Work Light (Tool Only)",c:"Tools",e:"🔧",dt:"Nov 16",l:"https://www.amazon.com/dp/B01MSMI3AS",img:"img/B01MSMI3AS.jpg"},
 {t:"Rubbermaid Brilliance Glass Food Storage Containers, Clear, 9-Count",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B08BR9HBZ3",img:"img/B08BR9HBZ3.jpg"},
