@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Garmin vvoactive 5 Smartwatches",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CG6NBJ61",img:"img/B0CG6NBJ61.jpg"},
 {t:"Meta Quest 3S 128GB, VR Headset — Golf+ Included — Tee Off in VR",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0F2GYMC8H",img:"img/B0F2GYMC8H.jpg"},
 {t:"JBL Flip 7 Portable Speakers",c:"Electronics",e:"🔌",dt:"Nov 16",l:"https://www.amazon.com/dp/B0DMYJ48DK"},
 {t:"LEGO Book Rack Wall Shelf 18.9 in Black",c:"Toys",e:"🧸",dt:"Nov 16",l:"https://www.amazon.com/dp/B085QXDPTC"},
