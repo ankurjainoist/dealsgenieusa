@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Returnal - PlayStation 5",c:"Games",e:"🎮",dt:"Nov 16",l:"https://www.amazon.com/dp/B08QFPS48J",img:"img/B08QFPS48J.jpg"},
 {t:"E. B. White Box Set: 3 Classic Favorites: Charlottes Web, Stuart Little, The Trumpet of the Swan",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/0064409643",img:"img/0064409643.jpg"},
 {t:"Command Towel Bar, Satin Nickel",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B09WBYV7R3",img:"img/B09WBYV7R3.jpg"},
 {t:"Low stock",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0C5H7M7T4",img:"img/B0C5H7M7T4.jpg"},
