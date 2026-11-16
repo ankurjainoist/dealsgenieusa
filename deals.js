@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fisher-Price Wood Barbie Cookie Baking Set",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0G6GF6QGB",img:"img/B0G6GF6QGB.jpg"},
 {t:"ZYHKON Sleep Earbuds (Blue)",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HHM5HRW6",img:"img/B0HHM5HRW6.jpg"},
 {t:"Returnal - PlayStation 5",c:"Games",e:"🎮",dt:"Nov 16",l:"https://www.amazon.com/dp/B08QFPS48J",img:"img/B08QFPS48J.jpg"},
 {t:"E. B. White Box Set: 3 Classic Favorites: Charlottes Web, Stuart Little, The Trumpet of the Swan",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/0064409643",img:"img/0064409643.jpg"},
