@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Play-Doh Starter Set 9-Piece Kit with Storage Tote & 4 Modeling Compound Cans! 48% price drop!",c:"Fashion",e:"👗",dt:"Nov 16",l:"https://www.amazon.com/dp/B00TPMDNSU",img:"img/B00TPMDNSU.jpg"},
 {t:"My Weird School Daze 12-Book Box Set: Books 1-12! 73% price drop!",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/0062288911",img:"img/0062288911.jpg"},
 {t:"Melissa & Doug Build-A-House Wooden Toolbox Pretend Play Construction! Clip coupon!",c:"Toys",e:"🧸",dt:"Nov 16",l:"https://www.amazon.com/dp/B0G4XLT29N",img:"img/B0G4XLT29N.jpg"},
 {t:"Moose Evil Genie Party Card Game, Combine Wishes, 2-8 Players, Ages 8+! 75% price drop!",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CPMFPJKG",img:"img/B0CPMFPJKG.jpg"},
