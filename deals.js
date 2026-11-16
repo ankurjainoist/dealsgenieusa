@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"GEARit Speaker Wire 14 Gauge 100 ft, UL CL3 Rated 14 Gauge Wire Copper Wire",c:"Electronics",e:"🔌",dt:"Nov 16",l:"https://www.amazon.com/dp/B01N3NVXV6",img:"img/B01N3NVXV6.jpg"},
 {t:"KETIEE Drawing Projector for Kids, Children Smart Projector Sketcher",c:"Electronics",e:"🔌",dt:"Nov 16",l:"https://www.amazon.com/dp/B0B4DSDH7L",img:"img/B0B4DSDH7L.jpg"},
 {t:"Play-Doh Starter Set 9-Piece Kit with Storage Tote & 4 Modeling Compound Cans! 48% price drop!",c:"Fashion",e:"👗",dt:"Nov 16",l:"https://www.amazon.com/dp/B00TPMDNSU",img:"img/B00TPMDNSU.jpg"},
 {t:"My Weird School Daze 12-Book Box Set: Books 1-12! 73% price drop!",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/0062288911",img:"img/0062288911.jpg"},
