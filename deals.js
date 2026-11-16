@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Melissa & Doug Build-A-House Wooden Toolbox Pretend Play Construction! Clip coupon!",c:"Toys",e:"🧸",dt:"Nov 16",l:"https://www.amazon.com/dp/B0G4XLT29N",img:"img/B0G4XLT29N.jpg"},
 {t:"Moose Evil Genie Party Card Game, Combine Wishes, 2-8 Players, Ages 8+! 75% price drop!",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CPMFPJKG",img:"img/B0CPMFPJKG.jpg"},
 {t:"Minnie Mouse Outdoor Playhouse for Kids with Canopy, 3 Water & Sand Tables! Clip coupon!",c:"Kids",e:"🎨",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HJ9HT6JG",img:"img/B0HJ9HT6JG.jpg"},
 {t:"Mint 6-Inch Plant Pots with Drainage & Saucers 12 Pack, Indoor & Outdoor Planters for HoUseplants, Herbs, and",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0FKPKF9MH",img:"img/B0FKPKF9MH.jpg"},
