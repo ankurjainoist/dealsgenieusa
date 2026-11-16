@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Custom Neon Name Signs",c:"Home",e:"🏠",n:"Coupon: 50% off",dt:"Nov 16",l:"https://www.amazon.com/dp/B0BZL9383B",img:"img/B0BZL9383B.jpg"},
 {t:"Size Small",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0FRB3WNV1",img:"img/B0FRB3WNV1.jpg"},
 {t:"EXPO Low-Odor Dry Erase Markers",c:"Kids",e:"🎨",dt:"Nov 16",l:"https://www.amazon.com/dp/B0004F7GUI",img:"img/B0004F7GUI.jpg"},
 {t:"Dell XPS 13 Touchscreen Laptops",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HQ5ZLKZK",img:"img/B0HQ5ZLKZK.jpg"},
