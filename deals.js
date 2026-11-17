@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Womens Crossbody Purses,Soft Leather Medium Crossbody Bag",c:"Fashion",e:"👗",n:"45% off with code 77SRYYUC",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HH8XSR7S"},
+{t:"Weatherproof Outdoor TV Lift Cabinet Solid Wood Mobile TV Stand on Wheels",c:"Home",e:"🏠",n:"50% off with code LIFZM4K9",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRNZ69QS"},
 {t:"DIY Dog Face Squishy Toy, Cute Slow Rise Sensory Fidget Stress Relief Toy",c:"Pets",e:"🐾",n:"50% off with code M3UHPJCF",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HFHS7363"},
 {t:"Rechargeable High Lumens Flashlights",c:"Home",e:"🏠",n:"Use code ZMKRBC5S",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQ7F431S"},
 {t:"STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Peony",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CRMP3RQT"},
