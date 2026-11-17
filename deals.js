@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"10% Vitamin C Fresh Single-Dose Ampoules 45ml for Brighter-Looking Skin",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H1R7GV9L"},
 {t:"Motorcycle LED Underglow Lights",c:"Home",e:"🏠",n:"50% off with code A19K7UT2",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRFLRXHF"},
 {t:"Viktor&Rolf Tiger Lily Eau de Parfum - Ambery Floral Perfume for Women",c:"Beauty",e:"💄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CYR3QF8V"},
 {t:"KidKraftventure Bound: Wooden Pirate Ship Play Set with Lights and Sounds, Pirate Figures, 8 Pieces Included",c:"Toys",e:"🧸",dt:"Nov 17",l:"https://www.amazon.com/dp/B084PYPWFB"},
