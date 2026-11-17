@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Natural Rattan Boho Lanterns - Handcrafted Chic FarmhoUse Decor for Home",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0D8KWXKYH"},
+{t:"LEGO Animal Crossing Goldie’s Cozy HoUse 77058",c:"Toys",e:"🧸",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DRW6PHRQ"},
 {t:"KQJS Large Makeup Organizers",c:"Beauty",e:"💄",n:"40% off with code Z5UIUOZE",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H1V5XXRY"},
 {t:"American Girl, Truly Me 18-inch Doll #110 with Blue Eyes, Wavy Blonde Hair, Light Skin with Freckles, for",c:"Beauty",e:"💄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DR3L4ZQJ"},
 {t:"Wella Professionals Invigo Brilliance Conditioner, Fine/Normal Hair",c:"Beauty",e:"💄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0B64FTW2J"},
