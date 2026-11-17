@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"KIRUNDO Casual Long Sleeve Dresses",c:"Fashion",e:"👗",n:"Use code 9Z8988X6",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GWHL425G"},
+{t:"Christmas Ball Ornaments (Red)",c:"Home",e:"🎄",n:"Use code SL83BQPR",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H838P2M7"},
 {t:"JCREN Magnetic Alphabet Letters",c:"Home",e:"🏠",n:"Use code LP6DY7G7",dt:"Nov 17",l:"https://www.amazon.com/dp/B088QYJPWB"},
 {t:"Solar Christmas Pathway Lights",c:"Home",e:"🎄",n:"Use code D1NCQ9FO",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H8PDQMNK"},
 {t:"Cordless Nail Lamp, Rechargeable UV Nail Lamp for Gel Nails",c:"Beauty",e:"💄",n:"Use code HNJ3LW56",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CT3BW927"},
