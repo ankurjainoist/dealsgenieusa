@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Sonic X Shadow Generations - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 16",l:"https://www.amazon.com/dp/B0F663CWT8",img:"img/B0F663CWT8.jpg"},
 {t:"Afnan Souvenir Floral Bouquet Womens Luxurious Perfume Gift Set",c:"Beauty",e:"💄",dt:"Nov 16",l:"https://www.amazon.com/dp/B07W941ZGS",img:"img/B07W941ZGS.jpg"},
 {t:"Pro Waterproof 4K Action Cameras",c:"Electronics",e:"🔌",n:"Use code 66WI2F7N",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HM3C42FD",img:"img/B0HM3C42FD.jpg"},
 {t:"GFInYHM Friendsgiving Paper Plates",c:"Home",e:"🏠",n:"50% off with code 0ZSZJ6LU",dt:"Nov 16",l:"https://www.amazon.com/dp/B0D9VB4WV1",img:"img/B0D9VB4WV1.jpg"},
