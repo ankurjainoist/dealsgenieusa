@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Monster N-Lite 210 Wireless Earbuds",c:"Electronics",e:"🔌",n:"Use code 1X2WP93X",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HM71LKST",img:"img/B0HM71LKST.jpg"},
 {t:"Solar Powereddress Signs",c:"Home",e:"🏠",n:"45% off with code 6JLEWOLL",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CF4KM2J3",img:"img/B0CF4KM2J3.jpg"},
 {t:"2.8L Electric Heated Lunch Box forult 100W Portable Food Warmer",c:"Home",e:"🏠",n:"Use code YAR1KH18",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GTQ4Y886",img:"img/B0GTQ4Y886.jpg"},
 {t:"Rubbermaid Brilliance Food Storage Containers",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B076N6DLFJ",img:"img/B076N6DLFJ.jpg"},
