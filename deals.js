@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"WANDF Travel Pill Organizers",c:"Home",e:"🏠",n:"Use code BJ398OBT",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HNNSGGBP"},
 {t:"3-Inch Dash Cams",c:"Home",e:"🏠",n:"Use code VK4DKYTQ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HNZFR7S2"},
 {t:"Motor Meter Racing Gauge Sets",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CTMPBJQ1"},
 {t:"A Strong Heart Chicken, Beef, and Salmon Variety Pack Cat Food, 3oz, 24pk",c:"Pets",e:"🐾",n:"Subscribe & Save available",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CWLRZY2S"},
