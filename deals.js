@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cordless Electric Grass Trimmers",c:"Beauty",e:"💄",n:"50% off with code G6EXEUNP",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GVJB7QJG",img:"img/B0GVJB7QJG.jpg"},
 {t:"Princess Polly Womens Mayzie Mini Dress",c:"Fashion",e:"👗",dt:"Nov 16",l:"https://www.amazon.com/dp/B0F25BZBBM",img:"img/B0F25BZBBM.jpg"},
 {t:"Red Light Therapy Face Masks",c:"Beauty",e:"💄",n:"Use code C9G4FQRX",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GKGCJ6QN",img:"img/B0GKGCJ6QN.jpg"},
 {t:"Christmas Lights, 50-Count Green Wire Light Set, Battery Operated Christmas Mini String Light with 8 Modes",c:"Electronics",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/B08F2N1M91",img:"img/B08F2N1M91.jpg"},
