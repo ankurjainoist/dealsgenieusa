@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"4-Tier Tree Bookshelf Small Bookcase With Drawer Wood Tree Book Case with Fabric Drawer",c:"Home",e:"🏠",n:"50% off with code 97X9GI5D",dt:"Nov 17",l:"https://www.amazon.com/dp/B0D2D79KS4"},
+{t:"Beauty Salon Deluxe Styling Set -Kids Hair Dryer Toy, Straightener Hairdryer with Real Function",c:"Beauty",e:"💄",n:"58% off with code 8ME0WH3A",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DK391HX3"},
+{t:"Electric Drumsticks Portable Air Drum Set with Foot Pedals forults, Kids",c:"Kids",e:"🎨",n:"55% off with code 9L2Q8M7H",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FHG768KV"},
 {t:"Convertible Board Game Table for 4-6 Players-Spacious Gaming Space w/Clean-Edge Table Top",c:"Home",e:"🏠",n:"40% off with code 7ZQJ2X4Z",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HPJP99QF"},
 {t:"Baseball Game Day Sweatshirts",c:"Fashion",e:"👗",n:"50% off with code ZV40TZQK",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQYRGG5S"},
 {t:"Contigo SnapSeal Stainless Steel Vacuum-Insulated Water Bottle, 24oz",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GH8VNBQ7"},
