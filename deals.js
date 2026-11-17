@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PAW Patrol Mighty Lookout Tower Playset With 4 Figures & Toy Car",c:"Auto",e:"🚗",dt:"Nov 17",l:"https://www.amazon.com/dp/B08W5DGL1V"},
+{t:"24 in Flocked Mini Christmas Trees",c:"Home",e:"🎄",n:"Use code RYBA8DME",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRFPT8CW"},
 {t:"Rkwins Lightweight Crewneck Sweatshirts",c:"Fashion",e:"👗",n:"50% off with code C8MX30KW",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HPP3NDZ7"},
 {t:"3 pack",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CQ6RKSBF"},
 {t:"13 Inch Carbon Steel Woks",c:"Home",e:"🏠",n:"Use code B4AXAS4O",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HJ83BM5R",img:"img/B0HJ83BM5R.jpg"},
