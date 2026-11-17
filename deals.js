@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Games Workshop - Warhammer 40,000 - Armageddon: Return of Yarrick (Campaign Rulebook Set)",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/1804577510"},
 {t:"Nillkin Galaxy S25 Ultra Cases",c:"Home",e:"🏠",n:"40% off with code AAWRAIQB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DNMQRBRL"},
 {t:"Jingle Bells Sound Book: An Interactive Wintertime Sound Book Featuring Santa, Christmas Carols, and More",c:"Home",e:"🎄",dt:"Nov 17",l:"https://www.amazon.com/dp/1836051891"},
 {t:"Marvels Wolverine PS5",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G6157JKW"},
