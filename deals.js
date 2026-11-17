@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Construction Truck Christmas Wrapping Paper - 40×28 Inches, 4 Folded Sheets! Clip coupon!",c:"Auto",e:"🎄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FFMC8NTD",img:"img/B0FFMC8NTD.jpg"},
 {t:"P108 Neo Mini RGBWW LED Video Light!",c:"Home",e:"🏠",n:"Use code 45M5JLN6",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GQ9WRTB8",img:"img/B0GQ9WRTB8.jpg"},
 {t:"HelloBaby No WiFi Baby Monitor Camera and Audio HB6550, 5 in Video Screen",c:"Baby",e:"👶",dt:"Nov 17",l:"https://www.amazon.com/dp/B09GM8JZM9",img:"img/B09GM8JZM9.jpg"},
 {t:"Fashion Casual Analog Watches for Men with Functional Chronograph Subscribedials",c:"Electronics",e:"🔌",n:"60% off with code 6DGJM14V",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FSYMDD38"},
