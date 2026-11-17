@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Scary Stories Paperback Box Set: The Complete 3-Book Collection with Classic Art by Stephen Gammell",c:"Kids",e:"🎨",dt:"Nov 17",l:"https://www.amazon.com/dp/006268289X"},
+{t:"PlayStation DualSense Wireless Controller – Chroma Teal - For PS5, PC, MAC & Mobile",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FY6Y5YDQ"},
 {t:"Games Workshop - Warhammer 40,000 - Armageddon: Return of Yarrick (Campaign Rulebook Set)",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/1804577510"},
 {t:"Nillkin Galaxy S25 Ultra Cases",c:"Home",e:"🏠",n:"40% off with code AAWRAIQB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DNMQRBRL"},
 {t:"Jingle Bells Sound Book: An Interactive Wintertime Sound Book Featuring Santa, Christmas Carols, and More",c:"Home",e:"🎄",dt:"Nov 17",l:"https://www.amazon.com/dp/1836051891"},
