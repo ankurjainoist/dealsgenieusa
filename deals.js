@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pretty Little Liars 4-Book Paperback Box Set: Pretty Little Liars, Flawless Perfect, Unbelievable",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/0063144646"},
 {t:"Apple iPad mini (A17 Pro)",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DK3W4YHS"},
 {t:"Hot Wheels Lets Race Slither N Strike RC, Remote-Control Snake",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G1VCN543"},
 {t:"Horizon Forbidden West Complete Edition - PS5",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CK4VWNYL"},
