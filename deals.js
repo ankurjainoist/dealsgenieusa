@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"ISFANGCO Halloween Dinnerware Sets",c:"Home",e:"🎃",n:"Use code RKM4TOE2",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H7J313P9"},
 {t:"110L Foldable Water Storage Containers",c:"Home",e:"🏠",n:"Use code GSE1LH2H",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRFZHLQF"},
 {t:"Klein Tools 80067 Electrical Test Kit, 4-Piece",c:"Tools",e:"🔧",dt:"Nov 17",l:"https://www.amazon.com/dp/B0B11NG8XM"},
 {t:"Stove Gap Covers",c:"Home",e:"🏠",n:"50% off with code SDG31ZLB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HCMYYXRH"},
