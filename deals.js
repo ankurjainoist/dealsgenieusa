@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pytha Sight Illuminated Outdoor Wall Clocks",c:"Home",e:"🏠",n:"Use code PM33C6QX",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GHMQKQC7"},
+{t:"Wireless Bluetooth Meat Thermometers",c:"Electronics",e:"🔌",n:"50% off with code 89QW8XU6",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQ66SY3D"},
+{t:"KitchenAid 3.5 Cup Food Chopper, KFC3516IC, Ice Blue",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B01LZ6QN28"},
 {t:"Ntidova Pet Air Purifiers",c:"Pets",e:"🐾",n:"Use code M8ETIW82",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H4NXLNPQ"},
 {t:"Gaming Chair forults with Headrest, All-Steel Ergonomic Leather Chair",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HLCFH9LS"},
 {t:"Teeth Whitening Kits with LED Light",c:"Home",e:"🏠",n:"Use code UMIODQ6R",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GHDTC7XV"},
