@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Blueys Quest for The Gold Pen - PlayStation 5",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FX5Y1QKX"},
 {t:"Scotch & Soda Boys Short Sleeve Graphic T-Shirt, Crewneck",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FJZMLFKZ"},
 {t:"Size M",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G1FWYX14"},
 {t:"Size Large",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FK5TXBWF"},
