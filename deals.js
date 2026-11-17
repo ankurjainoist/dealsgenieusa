@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"39 PCS Kitchen Utensils Set, Silicone Cooking Utensil Sets with Wooden Handle",c:"Kitchen",e:"🍳",n:"45% off with code CPA130NB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F23QPVVG"},
+{t:"VitaMotive Trunk Latch Actuators",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H39M1Z1N"},
+{t:"Christmas Butter Squishy, 2 Pack Squishy Butter Christmas Stick Squeeze Toys in Gift-Ready Box",c:"Kitchen",e:"🎄",n:"54% off with code 0VXQYGGV",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HM2VSCNH"},
 {t:"Womens Crossbody Purses,Soft Leather Medium Crossbody Bag",c:"Fashion",e:"👗",n:"45% off with code 77SRYYUC",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HH8XSR7S"},
 {t:"Weatherproof Outdoor TV Lift Cabinet Solid Wood Mobile TV Stand on Wheels",c:"Home",e:"🏠",n:"50% off with code LIFZM4K9",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRNZ69QS"},
 {t:"DIY Dog Face Squishy Toy, Cute Slow Rise Sensory Fidget Stress Relief Toy",c:"Pets",e:"🐾",n:"50% off with code M3UHPJCF",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HFHS7363"},
