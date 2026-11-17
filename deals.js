@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"low stock",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B07KSL2G54",img:"img/B07KSL2G54.jpg"},
 {t:"Sistema Microwaveable 940mL Noodle Bowl, Round Microwave Container with Lid & Steam-Release Vent, Cooks",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B009SD35IO",img:"img/B009SD35IO.jpg"},
 {t:"Suncar Licensed Ford Police Ride-On Trucks",c:"Auto",e:"🚗",n:"40% off with code EYMCBLAO",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HNDR8BFG",img:"img/B0HNDR8BFG.jpg"},
 {t:"Dash Cordless Hand Mixer, Beaters & Dough Hooks, French Grey",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H2FZYRL4",img:"img/B0H2FZYRL4.jpg"},
