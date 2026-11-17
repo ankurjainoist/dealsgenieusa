@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Klein Tools 80067 Electrical Test Kit, 4-Piece",c:"Tools",e:"🔧",dt:"Nov 17",l:"https://www.amazon.com/dp/B0B11NG8XM"},
 {t:"Stove Gap Covers",c:"Home",e:"🏠",n:"50% off with code SDG31ZLB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HCMYYXRH"},
 {t:"YKYI Cordless Pressure Washers",c:"Home",e:"🏠",n:"Use code X53YDQS6",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HMCLJNPN"},
 {t:"Hefty Party On Disposable Plastic Cold Cups, Red, 18 Ounce (50 Count (Pack of 3))",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0163LT9CY"},
