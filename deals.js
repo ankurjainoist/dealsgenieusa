@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DIY Dog Face Squishy Toy, Cute Slow Rise Sensory Fidget Stress Relief Toy",c:"Pets",e:"🐾",n:"50% off with code M3UHPJCF",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HFHS7363"},
+{t:"Rechargeable High Lumens Flashlights",c:"Home",e:"🏠",n:"Use code ZMKRBC5S",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQ7F431S"},
+{t:"STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Peony",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CRMP3RQT"},
+{t:"30 Pages Reusable Water Coloring Books, 3 Pack Travel Toy for Kids",c:"Toys",e:"🧸",n:"50% off with code BYN2RDE5",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GYRQ2JMR"},
+{t:"AAC Device for Autism, Communication Board &Tool for Nonverbal Kids18M-12Y",c:"Tools",e:"🔧",n:"50% off with code NYXVELB0",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HN721BV5"},
 {t:"Silicone Cooking Spoons,Dishwasher Safe,One-Piece Design,Spatula",c:"Home",e:"🏠",n:"57% off with code ET0YVGAP",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HJQDM68L"},
 {t:"Astercook 5 Qt Enameled Cast Iron Dutch Oven Pot with Lid",c:"Kitchen",e:"🍳",n:"50% off with code ABLFPBOF",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HJ18JF23"},
 {t:"Toddler Wide Toe Box Shoes Boys Girls Sneakers",c:"Baby",e:"👶",n:"50% off with code FPT858UL",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FSQHN54W"},
