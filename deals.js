@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cordless Soldering Iron Kit, USB Wireless Electric Soldering Pen",c:"Home",e:"🏠",n:"Use code TYS2QXVJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0C2CJ1FHX"},
+{t:"Dowry Lighted Makeup Mirrors",c:"Beauty",e:"💄",n:"Use code 8GAGP9Q5",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HN1QDCW5"},
 {t:"LEGO City Airplane, Service Truck & Hovercraft Remix 60505",c:"Auto",e:"🚗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FMS82D7Z"},
 {t:"Fidget Toys Stress Relief Set",c:"Toys",e:"🧸",n:"50% off with code Z0MTMB3O",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HL7W4SSC"},
 {t:"Propane Tank Gauge Level Indicator Leak Detector for 5-40 lb Tanks 2 Pack",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B086J9T537"},
