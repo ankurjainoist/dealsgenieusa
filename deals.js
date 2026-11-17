@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"50 in Lighted Glitter Nativity Scene Archway with Warm White LED Lights",c:"Home",e:"🏠",n:"Use code ZFDDOX22",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GWV24666",img:"img/B0GWV24666.jpg"},
 {t:"Gold Stackable Bracelets (4-Set)",c:"Fashion",e:"👗",n:"Use code XY306EIE",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GT4WSTB3",img:"img/B0GT4WSTB3.jpg"},
 {t:"Monster N-Lite 210 Wireless Earbuds",c:"Electronics",e:"🔌",n:"Use code 1X2WP93X",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HM71LKST",img:"img/B0HM71LKST.jpg"},
 {t:"Solar Powereddress Signs",c:"Home",e:"🏠",n:"45% off with code 6JLEWOLL",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CF4KM2J3",img:"img/B0CF4KM2J3.jpg"},
