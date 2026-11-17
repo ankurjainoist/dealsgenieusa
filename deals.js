@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"KRUPLH Portable Jump Starters",c:"Home",e:"🏠",n:"Use code U8RCFISA",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HHRNP7T4",img:"img/B0HHRNP7T4.jpg"},
 {t:"Bluetooth Music Boxing Machines",c:"Electronics",e:"🔌",n:"Use code EI0ZO8W5",dt:"Nov 16",l:"https://www.amazon.com/dp/B0D4YZRK2M",img:"img/B0D4YZRK2M.jpg"},
 {t:"Collapsible BBQ Prep Tubs",c:"Home",e:"🏠",n:"Use code HAYP4R93",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GGH5H49J",img:"img/B0GGH5H49J.jpg"},
 {t:"Wind-Up Santas Sleigh: A Toy and Book Gift Featuring a Christmas Journey with Santa and His Sleigh",c:"Toys",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/1836051905",img:"img/1836051905.jpg"},
