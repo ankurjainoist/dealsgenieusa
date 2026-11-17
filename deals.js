@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"SLOOSH Inflatable Tanning Pool Lounger Float, 85 in x 57 in Extra Large Pool Floats Adult with Pillow, 4 in 1",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0BKTP6ZGL",img:"img/B0BKTP6ZGL.jpg"},
 {t:"FYY Travel Pill Organizer,7 Compartments Small Pill Box Medicine Case-Brown",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0BM3LK6NV",img:"img/B0BM3LK6NV.jpg"},
 {t:"MNGARISTA Retractable Badge Holder,Heavy Duty Carabiner Clip Keychain Badge Reel,Tactical ID Card Key Holder",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B09J4BMF79",img:"img/B09J4BMF79.jpg"},
 {t:"1\\. 1920P Endoscope Camera – 8 LED Lights, 16.5FT Cable",c:"Electronics",e:"🔌",n:"Use code G3AYJ54N",dt:"Nov 16",l:"https://www.amazon.com/dp/B0C2P7KP5D"},
