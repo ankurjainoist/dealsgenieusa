@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"HelloBaby No WiFi Baby Monitor Camera and Audio HB6550, 5 in Video Screen",c:"Baby",e:"👶",dt:"Nov 17",l:"https://www.amazon.com/dp/B09GM8JZM9",img:"img/B09GM8JZM9.jpg"},
 {t:"Fashion Casual Analog Watches for Men with Functional Chronograph Subscribedials",c:"Electronics",e:"🔌",n:"60% off with code 6DGJM14V",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FSYMDD38"},
 {t:"Travel Steamer for Clothes",c:"Home",e:"🏠",n:"50% off with code TC2N56MO",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H9L7XTWT"},
 {t:"Kids Gardening Set, Quality Garden Tool Kit for Toddler, Outdoor Toys Gift",c:"Baby",e:"👶",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FJR4NM9H"},
