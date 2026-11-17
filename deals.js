@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pro Waterproof 4K Action Cameras",c:"Electronics",e:"🔌",n:"Use code 66WI2F7N",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HM3C42FD",img:"img/B0HM3C42FD.jpg"},
 {t:"GFInYHM Friendsgiving Paper Plates",c:"Home",e:"🏠",n:"50% off with code 0ZSZJ6LU",dt:"Nov 16",l:"https://www.amazon.com/dp/B0D9VB4WV1",img:"img/B0D9VB4WV1.jpg"},
 {t:"Cordless Electric Grass Trimmers",c:"Beauty",e:"💄",n:"50% off with code G6EXEUNP",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GVJB7QJG",img:"img/B0GVJB7QJG.jpg"},
 {t:"Princess Polly Womens Mayzie Mini Dress",c:"Fashion",e:"👗",dt:"Nov 16",l:"https://www.amazon.com/dp/B0F25BZBBM",img:"img/B0F25BZBBM.jpg"},
