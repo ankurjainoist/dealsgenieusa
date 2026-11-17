@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"XINKAITE 300FT Outdoor LED Lights",c:"Home",e:"🏠",n:"45% off with code 8N112Q7N",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HM83NH5K"},
 {t:"Chefman Air Fryer 9 Qt, TurboFry 7-in-1 High-Powered 450°F Cooking for Crispier and Even Results, XL Basket",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FZF445YL"},
 {t:"WAWSCOTE Electric Scooters",c:"Home",e:"🏠",n:"40% off with code 5X87RBGQ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HJCPC398"},
 {t:"Stained Glass Christmas Tree Lights",c:"Home",e:"🎄",n:"Use code TB5GW4N0",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRKW71M5"},
