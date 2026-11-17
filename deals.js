@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"UJOY Bracelet Cloisonne Jewelry Fashion Opening Hinged Bangles Crafted Blue Colored Enamel Flower Gifts for",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B01BXPDBG0"},
 {t:"Lacoste Croc Scale 100% Cotton Bath Towel, Surf Blue, 30 in x 56 in",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FXBPSTG2"},
 {t:"Kids Digital Cameras (Black)",c:"Electronics",e:"🔌",n:"Use code PXXX80S1",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FWRDRHD7"},
 {t:"XINKAITE 300FT Outdoor LED Lights",c:"Home",e:"🏠",n:"45% off with code 8N112Q7N",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HM83NH5K"},
