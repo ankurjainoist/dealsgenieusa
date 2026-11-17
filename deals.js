@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"RC Bubble Car with Detachable Blaster, 2.4GHz Remote Control Car and Automatic Bubble Machine Toy",c:"Auto",e:"🚗",n:"50% off with code GMQD4Y08",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GYS7MRTF"},
+{t:"Digital Calendar, 10.1-inch Digital Picture Frame & Chore Chart",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H8XMCXRG"},
+{t:"BodyRefresh Birthday Gifts for Women, 12-Piece Christmas Gift Basket",c:"Fashion",e:"🎄",n:"50% off with code Z4IOBPMO",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GY7G68GY"},
 {t:"Wide Mouth Mason Jar Drinking Lids, Stainless Steel Silicone Sip Lid, 4 Pcs",c:"Home",e:"🏠",n:"50% off with code E4475J94",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GSZ7DPCS"},
 {t:"Hand Massager with Heat and Compression for Arthritis Carpal Tunnel",c:"Health",e:"💊",n:"40% off with code BFI0STMJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HD63RKNQ"},
 {t:"Dog Car Seat Cover with Bed Mat, Back Seat Extender for Dogs",c:"Pets",e:"🐾",n:"50% off with code U73DCSC01",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRK3SRP2"},
