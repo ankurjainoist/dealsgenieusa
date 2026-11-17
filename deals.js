@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Girls Christmas Shirt Plaid Long Sleeve Boys Holiday Santa Clothes 3-16T",c:"Home",e:"🎄",n:"50% off with code RED8YLLB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRVTTNWJ"},
 {t:"Full Bed Frame with Charging Station & 2-Tier Storage Headboard",c:"Home",e:"🏠",n:"50% off with code IHP3KLY1",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GX9S93TV"},
 {t:"Kasa Apple HomeKit Outdoor Smart Plug, EP40A, 2 Sockets, No Hub Required",c:"Electronics",e:"🔌",dt:"Nov 17",l:"https://www.amazon.com/dp/B0BMWLH7X1"},
 {t:"Ruby Cat Eye Press-On Nails",c:"Pets",e:"🐾",n:"Use code 4T7KVX1Z",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H2LLKVH8"},
