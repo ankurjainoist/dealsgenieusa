@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Kawaii Dog Kids Throw Blanket,Shih Tzu Westie Dog Lover Bed Blanket,Heart Lovely Puppy Pet Girls Boys Sofa",c:"Pets",e:"🐾",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FR4B8VBV"},
+{t:"FULZOM 4K Digital Cameras",c:"Electronics",e:"🔌",n:"Clip the 45% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HHDCWQGS"},
 {t:"Scary Stories Paperback Box Set: The Complete 3-Book Collection with Classic Art by Stephen Gammell",c:"Kids",e:"🎨",dt:"Nov 17",l:"https://www.amazon.com/dp/006268289X"},
 {t:"PlayStation DualSense Wireless Controller – Chroma Teal - For PS5, PC, MAC & Mobile",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FY6Y5YDQ"},
 {t:"Games Workshop - Warhammer 40,000 - Armageddon: Return of Yarrick (Campaign Rulebook Set)",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/1804577510"},
