@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"SpaceAid 4 Pack Bed Sheet Organizers and Storage, Foldable Sheet Organizer for Linen Closet, Sheets Set",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CR169K6Y"},
+{t:"In stock",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FRGTYSL5"},
+{t:"Laundry Basketball Hoop Hampers",c:"Home",e:"🏠",n:"50% off with code 07WXE9SP",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRD6P9FB"},
 {t:"Makeupvent Calendar 2026, 24 Days Countdown Calendar Christmas Birthday Valentines Day Xmas Gift Box, Makeup",c:"Beauty",e:"🎄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FJ78LRPY"},
 {t:"Amazon Alexa Tablet 8 (all-new), 4GB RAM, 64GB, 8.7″ compact tablet with vivid display, All-day battery, With",c:"Electronics",e:"🔌",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F44PWZGD"},
 {t:"10% Vitamin C Fresh Single-Dose Ampoules 45ml for Brighter-Looking Skin",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H1R7GV9L"},
