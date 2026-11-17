@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ergonomic Neck Support Pillows",c:"Home",e:"🏠",n:"Use code WFK7TLET",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FMRSF171"},
+{t:"Hair Tool Travel Bags",c:"Tools",e:"🔧",n:"50% off with code 8WHHCWLD",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GXHNGXMQ"},
+{t:"Poschnor Gift Baskets (Green)",c:"Home",e:"🏠",n:"Coupon: 50% off",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FPMBS4QZ"},
 {t:"ISFANGCO Halloween Dinnerware Sets",c:"Home",e:"🎃",n:"Use code RKM4TOE2",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H7J313P9"},
 {t:"110L Foldable Water Storage Containers",c:"Home",e:"🏠",n:"Use code GSE1LH2H",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRFZHLQF"},
 {t:"Klein Tools 80067 Electrical Test Kit, 4-Piece",c:"Tools",e:"🔧",dt:"Nov 17",l:"https://www.amazon.com/dp/B0B11NG8XM"},
