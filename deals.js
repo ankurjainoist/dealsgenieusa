@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BlenderBottle Sport Shaker Bottles",c:"Kitchen",e:"🍳",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H3M2W5SY",img:"img/B0H3M2W5SY.jpg"},
 {t:"Igloo WWE \"Stone Cold\" Steve Austin 1L Stainless Steel Beer Mug, Black",c:"Kitchen",e:"🍳",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GPLM35NQ",img:"img/B0GPLM35NQ.jpg"},
 {t:"Country Kitchen Nonstick Stackable Bakeware Set - Heavy Duty, Durable, Easy Release Baking Set, Sage, 10 Pcs",c:"Kitchen",e:"🍳",dt:"Nov 16",l:"https://www.amazon.com/dp/B0D1JG8RN2",img:"img/B0D1JG8RN2.jpg"},
 {t:"Christmas Wired Edge Ribbons",c:"Home",e:"🎄",n:"Use code V1RCLF23",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HQZGJYWX",img:"img/B0HQZGJYWX.jpg"},
