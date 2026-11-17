@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Convertible Board Game Table for 4-6 Players-Spacious Gaming Space w/Clean-Edge Table Top",c:"Home",e:"🏠",n:"40% off with code 7ZQJ2X4Z",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HPJP99QF"},
 {t:"Baseball Game Day Sweatshirts",c:"Fashion",e:"👗",n:"50% off with code ZV40TZQK",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQYRGG5S"},
 {t:"Contigo SnapSeal Stainless Steel Vacuum-Insulated Water Bottle, 24oz",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GH8VNBQ7"},
 {t:"Box of Fire-Starting Nuggets, 50 Count",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B000KC009O"},
