@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Country Kitchen Nonstick Stackable Bakeware Set - Heavy Duty, Durable, Easy Release Baking Set, Sage, 10 Pcs",c:"Kitchen",e:"🍳",dt:"Nov 16",l:"https://www.amazon.com/dp/B0D1JG8RN2",img:"img/B0D1JG8RN2.jpg"},
 {t:"Christmas Wired Edge Ribbons",c:"Home",e:"🎄",n:"Use code V1RCLF23",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HQZGJYWX",img:"img/B0HQZGJYWX.jpg"},
 {t:"Beetles French Tips Press On Nails - Short Almond 6 Colors 192 Pcs",c:"Beauty",e:"💄",dt:"Nov 16",l:"https://www.amazon.com/dp/B0FN339X4W",img:"img/B0FN339X4W.jpg"},
 {t:"National Tree Company 6.5ft Pre-Lit Kingswood Fir Slim Christmas Tree",c:"Home",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/B0045VJQC8",img:"img/B0045VJQC8.jpg"},
