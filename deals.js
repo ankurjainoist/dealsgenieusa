@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fashion Casual Analog Watches for Men with Functional Chronograph Subscribedials",c:"Electronics",e:"🔌",n:"60% off with code 6DGJM14V",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FSYMDD38"},
+{t:"Travel Steamer for Clothes",c:"Home",e:"🏠",n:"50% off with code TC2N56MO",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H9L7XTWT"},
+{t:"Kids Gardening Set, Quality Garden Tool Kit for Toddler, Outdoor Toys Gift",c:"Baby",e:"👶",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FJR4NM9H"},
+{t:"5-in-1 Womens Electric Shavers",c:"Fashion",e:"👗",n:"Clip the 49% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HKFXK8D8"},
 {t:"GlocUsent Plug-in Clip on Light, 11.3 in Wide 57 LED Reading Light for Bed",c:"Home",e:"🏠",n:"70% off with code HYK7FJ7H",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HGDLWGFC"},
 {t:"2P Rechargeable Flashlights High Lumens 1800, Magnetic Base for Work",c:"Home",e:"🏠",n:"50% off with code 8XUVH5UM",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FWC11XTZ"},
 {t:"Mens Cufflinks Set 12 Packs Shirt Tuxedo Buttons Cuff Links Set",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DYHRR5LC"},
