@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Conairvent Calendar, Sweet Treat Hair Accessories, 21-Piece Set",c:"Beauty",e:"💄",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H6C2DRH6",img:"img/B0H6C2DRH6.jpg"},
 {t:"Insulated Coffee Carafes",c:"Kitchen",e:"🍳",n:"Use code E6AFT06D",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HRNVB129",img:"img/B0HRNVB129.jpg"},
 {t:"ZHONGKUI Dino Nugget Blankets",c:"Home",e:"🏠",n:"Use code 1SF5GHBN",dt:"Nov 16",l:"https://www.amazon.com/dp/B0CJ4Z18PN",img:"img/B0CJ4Z18PN.jpg"},
 {t:"BlenderBottle Sport Shaker Bottles",c:"Kitchen",e:"🍳",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H3M2W5SY",img:"img/B0H3M2W5SY.jpg"},
