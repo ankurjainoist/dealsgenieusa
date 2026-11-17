@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"GlocUsent Plug-in Clip on Light, 11.3 in Wide 57 LED Reading Light for Bed",c:"Home",e:"🏠",n:"70% off with code HYK7FJ7H",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HGDLWGFC"},
+{t:"2P Rechargeable Flashlights High Lumens 1800, Magnetic Base for Work",c:"Home",e:"🏠",n:"50% off with code 8XUVH5UM",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FWC11XTZ"},
 {t:"Mens Cufflinks Set 12 Packs Shirt Tuxedo Buttons Cuff Links Set",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DYHRR5LC"},
 {t:"Hand Controlled RC Car, 2.4Ghz 4WD Gesture Sensing RC Stunt Car",c:"Auto",e:"🚗",n:"50% off with code XOAMIRPD",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FHK4LDNL"},
 {t:"RC Bubble Car with Detachable Blaster, 2.4GHz Remote Control Car and Automatic Bubble Machine Toy",c:"Auto",e:"🚗",n:"50% off with code GMQD4Y08",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GYS7MRTF"},
