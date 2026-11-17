@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Rechargeable Light Up Bath Whale Toys",c:"Toys",e:"🧸",n:"Use code DJS583EE",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H1KWFKY3"},
 {t:"Portable Cleaning Bucket Organizers",c:"Home",e:"🏠",n:"Use code AHEBC74FF",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR5Y935B"},
 {t:"8 Inch Outdoors Chef Knife with Leather Sheath: G10 Non Slip Handle",c:"Kitchen",e:"🍳",n:"74% off with code 2LMWENXX",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HK558X6Q"},
 {t:"Collapsible Water Storage Containers",c:"Home",e:"🏠",n:"Use code 9B599UPY",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR1637SJ"},
