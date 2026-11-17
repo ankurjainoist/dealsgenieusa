@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"69 Freestanding Punching Bag forults, Inflatable Boxing Bag with Stand",c:"Home",e:"🏠",n:"50% off with code 55TQSD1113",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GZZGM8GZ"},
+{t:"Christmas Wreath 22 in Artificial Norfolk Pine Wreath for Front Door Decor",c:"Home",e:"🎄",n:"45% off with code TX8LXBGV",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HDSR9N7B"},
 {t:"8 Inch Frying Pan Nonstick ,Stainless Steel Pan,Induction Pan",c:"Kitchen",e:"🍳",n:"50% off with code CL9L69IE",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GWDG1LVC"},
 {t:"C Stunt Car 360° Rolling Remote Control Toys",c:"Auto",e:"🚗",n:"40% off with code UUBG5C90",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H1Q3HD4G"},
 {t:"Sound Machine, White Noise Machine, Ultimate Noise Masking for Sleep, Pebble Gray",c:"Home",e:"🏠",n:"60% off with code JXBXT17O",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H3461QCJ"},
