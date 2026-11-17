@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ultra Game NBA boys Nba Official Classic Fit Basketball Shorts Team Color",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F1V4RGGQ"},
 {t:"Valentines Day Gifts, Smart Ring for Women & Men - Titanium Fitness Ring with Heart Rate, Sleep, Step & SpO2",c:"Electronics",e:"🔌",n:"Subscribe & Save available",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GGRPLCXX"},
 {t:"Kawaii Dog Kids Throw Blanket,Shih Tzu Westie Dog Lover Bed Blanket,Heart Lovely Puppy Pet Girls Boys Sofa",c:"Pets",e:"🐾",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FR4B8VBV"},
 {t:"FULZOM 4K Digital Cameras",c:"Electronics",e:"🔌",n:"Clip the 45% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HHDCWQGS"},
