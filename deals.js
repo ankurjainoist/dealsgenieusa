@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Self-Warming Cat Beds",c:"Pets",e:"🐾",n:"50% off with code Y5184Z9C",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR5QY42B"},
+{t:"Ragu Chunky Tomato, Garlic and Onion Pasta Sauce, Diced Tomatoes, Delicious Garlic and Onions, and Italian",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0014CYC6G"},
+{t:"91 in Wild Bird Feeder Hanging Kit with Squirrel Guard Baffle",c:"Home",e:"🏠",n:"45% off with code N59S7400",dt:"Nov 17",l:"https://www.amazon.com/dp/B09NLMN4HK"},
+{t:"Dinosaur Transforming RC Car with LED Lights, One-Key Robot Conversion",c:"Auto",e:"🚗",n:"40% off with code G67S8A5A",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H1QR3CHY"},
 {t:"Christmasvent Calendar for Kids, 24 Days Countdown Calendar with 24 Mini 3D Printed Animals",c:"Kids",e:"🎄",n:"49% off with code V0D7TH8Y",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HBYYHW6C"},
 {t:"Maelstrom Insulated Lunch Bag, Leakproof Lunch Box with Quick Access Lid",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FBRYQ8ZR"},
 {t:"3Pcs JOY Christmas Centerpieces for Table, Winter Xmas Table Decorations",c:"Home",e:"🎄",n:"50% off with code 8YBB57J5",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HKYYKZJD"},
