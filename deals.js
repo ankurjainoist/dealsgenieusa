@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Portable Tire Inflators (150PSI)",c:"Auto",e:"🚗",n:"Use code 3R4K4S4G",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G5YZWYXM"},
+{t:"TGEYD Large Chicken Feeders",c:"Home",e:"🏠",n:"50% off with code AJ16OXTA",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GKTWQ1T3"},
+{t:"Tommy John Men’s Comfort Micro Trunk Boxer Brief Underwear - 4” 3-Pack, 4-Way Stretch, Stay-Put Waistband",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GSBP7TS1"},
+{t:"Candle Warmer Lamp Electric with Timer",c:"Home",e:"🏠",n:"50% off with code Y9NFR4AV",dt:"Nov 17",l:"https://www.amazon.com/dp/B0D7Q9MW8K"},
+{t:"Hoverboard G13 All-Terrain Off-Road Bluetooth LED Lights for Kids",c:"Electronics",e:"🔌",n:"62% off with code 0GCN16YS",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CCNPV7NZ"},
 {t:"Heated Shawl Wraps for Women",c:"Fashion",e:"👗",n:"50% off with code SIGXBOYP",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRYPFQ2T"},
 {t:"Rechargeable Light Up Bath Whale Toys",c:"Toys",e:"🧸",n:"Use code DJS583EE",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H1KWFKY3"},
 {t:"Portable Cleaning Bucket Organizers",c:"Home",e:"🏠",n:"Use code AHEBC74FF",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR5Y935B"},
