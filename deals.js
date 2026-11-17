@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wide Mouth Mason Jar Drinking Lids, Stainless Steel Silicone Sip Lid, 4 Pcs",c:"Home",e:"🏠",n:"50% off with code E4475J94",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GSZ7DPCS"},
+{t:"Hand Massager with Heat and Compression for Arthritis Carpal Tunnel",c:"Health",e:"💊",n:"40% off with code BFI0STMJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HD63RKNQ"},
+{t:"Dog Car Seat Cover with Bed Mat, Back Seat Extender for Dogs",c:"Pets",e:"🐾",n:"50% off with code U73DCSC01",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRK3SRP2"},
+{t:"Steam Mop Cleaner 260°F Steam in 15s, 16.9oz Tank Hardwood and Tile",c:"Home",e:"🏠",n:"58% off with code 5OYF8RS4",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H9WWHZB4"},
+{t:"Ceiling Fan Light with Lights and Remote,3000K-6000K Ceiling Fan, 1000 Lumens LED 3 Colors Ceiling Fans for",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F6C8GJKG"},
 {t:"39 PCS Kitchen Utensils Set, Silicone Cooking Utensil Sets with Wooden Handle",c:"Kitchen",e:"🍳",n:"45% off with code CPA130NB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F23QPVVG"},
 {t:"VitaMotive Trunk Latch Actuators",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H39M1Z1N"},
 {t:"Christmas Butter Squishy, 2 Pack Squishy Butter Christmas Stick Squeeze Toys in Gift-Ready Box",c:"Kitchen",e:"🎄",n:"54% off with code 0VXQYGGV",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HM2VSCNH"},
