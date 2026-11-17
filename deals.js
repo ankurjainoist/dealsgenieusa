@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Rubbermaid Brilliance Food Storage Containers",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B076N6DLFJ",img:"img/B076N6DLFJ.jpg"},
 {t:"Fleece Lined Tights Women",c:"Fashion",e:"👗",n:"Use code FV6KLLV1",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HGPVZRHS",img:"img/B0HGPVZRHS.jpg"},
 {t:"Tonature Cordless Cellular Shades",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 16",l:"https://www.amazon.com/dp/B0FJ1SJC33",img:"img/B0FJ1SJC33.jpg"},
 {t:"Conairvent Calendar, Sweet Treat Hair Accessories, 21-Piece Set",c:"Beauty",e:"💄",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H6C2DRH6",img:"img/B0H6C2DRH6.jpg"},
