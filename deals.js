@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Kuhn Rikon COLORI Straight and Serrated Paring Knife with Safety Sheath, 4 inch/10.16 cm Blade, Set of 2",c:"Tools",e:"🔧",dt:"Nov 17",l:"https://www.amazon.com/dp/B002NWL2QY"},
 {t:"Champion Phase Messenger Bag With Padded Laptop Sleeve,justable Strap for Work, Travel, Office",c:"Electronics",e:"🔌",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F22GBX8S"},
 {t:"Barrel Womens Sweatpants",c:"Fashion",e:"👗",n:"Use code YHNM5566",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRK3K2JZ"},
 {t:"Cedar Christmas Tree Stakes",c:"Home",e:"🎄",n:"Use code 0YS3P0A5",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR9B1JQK"},
