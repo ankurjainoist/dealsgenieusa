@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Red Emergency First Aid Backpacks",c:"Home",e:"🏠",n:"Use code XSYK9HOD",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRK5Z1N2"},
 {t:"4K Vlog Selfie Monitor Screens",c:"Electronics",e:"🔌",n:"Clip the 40% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HMKQXYWC"},
 {t:"STANLEY Transit Flip Top Mug, 16 oz",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H489WBGD"},
 {t:"Ergonomic Neck Support Pillows",c:"Home",e:"🏠",n:"Use code WFK7TLET",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FMRSF171"},
