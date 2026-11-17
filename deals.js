@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"4-in-1 Boxing Gloves and Punching Mitts Set for Kids, Kids Boxing Gloves",c:"Fashion",e:"👗",n:"40% off with code TR1X7D3S",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DRYRL6GT"},
+{t:"LED Gloves 6 Flash Mode for Kids",c:"Fashion",e:"👗",n:"50% off with code 0U3U6CVJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0B5N6FK4X"},
+{t:"LYANER Womens Shirred Party Mini Dress",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F83RXSKQ"},
 {t:"MAC Energy by Conor McGregor 4-in-1 Variety Pack Sugar Free Energy Drink",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H4SCZBHY"},
 {t:"Bedsure HeatX Heated Throw Blanket, Electric Blanket with Preheat, Grey",c:"Home",e:"🏠",n:"48% off with code 6WZJFGAA",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H11WR9SG"},
 {t:"Thin Profile Christmas Mats",c:"Home",e:"🎄",n:"Use code OMZKU30N",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQJ1W1PJ"},
