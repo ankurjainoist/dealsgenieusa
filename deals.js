@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Still available",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CZS1VL7Y",img:"img/B0CZS1VL7Y.jpg"},
 {t:"Slow Masticating Cold Press Juicer",c:"Home",e:"🏠",n:"82% off with code NXJZ9U54",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HP9JZV4P",img:"img/B0HP9JZV4P.jpg"},
 {t:"Wi-Fi Smart Front Door Locks",c:"Electronics",e:"🔌",n:"Use code UUKDG727",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQ6RR2LJ",img:"img/B0HQ6RR2LJ.jpg"},
 {t:"low stock",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B07KSL2G54",img:"img/B07KSL2G54.jpg"},
