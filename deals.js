@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"65W USB-C Charger Blocks",c:"Electronics",e:"🔌",n:"Use code QSBE5Q1Q",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HHK6WD8X"},
 {t:"DualSense Wireless Controller – 007 First Light Limited Edition",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GVVNGHWN"},
 {t:"ZZR SEVEN Automatic Curling Irons (Pink)",c:"Home",e:"🏠",n:"Use code GVF8N4W9",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H57TRX9Z"},
 {t:"Magic Drawing Mats (Ocean Theme)",c:"Home",e:"🏠",n:"Use code IIA8KZNX",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HH9D52RG"},
