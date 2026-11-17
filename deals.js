@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fidget Toys Stress Relief Set",c:"Toys",e:"🧸",n:"50% off with code Z0MTMB3O",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HL7W4SSC"},
+{t:"Propane Tank Gauge Level Indicator Leak Detector for 5-40 lb Tanks 2 Pack",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B086J9T537"},
 {t:"UJOY Bracelet Cloisonne Jewelry Fashion Opening Hinged Bangles Crafted Blue Colored Enamel Flower Gifts for",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B01BXPDBG0"},
 {t:"Lacoste Croc Scale 100% Cotton Bath Towel, Surf Blue, 30 in x 56 in",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FXBPSTG2"},
 {t:"Kids Digital Cameras (Black)",c:"Electronics",e:"🔌",n:"Use code PXXX80S1",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FWRDRHD7"},
