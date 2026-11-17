@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Emergency Camping Lantern Solar Hand Crank Portable Light for Power Outage",c:"Home",e:"🏠",n:"50% off with code HDQ8S6FB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQJFLY3L"},
+{t:"Skin Scrubber Spatula Pore Cleaner Blackhead Remover,4 Modes",c:"Home",e:"🏠",n:"40% off with code EMM4CN0F",dt:"Nov 17",l:"https://www.amazon.com/dp/B07TY46K8Q"},
+{t:"Teeth Whitening Strips (Sensitive)",c:"Home",e:"🏠",n:"Use code EU8F5FHU",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HGF2DQ99"},
 {t:"Drone with Camera forults 4K, GPS Drone with 4.5 in Screen Controller, Brushless Motor, GPS Auto Return",c:"Electronics",e:"🔌",n:"50% off with code SA7Q8D56",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HPNTTMT4"},
 {t:"4K Digital Vlogging Cameras",c:"Electronics",e:"🔌",n:"Use code CG8YZ8J9",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GTVD13Z2"},
 {t:"Dinosaur Electric Train Track Toys Set for Kids, Gravity-Defying Race Kit",c:"Toys",e:"🧸",n:"50% off with code R1BA5M8X",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HC72BQG7"},
