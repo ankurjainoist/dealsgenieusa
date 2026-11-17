@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cedar Christmas Tree Stakes",c:"Home",e:"🎄",n:"Use code 0YS3P0A5",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR9B1JQK"},
+{t:"Philips Sonicare C1 SimplyClean Brush Heads, 6-Pack, 18 Month Supply, White",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FFMFD9J6"},
 {t:"Hardcover Lined Journals with Pen",c:"Home",e:"🏠",n:"Use code KM4ZB4FV",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQJRX9RX"},
 {t:"Katinyos Reflective Wind Spinners",c:"Home",e:"🏠",n:"50% off with code 3DREFLECT",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H2YGF7Z8"},
 {t:"Play-Doh Kitchen Creations Noodle Party Playset for Kids 3 Years and Up with 5 Non-Toxic Colors (Amazon",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B07ZYCKR15",img:"img/B07ZYCKR15.jpg"},
