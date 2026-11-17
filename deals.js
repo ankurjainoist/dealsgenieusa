@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Lights, 50-Count Green Wire Light Set, Battery Operated Christmas Mini String Light with 8 Modes",c:"Electronics",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/B08F2N1M91",img:"img/B08F2N1M91.jpg"},
 {t:"ANOTHERME 9ft Pre-Lit Christmas Garland, Battery Operated Garland with Dual-Color LED Lights & Timer, Outdoor",c:"Electronics",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/B07J4DBH6P",img:"img/B07J4DBH6P.jpg"},
 {t:"SLOOSH Inflatable Tanning Pool Lounger Float, 85 in x 57 in Extra Large Pool Floats Adult with Pillow, 4 in 1",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0BKTP6ZGL",img:"img/B0BKTP6ZGL.jpg"},
 {t:"FYY Travel Pill Organizer,7 Compartments Small Pill Box Medicine Case-Brown",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0BM3LK6NV",img:"img/B0BM3LK6NV.jpg"},
