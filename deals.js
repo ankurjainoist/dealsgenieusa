@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Montessori Busy Board for Toddlers, Multi-Functional Pre Educational Wooden Learning Board for 3+ Year Olds",c:"Baby",e:"👶",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GV3612G8"},
+{t:"Foot Renew Neuropathy Massagers",c:"Health",e:"💊",n:"Use code 44CSE6OQ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H4GR5TQ2"},
 {t:"Neliangia Starlink Car Chargerapters",c:"Auto",e:"🚗",n:"Use code 1ONSEHWP",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQC26BZM"},
 {t:"12pcs Champagne Christmas Ornaments",c:"Home",e:"🎄",n:"Use code 03OXNZU5",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HC3LGKPM"},
 {t:"KidKraft Vintage Wooden Play Kitchen with Pretend Ice Maker and Play Phone, White",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B004A2QTRC"},
