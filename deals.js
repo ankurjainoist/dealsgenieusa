@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PULIOU Merino Wool Hiking Socks for Men Women, 3 Pairs Lightweight Breathable Hiking Socks with Seamless Toe",c:"Fashion",e:"👗",n:"Use code GTZUGLTJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FMYD9SR6"},
+{t:"BCAN BT240/48 in Foldable Rebounder Trampoline forults",c:"Home",e:"🏠",n:"Use code BCAN45T4",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FYLP1W1X"},
+{t:"​Hot Wheels Sprint Race Circuit Track Set with 3 Toy Cars",c:"Auto",e:"🚗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G43WNX6Q"},
+{t:"Lerliuo Rattan Nightstand, Boho Side Table with Drawer Open Shelf",c:"Home",e:"🏠",n:"Use code 9G3I2LG1",dt:"Nov 17",l:"https://www.amazon.com/dp/B0BRQBVKBB"},
+{t:"Stone Lain Vince Stoneware Reactive Glaze Dinnerware Set, 16 Piece Service for 4, Red",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B096YR1C47"},
 {t:"Kiehls - Ultra Facial Cleanser",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B00BBFU9TU"},
 {t:"Add 4 & s&s",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0D9HMCYKC"},
 {t:"PAW Patrol Launch’N Haul PAW Patroller 2-in-1 Transforming Track Set",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B07PDMSP68"},
