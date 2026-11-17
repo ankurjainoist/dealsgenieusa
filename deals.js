@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Blunique Heated Blanket Throws",c:"Home",e:"🏠",n:"40% off with code HEPL3ZX6",dt:"Nov 17",l:"https://www.amazon.com/dp/B0C98SL1T5"},
 {t:"4-Inch HD Dash Cams",c:"Home",e:"🏠",n:"Use code 3OPS5VPJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRJXWK8Q"},
 {t:"65W USB-C Charger Blocks",c:"Electronics",e:"🔌",n:"Use code QSBE5Q1Q",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HHK6WD8X"},
 {t:"DualSense Wireless Controller – 007 First Light Limited Edition",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GVVNGHWN"},
