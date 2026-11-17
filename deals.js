@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"8 Inch Outdoors Chef Knife with Leather Sheath: G10 Non Slip Handle",c:"Kitchen",e:"🍳",n:"74% off with code 2LMWENXX",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HK558X6Q"},
+{t:"Collapsible Water Storage Containers",c:"Home",e:"🏠",n:"Use code 9B599UPY",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR1637SJ"},
+{t:"Bathtub Water Filter with NSF-Certified Calcium Sulfite Media",c:"Home",e:"🏠",n:"30% off with code ZLXU1RD5 (works on White)",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GTDVS14Y"},
+{t:"Giraffe Tonie Storage Shelf for TonieBox 1 & 2, Holds 25-40 Tonie Figures",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F6L5B4TY"},
 {t:"4-in-1 Boxing Gloves and Punching Mitts Set for Kids, Kids Boxing Gloves",c:"Fashion",e:"👗",n:"40% off with code TR1X7D3S",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DRYRL6GT"},
 {t:"LED Gloves 6 Flash Mode for Kids",c:"Fashion",e:"👗",n:"50% off with code 0U3U6CVJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0B5N6FK4X"},
 {t:"LYANER Womens Shirred Party Mini Dress",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F83RXSKQ"},
