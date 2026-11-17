@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Drone with Camera forults 4K, GPS Drone with 4.5 in Screen Controller, Brushless Motor, GPS Auto Return",c:"Electronics",e:"🔌",n:"50% off with code SA7Q8D56",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HPNTTMT4"},
+{t:"4K Digital Vlogging Cameras",c:"Electronics",e:"🔌",n:"Use code CG8YZ8J9",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GTVD13Z2"},
+{t:"Dinosaur Electric Train Track Toys Set for Kids, Gravity-Defying Race Kit",c:"Toys",e:"🧸",n:"50% off with code R1BA5M8X",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HC72BQG7"},
+{t:"Chef Knife Set 3 PCS, Damascus Kitchen Knife Set with G10 Handle",c:"Kitchen",e:"🍳",n:"50% off with code K5U0X7FG",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HHHS3KP5"},
 {t:"Self-Warming Cat Beds",c:"Pets",e:"🐾",n:"50% off with code Y5184Z9C",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR5QY42B"},
 {t:"Ragu Chunky Tomato, Garlic and Onion Pasta Sauce, Diced Tomatoes, Delicious Garlic and Onions, and Italian",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0014CYC6G"},
 {t:"91 in Wild Bird Feeder Hanging Kit with Squirrel Guard Baffle",c:"Home",e:"🏠",n:"45% off with code N59S7400",dt:"Nov 17",l:"https://www.amazon.com/dp/B09NLMN4HK"},
