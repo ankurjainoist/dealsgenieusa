@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Heated Jacket for Women with 15000mAh Battery",c:"Electronics",e:"🔌",n:"57% off with code 7DBYM96F",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FFM5MQ5D"},
+{t:"Aluminum Wheel Nut Caps",c:"Home",e:"🏠",n:"50% off with code QQO162AA",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRRB8LBF"},
+{t:"Womens Christmas Shirts Funny Graphic Tees Casual Holiday Tops",c:"Fashion",e:"🎄",n:"50% off with code FPECWEEN",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HFK1N9ZV"},
 {t:"Melissa & Doug Lets Play HoUse Wash and Dry Dish Set, 4 Place Settings",c:"Toys",e:"🧸",dt:"Nov 17",l:"https://www.amazon.com/dp/B00EM4QB1C"},
 {t:"Blunique Heated Blanket Throws",c:"Home",e:"🏠",n:"40% off with code HEPL3ZX6",dt:"Nov 17",l:"https://www.amazon.com/dp/B0C98SL1T5"},
 {t:"4-Inch HD Dash Cams",c:"Home",e:"🏠",n:"Use code 3OPS5VPJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRJXWK8Q"},
