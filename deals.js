@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DeLonghi Espresso Machines",c:"Home",e:"🏠",dt:"Nov 16",l:"https://www.amazon.com/dp/B0DQWC47JN",img:"img/B0DQWC47JN.jpg"},
 {t:"Pearhead Christmas Snowman Stackers",c:"Home",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/B0BDSK879N",img:"img/B0BDSK879N.jpg"},
 {t:"Sonic X Shadow Generations - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 16",l:"https://www.amazon.com/dp/B0F663CWT8",img:"img/B0F663CWT8.jpg"},
 {t:"Afnan Souvenir Floral Bouquet Womens Luxurious Perfume Gift Set",c:"Beauty",e:"💄",dt:"Nov 16",l:"https://www.amazon.com/dp/B07W941ZGS",img:"img/B07W941ZGS.jpg"},
