@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MAC Energy by Conor McGregor 4-in-1 Variety Pack Sugar Free Energy Drink",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H4SCZBHY"},
+{t:"Bedsure HeatX Heated Throw Blanket, Electric Blanket with Preheat, Grey",c:"Home",e:"🏠",n:"48% off with code 6WZJFGAA",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H11WR9SG"},
+{t:"Thin Profile Christmas Mats",c:"Home",e:"🎄",n:"Use code OMZKU30N",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQJ1W1PJ"},
 {t:"Women 2 Piece Lounge Sets French Rib Knit Fall Travel Outfits",c:"Fashion",e:"👗",n:"40% off with code GWM36R3L",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H3NVQHM1"},
 {t:"Womens Tube Strapless Dress",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F66B1PV8"},
 {t:"Mens Smoofit Fleece Lined Joggers Pants with Pockets",c:"Fashion",e:"👗",n:"50% off with code 072VQY9E",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FG37YJXB"},
