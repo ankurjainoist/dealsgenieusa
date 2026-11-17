@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dexas Superboard Cutting Board with Handle 11 x 14.5 inch Midnight Granite, Kitchen Prep Board, Dishwasher",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B002B3XZGA",img:"img/B002B3XZGA.jpg"},
 {t:"KIRUNDO Casual Long Sleeve Dresses",c:"Fashion",e:"👗",n:"Use code 9Z8988X6",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GWHL425G"},
 {t:"Christmas Ball Ornaments (Red)",c:"Home",e:"🎄",n:"Use code SL83BQPR",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H838P2M7"},
 {t:"JCREN Magnetic Alphabet Letters",c:"Home",e:"🏠",n:"Use code LP6DY7G7",dt:"Nov 17",l:"https://www.amazon.com/dp/B088QYJPWB"},
