@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Add 4 & s&s",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B08964JD7F"},
+{t:"Wella Professionals Invigo Brilliance Shampoo, Fine/Normal",c:"Beauty",e:"💄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0B64J3TBF"},
+{t:"Spa Gift Basket Gifts for Mom, Bath Gift Set for Women Birthday Bath Spa",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0BRSPC83P"},
 {t:"Refrigerator Handle Covers (2-Pack)",c:"Home",e:"🏠",n:"50% off with code VJ5NMJKJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRV8ZVNC"},
 {t:"Blink Mini 2K+ – Plug-in Home & Pet Indoor Security Camera with 2K video resolution, night vision, enhanced",c:"Pets",e:"🐾",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HMFLDWTT"},
 {t:"PULIOU Merino Wool Hiking Socks for Men Women, 3 Pairs Lightweight Breathable Hiking Socks with Seamless Toe",c:"Fashion",e:"👗",n:"Use code GTZUGLTJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FMYD9SR6"},
