@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bitzee Disney Interactive Toy & Digital Pet",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CSJQHF6W"},
+{t:"Blackstone 1517 Original 28 in Omnivore Griddle, Black",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B009971BM6"},
 {t:"Brushed Nickel Rain Shower Heads",c:"Home",e:"🏠",n:"50% off with code SKJSWE7I",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GWSQB9TB"},
 {t:"LEGO Pokémon Arcanine 72160",c:"Toys",e:"🧸",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G2T4ZZ5T"},
 {t:"Mattel Brick Shop Masters of the Universe Attack of the Collector",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FK1ZQQPV"},
