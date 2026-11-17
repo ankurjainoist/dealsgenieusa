@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wind-Up Santas Sleigh: A Toy and Book Gift Featuring a Christmas Journey with Santa and His Sleigh",c:"Toys",e:"🎄",dt:"Nov 16",l:"https://www.amazon.com/dp/1836051905",img:"img/1836051905.jpg"},
 {t:"Yaskro Ionic Hair Dryers",c:"Beauty",e:"💄",n:"Use code 016O59LX",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GWV4HS5F",img:"img/B0GWV4HS5F.jpg"},
 {t:"50 in Lighted Glitter Nativity Scene Archway with Warm White LED Lights",c:"Home",e:"🏠",n:"Use code ZFDDOX22",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GWV24666",img:"img/B0GWV24666.jpg"},
 {t:"Gold Stackable Bracelets (4-Set)",c:"Fashion",e:"👗",n:"Use code XY306EIE",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GT4WSTB3",img:"img/B0GT4WSTB3.jpg"},
