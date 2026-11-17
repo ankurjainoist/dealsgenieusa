@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Mens Ugly Christmas Sweaters",c:"Fashion",e:"🎄",n:"Use code 529GI02J",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR1SQ7LR"},
 {t:"DecoReco Luxe Wave Leather Cases",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FRZ44Y2X"},
 {t:"Fall Porch Goose Statues",c:"Home",e:"🏠",n:"Use code 5547WMHZ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HF3Z8W1J"},
 {t:"PDP Afterglow Wireless RGB Gaming Controller for Nintendo Switch 2, Lite",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B07VFCJHFQ"},
