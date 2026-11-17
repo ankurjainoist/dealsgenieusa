@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Toddler Wide Toe Box Shoes Boys Girls Sneakers",c:"Baby",e:"👶",n:"50% off with code FPT858UL",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FSQHN54W"},
+{t:"Cordless Hot Glue Gun W106 with 30s Fast Preheating",c:"Home",e:"🏠",n:"40% off with code GC5L2UBH",dt:"Nov 17",l:"https://www.amazon.com/dp/B0D835MXY3"},
+{t:"Plaid 2-in-1 Holiday Shirts",c:"Home",e:"🏠",n:"Use code 4AS18V02",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR4WLNPL"},
+{t:"51mm Espresso Accessories Kit, Distributor, Tamper, Dosing Funnel",c:"Home",e:"🏠",n:"40% off with code OULAYCOFFEE1",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HK6ZSWMH"},
+{t:"Wooden Craft Spoons (12-inch)",c:"Home",e:"🏠",n:"50% off with code AB5PUUR3",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRN9D6H8"},
 {t:"9-in-1Collapsible Cutting Board with Colander Wash Basket Camping RV Gift",c:"Home",e:"🏠",n:"45% off with code THFL2IC7",dt:"Nov 17",l:"https://www.amazon.com/dp/B0BNQ6PJZT"},
 {t:"Grentool Plant Winter Covers",c:"Home",e:"🏠",n:"Use code XSJMEICP",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H86WC1HR"},
 {t:"12 Pack Velvet Christmas Tree Ball Ornaments, 2.36 in",c:"Home",e:"🎄",n:"50% off with code PQBW8FKV",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H8Y3H5Q3"},
