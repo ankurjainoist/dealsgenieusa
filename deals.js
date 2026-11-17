@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Red Christmas Ribbons with Gold Print",c:"Home",e:"🎄",n:"50% off with code S89GA2IG",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR1PL9FS"},
 {t:"Add 4 & s&s",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B08964JD7F"},
 {t:"Wella Professionals Invigo Brilliance Shampoo, Fine/Normal",c:"Beauty",e:"💄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0B64J3TBF"},
 {t:"Spa Gift Basket Gifts for Mom, Bath Gift Set for Women Birthday Bath Spa",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0BRSPC83P"},
