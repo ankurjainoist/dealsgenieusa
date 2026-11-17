@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Nillkin Galaxy S25 Ultra Cases",c:"Home",e:"🏠",n:"40% off with code AAWRAIQB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DNMQRBRL"},
+{t:"Jingle Bells Sound Book: An Interactive Wintertime Sound Book Featuring Santa, Christmas Carols, and More",c:"Home",e:"🎄",dt:"Nov 17",l:"https://www.amazon.com/dp/1836051891"},
+{t:"Marvels Wolverine PS5",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G6157JKW"},
+{t:"Stanley All Day Julienne Soft Cooler Bag and Lunch Box, Insulated Travel Bag with Zipper, BPA-Free",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H4897YZG"},
 {t:"Natural Rattan Boho Lanterns - Handcrafted Chic FarmhoUse Decor for Home",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0D8KWXKYH"},
 {t:"LEGO Animal Crossing Goldie’s Cozy HoUse 77058",c:"Toys",e:"🧸",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DRW6PHRQ"},
 {t:"KQJS Large Makeup Organizers",c:"Beauty",e:"💄",n:"40% off with code Z5UIUOZE",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H1V5XXRY"},
