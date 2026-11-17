@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmasvent Calendar for Kids, 24 Days Countdown Calendar with 24 Mini 3D Printed Animals",c:"Kids",e:"🎄",n:"49% off with code V0D7TH8Y",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HBYYHW6C"},
+{t:"Maelstrom Insulated Lunch Bag, Leakproof Lunch Box with Quick Access Lid",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FBRYQ8ZR"},
+{t:"3Pcs JOY Christmas Centerpieces for Table, Winter Xmas Table Decorations",c:"Home",e:"🎄",n:"50% off with code 8YBB57J5",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HKYYKZJD"},
+{t:"DecoReco Luxe Wave Leather Cases (Blue)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FRZ3X4K9"},
+{t:"12 Pcs Christmas Gingerbread Man Yard Signs with Stakes",c:"Home",e:"🎄",n:"45% off with code 9IOYNBWI",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DHZRFTPS"},
 {t:"Girls Christmas Shirt Plaid Long Sleeve Boys Holiday Santa Clothes 3-16T",c:"Home",e:"🎄",n:"50% off with code RED8YLLB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRVTTNWJ"},
 {t:"Full Bed Frame with Charging Station & 2-Tier Storage Headboard",c:"Home",e:"🏠",n:"50% off with code IHP3KLY1",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GX9S93TV"},
 {t:"Kasa Apple HomeKit Outdoor Smart Plug, EP40A, 2 Sockets, No Hub Required",c:"Electronics",e:"🔌",dt:"Nov 17",l:"https://www.amazon.com/dp/B0BMWLH7X1"},
