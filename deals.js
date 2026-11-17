@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Noahs Ark Montessori Toys for 1 Year Old Girl Boy Gifts, Baby Toys (Pink)",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HFN7WSGY"},
+{t:"Solar Christmas Tree Stake Lights",c:"Home",e:"🎄",n:"50% off with code ESOXZEC2",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR4GF3ZD"},
 {t:"Samsung B-Series Soundbar HW B400F 2.0 ch Soundbar with Built in Subscribewoofer (2025 Model) One Remote",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DY1Z934F"},
 {t:"Blueys Quest for The Gold Pen - PlayStation 5",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FX5Y1QKX"},
 {t:"Scotch & Soda Boys Short Sleeve Graphic T-Shirt, Crewneck",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FJZMLFKZ"},
