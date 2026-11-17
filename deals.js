@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cosy Family 6 Pack 90L Heavy Duty Extra Large Moving Bags with Reinforced Handle - Strong Handles & Zippers",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0C7ZDC8DF"},
+{t:"Tasty Insulated Coffee Mugs",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FP4RT63T"},
 {t:"WANDF Travel Pill Organizers",c:"Home",e:"🏠",n:"Use code BJ398OBT",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HNNSGGBP"},
 {t:"3-Inch Dash Cams",c:"Home",e:"🏠",n:"Use code VK4DKYTQ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HNZFR7S2"},
 {t:"Motor Meter Racing Gauge Sets",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CTMPBJQ1"},
