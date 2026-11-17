@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hot Wheels Lets Race Slither N Strike RC, Remote-Control Snake",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G1VCN543"},
+{t:"Horizon Forbidden West Complete Edition - PS5",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CK4VWNYL"},
 {t:"Christmas Dog Pajamas",c:"Pets",e:"🎄",n:"50% off with code M15HNLYT",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRFNLZJ8"},
 {t:"Vagisil Scentsitive Scents Dry Spray, Peach Blossom, 2.6 Oz (4 Pack)",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B093CCS271"},
 {t:"Noahs Ark Montessori Toys for 1 Year Old Girl Boy Gifts, Baby Toys (Pink)",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HFN7WSGY"},
