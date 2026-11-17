@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"JCREN Magnetic Alphabet Letters",c:"Home",e:"🏠",n:"Use code LP6DY7G7",dt:"Nov 17",l:"https://www.amazon.com/dp/B088QYJPWB"},
+{t:"Solar Christmas Pathway Lights",c:"Home",e:"🎄",n:"Use code D1NCQ9FO",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H8PDQMNK"},
+{t:"Cordless Nail Lamp, Rechargeable UV Nail Lamp for Gel Nails",c:"Beauty",e:"💄",n:"Use code HNJ3LW56",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CT3BW927"},
 {t:"Jolitac Sofa Armrest Tables",c:"Home",e:"🏠",n:"Use code W0DY6V6G",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GR8HBQ1L"},
 {t:"Womens Long Sleeve Pajama Sets",c:"Fashion",e:"👗",n:"Use code DJLV6LR7",dt:"Nov 17",l:"https://www.amazon.com/dp/B08KYG7THZ"},
 {t:"Pytha Sight Illuminated Outdoor Wall Clocks",c:"Home",e:"🏠",n:"Use code PM33C6QX",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GHMQKQC7"},
