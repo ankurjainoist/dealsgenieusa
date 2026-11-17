@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"INTEX Jump-O-Lene Inflatable Trampoline Bounce HoUse for Kids Ages 3-6",c:"Kids",e:"🎨",dt:"Nov 17",l:"https://www.amazon.com/dp/B005QIYUMU"},
+{t:"Flubecrux Bug Building Sets",c:"Home",e:"🏠",n:"Use code LTPBUDWB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FWJ82LRT"},
 {t:"65W USB-C Charging Blocks",c:"Toys",e:"🧸",n:"40% off with code QSBE5Q1Q",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H2Q6JQHK"},
 {t:"Calvin Klein Men’s Millie 2 in 1 Mini Satchel Crossbody Handbag",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0BLF23Q1F"},
 {t:"Construction Truck Christmas Wrapping Paper - 40×28 Inches, 4 Folded Sheets! Clip coupon!",c:"Auto",e:"🎄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FFMC8NTD",img:"img/B0FFMC8NTD.jpg"},
