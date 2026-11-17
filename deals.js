@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wella Professionals Invigo Nutri-Enrich Styling Treatments, Deep Moisturizing, For Dry & Damaged Hair, 5.07 oz",c:"Beauty",e:"💄",dt:"Nov 17",l:"https://www.amazon.com/dp/B07PSQ56PG"},
 {t:"Hexagon Wood Veneer Wall Panels",c:"Home",e:"🏠",n:"50% off with code KQ9OQT3R",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HC5WYJ2D"},
 {t:"MrBeast Game, The Ultimate Party Game for Friends - Timed Stunts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GD8FKS7Z"},
 {t:"Montessori Busy Board for Toddlers, Multi-Functional Pre Educational Wooden Learning Board for 3+ Year Olds",c:"Baby",e:"👶",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GV3612G8"},
