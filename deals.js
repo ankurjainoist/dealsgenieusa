@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Turkey Carving Knife, 12 Inch Brisket Slicing Knife, G10 Non-Slip",c:"Kitchen",e:"🍳",n:"Use code ZJK010L4",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DRJGHJ74"},
 {t:"Shark FlexFusion Ceramic Air Styler, Straightener, Metallic Mist, HD651S",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F9PZ6SM4"},
 {t:"Electric Head Shavers for Men",c:"Home",e:"🏠",n:"Use code V2ON3CHJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FMD911RQ"},
 {t:"Smart Watches with Bluetooth Calling",c:"Electronics",e:"🔌",n:"80% off with code R38IY0LM",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQ74C67R"},
