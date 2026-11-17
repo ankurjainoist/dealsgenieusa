@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Viktor&Rolf Tiger Lily Eau de Parfum - Ambery Floral Perfume for Women",c:"Beauty",e:"💄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CYR3QF8V"},
 {t:"KidKraftventure Bound: Wooden Pirate Ship Play Set with Lights and Sounds, Pirate Figures, 8 Pieces Included",c:"Toys",e:"🧸",dt:"Nov 17",l:"https://www.amazon.com/dp/B084PYPWFB"},
 {t:"Monster Jam Official Die-Cast Monster Trucks, 1:64 Scale 12-Pack",c:"Auto",e:"🚗",dt:"Nov 17",l:"https://www.amazon.com/dp/B084BN3P3F"},
 {t:"Red Christmas Ribbons with Gold Print",c:"Home",e:"🎄",n:"50% off with code S89GA2IG",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR1PL9FS"},
