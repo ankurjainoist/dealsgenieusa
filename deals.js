@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"9-in-1Collapsible Cutting Board with Colander Wash Basket Camping RV Gift",c:"Home",e:"🏠",n:"45% off with code THFL2IC7",dt:"Nov 17",l:"https://www.amazon.com/dp/B0BNQ6PJZT"},
+{t:"Grentool Plant Winter Covers",c:"Home",e:"🏠",n:"Use code XSJMEICP",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H86WC1HR"},
+{t:"12 Pack Velvet Christmas Tree Ball Ornaments, 2.36 in",c:"Home",e:"🎄",n:"50% off with code PQBW8FKV",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H8Y3H5Q3"},
+{t:"Unidragon Wooden Parrot Puzzles",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B097PGZMP4"},
 {t:"69 Freestanding Punching Bag forults, Inflatable Boxing Bag with Stand",c:"Home",e:"🏠",n:"50% off with code 55TQSD1113",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GZZGM8GZ"},
 {t:"Christmas Wreath 22 in Artificial Norfolk Pine Wreath for Front Door Decor",c:"Home",e:"🎄",n:"45% off with code TX8LXBGV",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HDSR9N7B"},
 {t:"8 Inch Frying Pan Nonstick ,Stainless Steel Pan,Induction Pan",c:"Kitchen",e:"🍳",n:"50% off with code CL9L69IE",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GWDG1LVC"},
