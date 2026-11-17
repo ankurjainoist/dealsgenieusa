@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Neliangia Starlink Car Chargerapters",c:"Auto",e:"🚗",n:"Use code 1ONSEHWP",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQC26BZM"},
+{t:"12pcs Champagne Christmas Ornaments",c:"Home",e:"🎄",n:"Use code 03OXNZU5",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HC3LGKPM"},
+{t:"KidKraft Vintage Wooden Play Kitchen with Pretend Ice Maker and Play Phone, White",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B004A2QTRC"},
 {t:"Green Glass Bud Vases (20 Pack)",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CBB5KDX4"},
 {t:"Pine Branch Holiday Decor Picks",c:"Home",e:"🏠",n:"Use code NOKPPS0T",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQXDNKV7"},
 {t:"Bluetooth MP3 Players",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HKVXYCTQ"},
