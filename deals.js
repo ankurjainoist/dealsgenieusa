@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Baseball Game Day Sweatshirts",c:"Fashion",e:"👗",n:"50% off with code ZV40TZQK",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQYRGG5S"},
+{t:"Contigo SnapSeal Stainless Steel Vacuum-Insulated Water Bottle, 24oz",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GH8VNBQ7"},
+{t:"Box of Fire-Starting Nuggets, 50 Count",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B000KC009O"},
+{t:"Montessori Matching Letter Educational Games for Kids Toys Ages 3-8",c:"Toys",e:"🧸",n:"50% off with code CTM7LXP7",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HC21TLT4"},
+{t:"Christmasvent Calendars with Farm Animal Toys for Kids",c:"Toys",e:"🎄",n:"40% off with code OP6DWGX6",dt:"Nov 17",l:"https://www.amazon.com/dp/B0C58HRRNG"},
 {t:"Emergency Camping Lantern Solar Hand Crank Portable Light for Power Outage",c:"Home",e:"🏠",n:"50% off with code HDQ8S6FB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQJFLY3L"},
 {t:"Skin Scrubber Spatula Pore Cleaner Blackhead Remover,4 Modes",c:"Home",e:"🏠",n:"40% off with code EMM4CN0F",dt:"Nov 17",l:"https://www.amazon.com/dp/B07TY46K8Q"},
 {t:"Teeth Whitening Strips (Sensitive)",c:"Home",e:"🏠",n:"Use code EU8F5FHU",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HGF2DQ99"},
