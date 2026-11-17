@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hefty Party On Disposable Plastic Cold Cups, Red, 18 Ounce (50 Count (Pack of 3))",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0163LT9CY"},
 {t:"Cirravoosa Metal Rolling Carts",c:"Home",e:"🏠",n:"Use code VYSRSP58",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HJZLH734",img:"img/B0HJZLH734.jpg"},
 {t:"Christmas Elf Accessories Magic Gloves, Elf Kit Props for Moving and Rescuing Christmas Elf Dolls, Reusable",c:"Fashion",e:"🎄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HGLZRG33"},
 {t:"PAW Patrol Mighty Lookout Tower Playset With 4 Figures & Toy Car",c:"Auto",e:"🚗",dt:"Nov 17",l:"https://www.amazon.com/dp/B08W5DGL1V"},
