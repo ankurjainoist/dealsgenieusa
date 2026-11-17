@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"8 Inch Frying Pan Nonstick ,Stainless Steel Pan,Induction Pan",c:"Kitchen",e:"🍳",n:"50% off with code CL9L69IE",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GWDG1LVC"},
+{t:"C Stunt Car 360° Rolling Remote Control Toys",c:"Auto",e:"🚗",n:"40% off with code UUBG5C90",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H1Q3HD4G"},
+{t:"Sound Machine, White Noise Machine, Ultimate Noise Masking for Sleep, Pebble Gray",c:"Home",e:"🏠",n:"60% off with code JXBXT17O",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H3461QCJ"},
+{t:"Winnovo 15.6 in Smart Photo Frames",c:"Electronics",e:"🔌",n:"Use code OID7N2XV",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GT9FWXXW"},
 {t:"Duffle Bag for Men Travel Leather Canvas Weekender Bag Overnight Bag with Toiletry Bag",c:"Home",e:"🏠",n:"30% off with code TT0002",dt:"Nov 17",l:"https://www.amazon.com/dp/B0C3XDQFJJ"},
 {t:"HestiaSnax Insulated Snack Boxes",c:"Grocery",e:"🛒",n:"Use code GRUB5IL7",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GZ7PRM9V"},
 {t:"Starlink Mini Power Cables",c:"Electronics",e:"🔌",n:"50% off with code TOD6T6QC",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HHJ8NWTY"},
