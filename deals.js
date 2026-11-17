@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Add 4 & s&s",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0D9HMCYKC"},
 {t:"PAW Patrol Launch’N Haul PAW Patroller 2-in-1 Transforming Track Set",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B07PDMSP68"},
 {t:"Smooth & Renew Sugar Lip Scrub & Hydrating Lip Mask Duo",c:"Beauty",e:"💄",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FLNKYHJF"},
 {t:"XBOX Wireless Gaming Controller, Elite Series 2 Core, White",c:"Games",e:"🎮",dt:"Nov 17",l:"https://www.amazon.com/dp/B0B789CGGQ"},
