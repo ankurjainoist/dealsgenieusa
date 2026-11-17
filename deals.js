@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Electric Head Shavers for Men",c:"Home",e:"🏠",n:"Use code V2ON3CHJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FMD911RQ"},
+{t:"Smart Watches with Bluetooth Calling",c:"Electronics",e:"🔌",n:"80% off with code R38IY0LM",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQ74C67R"},
 {t:"INTEX Jump-O-Lene Inflatable Trampoline Bounce HoUse for Kids Ages 3-6",c:"Kids",e:"🎨",dt:"Nov 17",l:"https://www.amazon.com/dp/B005QIYUMU"},
 {t:"Flubecrux Bug Building Sets",c:"Home",e:"🏠",n:"Use code LTPBUDWB",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FWJ82LRT"},
 {t:"65W USB-C Charging Blocks",c:"Toys",e:"🧸",n:"40% off with code QSBE5Q1Q",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H2Q6JQHK"},
