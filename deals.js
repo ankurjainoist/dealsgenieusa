@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Duffle Bag for Men Travel Leather Canvas Weekender Bag Overnight Bag with Toiletry Bag",c:"Home",e:"🏠",n:"30% off with code TT0002",dt:"Nov 17",l:"https://www.amazon.com/dp/B0C3XDQFJJ"},
+{t:"HestiaSnax Insulated Snack Boxes",c:"Grocery",e:"🛒",n:"Use code GRUB5IL7",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GZ7PRM9V"},
+{t:"Starlink Mini Power Cables",c:"Electronics",e:"🔌",n:"50% off with code TOD6T6QC",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HHJ8NWTY"},
+{t:"NonStick Wok 11/3.5QT Woks & Stir-fry Pans Nonstick Granite",c:"Kitchen",e:"🍳",n:"50% off with code 3PTXCXO6",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H7C2Y5J3"},
 {t:"4-Tier Tree Bookshelf Small Bookcase With Drawer Wood Tree Book Case with Fabric Drawer",c:"Home",e:"🏠",n:"50% off with code 97X9GI5D",dt:"Nov 17",l:"https://www.amazon.com/dp/B0D2D79KS4"},
 {t:"Beauty Salon Deluxe Styling Set -Kids Hair Dryer Toy, Straightener Hairdryer with Real Function",c:"Beauty",e:"💄",n:"58% off with code 8ME0WH3A",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DK391HX3"},
 {t:"Electric Drumsticks Portable Air Drum Set with Foot Pedals forults, Kids",c:"Kids",e:"🎨",n:"55% off with code 9L2Q8M7H",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FHG768KV"},
