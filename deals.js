@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ntidova Pet Air Purifiers",c:"Pets",e:"🐾",n:"Use code M8ETIW82",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H4NXLNPQ"},
 {t:"Gaming Chair forults with Headrest, All-Steel Ergonomic Leather Chair",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HLCFH9LS"},
 {t:"Teeth Whitening Kits with LED Light",c:"Home",e:"🏠",n:"Use code UMIODQ6R",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GHDTC7XV"},
 {t:"GOLFOEE Electric Ear Cleaners",c:"Home",e:"🏠",n:"50% off with code X8V25DOH",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HMWPQDZK"},
