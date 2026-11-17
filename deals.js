@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Play-Doh Kitchen Creations Noodle Party Playset for Kids 3 Years and Up with 5 Non-Toxic Colors (Amazon",c:"Kitchen",e:"🍳",dt:"Nov 17",l:"https://www.amazon.com/dp/B07ZYCKR15",img:"img/B07ZYCKR15.jpg"},
 {t:"AXV Vibration Plate Exercise Machine Fitness Platform Body Vibrating Board",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G53MQJYC",img:"img/B0G53MQJYC.jpg"},
 {t:"4-in-1 Laser Tape Measure - Class 2, 131FT Laser Distance Meter, 16FT AutoLock Tape Measure, Cross-Line Laser",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G4N7VL6T"},
 {t:"Heat-resistant Stove Top Cover - 28.5 in X 20.5 in Cooktop Protector Covers, Scratch-resistant Washable Pad",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0G1CQ29WX"},
