@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"3-in-1 Cordless Electric Weed Wacker, 4000mAh Battery Powered Weed Eaters",c:"Electronics",e:"🔌",dt:"Nov 16",l:"https://www.amazon.com/dp/B0GQT6L52C",img:"img/B0GQT6L52C.jpg"},
 {t:"Gohero 5-in-1 Robot Building Toys",c:"Toys",e:"🧸",n:"Use code IQPRLEHP",dt:"Nov 16",l:"https://www.amazon.com/dp/B0H25FNZVN",img:"img/B0H25FNZVN.jpg"},
 {t:"KRUPLH Portable Jump Starters",c:"Home",e:"🏠",n:"Use code U8RCFISA",dt:"Nov 16",l:"https://www.amazon.com/dp/B0HHRNP7T4",img:"img/B0HHRNP7T4.jpg"},
 {t:"Bluetooth Music Boxing Machines",c:"Electronics",e:"🔌",n:"Use code EI0ZO8W5",dt:"Nov 16",l:"https://www.amazon.com/dp/B0D4YZRK2M",img:"img/B0D4YZRK2M.jpg"},
