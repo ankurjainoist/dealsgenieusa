@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Mens Cufflinks Set 12 Packs Shirt Tuxedo Buttons Cuff Links Set",c:"Fashion",e:"👗",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DYHRR5LC"},
+{t:"Hand Controlled RC Car, 2.4Ghz 4WD Gesture Sensing RC Stunt Car",c:"Auto",e:"🚗",n:"50% off with code XOAMIRPD",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FHK4LDNL"},
 {t:"RC Bubble Car with Detachable Blaster, 2.4GHz Remote Control Car and Automatic Bubble Machine Toy",c:"Auto",e:"🚗",n:"50% off with code GMQD4Y08",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GYS7MRTF"},
 {t:"Digital Calendar, 10.1-inch Digital Picture Frame & Chore Chart",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H8XMCXRG"},
 {t:"BodyRefresh Birthday Gifts for Women, 12-Piece Christmas Gift Basket",c:"Fashion",e:"🎄",n:"50% off with code Z4IOBPMO",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GY7G68GY"},
