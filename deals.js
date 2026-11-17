@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"3-Inch Dash Cams",c:"Home",e:"🏠",n:"Use code VK4DKYTQ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HNZFR7S2"},
+{t:"Motor Meter Racing Gauge Sets",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CTMPBJQ1"},
 {t:"A Strong Heart Chicken, Beef, and Salmon Variety Pack Cat Food, 3oz, 24pk",c:"Pets",e:"🐾",n:"Subscribe & Save available",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CWLRZY2S"},
 {t:"Cordless Soldering Iron Kit, USB Wireless Electric Soldering Pen",c:"Home",e:"🏠",n:"Use code TYS2QXVJ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0C2CJ1FHX"},
 {t:"Dowry Lighted Makeup Mirrors",c:"Beauty",e:"💄",n:"Use code 8GAGP9Q5",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HN1QDCW5"},
