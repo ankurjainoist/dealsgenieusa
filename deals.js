@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Electric Head Shavers for Men",c:"Home",e:"🏠",n:"Use code PM4PVVKG",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HNVYZSDC"},
+{t:"ZEAHOT AI Translation Earbuds",c:"Electronics",e:"🔌",n:"Use code A0FZ5K9A",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRNPJC41"},
 {t:"Acrylic Crystal Christmas Tree Picks",c:"Home",e:"🎄",n:"50% off with code BYHL3GGJ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRK2T2N3"},
 {t:"Grandmillennial Mahjong Mat Bags",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6WYR164"},
 {t:"Christian Clipboard - 9 in x 12.5 in with Low Profile Metal Clip, 8-Count, He Restores My Soul",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GZJK89VZ"},
