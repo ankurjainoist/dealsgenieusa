@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dinosaur Pounding Toy",c:"Toys",e:"🧸",n:"50% off with code MXLNM8MR",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJ55M9M9"},
+{t:"Mini Magnetic Tiles Road Set",c:"Home",e:"🏠",n:"75% off with code RY8IAOU4",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H7B926NQ"},
+{t:"Baby Musical Elephant Piano Toys",c:"Baby",e:"👶",n:"50% off with code BMLQAT3U",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HFRVVVQS"},
+{t:"Evergreen Christmas Tree Picks",c:"Home",e:"🎄",n:"Use code 6VXQ6STU",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR92CG5B"},
+{t:"Christmas Diy Beads Kit",c:"Home",e:"🎄",n:"50% off with code JP6MSQ7V",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DFQ2818V"},
 {t:"Solar Christmas Tree Pathway Lights",c:"Home",e:"🎄",n:"Use code MIYJP6Q2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HH35RD4Z"},
 {t:"Porch Goose Outfits Sets",c:"Home",e:"🏠",n:"50% off with code BTGKG532",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HH3D174F"},
 {t:"Cat HoUse for Indoor Cats Large Double Cat Beds Cave with Cat Scratcher Pad Toys w/Catnip,Soft Washable",c:"Pets",e:"🐾",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FSD8JXLY"},
