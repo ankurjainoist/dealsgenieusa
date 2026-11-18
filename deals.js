@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Reusable Temporary Dentures",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HGY9PKT2"},
+{t:"Insulated Water Bottles",c:"Kitchen",e:"🍳",n:"Use code V7VTS47D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FJ2ZFQ6H"},
+{t:"Craft-Tastic Let’s Learn to Sew – Mini Sewing Kit",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0977NTKHY"},
+{t:"WORKPRO 12PCS Stubby Combination Wrench Set with Storage Box, Metric 8-19mm",c:"Tools",e:"🔧",dt:"Nov 18",l:"https://www.amazon.com/dp/B09ZXP5DHP"},
+{t:"FoodSaver Compact Vacuum Sealer Machine with Airtight Bags and Roll - Ideal for Sous Vide and Airtight Food",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B08BDHZ1PV"},
 {t:"Solar Multicolor Christmas String Lights",c:"Home",e:"🎄",n:"Use code GZDXKKCH",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F7QV28WX"},
 {t:"Coleman Pro 55-Quart Coolers",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F5DB9T51"},
 {t:"Calvin Klein Womens Bella Novelty Crossbody Handbag",c:"Fashion",e:"👗",dt:"Nov 18",l:"https://www.amazon.com/dp/B0C4G1S7H3"},
