@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"URSOLA 4-Light Vanity Fixtures",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H8XN5FTY"},
+{t:"GPS Vehicle Trackers",c:"Home",e:"🏠",n:"50% off with code Z0PW48HX",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPF49Y96"},
+{t:"Cuisinart Mini-Prep Plus Food Processor, 4-Cup Electric Chopper, DLC-4CHB",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B000YA8R6U"},
+{t:"Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DZ77D5HL"},
 {t:"24 Inch Christmas Wreath for Front Door, Pre-Lit Christmas Door Wreath with Xmas Ball Ornaments, Gingerbread",c:"Home",e:"🎄",n:"Use code V75UQ6MM",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HBBYDYS5"},
 {t:"Surprise Money Gift Boxes",c:"Home",e:"🏠",n:"Use code PADNDZ5H",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRDM82Q7"},
 {t:"NESLAKO Pink Boneless Chair Beds",c:"Home",e:"🏠",n:"Use code JQBZB35D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HBJHXDGT"},
