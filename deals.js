@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bamboo Viscose Mattress Toppers (King)",c:"Home",e:"🏠",n:"Use code GFSRR447",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQZ4JNGJ"},
+{t:"2-Piece Garden Harvesting Apron Set with Bottom-Release Buckles",c:"Home",e:"🏠",n:"50% off with code X70SPTNW",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HFJVW7FF"},
+{t:"Wood Carving Apron with Shavings Catcher and Tool Pockets",c:"Tools",e:"🔧",n:"50% off with code H5B8NLZS",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HDZ14XNB"},
+{t:"BBQ Blanket for Resting Meat, 270°Opening Leakproof Insulated Bag",c:"Home",e:"🏠",n:"69% off with code CZCC01KRD50 (works on Yellow)",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GJZJ6CX3"},
+{t:"2-6pcs Solar Lanterns Outdoor Waterproof Flickering Flame Christmas Lights",c:"Home",e:"🎄",n:"50% off with code MRE81O34 (works on Warm White)",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GZ3LQ3TG"},
 {t:"DOGOITM GPS Dog Fences",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPK1B7RZ"},
 {t:"34 Pcs Suncatchers Crafts Kit Stained Glass Painting Arts",c:"Kids",e:"🎨",n:"50% off with code 7UCCYR1R",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HHF2T4MG"},
 {t:"Motion Sensor Trash Can For Bathroom With Lid, 4.5 Gallon, 1 or 2 Pack",c:"Home",e:"🏠",n:"45% off with code S5TP5XPM",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRF118S7"},
