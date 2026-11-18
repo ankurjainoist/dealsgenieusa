@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Nanfang Brothers Damascus Kitchen Knives",c:"Kitchen",e:"🍳",n:"50% off with code QXASNA5E",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DHX72SVH"},
+{t:"Golf Pants with 5 Pockets",c:"Fashion",e:"👗",n:"40% off with code HRTZIGAZ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FRM25RCH"},
+{t:"Outdoor Weatherproof Power Strip",c:"Electronics",e:"🔌",n:"50% off with code Q2OFWGCQ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCTZJJ6D"},
+{t:"Mini Keychain Camera",c:"Electronics",e:"🔌",n:"30% off with code N16NP6H2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HN1X93B2"},
 {t:"SHEEPAM 4-Tier Tree Bookshelves",c:"Home",e:"🏠",n:"Use code 97X9GI5D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DDKQ86LQ"},
 {t:"Giant Christmas Gingerbread Inflatables",c:"Home",e:"🎄",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCNX5NYY"},
 {t:"Compact Food Vacuum Sealer Kit",c:"Home",e:"🏠",n:"50% off with code 92O92XSI",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCF58Z8G"},
