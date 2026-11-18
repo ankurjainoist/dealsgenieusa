@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Clue Board Game for Ages 8 and Up, Reimagined Clue Game for 2-6 Players, Mystery, Detective, Family Games for",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0B5FLTTT5"},
+{t:"BUCASA Waterproof Shower Lamps",c:"Home",e:"🏠",n:"Use code 82DDFX21",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H5RCRZHQ"},
 {t:"Motion Sensor LED Under Cabinet Lights",c:"Home",e:"🏠",n:"70% off with code 9V3G8D7J",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCFR18NM"},
 {t:"APUseN Ergonomic Office Chairs",c:"Home",e:"🏠",n:"Use code JHVCLQ4N",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G586PHW4"},
 {t:"PUMA Men’s Crew Socks (6-Pack",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B07MXY4ZRB"},
