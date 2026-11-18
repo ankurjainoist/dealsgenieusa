@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Knee Massagers with Heat & Light",c:"Health",e:"💊",n:"Use code NFFD7SSK",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQHGK5Z9",img:"img/B0HQHGK5Z9.jpg"},
 {t:"Vegetable Choppers & Slicers",c:"Home",e:"🏠",n:"Use code Z0G2ET5G",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQYS5B12",img:"img/B0HQYS5B12.jpg"},
 {t:"Perfume Gift Sets",c:"Beauty",e:"💄",n:"Use code MBX8PNOT",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HN4TZ3DF",img:"img/B0HN4TZ3DF.jpg"},
 {t:"LEGO Classic Medium Creative Brick Box 10696",c:"Toys",e:"🧸",dt:"Nov 17",l:"https://www.amazon.com/dp/B00NHQFA1I",img:"img/B00NHQFA1I.jpg"},
