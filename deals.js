@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Gutdyfine Building Block Sets",c:"Home",e:"🏠",n:"50% off with code 6NLCIJVE",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HHJW1K9M",img:"img/B0HHJW1K9M.jpg"},
 {t:"Lomotech Solar Butterfly Garden Lights",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G6SR5CHK",img:"img/B0G6SR5CHK.jpg"},
 {t:"Vexoilux Rust Remover Sprays",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HLCQWQK2",img:"img/B0HLCQWQK2.jpg"},
 {t:"FURBY Minisvent Calendar for Kids 6 Years and Up, 24 Days of Surprise Holiday Toys with 1-Inch Figures",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DMWL2XDY",img:"img/B0DMWL2XDY.jpg"},
