@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"RNNSNN Electric Bikes (1500W)",c:"Home",e:"🏠",n:"50% off with code 4ESTVRRN",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJ83ZQND"},
+{t:"Petrichor Plush Velvet & Flannel Quilt Set Queen Size, Luxuriously Soft Textured Geometric Bedding",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GDGJYWZK"},
+{t:"Lenovo IdeaPad Slim 3i Laptops",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQH48WD2"},
 {t:"Play Food Toy Sets",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GLXS734H"},
 {t:"Shopping Cart Cover for Baby High Chair Cover Grocery Cart Cover for Baby Girl/Boy Toddler Grey Clouds",c:"Baby",e:"👶",dt:"Nov 18",l:"https://www.amazon.com/dp/B0CQXPDXL6"},
 {t:"Electric Razors for Men",c:"Home",e:"🏠",n:"Use code EF3KM737",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HNNCH4LD"},
