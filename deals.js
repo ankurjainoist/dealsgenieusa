@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"5-in-1Bean Bag Toss Game for Kids, Cornhole Board Toddler Toys for Kids Party Activity and Outdoor Yard",c:"Baby",e:"👶",n:"50% off with code FXM7MMPA",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F634F9QZ"},
+{t:"Donut Dog Beds (Medium)",c:"Pets",e:"🐾",n:"50% off with code IUWNBB9B",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FMJT2XW2"},
+{t:"Ai Voice Sticker Maker",c:"Home",e:"🏠",n:"60% off with code S6TPT188",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HKFPLYNY"},
+{t:"Remote Control Truck Toys with Two Shells",c:"Auto",e:"🚗",n:"50% off with code I4PMQMPF",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DPX66X31"},
+{t:"Talking Pen Set",c:"Home",e:"🏠",n:"50% off with code 9MQH0BQE",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HK899G5L"},
 {t:"Dinosaur Pounding Toy",c:"Toys",e:"🧸",n:"50% off with code MXLNM8MR",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJ55M9M9"},
 {t:"Mini Magnetic Tiles Road Set",c:"Home",e:"🏠",n:"75% off with code RY8IAOU4",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H7B926NQ"},
 {t:"Baby Musical Elephant Piano Toys",c:"Baby",e:"👶",n:"50% off with code BMLQAT3U",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HFRVVVQS"},
