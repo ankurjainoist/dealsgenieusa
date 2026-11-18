@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Tooth Whitening Paints",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HNP5RQVL"},
+{t:"Aura Universal Travelapters",c:"Home",e:"🏠",n:"Use code NF2TCI8P",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HLDPYFB6"},
+{t:"Frameo 10.1 in Smart Photo Frames",c:"Electronics",e:"🔌",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H7JQK8YX"},
+{t:"Heavy Duty Rolling Garment Racks",c:"Home",e:"🏠",n:"Use code DXMIN90L",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HB99L8SX"},
+{t:"Christmas Garlands with Lights",c:"Home",e:"🎄",n:"Use code H576JRZS",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GZ2RR5B4"},
 {t:"Wireless Window Camera",c:"Electronics",e:"🔌",n:"45% off with code HK0D011J",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPNP4TBQ"},
 {t:"Touch Screen Self Service Kiosk",c:"Home",e:"🏠",n:"30% off with code ST0AF5PX",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H38VL92F"},
 {t:"Handheld Gaming Consoles (Pink)",c:"Home",e:"🏠",n:"Use code C8XHNSJG",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HGB23XDP"},
