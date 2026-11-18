@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Mini Thermal Sticker Printers",c:"Home",e:"🏠",n:"Use code G6D2E9EQ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F5PTY7RF",img:"img/B0F5PTY7RF.jpg"},
 {t:"3-in-1 Boxing Equipment Kit",c:"Home",e:"🏠",n:"35% off with code KOK4VVGT",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DYNH2NYC",img:"img/B0DYNH2NYC.jpg"},
 {t:"CMF BY Nothing Headphone Pro Active Noise Canceling Wireless Headphones Bluetooth 5.4 Over The Ear Headset",c:"Electronics",e:"🔌",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FLK83CMY",img:"img/B0FLK83CMY.jpg"},
 {t:"Electric Nail Clippers 3-in-1",c:"Beauty",e:"💄",n:"50% off with code P5IQK85O",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HKJ82CZ1",img:"img/B0HKJ82CZ1.jpg"},
