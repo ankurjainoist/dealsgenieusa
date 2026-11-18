@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Solar Christmas Tree Pathway Lights",c:"Home",e:"🎄",n:"Use code MIYJP6Q2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HH35RD4Z"},
+{t:"Porch Goose Outfits Sets",c:"Home",e:"🏠",n:"50% off with code BTGKG532",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HH3D174F"},
+{t:"Cat HoUse for Indoor Cats Large Double Cat Beds Cave with Cat Scratcher Pad Toys w/Catnip,Soft Washable",c:"Pets",e:"🐾",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FSD8JXLY"},
+{t:"Smushers Squishy Stress Relief Toys",c:"Toys",e:"🧸",n:"Use code GTMTT3PN",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HN98X7XD"},
 {t:"Heavy Duty Snow Shovels",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H822JHMK"},
 {t:"OfficeGoods Mini-Pro Electric Pencil Sharpeners",c:"Kids",e:"🎨",n:"Clip the 40% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B06XWNPSP1"},
 {t:"KidKraft Laundry Playset Childrens Pretend Wooden Stacking Washer and Dryer Toy with Iron and Basket",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B00E6NJT0E"},
