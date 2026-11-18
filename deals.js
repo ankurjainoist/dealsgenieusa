@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"5-Drawer Nightstands",c:"Home",e:"🏠",n:"Use code DTPDV57Z",dt:"Nov 18",l:"https://www.amazon.com/dp/B0BH5B26DW"},
+{t:"Handheld Math Games & Concentration Toy",c:"Toys",e:"🧸",n:"40% off with code DRLO8YI2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GZN4Q769"},
+{t:"Fabric Flower Bouquets Toys",c:"Toys",e:"🧸",n:"70% off with code VAUAXUH3",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FDKKMYQN"},
+{t:"Hot Towel Dispensers",c:"Home",e:"🏠",n:"Use code GPT52ZJJ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HNNR6WWQ"},
+{t:"BlueWood Pikler Triangle Set, 8-in-1 Toddler Climbing Toys Indoor Foldable",c:"Baby",e:"👶",n:"50% off with code M05HX6TQ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HDBQ8M5K"},
 {t:"5-in-1Bean Bag Toss Game for Kids, Cornhole Board Toddler Toys for Kids Party Activity and Outdoor Yard",c:"Baby",e:"👶",n:"50% off with code FXM7MMPA",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F634F9QZ"},
 {t:"Donut Dog Beds (Medium)",c:"Pets",e:"🐾",n:"50% off with code IUWNBB9B",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FMJT2XW2"},
 {t:"Ai Voice Sticker Maker",c:"Home",e:"🏠",n:"60% off with code S6TPT188",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HKFPLYNY"},
