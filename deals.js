@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PUMA Men’s Crew Socks (6-Pack",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B07MXY4ZRB"},
 {t:"RNNSNN Electric Bikes (1500W)",c:"Home",e:"🏠",n:"50% off with code 4ESTVRRN",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJ83ZQND"},
 {t:"Petrichor Plush Velvet & Flannel Quilt Set Queen Size, Luxuriously Soft Textured Geometric Bedding",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GDGJYWZK"},
 {t:"Lenovo IdeaPad Slim 3i Laptops",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQH48WD2"},
