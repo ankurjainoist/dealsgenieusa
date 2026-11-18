@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Levi’s Women’s 318 Shaping Wide-Leg Jeans",c:"Fashion",e:"👗",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DJWQ3S8T"},
+{t:"Wireless Headset with Microphone",c:"Home",e:"🏠",n:"Use code L92X3MUL",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HH9DB658"},
+{t:"DURACELL Coppertop AAA Alkaline Batteries 28 count 2 pack",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GHDK4BQ3"},
+{t:"Philips Sonicare 4100 Toothbrushes",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B09LD8T445"},
+{t:"Animated Holiday AmUsement Park Centerpieces",c:"Home",e:"🏠",n:"Use code 3F0U3PG3",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRKXYLG6"},
 {t:"Tooth Whitening Paints",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HNP5RQVL"},
 {t:"Aura Universal Travelapters",c:"Home",e:"🏠",n:"Use code NF2TCI8P",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HLDPYFB6"},
 {t:"Frameo 10.1 in Smart Photo Frames",c:"Electronics",e:"🔌",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H7JQK8YX"},
