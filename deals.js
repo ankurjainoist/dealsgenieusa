@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"2 Pack Rechargeable LED Light Drawing Board Toy for Kids, Holiday Gift Set",c:"Toys",e:"🧸",n:"50% off with code W5K5893P",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H82M4RWB"},
+{t:"LED Drawing Board for Kids, 16 in Rechargeable with 20 Tracing Templates",c:"Kids",e:"🎨",n:"50% off with code UBLPXFVU",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H69V9MRB"},
+{t:"Baby Balance Bike",c:"Baby",e:"👶",n:"70% off with code 2WO99LI8",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJR5LTLC"},
+{t:"Racing Wheel Stands",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GC4V3JCD"},
+{t:"Drone with Camera",c:"Electronics",e:"🔌",n:"50% off with code 6Q3JEMUR",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR8HRG9Q"},
 {t:"200 Pcs Magnetic Building Blocks",c:"Toys",e:"🧸",n:"50% off with code 7AZBN8FI",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FSCNVR82"},
 {t:"4 Pack Desk Goose Outfits",c:"Home",e:"🏠",n:"50% off with code LYJ5VJPN",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6V51TQK"},
 {t:"Montessori 8 in 1 Learning Educational Set Wooden Sensory Toys",c:"Toys",e:"🧸",n:"53% off with code YX2QXCVI",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D5HC71GB"},
