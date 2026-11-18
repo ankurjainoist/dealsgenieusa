@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cupocupa Duvet Cover Full Size Set Boho Floral Pattern Full Duvet Cover Set for Full Size Bed Vintage Soft",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DHVF9PRQ"},
 {t:"Wow! Stuff Disney Angel Puppetronic by RealFX, Looks, Feels & Sounds Real!, Disneys Lilo & Stitch, Over 100",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DSGK368D"},
 {t:"AI Smart Glasses with Translation",c:"Electronics",e:"🔌",n:"50% off with code OBD4HZIN",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HLK98SNC"},
 {t:"STANLEY ALL Day Lunch Box, 4.2 qt, Sunset Spiral",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H4854SJM"},
