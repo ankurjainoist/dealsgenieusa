@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Elvie Curve Wearable Breast Pumps",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B08HSNW53Y"},
+{t:"Plaid Christmas Tree Skirts",c:"Home",e:"🎄",n:"Use code F10FGUCT",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR96YHQ1"},
 {t:"Nespresso Vertuo Next Coffee Makers",c:"Kitchen",e:"🍳",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GLFSV2XD"},
 {t:"SWICKY Rolling Backpacks (Blue)",c:"Home",e:"🏠",n:"Use code JB04ZE2E",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G33R68C5"},
 {t:"Glitter Christmas Tree Picks",c:"Home",e:"🎄",n:"50% off with code OD5IZIDS",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HKBVT6NT"},
