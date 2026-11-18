@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Smart Art Projectors",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H942D8HB"},
+{t:"Clear Drink Buckets with Lids",c:"Home",e:"🏠",n:"Use code O6ZWP61D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G1YBT94C"},
+{t:"NIIMBOT B1 Label Makers",c:"Home",e:"🏠",n:"Use code B1DAVID",dt:"Nov 18",l:"https://www.amazon.com/dp/B0BR4R72H2"},
+{t:"ACTIVE Mold Stain Remover Gels",c:"Home",e:"🏠",n:"Use code 9D4K9XQ7",dt:"Nov 18",l:"https://www.amazon.com/dp/B0CTS8VQ85"},
+{t:"Heavy-Duty Oil Degreasers",c:"Home",e:"🏠",n:"Use code 9VRCJYA6",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DH28DVHR"},
 {t:"How about dem apples",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B07XW19QBH"},
 {t:"Blink Mini 2K+ – Plug-in Home & Pet Indoor Security Camera with 2K video resolution",c:"Pets",e:"🐾",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HMFWLXQX"},
 {t:"Jimmy Choo Floral Eau de Toilette",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B07L8M47LH"},
