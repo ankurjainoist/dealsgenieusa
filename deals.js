@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Heavy Duty Snow Shovels",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H822JHMK"},
+{t:"OfficeGoods Mini-Pro Electric Pencil Sharpeners",c:"Kids",e:"🎨",n:"Clip the 40% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B06XWNPSP1"},
+{t:"KidKraft Laundry Playset Childrens Pretend Wooden Stacking Washer and Dryer Toy with Iron and Basket",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B00E6NJT0E"},
+{t:"Fitense Golf Swing Trainers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCY81YGX"},
 {t:"Reusable Temporary Dentures",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HGY9PKT2"},
 {t:"Insulated Water Bottles",c:"Kitchen",e:"🍳",n:"Use code V7VTS47D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FJ2ZFQ6H"},
 {t:"Craft-Tastic Let’s Learn to Sew – Mini Sewing Kit",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0977NTKHY"},
