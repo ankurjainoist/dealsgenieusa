@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Apple AirPods Pro 3",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FQFB8FMG"},
+{t:"Foldable Wooden Playpens",c:"Home",e:"🏠",n:"Use code KVZ2WJ86",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FRMP9C1K"},
+{t:"Astercook 6-Piece Knife Sets (Pink)",c:"Kitchen",e:"🍳",n:"Use code 8WQEODXC",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HDSQWKBY"},
 {t:"Lighted Ceramic Christmas Village Set -11 Pcs",c:"Home",e:"🎄",n:"35% off with code JGBUHMQD",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H97S2PB5"},
 {t:"Flying Orb Ball",c:"Home",e:"🏠",n:"50% off with code JZDOFKSE (works on Blue,Red and Purple))",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GCMWGYDQ"},
 {t:"Christmas Parachute Lights",c:"Home",e:"🎄",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H2W1FM2K"},
