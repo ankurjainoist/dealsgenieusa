@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"400LBS Beach Cart for Sand, 12 in All-Terrain Wheels 320L Beach Wagon",c:"Home",e:"🏠",n:"50% off with code BF316JAY",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GF77Y78S"},
+{t:"BRIO World Battery Operated Action Train - Motorized for Wooden Tracks - Kids Electric Set - Includes Moving",c:"Electronics",e:"🔌",dt:"Nov 18",l:"https://www.amazon.com/dp/B00AOVXOQW"},
+{t:"STANLEY Quencher H2.0 Flow State Tumbler, 30 oz",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0CJZF9XZZ"},
+{t:"Dearfoams Fireside Sydney Slippers",c:"Fashion",e:"👗",dt:"Nov 18",l:"https://www.amazon.com/dp/B07K32ZCHG"},
 {t:"Steering Wheel Lock 2 Pack Steering Wheel & Seat Belt Lock",c:"Home",e:"🏠",n:"20% off with code GYFXUUVG",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G9LFBJMD"},
 {t:"Large Wooden Baby Playpen 11+3 Panels 70.9×70.9in Toy Storage",c:"Baby",e:"👶",n:"25% off with code 2WHZ6OEB",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HHDS41J1"},
 {t:"Sarusd 4000A Portable Jump Starters",c:"Home",e:"🏠",n:"Use code 1WKFDVB2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H75ZPWKD"},
