@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Elf Drone Inflatable Airplane Elf Plane for Christmas New Year Holiday Ideas of Elf Kit Accessories & Props",c:"Home",e:"🎄",n:"40% off with code YGDR40",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FMGH2WYM",img:"img/B0FMGH2WYM.jpg"},
 {t:"Brita Water Filter Pitchers",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B09W4PLVQP",img:"img/B09W4PLVQP.jpg"},
 {t:"Christmas Inflatable Santa Claus 7 FT",c:"Home",e:"🎄",n:"38% off with code 2LEUQO73",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HBQ4B8TF",img:"img/B0HBQ4B8TF.jpg"},
 {t:"4G LTE Solar Cellular Trail Camera, 64MP 2K Game Cam, 2.0 in LCD,64GB TF Card",c:"Electronics",e:"🔌",n:"50% off with code 7FYPNVOC",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GLFM6122",img:"img/B0GLFM6122.jpg"},
