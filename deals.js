@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Surprise Money Gift Boxes",c:"Home",e:"🏠",n:"Use code PADNDZ5H",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRDM82Q7"},
+{t:"NESLAKO Pink Boneless Chair Beds",c:"Home",e:"🏠",n:"Use code JQBZB35D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HBJHXDGT"},
 {t:"Michael Van Clarke Hair Care Sets",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B08PVY6NPC"},
 {t:"HEHE STYLI Wireless CarPlayapters",c:"Home",e:"🏠",n:"Use code UHVQSN2P",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPDRWJRK"},
 {t:"Neutrogena Holiday Hero Skincare Gift Set, 4 Items",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H4X51R42"},
