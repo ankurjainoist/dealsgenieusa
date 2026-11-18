@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Solar Multicolor Christmas String Lights",c:"Home",e:"🎄",n:"Use code GZDXKKCH",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F7QV28WX"},
+{t:"Coleman Pro 55-Quart Coolers",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F5DB9T51"},
+{t:"Calvin Klein Womens Bella Novelty Crossbody Handbag",c:"Fashion",e:"👗",dt:"Nov 18",l:"https://www.amazon.com/dp/B0C4G1S7H3"},
+{t:"Vintage Christmas Wrapping Papers",c:"Home",e:"🎄",n:"Use code MJ9BV6TS",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H7X1SZ46"},
+{t:"CeraVe Acne Face Washes",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DW5YYB4P"},
 {t:"Bedsure Cotton Throw Blankets",c:"Home",e:"🏠",n:"Use code P7WF4KEX",dt:"Nov 18",l:"https://www.amazon.com/dp/B0C8T3XBBW"},
 {t:"GarveeHome Rugs for Bedroom Girls, 4x6 Rug for Living Room Non Slip",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F4DSHZDQ"},
 {t:"Wood File Cabinets",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DGG9LB5M"},
