@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"24 Inch Christmas Wreath for Front Door, Pre-Lit Christmas Door Wreath with Xmas Ball Ornaments, Gingerbread",c:"Home",e:"🎄",n:"Use code V75UQ6MM",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HBBYDYS5"},
 {t:"Surprise Money Gift Boxes",c:"Home",e:"🏠",n:"Use code PADNDZ5H",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRDM82Q7"},
 {t:"NESLAKO Pink Boneless Chair Beds",c:"Home",e:"🏠",n:"Use code JQBZB35D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HBJHXDGT"},
 {t:"Michael Van Clarke Hair Care Sets",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B08PVY6NPC"},
