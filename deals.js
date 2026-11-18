@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Compact Food Vacuum Sealer Kit",c:"Home",e:"🏠",n:"50% off with code 92O92XSI",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCF58Z8G"},
+{t:"Posture Support Bras Front Closure",c:"Home",e:"🏠",n:"50% off with code AFPDBZUJ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQN27HHG"},
+{t:"MagSafe Car Mount",c:"Auto",e:"🚗",n:"44% off with code 474IY85I",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H45524XN"},
 {t:"Christmas Snow Globe",c:"Home",e:"🎄",n:"50% off with code W4CZ6FNV",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H8XXL4R5"},
 {t:"Metal Detector forults",c:"Home",e:"🏠",n:"Use code YPUY44AR",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HMGG8CTR"},
 {t:"5-In-1 Carrier Truck",c:"Auto",e:"🚗",n:"50% off with code U60C5RX3",dt:"Nov 18",l:"https://www.amazon.com/dp/B09BQJQRGF"},
