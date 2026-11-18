@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DecoReco Luxe Wave Leather Cases (Brown)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FRZ48RYL"},
 {t:"1000X Digital Microscope for Kids: 2.4 in HD Screen 4K Image",c:"Kids",e:"🎨",n:"50% off with code D7I5B21D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6QK6TWD"},
 {t:"Cesar Classic Loaf in Sauce Filet Mignon Flavor Wet Dog Food 3.5 Ounce",c:"Pets",e:"🐾",dt:"Nov 18",l:"https://www.amazon.com/dp/B002QT8NGG",img:"img/B002QT8NGG.jpg"},
 {t:"Heated Neck Massagers",c:"Health",e:"💊",n:"50% off with code DIF1ALKK",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G25N7H21",img:"img/B0G25N7H21.jpg"},
