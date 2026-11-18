@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MALACASA Porcelain Dinnerware Sets",c:"Home",e:"🏠",n:"Use code ZTZC94RK",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D7VRKX3V"},
+{t:"White Linen Blackout Curtains",c:"Home",e:"🏠",n:"Use code HG0OLBBJ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GY9ZZV2V"},
+{t:"Extra Tall Pet Gates",c:"Pets",e:"🐾",n:"Use code D1EK1ODE",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJV4M7V4"},
+{t:"Yankee Candle Pumpkin Maple Crème Caramel Scented Candle, 22oz Large Jar",c:"Home",e:"🎃",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F8KWG9WW"},
+{t:"Melissa & Doug Pretend Grocery Stores",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B072M2SB11"},
 {t:"iPhone Fast Charging Cables",c:"Electronics",e:"🔌",n:"Use code 3T3RUGMO",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H1RLV4QD"},
 {t:"Furinno 4-Tier Bakers Racks",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJ4K5GNX"},
 {t:"Frito-Lay Classic Mix Variety Packs",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B09QP7Z5Y3"},
