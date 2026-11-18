@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LEGO Classic Medium Creative Brick Box 10696",c:"Toys",e:"🧸",dt:"Nov 17",l:"https://www.amazon.com/dp/B00NHQFA1I",img:"img/B00NHQFA1I.jpg"},
 {t:"Pit Boss 3-Series Propane Gas Vertical Smoker with HVR Controller and Wood Chip Tray, 983-Sq. In. 4-Rack",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FVPNJKBH",img:"img/B0FVPNJKBH.jpg"},
 {t:"Elf Drone Inflatable Airplane Elf Plane for Christmas New Year Holiday Ideas of Elf Kit Accessories & Props",c:"Home",e:"🎄",n:"40% off with code YGDR40",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FMGH2WYM",img:"img/B0FMGH2WYM.jpg"},
 {t:"Brita Water Filter Pitchers",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B09W4PLVQP",img:"img/B09W4PLVQP.jpg"},
