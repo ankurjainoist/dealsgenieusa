@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Folding Sauna Tent",c:"Home",e:"🏠",n:"Use code 7ZVXI0VZ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HJ1Y1S12"},
 {t:"Christmas Hair Clips for Girls",c:"Beauty",e:"🎄",n:"50% off with code RYBA8DME",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HRFSPKD9",img:"img/B0HRFSPKD9.jpg"},
 {t:"Knee Massagers with Heat & Light",c:"Health",e:"💊",n:"Use code NFFD7SSK",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQHGK5Z9",img:"img/B0HQHGK5Z9.jpg"},
 {t:"Vegetable Choppers & Slicers",c:"Home",e:"🏠",n:"Use code Z0G2ET5G",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQYS5B12",img:"img/B0HQYS5B12.jpg"},
