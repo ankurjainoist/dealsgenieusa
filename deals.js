@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DOGOITM GPS Dog Fences",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPK1B7RZ"},
+{t:"34 Pcs Suncatchers Crafts Kit Stained Glass Painting Arts",c:"Kids",e:"🎨",n:"50% off with code 7UCCYR1R",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HHF2T4MG"},
+{t:"Motion Sensor Trash Can For Bathroom With Lid, 4.5 Gallon, 1 or 2 Pack",c:"Home",e:"🏠",n:"45% off with code S5TP5XPM",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRF118S7"},
+{t:"Collapsible Heated Foot Soaking Tub,14 Temp Control Foot Bath Massager",c:"Health",e:"💊",n:"62% off with code 7IXEGILY",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJZ6NXPZ"},
 {t:"2 Pack Front Door Christmas Decorations, Red Berry Xmas Swags",c:"Home",e:"🎄",n:"50% off with code GUQ3Y3KL",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HC3D7NQD"},
 {t:"3-Piece Christmas Fake Snow Set, 3 x 8 FT Snow Blanket Roll",c:"Home",e:"🎄",n:"50% off with code QS27VI4I",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HD7R3DMC"},
 {t:"Zekuavi Electric Toothbrush Heads",c:"Home",e:"🏠",n:"Use code IJPTMJ9H",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GQGYHZQG"},
