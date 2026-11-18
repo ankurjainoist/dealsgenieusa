@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Turtle Family Building Set",c:"Home",e:"🏠",n:"60% off with code SE89MXTP",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HFN7T1G5"},
+{t:"Philips Sonicare Electric Toothbrushes",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B09LD8VFS1"},
+{t:"Kitchen Dishwashing Toys set",c:"Kitchen",e:"🍳",n:"50% off with code YGTYL2C3",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GY746YPQ"},
+{t:"61PCS Police Toys Magnetic Tiles",c:"Toys",e:"🧸",n:"50% off with code KSB0I7RL",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6L6HYG3"},
+{t:"Bow and Arrow Set for Kids",c:"Kids",e:"🎨",n:"40% off with code UM4EEVJ3",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HFHTC99F"},
 {t:"5-Drawer Nightstands",c:"Home",e:"🏠",n:"Use code DTPDV57Z",dt:"Nov 18",l:"https://www.amazon.com/dp/B0BH5B26DW"},
 {t:"Handheld Math Games & Concentration Toy",c:"Toys",e:"🧸",n:"40% off with code DRLO8YI2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GZN4Q769"},
 {t:"Fabric Flower Bouquets Toys",c:"Toys",e:"🧸",n:"70% off with code VAUAXUH3",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FDKKMYQN"},
