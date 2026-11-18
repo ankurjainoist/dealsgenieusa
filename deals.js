@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Mini Woven Crossbody Purses",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FFGYZD5X"},
+{t:"Heated Electric Throw Blanket",c:"Home",e:"🏠",n:"50% off with code WOQK1QQ8",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRFSLHBW"},
+{t:"360 Rotating Jewelry Boxes",c:"Fashion",e:"👗",n:"Use code XT5NBB0R",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HB4359H7"},
+{t:"3-Piece 3D Lighted Christmas Decorations",c:"Home",e:"🎄",n:"40% off with code 77XJ7509",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRK9XP8J"},
+{t:"Nike Performance Crew Socks",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B07KCDC1V2"},
 {t:"Monster S310 Bluetooth Speakers (Pink)",c:"Electronics",e:"🔌",n:"Use code Y2Z93AT2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPNKQ128"},
 {t:"Kids Electric Scooter",c:"Kids",e:"🎨",n:"70% off with code ZWK2WQ6D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FC86FH3P"},
 {t:"Santa Claus Hot Air Balloon Lights",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HB3FJJM9"},
