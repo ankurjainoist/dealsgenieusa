@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Apple Crossbody Straps (Soft Pink)",c:"Home",e:"🏠",n:"Clip the 49% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GQVKJ8QR"},
 {t:"Electric Head Shavers for Men",c:"Home",e:"🏠",n:"Use code PM4PVVKG",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HNVYZSDC"},
 {t:"ZEAHOT AI Translation Earbuds",c:"Electronics",e:"🔌",n:"Use code A0FZ5K9A",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRNPJC41"},
 {t:"Acrylic Crystal Christmas Tree Picks",c:"Home",e:"🎄",n:"50% off with code BYHL3GGJ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRK2T2N3"},
