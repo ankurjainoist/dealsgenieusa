@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dnil Electric Sonic Toothbrushes (3-Pack)",c:"Home",e:"🏠",n:"Use code CYCJ8AWM",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HGRLDCN8"},
+{t:"Arshiner Girls Tracksuit Sets",c:"Home",e:"🏠",n:"Use code E5BJRIV1",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FN7MVJDX"},
+{t:"Chefman CraftBrew Espresso Machines",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FXBY6BVL"},
 {t:"Add 3 packs for",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B000T9WLUY"},
 {t:"Sound Bar with Subscribewoofer",c:"Home",e:"🏠",n:"54% off with code X3RD9J0X",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HK7ZKTPX"},
 {t:"Cat Litter Box Includes Scoop",c:"Pets",e:"🐾",n:"40% off with code TBDJ290K",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H55TPTT2"},
