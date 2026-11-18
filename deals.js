@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lighted Ceramic Christmas Village Set -11 Pcs",c:"Home",e:"🎄",n:"35% off with code JGBUHMQD",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H97S2PB5"},
+{t:"Flying Orb Ball",c:"Home",e:"🏠",n:"50% off with code JZDOFKSE (works on Blue,Red and Purple))",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GCMWGYDQ"},
+{t:"Christmas Parachute Lights",c:"Home",e:"🎄",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H2W1FM2K"},
+{t:"Silver Glitter Christmas Tree Toppers",c:"Home",e:"🎄",n:"Use code M2G5E4HW",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FSPMP6GZ"},
+{t:"Solar Christmas Stake Lights",c:"Home",e:"🎄",n:"50% off with code N5I8AVIW",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HFR34KNB"},
 {t:"Lovevook Womens Laptop Work Totes",c:"Electronics",e:"🔌",n:"Use code 75EFF7A4",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HKH97VW9"},
 {t:"Oleoestepa Organic Extra Virgin Olive Oils",c:"Home",e:"🏠",n:"Coupon: 45% off",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H4RZ9Q2P"},
 {t:"Wawscote Electric Scooters",c:"Home",e:"🏠",n:"50% off with code GEV59XN5",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HNS9BRMG"},
