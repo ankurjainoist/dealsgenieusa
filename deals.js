@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Steering Wheel Lock 2 Pack Steering Wheel & Seat Belt Lock",c:"Home",e:"🏠",n:"20% off with code GYFXUUVG",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G9LFBJMD"},
+{t:"Large Wooden Baby Playpen 11+3 Panels 70.9×70.9in Toy Storage",c:"Baby",e:"👶",n:"25% off with code 2WHZ6OEB",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HHDS41J1"},
+{t:"Sarusd 4000A Portable Jump Starters",c:"Home",e:"🏠",n:"Use code 1WKFDVB2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H75ZPWKD"},
 {t:"Transform Remote Control Race Cars",c:"Auto",e:"🚗",n:"Use code K485T37I",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H4QWXHYQ"},
 {t:"Mattress Vacuum Cleaner, 20Kpa Bed Vacuum, 253.7nm UV-C Light, Dual Cups",c:"Home",e:"🏠",n:"40% off with code F7KM466U",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HHK8SGD2"},
 {t:"KitchenAid Beacon Two-Tone Non-Slip Mini Oven Mitt Set, Navy/Ink, 5.5”x8”, 2 Piece",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B08J8C322M"},
