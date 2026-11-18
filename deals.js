@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Nespresso Vertuo Next Coffee Makers",c:"Kitchen",e:"🍳",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GLFSV2XD"},
+{t:"SWICKY Rolling Backpacks (Blue)",c:"Home",e:"🏠",n:"Use code JB04ZE2E",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G33R68C5"},
+{t:"Glitter Christmas Tree Picks",c:"Home",e:"🎄",n:"50% off with code OD5IZIDS",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HKBVT6NT"},
+{t:"Ring Indoor Cam 2K (newest model), Home and business security, White",c:"Fashion",e:"👗",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DXM9Y8J1"},
 {t:"400LBS Beach Cart for Sand, 12 in All-Terrain Wheels 320L Beach Wagon",c:"Home",e:"🏠",n:"50% off with code BF316JAY",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GF77Y78S"},
 {t:"BRIO World Battery Operated Action Train - Motorized for Wooden Tracks - Kids Electric Set - Includes Moving",c:"Electronics",e:"🔌",dt:"Nov 18",l:"https://www.amazon.com/dp/B00AOVXOQW"},
 {t:"STANLEY Quencher H2.0 Flow State Tumbler, 30 oz",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0CJZF9XZZ"},
