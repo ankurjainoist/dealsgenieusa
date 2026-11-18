@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DHOBWR Leather & Wood Repair Salves",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HF46G242"},
+{t:"Sleep Earbuds for Side Sleepers",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPBJQ2D1"},
 {t:"Elvie Curve Wearable Breast Pumps",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B08HSNW53Y"},
 {t:"Plaid Christmas Tree Skirts",c:"Home",e:"🎄",n:"Use code F10FGUCT",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR96YHQ1"},
 {t:"Nespresso Vertuo Next Coffee Makers",c:"Kitchen",e:"🍳",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GLFSV2XD"},
