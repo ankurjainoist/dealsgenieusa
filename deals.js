@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BANZA Chickpea Mac and Cheese, Elbows and Classic Cheddar - Gluten Free Healthy Mac and Cheese, High Protein",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B01MYMKZE9"},
+{t:"MOMOKOVA L-Shaped Manicure Tables (Pink)",c:"Home",e:"🏠",n:"40% off with code QY32FLHW",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GVF4LQ4F"},
 {t:"Christmas Greenery Picks",c:"Home",e:"🎄",n:"Use code XGCFQQE9",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR1N6M7M"},
 {t:"Tommy Hilfiger Womens Jaden Plus Tote",c:"Fashion",e:"👗",dt:"Nov 18",l:"https://www.amazon.com/dp/B0B44ZCMRW"},
 {t:"Spirograph Jr. — Jumbo Sized Gears Classic Retro Toy For Spiral Drawing Art Design Toy Kit for Smaller Hands",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B01BHMJKAA"},
