@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"bella 3.5 Qt Hand & Stand Mixer, 2 in 1 Electric Mixer with Bowl, Oatmilk",c:"Kitchen",e:"🍳",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DPNKPWK2"},
+{t:"If you havent grabbed it yet!",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6K928WL"},
 {t:"Size 8 but check all",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D1NGGB6B"},
 {t:"Portable Clothes Dryers",c:"Home",e:"🏠",n:"Use code 4D4QF2QH",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRDGNFC5"},
 {t:"Cuisinart Compact 2 Lb. Automatic Programmable Bread Maker, CBK-110NAS",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B07C8V4FDR"},
