@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Preserved Rose Real Necklace",c:"Fashion",e:"👗",n:"50% off with code 3KN8HBD8",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F9GNTXVN",img:"img/B0F9GNTXVN.jpg"},
 {t:"Fascia Ring Massager Vibration Plate",c:"Health",e:"💊",n:"40% off with code LB3OAGX2",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H8X27G1Y",img:"img/B0H8X27G1Y.jpg"},
 {t:"Projector Built-in Google TV/APPs 4K AI Auto Focus, Voice Control",c:"Electronics",e:"🔌",n:"Use code 16JT0FBS",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GJSPDKDJ",img:"img/B0GJSPDKDJ.jpg"},
 {t:"Blue Pencil Sharpener",c:"Kids",e:"🎨",n:"50% off with code NVMYOLBP",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GFT7KG7Q",img:"img/B0GFT7KG7Q.jpg"},
