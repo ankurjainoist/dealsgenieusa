@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Carrera Speed Arena Mario Kart World Slot Car Toy Race Track Set",c:"Auto",e:"🚗",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCD7YW9Q",img:"img/B0HCD7YW9Q.jpg"},
 {t:"Tara Toys Minecraft Deluxe Pixel Art",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DS6MHFB1",img:"img/B0DS6MHFB1.jpg"},
 {t:"Little Tikes Cape Cottage- Red & Blue PlayhoUse Indoor & Outdoor with Working Door and Windows, Boys and",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GGXJR28G",img:"img/B0GGXJR28G.jpg"},
 {t:"GreenLife 8QT Ceramic Nonstick Slow Cooker, Cooktop/ Oven Safe, Pink",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DV5PS3V1",img:"img/B0DV5PS3V1.jpg"},
