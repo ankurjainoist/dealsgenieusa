@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Igloo Minecraft, Backpack Coolers, Insulated Lunch Cooler Bag",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FG9KC5NK"},
 {t:"low stock",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GNX5JGYT"},
 {t:"PowerA Wireless Controller for Xbox Series X, S - PAC-MAN Special Edition, hall effect thumbsticks, low",c:"Games",e:"🎮",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DTJ9VK31"},
 {t:"Clue Board Game for Ages 8 and Up, Reimagined Clue Game for 2-6 Players, Mystery, Detective, Family Games for",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0B5FLTTT5"},
