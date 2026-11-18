@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Acrylic Crystal Christmas Tree Picks",c:"Home",e:"🎄",n:"50% off with code BYHL3GGJ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRK2T2N3"},
+{t:"Grandmillennial Mahjong Mat Bags",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6WYR164"},
+{t:"Christian Clipboard - 9 in x 12.5 in with Low Profile Metal Clip, 8-Count, He Restores My Soul",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GZJK89VZ"},
 {t:"Igloo Minecraft, Backpack Coolers, Insulated Lunch Cooler Bag",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FG9KC5NK"},
 {t:"low stock",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GNX5JGYT"},
 {t:"PowerA Wireless Controller for Xbox Series X, S - PAC-MAN Special Edition, hall effect thumbsticks, low",c:"Games",e:"🎮",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DTJ9VK31"},
