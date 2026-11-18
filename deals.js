@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Door Wraps",c:"Home",e:"🎄",n:"Use code T5V34JHQ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQRRZ7L8"},
+{t:"CVLIFE Tripod Shooting Rests",c:"Home",e:"🏠",n:"40% off with code FG61YU29",dt:"Nov 18",l:"https://www.amazon.com/dp/B0B6TK6J74"},
+{t:"Shower Lamp, Shower Light for Inside Shower with 16 Colors",c:"Home",e:"🏠",n:"50% off with code X8951LCB",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GQ91JPV8"},
+{t:"Under Cabinet Lighting, 5-Pack Motion Sensor Lights Indoor 8inch",c:"Home",e:"🏠",n:"54% off with code LR1MUH92",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FHQ66MBC"},
+{t:"Posture Corrector for Women & Men",c:"Fashion",e:"👗",n:"50% off with code UA3T84PC",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQB2DB95"},
 {t:"Bamboo Viscose Mattress Toppers (King)",c:"Home",e:"🏠",n:"Use code GFSRR447",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQZ4JNGJ"},
 {t:"2-Piece Garden Harvesting Apron Set with Bottom-Release Buckles",c:"Home",e:"🏠",n:"50% off with code X70SPTNW",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HFJVW7FF"},
 {t:"Wood Carving Apron with Shavings Catcher and Tool Pockets",c:"Tools",e:"🔧",n:"50% off with code H5B8NLZS",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HDZ14XNB"},
