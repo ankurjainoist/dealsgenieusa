@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Smseace Spring Hose Clamps",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DQTHNBV7"},
 {t:"Levi’s Women’s 318 Shaping Wide-Leg Jeans",c:"Fashion",e:"👗",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DJWQ3S8T"},
 {t:"Wireless Headset with Microphone",c:"Home",e:"🏠",n:"Use code L92X3MUL",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HH9DB658"},
 {t:"DURACELL Coppertop AAA Alkaline Batteries 28 count 2 pack",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GHDK4BQ3"},
