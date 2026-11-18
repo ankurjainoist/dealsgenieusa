@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Play Food Toy Sets",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GLXS734H"},
+{t:"Shopping Cart Cover for Baby High Chair Cover Grocery Cart Cover for Baby Girl/Boy Toddler Grey Clouds",c:"Baby",e:"👶",dt:"Nov 18",l:"https://www.amazon.com/dp/B0CQXPDXL6"},
+{t:"Electric Razors for Men",c:"Home",e:"🏠",n:"Use code EF3KM737",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HNNCH4LD"},
 {t:"Check regular too",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B01IC1M8U8"},
 {t:"Nautica Blue Eau de Toilette 1.6 fl oz (Pack of 1), Notes of Basil, Jasmine, and Cedarwood, Men’s Fragrance",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B001FWXI88"},
 {t:"Plant Stand Shelf Tall for Indoor Corner, 7 Tier Wood Brown",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F62F28Z4"},
