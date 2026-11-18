@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"iPhone Fast Charging Cables",c:"Electronics",e:"🔌",n:"Use code 3T3RUGMO",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H1RLV4QD"},
+{t:"Furinno 4-Tier Bakers Racks",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJ4K5GNX"},
+{t:"Frito-Lay Classic Mix Variety Packs",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B09QP7Z5Y3"},
+{t:"OIRHNL Lip Gloss Charm Kits",c:"Home",e:"🏠",n:"Use code 4G7EBKN0",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H1DVJZD9"},
 {t:"Smart Art Projectors",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H942D8HB"},
 {t:"Clear Drink Buckets with Lids",c:"Home",e:"🏠",n:"Use code O6ZWP61D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G1YBT94C"},
 {t:"NIIMBOT B1 Label Makers",c:"Home",e:"🏠",n:"Use code B1DAVID",dt:"Nov 18",l:"https://www.amazon.com/dp/B0BR4R72H2"},
