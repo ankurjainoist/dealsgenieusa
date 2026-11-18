@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Smart 4K Portable Projectors",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HFS358HL",img:"img/B0HFS358HL.jpg"},
 {t:"Food Warming Mat",c:"Home",e:"🏠",n:"66% off with code 0U0C733C",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HHHR77D8",img:"img/B0HHHR77D8.jpg"},
 {t:"HMDecor Solar Pathway Lights",c:"Home",e:"🏠",n:"50% off with code 2CH3UKHW",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GFWM87JD",img:"img/B0GFWM87JD.jpg"},
 {t:"Still available",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0CZS1VL7Y",img:"img/B0CZS1VL7Y.jpg"},
