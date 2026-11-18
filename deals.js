@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Add 3 packs for",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B000T9WLUY"},
+{t:"Sound Bar with Subscribewoofer",c:"Home",e:"🏠",n:"54% off with code X3RD9J0X",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HK7ZKTPX"},
+{t:"Cat Litter Box Includes Scoop",c:"Pets",e:"🐾",n:"40% off with code TBDJ290K",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H55TPTT2"},
+{t:"Carpet Rake",c:"Home",e:"🏠",n:"50% off with code IXFB6MN2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G1BNJ4M3"},
 {t:"URSOLA 4-Light Vanity Fixtures",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H8XN5FTY"},
 {t:"GPS Vehicle Trackers",c:"Home",e:"🏠",n:"50% off with code Z0PW48HX",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPF49Y96"},
 {t:"Cuisinart Mini-Prep Plus Food Processor, 4-Cup Electric Chopper, DLC-4CHB",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B000YA8R6U"},
