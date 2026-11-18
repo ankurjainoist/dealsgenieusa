@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Nautica Blue Eau de Toilette 1.6 fl oz (Pack of 1), Notes of Basil, Jasmine, and Cedarwood, Men’s Fragrance",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B001FWXI88"},
+{t:"Plant Stand Shelf Tall for Indoor Corner, 7 Tier Wood Brown",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F62F28Z4"},
 {t:"Smseace Spring Hose Clamps",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DQTHNBV7"},
 {t:"Levi’s Women’s 318 Shaping Wide-Leg Jeans",c:"Fashion",e:"👗",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DJWQ3S8T"},
 {t:"Wireless Headset with Microphone",c:"Home",e:"🏠",n:"Use code L92X3MUL",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HH9DB658"},
