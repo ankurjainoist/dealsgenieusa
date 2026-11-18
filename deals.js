@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dog Grooming Vacuum Kits",c:"Pets",e:"🐾",n:"Use code 77LEPEDS",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJBSV7HJ"},
+{t:"Glass Olive Oil Sprayers",c:"Home",e:"🏠",n:"Use code OOMK2AO5",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F8QBZ1B1"},
+{t:"30th Birthday Decoration Sets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F1TLH1BY"},
+{t:"Silicone Oven Mitts",c:"Home",e:"🏠",n:"Use code XRIX2GNX",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H87ZW991"},
+{t:"Thanksgiving Gnome Decorations",c:"Home",e:"🏠",n:"Use code M1ZU7M9E",dt:"Nov 18",l:"https://www.amazon.com/dp/B09XBFXPWC"},
 {t:"Barleyear Foldable Bed Rails",c:"Home",e:"🏠",n:"40% off with code 1Q4FGHU0",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H7JB3F8M"},
 {t:"Smuckers Marshmallow Flavored Topping, 12.25 Ounce (Pack of 6)",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0045TOMCY"},
 {t:"Cupocupa Duvet Cover Full Size Set Boho Floral Pattern Full Duvet Cover Set for Full Size Bed Vintage Soft",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DHVF9PRQ"},
