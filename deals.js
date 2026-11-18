@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lenovo 15.6 in FHD Business Laptops",c:"Electronics",e:"🔌",n:"Clip the 46% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR85FXR4",img:"img/B0HR85FXR4.jpg"},
 {t:"Pokémon TCG: 30th Celebration Elite Trainer Box",c:"Home",e:"🏠",n:"Invite required (request an invite on Amazon)",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H78BB9TY",img:"img/B0H78BB9TY.jpg"},
 {t:"LEGO ONE PIECE Tony Tony Chopper 75643",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G2T1W5S9",img:"img/B0G2T1W5S9.jpg"},
 {t:"Little Kids Disney Princess Moana Light and Sound Musical Bubble Wand, Includes Bubble Solution",c:"Kids",e:"🎨",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DCYY7H29",img:"img/B0DCYY7H29.jpg"},
