@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Greenery Picks",c:"Home",e:"🎄",n:"Use code XGCFQQE9",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR1N6M7M"},
+{t:"Tommy Hilfiger Womens Jaden Plus Tote",c:"Fashion",e:"👗",dt:"Nov 18",l:"https://www.amazon.com/dp/B0B44ZCMRW"},
+{t:"Spirograph Jr. — Jumbo Sized Gears Classic Retro Toy For Spiral Drawing Art Design Toy Kit for Smaller Hands",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B01BHMJKAA"},
 {t:"bella 3.5 Qt Hand & Stand Mixer, 2 in 1 Electric Mixer with Bowl, Oatmilk",c:"Kitchen",e:"🍳",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DPNKPWK2"},
 {t:"If you havent grabbed it yet!",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6K928WL"},
 {t:"Size 8 but check all",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D1NGGB6B"},
