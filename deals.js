@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wow! Stuff Disney Angel Puppetronic by RealFX, Looks, Feels & Sounds Real!, Disneys Lilo & Stitch, Over 100",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DSGK368D"},
+{t:"AI Smart Glasses with Translation",c:"Electronics",e:"🔌",n:"50% off with code OBD4HZIN",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HLK98SNC"},
 {t:"STANLEY ALL Day Lunch Box, 4.2 qt, Sunset Spiral",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H4854SJM"},
 {t:"Preserved Rose Real Necklace",c:"Fashion",e:"👗",n:"50% off with code 3KN8HBD8",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F9GNTXVN",img:"img/B0F9GNTXVN.jpg"},
 {t:"Fascia Ring Massager Vibration Plate",c:"Health",e:"💊",n:"40% off with code LB3OAGX2",dt:"Nov 17",l:"https://www.amazon.com/dp/B0H8X27G1Y",img:"img/B0H8X27G1Y.jpg"},
