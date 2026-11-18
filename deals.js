@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"4G LTE Solar Cellular Trail Camera, 64MP 2K Game Cam, 2.0 in LCD,64GB TF Card",c:"Electronics",e:"🔌",n:"50% off with code 7FYPNVOC",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GLFM6122",img:"img/B0GLFM6122.jpg"},
 {t:"Foldable Clothes Drying Racks with Clips",c:"Home",e:"🏠",n:"50% off with code R8LP4DU8",dt:"Nov 17",l:"https://www.amazon.com/dp/B0GZ7NBW8M",img:"img/B0GZ7NBW8M.jpg"},
 {t:"Pet-Safe Space Heater Heater",c:"Pets",e:"🐾",n:"37% off with code HEATERP37",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FPR5KL3S",img:"img/B0FPR5KL3S.jpg"},
 {t:"58 inx21 in Floor Mirror Full Length, Arched Full Length Mirror Black",c:"Home",e:"🏠",n:"Use code 6TI2J72Z",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HF7B9851",img:"img/B0HF7B9851.jpg"},
