@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Snow Globe",c:"Home",e:"🎄",n:"50% off with code W4CZ6FNV",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H8XXL4R5"},
+{t:"Metal Detector forults",c:"Home",e:"🏠",n:"Use code YPUY44AR",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HMGG8CTR"},
+{t:"5-In-1 Carrier Truck",c:"Auto",e:"🚗",n:"50% off with code U60C5RX3",dt:"Nov 18",l:"https://www.amazon.com/dp/B09BQJQRGF"},
+{t:"YOREPEK Gel Nail Polish Kits",c:"Beauty",e:"💄",n:"Use code 47OWJ016",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H2MFND4D"},
+{t:"Non-Fray Christmas Wrapping Papers",c:"Home",e:"🎄",n:"Use code Z8NVGW7Q",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR1CP7LW"},
 {t:"Mini Woven Crossbody Purses",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FFGYZD5X"},
 {t:"Heated Electric Throw Blanket",c:"Home",e:"🏠",n:"50% off with code WOQK1QQ8",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRFSLHBW"},
 {t:"360 Rotating Jewelry Boxes",c:"Fashion",e:"👗",n:"Use code XT5NBB0R",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HB4359H7"},
