@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"FURBY Minisvent Calendar for Kids 6 Years and Up, 24 Days of Surprise Holiday Toys with 1-Inch Figures",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DMWL2XDY",img:"img/B0DMWL2XDY.jpg"},
 {t:"Danny Go! Dance & Go! Music Mat - for Movement & Music Play",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FJ8TVNFF",img:"img/B0FJ8TVNFF.jpg"},
 {t:"IRON °FLASK 32 oz Wide Mouth Water Bottle with Straw",c:"Kitchen",e:"🍳",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F1THC8P3",img:"img/B0F1THC8P3.jpg"},
 {t:"Happy Helpers Cheer Bear Heating Pad by Relatable",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FYJ985MC"},
