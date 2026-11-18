@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"How about dem apples",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B07XW19QBH"},
+{t:"Blink Mini 2K+ – Plug-in Home & Pet Indoor Security Camera with 2K video resolution",c:"Pets",e:"🐾",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HMFWLXQX"},
+{t:"Jimmy Choo Floral Eau de Toilette",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B07L8M47LH"},
+{t:"Travel Tote Bags for Women",c:"Fashion",e:"👗",n:"Use code 84E9W6YU",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H4Y4NQY5"},
+{t:"Disney Monsters Inc Dog Toys",c:"Pets",e:"🐾",dt:"Nov 18",l:"https://www.amazon.com/dp/B0C7HJR8WF"},
 {t:"BEINY Sandalwood Hair Combs",c:"Beauty",e:"💄",n:"50% off with code GAG295E5",dt:"Nov 18",l:"https://www.amazon.com/dp/B07HKLYLWN"},
 {t:"Amazon business",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H879RQ8Y"},
 {t:"Daakcy Portable Battle Rope Anchors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H8RMHBD6"},
