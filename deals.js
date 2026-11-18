@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wireless Window Camera",c:"Electronics",e:"🔌",n:"45% off with code HK0D011J",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPNP4TBQ"},
+{t:"Touch Screen Self Service Kiosk",c:"Home",e:"🏠",n:"30% off with code ST0AF5PX",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H38VL92F"},
+{t:"Handheld Gaming Consoles (Pink)",c:"Home",e:"🏠",n:"Use code C8XHNSJG",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HGB23XDP"},
+{t:"Rotating Makeup Brush Organizers",c:"Beauty",e:"💄",n:"Use code PF4NJL8D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR8Y2GKP"},
 {t:"Nanfang Brothers Damascus Kitchen Knives",c:"Kitchen",e:"🍳",n:"50% off with code QXASNA5E",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DHX72SVH"},
 {t:"Golf Pants with 5 Pockets",c:"Fashion",e:"👗",n:"40% off with code HRTZIGAZ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FRM25RCH"},
 {t:"Outdoor Weatherproof Power Strip",c:"Electronics",e:"🔌",n:"50% off with code Q2OFWGCQ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCTZJJ6D"},
