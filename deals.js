@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Rechargeable LED Headlamps",c:"Home",e:"🏠",n:"Use code PFKX8I55",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HK1C7JHR"},
+{t:"Al Haramain LAventure - Extreme - Citrus Perfume for Men and Women - Womens and Mens Cologne - Woody Perfume",c:"Beauty",e:"💄",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GM6JGLV4"},
+{t:"Melissa & Doug Fresh Mart Grocery Store Companion Pretend Play Food Set",c:"Toys",e:"🧸",dt:"Nov 18",l:"https://www.amazon.com/dp/B072PZKLX9"},
+{t:"RoomMates Blue Geometric Wallpapers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B076D39N4D"},
 {t:"Lighted Thanksgiving Decoration Boxes",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HB3H3CJ9"},
 {t:"Christmas Elf Finger Lights",c:"Home",e:"🎄",n:"40% off with code QKPP6W88",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GWCL57TK"},
 {t:"Apple AirPods Pro 3",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FQFB8FMG"},
