@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Womens Plaid Layered Sweatshirts",c:"Fashion",e:"👗",n:"Use code DJ3VA9UZ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRT58LHY"},
+{t:"Exclusivo Mezcla Soft Plush Fleece Throw Blanket for Couch Light Blue",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D9NHZQTG"},
+{t:"Roll on Wax Kit, Waxing Kit for Women and Men, honey&honey",c:"Fashion",e:"👗",n:"50% off with code GINWI3R3",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQZMRTPZ"},
+{t:"200 Pcs Christmas napkins disposable，Christmas Hand Towels for Bathroom",c:"Home",e:"🎄",n:"50% off with code T174OHJ3",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FY794ZJN"},
 {t:"Christmas Door Wraps",c:"Home",e:"🎄",n:"Use code T5V34JHQ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQRRZ7L8"},
 {t:"CVLIFE Tripod Shooting Rests",c:"Home",e:"🏠",n:"40% off with code FG61YU29",dt:"Nov 18",l:"https://www.amazon.com/dp/B0B6TK6J74"},
 {t:"Shower Lamp, Shower Light for Inside Shower with 16 Colors",c:"Home",e:"🏠",n:"50% off with code X8951LCB",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GQ91JPV8"},
