@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lovevook Womens Laptop Work Totes",c:"Electronics",e:"🔌",n:"Use code 75EFF7A4",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HKH97VW9"},
+{t:"Oleoestepa Organic Extra Virgin Olive Oils",c:"Home",e:"🏠",n:"Coupon: 45% off",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H4RZ9Q2P"},
+{t:"Wawscote Electric Scooters",c:"Home",e:"🏠",n:"50% off with code GEV59XN5",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HNS9BRMG"},
+{t:"Woven Bamboo Gifts Basket --2 ~3 Pack",c:"Home",e:"🏠",n:"50% off with code LER9F4S4",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJ5WBJDD"},
+{t:"Girls Skincare Gift Set--5 Pcs",c:"Beauty",e:"💄",n:"50% off with code R87TYTAO",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HDNX6Z5S"},
 {t:"Turtle Family Building Set",c:"Home",e:"🏠",n:"60% off with code SE89MXTP",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HFN7T1G5"},
 {t:"Philips Sonicare Electric Toothbrushes",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B09LD8VFS1"},
 {t:"Kitchen Dishwashing Toys set",c:"Kitchen",e:"🍳",n:"50% off with code YGTYL2C3",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GY746YPQ"},
