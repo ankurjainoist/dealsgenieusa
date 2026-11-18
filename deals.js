@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Monster S310 Bluetooth Speakers (Pink)",c:"Electronics",e:"🔌",n:"Use code Y2Z93AT2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPNKQ128"},
+{t:"Kids Electric Scooter",c:"Kids",e:"🎨",n:"70% off with code ZWK2WQ6D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FC86FH3P"},
+{t:"Santa Claus Hot Air Balloon Lights",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HB3FJJM9"},
+{t:"Dolly on the Holly Plush Doll",c:"Toys",e:"🧸",n:"50% off with code AWDPKSGC",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRY6F586"},
+{t:"Red Light Therapy Face Masks",c:"Beauty",e:"💄",n:"Use code BFSKN15R",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H1M3TVMG"},
 {t:"MALACASA Porcelain Dinnerware Sets",c:"Home",e:"🏠",n:"Use code ZTZC94RK",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D7VRKX3V"},
 {t:"White Linen Blackout Curtains",c:"Home",e:"🏠",n:"Use code HG0OLBBJ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GY9ZZV2V"},
 {t:"Extra Tall Pet Gates",c:"Pets",e:"🐾",n:"Use code D1EK1ODE",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJV4M7V4"},
