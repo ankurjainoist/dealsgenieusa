@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Kainozoic Solar Wall Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FKFYZDYL"},
+{t:"Snowman Figurines with LED Projection",c:"Toys",e:"🧸",n:"50% off with code 76VZ86U0",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRF7JBKS"},
+{t:"Christmas Tree Topper with Rotating Projector Lights, 9 Inch Plug in Silver Snowflake Star with LED & Santa",c:"Electronics",e:"🎄",n:"40% off with code CEMAYA1H",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HG4VSTMP"},
+{t:"Dog Bed for Small Medium Size Dog, Washable Fluffy Rabbit Fur",c:"Pets",e:"🐾",n:"50% off with code MAECYAQ4",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FMJVV9GW"},
+{t:"6pk Glow in Dark Golf Balls Resettable LED Light Up Golf Balls 40‑Hour Battery Life",c:"Electronics",e:"🔌",n:"53% off with code P9TQHY78",dt:"Nov 18",l:"https://www.amazon.com/dp/B08QN31XYM"},
 {t:"Womens Plaid Layered Sweatshirts",c:"Fashion",e:"👗",n:"Use code DJ3VA9UZ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRT58LHY"},
 {t:"Exclusivo Mezcla Soft Plush Fleece Throw Blanket for Couch Light Blue",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D9NHZQTG"},
 {t:"Roll on Wax Kit, Waxing Kit for Women and Men, honey&honey",c:"Fashion",e:"👗",n:"50% off with code GINWI3R3",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQZMRTPZ"},
