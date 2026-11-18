@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wall Climbing Car Remote Control Car Set",c:"Auto",e:"🚗",n:"50% off with code 7OBOJ0PA",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HDZHT6LN"},
+{t:"Toilet Fishing Funny Gifts for Men",c:"Home",e:"🏠",n:"50% off with code WCW1ZO7A",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D91G2NFL"},
+{t:"Learning Toys for Kids, Dolphin Talking Pen with 56 Talking Flash Cards",c:"Toys",e:"🧸",n:"50% off with code 3XCSLJP1",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HH9JL33J"},
+{t:"Dance Mat",c:"Home",e:"🏠",n:"45% off with code L23VUSGB",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GSZ81B2V"},
 {t:"2 Pack Rechargeable LED Light Drawing Board Toy for Kids, Holiday Gift Set",c:"Toys",e:"🧸",n:"50% off with code W5K5893P",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H82M4RWB"},
 {t:"LED Drawing Board for Kids, 16 in Rechargeable with 20 Tracing Templates",c:"Kids",e:"🎨",n:"50% off with code UBLPXFVU",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H69V9MRB"},
 {t:"Baby Balance Bike",c:"Baby",e:"👶",n:"70% off with code 2WO99LI8",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJR5LTLC"},
