@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Size 8 but check all",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D1NGGB6B"},
+{t:"Portable Clothes Dryers",c:"Home",e:"🏠",n:"Use code 4D4QF2QH",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRDGNFC5"},
 {t:"Cuisinart Compact 2 Lb. Automatic Programmable Bread Maker, CBK-110NAS",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B07C8V4FDR"},
 {t:"Rechargeable LED Headlamps",c:"Home",e:"🏠",n:"Use code PFKX8I55",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HK1C7JHR"},
 {t:"Al Haramain LAventure - Extreme - Citrus Perfume for Men and Women - Womens and Mens Cologne - Woody Perfume",c:"Beauty",e:"💄",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GM6JGLV4"},
