@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"SHEEPAM 4-Tier Tree Bookshelves",c:"Home",e:"🏠",n:"Use code 97X9GI5D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DDKQ86LQ"},
+{t:"Giant Christmas Gingerbread Inflatables",c:"Home",e:"🎄",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCNX5NYY"},
 {t:"Compact Food Vacuum Sealer Kit",c:"Home",e:"🏠",n:"50% off with code 92O92XSI",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HCF58Z8G"},
 {t:"Posture Support Bras Front Closure",c:"Home",e:"🏠",n:"50% off with code AFPDBZUJ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HQN27HHG"},
 {t:"MagSafe Car Mount",c:"Auto",e:"🚗",n:"44% off with code 474IY85I",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H45524XN"},
