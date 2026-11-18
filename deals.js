@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Happy Helpers Cheer Bear Heating Pad by Relatable",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FYJ985MC"},
 {t:"BANZA Chickpea Mac and Cheese, Elbows and Classic Cheddar - Gluten Free Healthy Mac and Cheese, High Protein",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B01MYMKZE9"},
 {t:"MOMOKOVA L-Shaped Manicure Tables (Pink)",c:"Home",e:"🏠",n:"40% off with code QY32FLHW",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GVF4LQ4F"},
 {t:"Christmas Greenery Picks",c:"Home",e:"🎄",n:"Use code XGCFQQE9",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HR1N6M7M"},
