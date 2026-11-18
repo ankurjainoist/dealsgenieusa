@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Vegetable Choppers & Slicers",c:"Home",e:"🏠",n:"Use code Z0G2ET5G",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HQYS5B12",img:"img/B0HQYS5B12.jpg"},
 {t:"Perfume Gift Sets",c:"Beauty",e:"💄",n:"Use code MBX8PNOT",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HN4TZ3DF",img:"img/B0HN4TZ3DF.jpg"},
 {t:"LEGO Classic Medium Creative Brick Box 10696",c:"Toys",e:"🧸",dt:"Nov 17",l:"https://www.amazon.com/dp/B00NHQFA1I",img:"img/B00NHQFA1I.jpg"},
 {t:"Pit Boss 3-Series Propane Gas Vertical Smoker with HVR Controller and Wood Chip Tray, 983-Sq. In. 4-Rack",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0FVPNJKBH",img:"img/B0FVPNJKBH.jpg"},
