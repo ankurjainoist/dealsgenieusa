@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"200 Pcs Magnetic Building Blocks",c:"Toys",e:"🧸",n:"50% off with code 7AZBN8FI",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FSCNVR82"},
+{t:"4 Pack Desk Goose Outfits",c:"Home",e:"🏠",n:"50% off with code LYJ5VJPN",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6V51TQK"},
+{t:"Montessori 8 in 1 Learning Educational Set Wooden Sensory Toys",c:"Toys",e:"🧸",n:"53% off with code YX2QXCVI",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D5HC71GB"},
+{t:"Foldable 2-Kid Wagon Strollers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJGCLX15"},
 {t:"Popilush Long Sleeve Jumpsuits",c:"Home",e:"🏠",n:"Use code BDZADD09",dt:"Nov 18",l:"https://www.amazon.com/dp/B0CF94ZFHZ"},
 {t:"Smart Bird Feeder",c:"Electronics",e:"🔌",n:"40% off with code 40BIRD",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H5QWVZGY"},
 {t:"LOVEVOOK Faux Leather Tote Bags",c:"Fashion",e:"👗",n:"Use code SQT3T1IE",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HH8C3MNB"},
