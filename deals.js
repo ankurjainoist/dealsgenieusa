@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"High on Life 2 - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GGDYYH1V"},
+{t:"Bambu Lab P1S Combo, P1S 3D Printer and AMS, Multi-Color 3D Printing",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0CHDS1DMC"},
+{t:"Waterproof Bone Conduction Swim Headphones",c:"Electronics",e:"🔌",n:"Use code 2616X38",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HD6YMJDG"},
 {t:"CRAFTSMAN V20 RP Brushless Drill and Impact Driver, 2 Batteries, Charger",c:"Tools",e:"🔧",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GZ8FCFLV"},
 {t:"Logest Change Weight Plates 0.50LB 1.25LB 2.5LB 5LB Set Weight Plates for Olympic Bars Perfect for Strength",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FKPXX5Q9"},
 {t:"SRKSTARZ Tattoo Aftercare Gels",c:"Home",e:"🏠",n:"Use code WYZ8FXE7",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJL6MVM1"},
