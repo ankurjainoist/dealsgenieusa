@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Electric Grill Brushes",c:"Kitchen",e:"🍳",n:"43% off with code T1CYX4A2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GWKPQHRS"},
+{t:"Christmas Games for Family Party",c:"Home",e:"🎄",n:"50% off with code KXPK9T7N (works on Blue and Yellow)",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H9GYRYQ4"},
+{t:"Christmas Tree Ornaments Set, Peppermint Christmas Tree",c:"Home",e:"🎄",n:"50% off with code OL2OR0I9",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6HRQ7FJ"},
+{t:"64 Pcs Christmas Ornaments Set, Shatterproof Tree Decorations, Red Green",c:"Home",e:"🎄",n:"50% off with code LL595DYV",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HC3Y641S"},
 {t:"DecoReco Luxe Wave Leather Cases (Brown)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FRZ48RYL"},
 {t:"1000X Digital Microscope for Kids: 2.4 in HD Screen 4K Image",c:"Kids",e:"🎨",n:"50% off with code D7I5B21D",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6QK6TWD"},
 {t:"Cesar Classic Loaf in Sauce Filet Mignon Flavor Wet Dog Food 3.5 Ounce",c:"Pets",e:"🐾",dt:"Nov 18",l:"https://www.amazon.com/dp/B002QT8NGG",img:"img/B002QT8NGG.jpg"},
