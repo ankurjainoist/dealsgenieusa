@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"2 Pack Front Door Christmas Decorations, Red Berry Xmas Swags",c:"Home",e:"🎄",n:"50% off with code GUQ3Y3KL",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HC3D7NQD"},
+{t:"3-Piece Christmas Fake Snow Set, 3 x 8 FT Snow Blanket Roll",c:"Home",e:"🎄",n:"50% off with code QS27VI4I",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HD7R3DMC"},
+{t:"Zekuavi Electric Toothbrush Heads",c:"Home",e:"🏠",n:"Use code IJPTMJ9H",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GQGYHZQG"},
+{t:"Lady Porch Goose Outfits, Bathrobe Goose Costume for 23 in Geese Statues",c:"Home",e:"🏠",n:"50% off with code JPSFJHCE",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H887SKRS"},
 {t:"Electric Grill Brushes",c:"Kitchen",e:"🍳",n:"43% off with code T1CYX4A2",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GWKPQHRS"},
 {t:"Christmas Games for Family Party",c:"Home",e:"🎄",n:"50% off with code KXPK9T7N (works on Blue and Yellow)",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H9GYRYQ4"},
 {t:"Christmas Tree Ornaments Set, Peppermint Christmas Tree",c:"Home",e:"🎄",n:"50% off with code OL2OR0I9",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H6HRQ7FJ"},
