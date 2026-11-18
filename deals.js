@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Okay, I have to ask… does this make your mashed potatoes extra fluffy, or are we just mashing potatoes the",c:"Home",e:"🏠",dt:"Nov 17",l:"https://www.amazon.com/dp/B0D9N5FQZB",img:"img/B0D9N5FQZB.jpg"},
 {t:"Health Smart Ring",c:"Electronics",e:"🔌",n:"Use code WIMBPVMC",dt:"Nov 17",l:"https://www.amazon.com/dp/B0HR582HJN",img:"img/B0HR582HJN.jpg"},
 {t:"Mini Thermal Sticker Printers",c:"Home",e:"🏠",n:"Use code G6D2E9EQ",dt:"Nov 17",l:"https://www.amazon.com/dp/B0F5PTY7RF",img:"img/B0F5PTY7RF.jpg"},
 {t:"3-in-1 Boxing Equipment Kit",c:"Home",e:"🏠",n:"35% off with code KOK4VVGT",dt:"Nov 17",l:"https://www.amazon.com/dp/B0DYNH2NYC",img:"img/B0DYNH2NYC.jpg"},
