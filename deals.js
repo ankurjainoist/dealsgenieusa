@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Transform Remote Control Race Cars",c:"Auto",e:"🚗",n:"Use code K485T37I",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H4QWXHYQ"},
+{t:"Mattress Vacuum Cleaner, 20Kpa Bed Vacuum, 253.7nm UV-C Light, Dual Cups",c:"Home",e:"🏠",n:"40% off with code F7KM466U",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HHK8SGD2"},
+{t:"KitchenAid Beacon Two-Tone Non-Slip Mini Oven Mitt Set, Navy/Ink, 5.5”x8”, 2 Piece",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B08J8C322M"},
+{t:"Baby Lounger Infant Support Cushion with Separate Waterproof Pad",c:"Baby",e:"👶",n:"30% off with code K1Z00LMH",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GLG5ZGS9"},
 {t:"Kainozoic Solar Wall Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FKFYZDYL"},
 {t:"Snowman Figurines with LED Projection",c:"Toys",e:"🧸",n:"50% off with code 76VZ86U0",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRF7JBKS"},
 {t:"Christmas Tree Topper with Rotating Projector Lights, 9 Inch Plug in Silver Snowflake Star with LED & Santa",c:"Electronics",e:"🎄",n:"40% off with code CEMAYA1H",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HG4VSTMP"},
