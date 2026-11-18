@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Michael Van Clarke Hair Care Sets",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B08PVY6NPC"},
+{t:"HEHE STYLI Wireless CarPlayapters",c:"Home",e:"🏠",n:"Use code UHVQSN2P",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HPDRWJRK"},
 {t:"Neutrogena Holiday Hero Skincare Gift Set, 4 Items",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0H4X51R42"},
 {t:"Neutrogena Body Clear Pink Grapefruit Acne Body Wash, 3 x 8.5 fl oz",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B089C6D8W8"},
 {t:"Wenzhuo 18 Inch Doll Tennis Outfits",c:"Toys",e:"🧸",n:"Use code KI7XQ9A5",dt:"Nov 18",l:"https://www.amazon.com/dp/B0C9WGRBST"},
