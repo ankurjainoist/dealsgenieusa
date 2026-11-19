@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pink Heart Pattern Throw Blanket, 3D Print Super Soft",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G6CWPY3T",img:"img/B0G6CWPY3T.jpg"},
 {t:"Bosch Power Tool Combo Kits",c:"Tools",e:"🔧",dt:"Nov 18",l:"https://www.amazon.com/dp/B0BCTNCR2G",img:"img/B0BCTNCR2G.jpg"},
 {t:"Red Bow Christmas Vases",c:"Home",e:"🎄",n:"Use code I69MCFWF",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HRYZ4LT5",img:"img/B0HRYZ4LT5.jpg"},
 {t:"OfficeGoods Liberty Pro Electric Staplers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B01H1BY218",img:"img/B01H1BY218.jpg"},
