@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MZG 3-Tier Metal Storage Shelves",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F8HSFLHS"},
+{t:"Touchland Hydrating Hand Sanitizer Sprays",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B09JFLV454"},
+{t:"CAP Rubber Hex Dumbbell Set with Rack 100-1,200 lbs Multiple Styles",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CNBF85SZ"},
 {t:"4FT Christmas Inflatable Santas",c:"Home",e:"🎄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FDKLYB1T"},
 {t:"Amazon Basics Thunderbolt 4 Pro Docking Station, Dual 4K Monitor Support, 8K Display, 2xTBT4, 1xHDMI2.1",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CPT8Q8TF"},
 {t:"BIODANCE 7 Day Glow Up Kit, Collagen Skin Care Gift Set, 4-Step Routine",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJRVSGQ2"},
