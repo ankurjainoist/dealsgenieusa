@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Blossom Ritual Honey Chamomile Oolong Teas",c:"Grocery",e:"🛒",n:"Coupon: 45% off",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FBLZFCVK"},
+{t:"Flexible Christmas Wrapping Papers",c:"Home",e:"🎄",n:"Use code XIQ91A4C",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HR1LGDVT"},
+{t:"Christmas Refrigerator Handle Covers",c:"Home",e:"🎄",n:"50% off with code PIFRVQPS",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRVN8P8W"},
 {t:"Add 2",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B087D97N58"},
 {t:"Toptier Butter Crock for Counter With Water Line, On Demand Spreadable Butter, Ceramic Butter Keeper to Leave",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FS1PHTQ3"},
 {t:"QNGEE Bluetooth MP3 Players",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H5HKFTB7"},
