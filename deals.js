@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"eufy Permanent Outdoor Lights E22, 50ft with 30 Triple-LED Lights",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FKS3V4T9",img:"img/B0FKS3V4T9.jpg"},
 {t:"LAURA GELLER Baked Balance-n-Brighten Powder Foundation – Light",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B01H1V7WQU",img:"img/B01H1V7WQU.jpg"},
 {t:"Tear-Resistant Christmas Wrapping Sheets",c:"Home",e:"🎄",n:"Use code I5WFWW2K",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HR1CZ5TW",img:"img/B0HR1CZ5TW.jpg"},
 {t:"Caydo Crochet Starter Kits",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FXM8XMLC",img:"img/B0FXM8XMLC.jpg"},
