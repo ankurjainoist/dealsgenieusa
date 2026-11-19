@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"4FT Christmas Inflatable Santas",c:"Home",e:"🎄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FDKLYB1T"},
+{t:"Amazon Basics Thunderbolt 4 Pro Docking Station, Dual 4K Monitor Support, 8K Display, 2xTBT4, 1xHDMI2.1",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CPT8Q8TF"},
+{t:"BIODANCE 7 Day Glow Up Kit, Collagen Skin Care Gift Set, 4-Step Routine",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJRVSGQ2"},
+{t:"Carter’s Baby Girls’ 3-piece Bodysuit Pant Sets",c:"Baby",e:"👶",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GV4QX1HF"},
 {t:"100 Pack 16 oz Clear Disposable Plastic Cups with Lids",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HJ1PXPMN"},
 {t:"Kante Accent Round Curved CON Gray Concrete Planter 13 in Dia, Outdoor",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FMDPV3RZ"},
 {t:"Bella Flip-n-Store Waffle Makers",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CYHZFMFX"},
