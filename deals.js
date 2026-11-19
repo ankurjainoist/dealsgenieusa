@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Retro Wireless Bluetooth Headphones",c:"Electronics",e:"🔌",n:"Use code P9GZ64W0",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRY8HR37"},
+{t:"Prelit Christmas Garland, Real Touch Cedar Garland for Stairs",c:"Home",e:"🎄",n:"50% off with code ZUYXTQEE (works on 9FT-Cedar and 6FT-Cedar))",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H6QGS3DM"},
+{t:"Woodland Bear Hanging Mobile - Forest Animals Nursery Mobile for Boys and Girls - Felt Bear Pine Trees",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DHK6D2YV"},
 {t:"My Hero Academia Volume 6-10 Collection 5 Books Set (Series 2) by Kohei Horikoshi",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/9526510011"},
 {t:"7 In 1 Immersion Blender",c:"Kitchen",e:"🍳",n:"50% off with code 9YMIO1HV",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HF77HH9W"},
 {t:"Graza Drizzle Extra Virgin Olive Oil, Finishing Oil - High Polyphenol Early Harvest EVOO Finishing Oil in a",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CWPH61BK"},
