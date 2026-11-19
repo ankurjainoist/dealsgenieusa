@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Oral-B iO Series 3 Limited Deep Clean Rechargeable Electric Toothbrush forults",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0B5HRWH1S"},
+{t:"Hatch Restore 3, Science-Backed Sleep Audio, Circadian Lighting",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DLLTJFJL"},
+{t:"medicube Booster Pro X2 - 7 in 1 Glow Beauty Device, 2X Glow Care, Pink",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GS8YKMN3"},
+{t:"Abib Gummy Sheet Mask Milk Sticker 10 Sheets (Elasticity) I Korean Face Mask for Sensitive Skin, Soothing &",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0C1RRQ7RX"},
+{t:"Lavazza Super Crema Whole Bean Coffee",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GY5JHR3L"},
 {t:"BabylissPRO Nano Titanium Ultra-Sleek Hair Straightener",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F4LSG43K"},
 {t:"Keter Solana 70 Gal Outdoor Storage Bench for Patio and Pool Accessories",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B08WVHV3H5"},
 {t:"Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B09B2SRGXH"},
