@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pawaii Personalized Dog Collar & Leash Sets",c:"Pets",e:"🐾",n:"Clip the 45% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BNNMHGMV"},
 {t:"Christmas Tree Welcome Door Mats",c:"Home",e:"🎄",n:"50% off with code B5UZ7U10",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRTMPRLG"},
 {t:"Series 1 Assorted (Axolotl) by ZURU",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G2FBNV94"},
 {t:"Fujifilm Instax Mini 99 Instant Film Camera",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CXZQGL2D"},
