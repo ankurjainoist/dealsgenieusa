@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"ROCK CLOUD Portable Folding Camping Chair Low Beach Chairs for Camp Lawn Hiking Sports Hunting",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0B5TKY77N"},
+{t:"Ryl Iced Tea, Variety Best Sellers (Half & Half/Sweet tea/Peach/Raspberry) + 50%",c:"Grocery",e:"🛒",n:"Subscribe & Save available",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F7977RPV"},
+{t:"GPS Vehicle Trackers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HPFLDGK7"},
+{t:"Bee Frontier (all-new), Wearable Personal AI that grows with you, confidential by design, transforms",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GPS3YMYL"},
 {t:"FUNID Mahjongvent Calendars",c:"Home",e:"🏠",n:"Use code M3TRLMSE",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HDHVJR8Q",img:"img/B0HDHVJR8Q.jpg"},
 {t:"KitchenAid Artisan Mini, 3.5-Qt Tilt Head Stand Mixer, White",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B01HKAUHO6"},
 {t:"Ring Pan-Tilt Indoor Cam 2K (newest model), White",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GZLRN1ST"},
