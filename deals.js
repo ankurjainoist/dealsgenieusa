@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Energizer AA and AAA Batteries",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B087GMJXMC"},
+{t:"50th Birthday Decorations for Men Women, 50th Birthday Party Tableware Set",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D3KZ76PS"},
+{t:"Weed Puller Stand-Up Tools",c:"Tools",e:"🔧",n:"Clip the 49% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CSFKV7TG"},
+{t:"Seeking Balance Filled Spa Candle, 6.5-Ounce, Energize: Rosemary Eucalyptus",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B004Y4UCYC"},
+{t:"Life360 Tile Bluetooth Trackers",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D6354JRF"},
 {t:"HyperX Cloud Mini Wireless Gaming Headset for Kids, White",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D7NVR5SY"},
 {t:"Nerf Minecraft Dart Blasters",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DK7Y2RT1"},
 {t:"Torani Puremade Pumpkin Spice Flavored Drink Syrup, 25.4 fl oz, 4 Pack",c:"Home",e:"🎃",dt:"Nov 19",l:"https://www.amazon.com/dp/B07YP68Z12"},
