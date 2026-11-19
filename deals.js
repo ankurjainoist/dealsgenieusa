@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LEGO Creator 3 in 1 Wild Animals: Majestic Rhino with Birds 31171",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DRW69H11"},
+{t:"Barbie 3-Story TownhoUse DollhoUse Playset and Accessories, 3+ ft. Tall",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B01DUK4FFM"},
+{t:"Charmin Toilet Paper Ultra Soft, Forever Roll Starter Kit, 1 Holder, 2 Rolls, 2-ply Bath Tissue",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJTLQQ8P"},
+{t:"Govee RGBIC Floor Lamp Basic, 1000lm LED Corner Lamp",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B099WTN2TR"},
+{t:"nutribullet Pro+ Personal Blender, Pulse, 1200W, Matte Black, N12-1001MK",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BS76NRG3"},
 {t:"Lockly Secure Pro Wi-Fi Deadbolt Smart Lock Latest Version with Fingerprint",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DPMV48KP"},
 {t:"Amazon Echo Dot Kids, Smart speaker to enjoy age-appropriate audiobooks, sleep routines and Alexa+",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FD4435WL"},
 {t:"Vera Bradley Womens Featherweight Large Bancroft Backpack, Withered Rose",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FBBY6RK7"},
