@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Armani Beauty My Way Nectar Eau de Parfum - Fruity Floral Perfume for Women",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DBRFG94P"},
+{t:"2-in-1 Closet Organizers and Storage, 3 Drawer for Closet, Grey",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H2VBY9M2"},
 {t:"Gotham Knights Deluxe Edition – Xbox Series X",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B09ZYXL544"},
 {t:"Travel Compression Laundry Bags",c:"Health",e:"💊",n:"Use code JERNU8V3",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HGYT4FR3"},
 {t:"Ralph Lauren Polo Red Eau de Parfum Intense - Ambery Woody Cologne for Men",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BW4TZNKH"},
