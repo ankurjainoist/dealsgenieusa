@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ricola Honey Herb Herbal Cough Suppressant Throat DROPS, 24ct Bag (Pack of 12)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B00016XIMK"},
+{t:"UV Toothbrush Sanitizers",c:"Home",e:"🏠",n:"50% off with code E3OYP165",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HHN54F7F"},
 {t:"CHIHUT Peel and Stick Wood Panels",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GQ38X9WD"},
 {t:"Foldable Water Carriers with Spigot",c:"Home",e:"🏠",n:"Use code FWUSCC5X",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HQNVQGCQ"},
 {t:"Waterproof Picnic Blankets (Green)",c:"Home",e:"🏠",n:"Use code 9XS699RL",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H7S91JWS"},
