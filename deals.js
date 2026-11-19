@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"National Tree Company 4.5ft Pre-Lit Kingswood Fir Slim Christmas Tree",c:"Home",e:"🎄",dt:"Nov 18",l:"https://www.amazon.com/dp/B074D6PB8G",img:"img/B074D6PB8G.jpg"},
 {t:"Zeelovtress King Hybrid Mattresses",c:"Home",e:"🏠",n:"50% off with code BMKFEFVP",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FG2DKWGR",img:"img/B0FG2DKWGR.jpg"},
 {t:"Large Bread Boxes",c:"Home",e:"🏠",n:"Use code W0DY6V6G",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F4QZSTMN",img:"img/B0F4QZSTMN.jpg"},
 {t:"Apple iPad 11-Inch",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DZ7871B8",img:"img/B0DZ7871B8.jpg"},
