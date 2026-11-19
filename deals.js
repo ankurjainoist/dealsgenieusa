@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Mens Polar Fleece Jacket Full Zip Hiking Coat with Zipper Pockets",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G2VS3QHG"},
+{t:"L.O.L. Surprise! 7 Enclosed Trampoline with Safety Net by Little Tikes",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B07HSL3BX5"},
+{t:"Fleece Lined Leggings Women 25 in/27 in Thermal Warm Winter Pants",c:"Fashion",e:"👗",n:"55% off with code CI9RUVPB",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HFZY32L2"},
+{t:"Womens Yoga Pants with Pockets Flare Leggings",c:"Fashion",e:"👗",n:"40% off with code CBCZTNZ7",dt:"Nov 19",l:"https://www.amazon.com/dp/B08L5XZQDM"},
+{t:"BRING GREEN Tea Tree Cica Deep Cleansing Foam Twin Pack",c:"Grocery",e:"🛒",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G6D93L4B"},
 {t:"GameSir G8 Plus MFi iPhone Controller, Hall Effect Sticks",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FYQ1SHHS"},
 {t:"4 Tier Steel Storage Shelves, Heavy Duty Metal Shelf Wire Shelving Rack for Pantry, Kitchen, Living Room, or",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F66WTTGH"},
 {t:"Kids 2 Piece Bamboo Viscose Long Sleeve Top and Pants Set for Boys & Girls",c:"Fashion",e:"👗",n:"50% off with code 1783YHIS",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HJ5PT2HX"},
