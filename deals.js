@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Little Tikes Play N Store Toy Chest",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B01LXSDDFX"},
+{t:"Barbie Spin & Style Closets",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G43YWL7B"},
+{t:"Takis Mini Rolled Tortilla Chips Multipack - Fuego Bite Size, Pack of 2",c:"Grocery",e:"🛒",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D14X267B"},
+{t:"Barbie Malibu Fashion Dolls",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G42RDWFP"},
 {t:"MZG 3-Tier Metal Storage Shelves",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F8HSFLHS"},
 {t:"Touchland Hydrating Hand Sanitizer Sprays",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B09JFLV454"},
 {t:"CAP Rubber Hex Dumbbell Set with Rack 100-1,200 lbs Multiple Styles",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CNBF85SZ"},
