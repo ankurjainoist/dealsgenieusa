@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pretty Jolly Boho Pampas Wall Decor Black Metal Wall-Mounted Art",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DG5MCNF9"},
+{t:"Anastasia Beverly Hills - Lip Liner Precision Matte Long-Lasting Pencil",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B09S1DFF22"},
+{t:"Ontel Organizer Storage Case & Tester, Holds 180, Charcoal",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DVD5R3BW"},
+{t:"Faux Flower Heads Mini Artificial Flower Heads Fake Peony Daisy Rose Flowers Multicolor Small Silk Daisy",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DGCHYFFW"},
+{t:"Pacifica Shampoo and Conditioner Se",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DNKKPB4C"},
 {t:"Green Mini 3 Wheel Scooter for Kids – Lean-to-Steer with LED Light-Up Wheels,justable Handlebar, Wide",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DZG3QYLR"},
 {t:"LEGO Animal Crossing MUseums",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DRW8G3VY"},
 {t:"Heavy Duty Silver Poly Tarp 9 X 12 (2-Pack) - Multipurpose Protective Cover - Durable, Waterproof, Weather",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DF9LMWGX"},
