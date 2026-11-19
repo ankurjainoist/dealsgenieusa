@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Electric Spin Scrubbers",c:"Home",e:"🏠",n:"Use code JG23UPDZ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DNBBMWBF",img:"img/B0DNBBMWBF.jpg"},
 {t:"Sponge Holder Sink Caddies",c:"Home",e:"🏠",n:"Use code JS8FZ9LD",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FG7TKW97",img:"img/B0FG7TKW97.jpg"},
 {t:"National Tree Company 4.5ft Pre-Lit Kingswood Fir Slim Christmas Tree",c:"Home",e:"🎄",dt:"Nov 18",l:"https://www.amazon.com/dp/B074D6PB8G",img:"img/B074D6PB8G.jpg"},
 {t:"Zeelovtress King Hybrid Mattresses",c:"Home",e:"🏠",n:"50% off with code BMKFEFVP",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FG2DKWGR",img:"img/B0FG2DKWGR.jpg"},
