@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"TIRTIR On-The-Glow Essentials Kits",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H5CDC2P4"},
+{t:"Govee Outdoor Net Lights, Christmas 2.8 * 9.4ft with RGBIC, DIY, 480 LEDs",c:"Home",e:"🎄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D73HNDT5"},
+{t:"Bare Home Printed Sheet Set - 1800 Ultra-Soft (Twin XL, Heathered Pewter)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B081S44XW1"},
+{t:"Tarte Tartelette XL Mascaras",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H6XZWZQB"},
+{t:"BOGG BAG Medium Totes",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H2BTSCY1"},
 {t:"Little Tikes Play N Store Toy Chest",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B01LXSDDFX"},
 {t:"Barbie Spin & Style Closets",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G43YWL7B"},
 {t:"Takis Mini Rolled Tortilla Chips Multipack - Fuego Bite Size, Pack of 2",c:"Grocery",e:"🛒",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D14X267B"},
