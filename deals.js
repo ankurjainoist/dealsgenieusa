@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"My Hero Academia Volume 6-10 Collection 5 Books Set (Series 2) by Kohei Horikoshi",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/9526510011"},
+{t:"7 In 1 Immersion Blender",c:"Kitchen",e:"🍳",n:"50% off with code 9YMIO1HV",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HF77HH9W"},
+{t:"Graza Drizzle Extra Virgin Olive Oil, Finishing Oil - High Polyphenol Early Harvest EVOO Finishing Oil in a",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CWPH61BK"},
 {t:"Juicy Couture Printed Microfiber Sheet Set, 3-Piece Twin, Ditsy Rose",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GWNRH8RH"},
 {t:"Yokenvent Calendar 2026,24 Days Christmas Women Beauty Skincare Gift Set",c:"Beauty",e:"🎄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H2724971"},
 {t:"Wooroo Collagen Lifting Body Oils",c:"Home",e:"🏠",n:"Use code 2E02GPC4",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H3TMCBZP"},
