@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BabylissPRO Nano Titanium Ultra-Sleek Hair Straightener",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F4LSG43K"},
+{t:"Keter Solana 70 Gal Outdoor Storage Bench for Patio and Pool Accessories",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B08WVHV3H5"},
+{t:"Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B09B2SRGXH"},
+{t:"New Balance Womens 515 Sneaker",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B09YBQK6ZB"},
 {t:"The North Face Borealis Commuter Laptop Pack, Duck Grn/New Taupe Grn, OSFA",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D4NN78HN"},
 {t:"Dream On Me Ava 4-in-1 Convertible Mini Baby Crib, White",c:"Baby",e:"👶",dt:"Nov 19",l:"https://www.amazon.com/dp/B0815X3B3Z"},
 {t:"Mattel Disney and Pixar Toy Story 5 Running Woody, 12-inch Action Figure with 50+ Movie Phrases & Sounds",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FHQJXC9L"},
