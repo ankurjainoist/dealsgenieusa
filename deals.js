@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DGTMR754"},
+{t:"Esembly Sourdough Proofing Kit, Fantastic Fungi, 3-Piece Set",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DLQ2SZWF"},
+{t:"Melissa & Doug Sticker Wow! 24-Page Activity Pad and Sticker Stamper",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CGFF2G5V"},
+{t:"No Time To Die (4KUHD/BD)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CLVMYX7H"},
+{t:"Campbells Condensed Cheddar Cheese Soup, 10.5 oz. Can (12 Pack) (Packaging May Vary",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B072JBH9BT"},
 {t:"Eyliden Car Wash Brush Mop with Long Handle for Car Truck RV, Yellow",c:"Auto",e:"🚗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DL58XQ2B"},
 {t:"Bissell CrossWave Wet Dry Vacuums",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GSSHDFRG"},
 {t:"The Children’s Place Girls’ Girls Indoor/Outdoor Comfy Slip on Platform Shoes, Faux Fur Lined",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D1532SPK"},
