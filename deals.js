@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Drunk Elephant The Littles Kit - 5 Travel-Friendly A.M. and P.M. Essentials - Clean Clinical Skincare -",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G15G56GW"},
+{t:"CHIHUT Marble Contact Papers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D2VX7WSW"},
+{t:"AOV Solar Outdoor Cameras",c:"Electronics",e:"🔌",n:"40% off with code UPFB9HJF",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H8C9HYKR"},
 {t:"Be Wise Reusable Face Masks",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B087WQB3R4"},
 {t:"John Deere Kids Workbench, Power Tools Workshop - 39 Pieces - Ages 5+",c:"Tools",e:"🔧",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CP9VZCXN"},
 {t:"Crunchy Squishy Box--3 Pcs",c:"Toys",e:"🧸",n:"40% off with code KISSAAAA",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HQ9ZJ9WT"},
