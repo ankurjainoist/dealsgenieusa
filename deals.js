@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"American Girl Disney Princess Ariel Dolls",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GWKGNSM3"},
+{t:"Marshall Acton III Speakers",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BC27MM5Z"},
+{t:"BaubleBar - Blythe Birthstone Pendant Necklace",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DLPV53P3"},
+{t:"Amazon Kids Tablets 11",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F5FHFSTT"},
+{t:"FitBeast Grip Strengthener Forearm Strengthener Hand Grips Strengthener Kit - 5 Packjustable Resistance",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B07G824Z3V"},
 {t:"Energizer AA and AAA Batteries",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B087GMJXMC"},
 {t:"50th Birthday Decorations for Men Women, 50th Birthday Party Tableware Set",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D3KZ76PS"},
 {t:"Weed Puller Stand-Up Tools",c:"Tools",e:"🔧",n:"Clip the 49% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CSFKV7TG"},
