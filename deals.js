@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"KitchenAid Artisan Mini, 3.5-Qt Tilt Head Stand Mixer, White",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B01HKAUHO6"},
+{t:"Ring Pan-Tilt Indoor Cam 2K (newest model), White",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GZLRN1ST"},
+{t:"Kids Press-On Nail Art Kits",c:"Beauty",e:"💄",n:"Use code LGVQIN3G",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HJ1X7SVS"},
+{t:"Welchs Fruit Snacks, Mixed Fruit & Summer Fruits, 0.8 oz, 60 Ct",c:"Grocery",e:"🛒",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BMGXK1DY"},
+{t:"Telescope forults, 90mm Aperture 600mm Refractor Telescope for Kids and Beginners, Telescopes forults",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F62WSSNZ"},
 {t:"LEGO Creator 3 in 1 Wild Animals: Majestic Rhino with Birds 31171",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DRW69H11"},
 {t:"Barbie 3-Story TownhoUse DollhoUse Playset and Accessories, 3+ ft. Tall",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B01DUK4FFM"},
 {t:"Charmin Toilet Paper Ultra Soft, Forever Roll Starter Kit, 1 Holder, 2 Rolls, 2-ply Bath Tissue",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJTLQQ8P"},
