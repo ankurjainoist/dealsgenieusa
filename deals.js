@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"The North Face Borealis Commuter Laptop Pack, Duck Grn/New Taupe Grn, OSFA",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D4NN78HN"},
+{t:"Dream On Me Ava 4-in-1 Convertible Mini Baby Crib, White",c:"Baby",e:"👶",dt:"Nov 19",l:"https://www.amazon.com/dp/B0815X3B3Z"},
+{t:"Mattel Disney and Pixar Toy Story 5 Running Woody, 12-inch Action Figure with 50+ Movie Phrases & Sounds",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FHQJXC9L"},
+{t:"LEXiBOOK, The Smurfs, Bluetooth Headphones, Blue/Green",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F7QX2L92"},
+{t:"Heated Herringbone Capes",c:"Home",e:"🏠",n:"Use code G4BQ1F81",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRYDF6YB"},
 {t:"medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DGTMR754"},
 {t:"Esembly Sourdough Proofing Kit, Fantastic Fungi, 3-Piece Set",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DLQ2SZWF"},
 {t:"Melissa & Doug Sticker Wow! 24-Page Activity Pad and Sticker Stamper",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CGFF2G5V"},
