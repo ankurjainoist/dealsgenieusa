@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Super Mario Galaxy Movies",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GQTDPJ36"},
+{t:"Victoria’s Secret Mist Collection 4 Piece Mini Mist Gift Set",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B097BW8KN7"},
+{t:"Monster Jam Grave Digger RC Trucks",c:"Auto",e:"🚗",dt:"Nov 19",l:"https://www.amazon.com/dp/B07HGR2C1G"},
+{t:"Coach Essential Small Wristlets",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D8CGT3B9"},
 {t:"Furby Cotton Candy Interactive Plushes",c:"Grocery",e:"🛒",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D9MQJ4JX"},
 {t:"Curtain Rods for Windows 32 to 240, Brushed Gold Heavy Duty Rods",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D8VJNG3G"},
 {t:"2ft Snow Flocked Pre-Lit Mini Christmas Tree Decorations for Table",c:"Home",e:"🎄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F7RP7H7P"},
