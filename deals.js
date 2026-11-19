@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Furby Cotton Candy Interactive Plushes",c:"Grocery",e:"🛒",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D9MQJ4JX"},
+{t:"Curtain Rods for Windows 32 to 240, Brushed Gold Heavy Duty Rods",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D8VJNG3G"},
+{t:"2ft Snow Flocked Pre-Lit Mini Christmas Tree Decorations for Table",c:"Home",e:"🎄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F7RP7H7P"},
+{t:"Aslsiy Ribbons Bow Coquette Pen Holder Pink 4 Compartments Acrylic Pencil Holder Clear Makeup Brush Holder",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D9BDDWFX"},
+{t:"Beard Club Derma Roller & Beard Growth Oil - Microneedling Roller with 540 Titanium Coated Microneedles &",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FDSS8N28"},
 {t:"American Girl Disney Princess Ariel Dolls",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GWKGNSM3"},
 {t:"Marshall Acton III Speakers",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BC27MM5Z"},
 {t:"BaubleBar - Blythe Birthstone Pendant Necklace",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DLPV53P3"},
