@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Kivtrer Tuxedo Cat Building Sets",c:"Pets",e:"🐾",n:"50% off with code 5SDQ4Z09",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H28WYRR2"},
 {t:"Tytan Magnetic Tiles 100 Piece Playset S1 by ZURU",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G36MKRMD"},
 {t:"BELLA BREW 14 Cup Auto Pour Over Coffee Maker, Slate",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G4T633K3"},
 {t:"Shintenchi 3 Pieces Patio Bistro Sets, Outdoor Textilene Fabric Conversation Bistro Set, Textilene Fabric",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D26395Q9"},
