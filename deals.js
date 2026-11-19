@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"American Girl Special Edition Modern Era Collection, Kirsten Larson, 14.5-inch Doll, Historical Characters",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FK1Z4BR5"},
 {t:"Sesame Street Reaction Figures Wave 05 - Abby Cadabby",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FQJHV957"},
 {t:"Snyders of Hanover Variety Pack Pretzels, 36 Count Variety Pack (Pack of 36)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0179D40CY"},
 {t:"Super7 TMNT Foot Ninja - ULTIMATES! Wave 13 Action Figure",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DYBP8B5T"},
