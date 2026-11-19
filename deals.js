@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"CHIHUT Peel and Stick Wood Panels",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GQ38X9WD"},
 {t:"Foldable Water Carriers with Spigot",c:"Home",e:"🏠",n:"Use code FWUSCC5X",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HQNVQGCQ"},
 {t:"Waterproof Picnic Blankets (Green)",c:"Home",e:"🏠",n:"Use code 9XS699RL",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H7S91JWS"},
 {t:"OfficeGoods Acrylic Staplers (Silver)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B079DF8DGW"},
