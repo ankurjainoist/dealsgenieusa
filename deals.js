@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"HORI Nintendo Switch HORIPAD Turbo (The Legend of Zelda) Ergonomic Wired Controller Pad",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CBNB6CKS"},
+{t:"Women’s Oversized Sweaters Crewneck Cable Knit Pullover",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F53PVCM1"},
 {t:"Ninja French Door Premier Air Fry Oven, 10-in-1, 20.3 Qt, Stainless, FO101",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FM5KF34G"},
 {t:"KidKraft Grand Gourmet Corner Wooden Play Kitchen with Washer, Chalkboard, Curtains and 4 Accessories, Gift",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B002OE01XG"},
 {t:"Sony 75 Inch 8K Ultra HD TV Z9K Series: BRAVIA XR 8K Mini LED Smart Google TV with Dolby Vision HDR and",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B09R8WQ1YV"},
