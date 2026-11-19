@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Size Medium",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B09MDHTCZS"},
+{t:"Mimibelt Universal Seat Straps",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HDPB4B5S"},
 {t:"Cinema Light Box, A4 Size 16 Color Changing with 400 Letters Symbols(Black)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B09CDRLLHK"},
 {t:"OfficeGoods Stainless Steel Scissors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0892CJFMV"},
 {t:"Size xxs",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B09NBHK9K7"},
