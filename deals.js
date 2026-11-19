@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"OfficeGoods Electric Pencil Sharpeners",c:"Kids",e:"🎨",n:"Clip the 40% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B00QOCJYM8",img:"img/B00QOCJYM8.jpg"},
 {t:"Vitamix Professional Blenders",c:"Kitchen",e:"🍳",dt:"Nov 18",l:"https://www.amazon.com/dp/B008H4SLV6",img:"img/B008H4SLV6.jpg"},
 {t:"Gold Irregular Wall Mirrors",c:"Home",e:"🏠",n:"Use code 8X29021Q",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GTM52N7Y",img:"img/B0GTM52N7Y.jpg"},
 {t:"ZEVZO 4000A Car Jump Starters",c:"Auto",e:"🚗",n:"Use code 6PMUHUZS",dt:"Nov 18",l:"https://www.amazon.com/dp/B0C42Y5TPD",img:"img/B0C42Y5TPD.jpg"},
