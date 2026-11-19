@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Weaving Loom for Kids, Arts and Crafts Kit Ages 8-12, 280 Loops",c:"Kids",e:"🎨",n:"Use code 0B7LYWYP",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJQXYFWK",img:"img/B0HJQXYFWK.jpg"},
 {t:"Foldable Wood Dog Ramp Stairs & Ottoman Non-Slip for Small Dogs Bed & Couch",c:"Pets",e:"🐾",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HDN7LJWC",img:"img/B0HDN7LJWC.jpg"},
 {t:"Country Kitchen Nonstick Stackable Bakeware Set - Deluxe Heavy Duty, Durable, Easy Release Baking Set, Denim",c:"Kitchen",e:"🍳",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D9W5JCXN",img:"img/B0D9W5JCXN.jpg"},
 {t:"Learning Resources Sorting Snacks Mini Fridges",c:"Grocery",e:"🛒",dt:"Nov 18",l:"https://www.amazon.com/dp/B0C2667G32",img:"img/B0C2667G32.jpg"},
