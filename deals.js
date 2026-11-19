@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"M MZG 5 Tiers Shelf Metal Storage Shelves Wire Rack Closet Organizers with Wheel for Garage Kitchen Bathroom",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F8HZHXW1"},
+{t:"Air Mattress Queen with Built-in Pump, Raised Airbed",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CN3Z9QT3"},
+{t:"dalba Piedmont White Truffle Waterfull Essence Sunscreen (1.69 fl oz)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DKJ347ZJ"},
+{t:"Arlo Essential Plug-In Security Camera 2K (3rd Gen) - 2-Cam",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FLM65TN2"},
+{t:"U.S. Traveler Boren Polycarbonate Hardside Rugged Travel Suitcase Luggage with 8 Spinner Wheels",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B094LRD8NF"},
 {t:"Fuzzy Memory Foam Slippers",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B09JVQQ99K"},
 {t:"Champion Fleece Joggers",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B01H7HOSWE"},
 {t:"Melissa & Doug Minnie MoUse Dress-Up Puzzles",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B00P2SL9YG"},
