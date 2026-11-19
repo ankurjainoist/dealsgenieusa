@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"HyperX Cloud Mini Wireless Gaming Headset for Kids, White",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D7NVR5SY"},
+{t:"Nerf Minecraft Dart Blasters",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DK7Y2RT1"},
+{t:"Torani Puremade Pumpkin Spice Flavored Drink Syrup, 25.4 fl oz, 4 Pack",c:"Home",e:"🎃",dt:"Nov 19",l:"https://www.amazon.com/dp/B07YP68Z12"},
+{t:"Hasbro Guess Who Disney Princess Games",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B01H0CZ7BW"},
+{t:"Hasbro Battleship Strategy Games",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B06Y1N3PTX"},
 {t:"Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B00AHAWWO0"},
 {t:"LEGO Tiny Wildflower Bouquets",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/1464245363"},
 {t:"Amazon Kindle Paperwhite 16GB (2024 model) – 7” glare-free display and weeks of battery life – Black",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CFPJYX7P"},
