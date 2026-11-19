@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Eyliden Car Wash Brush Mop with Long Handle for Car Truck RV, Yellow",c:"Auto",e:"🚗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DL58XQ2B"},
+{t:"Bissell CrossWave Wet Dry Vacuums",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GSSHDFRG"},
+{t:"The Children’s Place Girls’ Girls Indoor/Outdoor Comfy Slip on Platform Shoes, Faux Fur Lined",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D1532SPK"},
+{t:"Revlon One-Step Hair Dryers",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B096SVJZSW"},
 {t:"Bio Ionic Curling Irons",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B01J248HWM"},
 {t:"Waffle Bath Mat Beige 36 inx24 in, Boho Woven Modern Bath Mat Rugs, Absorbent Non Slip Bathroom Rugs, Soft",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DH7T19C9"},
 {t:"Real Techniques Miracle Complexion Sponge, 4 Pack, Makeup Blending Sponges",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B01JINOV5E"},
