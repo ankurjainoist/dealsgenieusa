@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Arssm Womens Cropped Cardigan Sweaters Chunky Knit Button Down Outerwear",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F6WBRP8D"},
+{t:"Lancôme Lash Idôle Mascara - Lash-Lifting & Volumizing Mascara - Black",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B08TPCHYLW"},
+{t:"JLab JBuds Lux ANC Wireless Over-Ear Headphones",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CRM9LQW2"},
+{t:"Round Lab Camellia Deep Collagen Firming Ampoule, 1.01 Fl oz",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DTP5HMF3"},
+{t:"ShoeN Tale Womens Strappy Heels Kitten Heeled Mules Two Straps Square Open Toe Slip On Sandals",c:"Pets",e:"🐾",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DHTQ4KK6"},
 {t:"Shark FlexStyle Hair Stylers",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DZ7RZ14S"},
 {t:"Kindle Scribe Colorsoft (Fig)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FC1WNVMX"},
 {t:"Shark PowerDetect Robot Vacuum & Mop Combo, 60-Day Self-Empty, AV2900XE",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJNGMN4Y"},
