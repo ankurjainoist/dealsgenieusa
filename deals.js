@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Moving Sand Art Pictures (Purple)",c:"Kids",e:"🎨",n:"Use code WJJYIW4M",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H8BXD4NT"},
 {t:"Armani Beauty My Way Nectar Eau de Parfum - Fruity Floral Perfume for Women",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DBRFG94P"},
 {t:"2-in-1 Closet Organizers and Storage, 3 Drawer for Closet, Grey",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H2VBY9M2"},
 {t:"Gotham Knights Deluxe Edition – Xbox Series X",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B09ZYXL544"},
