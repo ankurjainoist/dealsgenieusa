@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Green Mini 3 Wheel Scooter for Kids – Lean-to-Steer with LED Light-Up Wheels,justable Handlebar, Wide",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DZG3QYLR"},
+{t:"LEGO Animal Crossing MUseums",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DRW8G3VY"},
+{t:"Heavy Duty Silver Poly Tarp 9 X 12 (2-Pack) - Multipurpose Protective Cover - Durable, Waterproof, Weather",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DF9LMWGX"},
+{t:"Michael Kors Maeve Crossbodies",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DPR7ZX9W"},
+{t:"Portable Alcohol Camping Stoves",c:"Home",e:"🏠",n:"50% off with code HM9MLA7V",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRB6PCRB"},
 {t:"Super Mario Galaxy Movies",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GQTDPJ36"},
 {t:"Victoria’s Secret Mist Collection 4 Piece Mini Mist Gift Set",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B097BW8KN7"},
 {t:"Monster Jam Grave Digger RC Trucks",c:"Auto",e:"🚗",dt:"Nov 19",l:"https://www.amazon.com/dp/B07HGR2C1G"},
