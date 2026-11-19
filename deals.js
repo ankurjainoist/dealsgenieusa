@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cinema Light Box, A4 Size 16 Color Changing with 400 Letters Symbols(Black)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B09CDRLLHK"},
+{t:"OfficeGoods Stainless Steel Scissors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0892CJFMV"},
+{t:"Size xxs",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B09NBHK9K7"},
 {t:"Fisher-Price Imaginext Dinosaur Toys",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DLDBL8M4",img:"img/B0DLDBL8M4.jpg"},
 {t:"Warming Mat for Food, 24 in x 16 in, Full-Surface Heating, Child Lock,blue",c:"Home",e:"🏠",n:"Use code 9XLQTH73",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HDN9B386",img:"img/B0HDN9B386.jpg"},
 {t:"Lucky Merit Woven Bamboo Baskets",c:"Home",e:"🏠",n:"Use code LER9F4S4",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HJ5HQJ8X",img:"img/B0HJ5HQJ8X.jpg"},
