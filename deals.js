@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Zipool 2HP Dual Voltage Pool Pumps",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G8TQWKST"},
+{t:"Womens Sweatshirts Long Sleeve Crewneck Pullover Fall Tops",c:"Fashion",e:"👗",n:"58% off with code OLRWWRV4",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FHH2HP9V"},
 {t:"Mens Polar Fleece Jacket Full Zip Hiking Coat with Zipper Pockets",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G2VS3QHG"},
 {t:"L.O.L. Surprise! 7 Enclosed Trampoline with Safety Net by Little Tikes",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B07HSL3BX5"},
 {t:"Fleece Lined Leggings Women 25 in/27 in Thermal Warm Winter Pants",c:"Fashion",e:"👗",n:"55% off with code CI9RUVPB",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HFZY32L2"},
