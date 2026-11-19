@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"UGG Nita Throw Blankets",c:"Home",e:"🏠",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DPJKFD81",img:"img/B0DPJKFD81.jpg"},
 {t:"Smart RGB Christmas Tree Lights",c:"Electronics",e:"🎄",n:"Use code KZOOY5D6",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FFSPTG67",img:"img/B0FFSPTG67.jpg"},
 {t:"Cordless Stick Vacuum Cleaners",c:"Home",e:"🏠",n:"Use code MR1MSXLS",dt:"Nov 18",l:"https://www.amazon.com/dp/B0GFP6S9PS",img:"img/B0GFP6S9PS.jpg"},
 {t:"OfficeGoods Electric Pencil Sharpeners",c:"Kids",e:"🎨",n:"Clip the 40% coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B00QOCJYM8",img:"img/B00QOCJYM8.jpg"},
