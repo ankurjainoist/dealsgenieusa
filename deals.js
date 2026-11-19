@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"medicube Glow Favorites On-the-Go Kit, Mini Skincare Trial Kit, 5 Piece Set",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H5W743CH"},
+{t:"Silicone Baking Mat Roll 12IN*8FT Free Cutting, Non-Slip Pastry Mat, Non-Stick Reusable Air Fryer Liner, Oven",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D9VQFZTY"},
+{t:"Zombie Kittens by Exploding Kittens, Ages 7+, 2-5 Players",c:"Pets",e:"🐾",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D6CWVXBW"},
+{t:"PUMA Men’s 3 Pack Performance Boxer Brief",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B00ZFLAE8C"},
 {t:"Arssm Womens Cropped Cardigan Sweaters Chunky Knit Button Down Outerwear",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F6WBRP8D"},
 {t:"Lancôme Lash Idôle Mascara - Lash-Lifting & Volumizing Mascara - Black",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B08TPCHYLW"},
 {t:"JLab JBuds Lux ANC Wireless Over-Ear Headphones",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CRM9LQW2"},
