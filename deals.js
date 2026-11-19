@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Haooryx Fall Football Wooden Centerpieces",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0D5QGBYL3",img:"img/B0D5QGBYL3.jpg"},
 {t:"Subscribe and save",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DPLMTPFN",img:"img/B0DPLMTPFN.jpg"},
 {t:"Electric Spin Scrubbers",c:"Home",e:"🏠",n:"Use code JG23UPDZ",dt:"Nov 18",l:"https://www.amazon.com/dp/B0DNBBMWBF",img:"img/B0DNBBMWBF.jpg"},
 {t:"Sponge Holder Sink Caddies",c:"Home",e:"🏠",n:"Use code JS8FZ9LD",dt:"Nov 18",l:"https://www.amazon.com/dp/B0FG7TKW97",img:"img/B0FG7TKW97.jpg"},
