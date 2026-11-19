@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LOFT + IVY Sheet Organizers and Storage – Bed Sheet Holders Box for Linen Closet, Foldable Bedding Storage",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D4PJ87ML",img:"img/B0D4PJ87ML.jpg"},
 {t:"LAURA GELLER True to Form Cheek & Eye Palette, Includes Blush & Eyeshadow",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H8431918",img:"img/B0H8431918.jpg"},
 {t:"Military Smart Watches for Men",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HFN3PK4Q",img:"img/B0HFN3PK4Q.jpg"},
 {t:"Zipool 2HP Dual Voltage Pool Pumps",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G8TQWKST"},
