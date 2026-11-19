@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"100 Pack 16 oz Clear Disposable Plastic Cups with Lids",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HJ1PXPMN"},
+{t:"Kante Accent Round Curved CON Gray Concrete Planter 13 in Dia, Outdoor",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FMDPV3RZ"},
+{t:"Bella Flip-n-Store Waffle Makers",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CYHZFMFX"},
+{t:"Crocs Unisexult Hello Kitty Classic Clogs",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CVLH7VRT"},
 {t:"Hello Kitty Islandventures",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJYHNRRY"},
 {t:"Resident Evil 2 (PS5)",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DKW2H52M"},
 {t:"Sonic Superstars Nintendo Switch Games",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B0C91MLPNG"},
