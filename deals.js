@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fuzzy Memory Foam Slippers",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B09JVQQ99K"},
+{t:"Champion Fleece Joggers",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B01H7HOSWE"},
+{t:"Melissa & Doug Minnie MoUse Dress-Up Puzzles",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B00P2SL9YG"},
+{t:"9FT Christmas Inflatables Decorations Santa Claus Climbing Ladder with Christmas Tree, Built-in Bright LEDs",c:"Home",e:"🎄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FDKQPHZQ"},
+{t:"Cowgirl Knee High Boots",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CL99YKR1"},
 {t:"medicube Glow Favorites On-the-Go Kit, Mini Skincare Trial Kit, 5 Piece Set",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H5W743CH"},
 {t:"Silicone Baking Mat Roll 12IN*8FT Free Cutting, Non-Slip Pastry Mat, Non-Stick Reusable Air Fryer Liner, Oven",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D9VQFZTY"},
 {t:"Zombie Kittens by Exploding Kittens, Ages 7+, 2-5 Players",c:"Pets",e:"🐾",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D6CWVXBW"},
