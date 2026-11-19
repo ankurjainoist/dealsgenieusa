@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Series 1 Assorted (Axolotl) by ZURU",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G2FBNV94"},
+{t:"Fujifilm Instax Mini 99 Instant Film Camera",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CXZQGL2D"},
 {t:"Tommy Hilfiger Womens Jaden Satchel Crossbody Bag",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B06XWGMMJW"},
 {t:"Super7 ULTIMATES! Toho Godzilla Grayscale Comic Book (Thirsty for Blood)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FV9X14VY"},
 {t:"Silver Buffalo Pokemon Charizard Fire Type Stainless Steel Tumbler, 30oz",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H9222S6J"},
