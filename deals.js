@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Kenneth Cole - King Comforter Set with Shams & Bonus Throw",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DFDGPRF9"},
+{t:"Fishing Backpacks with Rod Holders",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HG1VGP32"},
 {t:"EA SPORTS FC 27 Standard Edition PlayStation5, Physical Disc I VideoGame, English",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H9SYK5Q7"},
 {t:"Robo Alive Water Activated Shark 2 Pack (Grey) by ZURU – Realistic Swimming Robotic Bath Toy for Kids, Tweens",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJJ7C93C"},
 {t:"Pawaii Personalized Dog Collar & Leash Sets",c:"Pets",e:"🐾",n:"Clip the 45% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BNNMHGMV"},
