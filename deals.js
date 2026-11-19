@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Gotham Knights Deluxe Edition – Xbox Series X",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B09ZYXL544"},
+{t:"Travel Compression Laundry Bags",c:"Health",e:"💊",n:"Use code JERNU8V3",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HGYT4FR3"},
+{t:"Ralph Lauren Polo Red Eau de Parfum Intense - Ambery Woody Cologne for Men",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BW4TZNKH"},
 {t:"Blossom Ritual Honey Chamomile Oolong Teas",c:"Grocery",e:"🛒",n:"Coupon: 45% off",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FBLZFCVK"},
 {t:"Flexible Christmas Wrapping Papers",c:"Home",e:"🎄",n:"Use code XIQ91A4C",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HR1LGDVT"},
 {t:"Christmas Refrigerator Handle Covers",c:"Home",e:"🎄",n:"50% off with code PIFRVQPS",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRVN8P8W"},
