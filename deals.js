@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Sonic X Shadow Generations - PlayStation 5",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D6JYR4M7"},
+{t:"BioSilk Silk Therapy Original, Leave-In Hair Treatment, 2.26 Oz",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B00J4G1ZRS"},
 {t:"M MZG 5 Tiers Shelf Metal Storage Shelves Wire Rack Closet Organizers with Wheel for Garage Kitchen Bathroom",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F8HZHXW1"},
 {t:"Air Mattress Queen with Built-in Pump, Raised Airbed",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CN3Z9QT3"},
 {t:"dalba Piedmont White Truffle Waterfull Essence Sunscreen (1.69 fl oz)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DKJ347ZJ"},
