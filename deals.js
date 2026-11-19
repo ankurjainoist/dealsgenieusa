@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LEQUR Ambidextrous Scissors",c:"Home",e:"🏠",n:"Coupon: 50% off",dt:"Nov 18",l:"https://www.amazon.com/dp/B0F94B9V6G",img:"img/B0F94B9V6G.jpg"},
 {t:"Construction Truck Toy Playsets",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0HHMTY8SS",img:"img/B0HHMTY8SS.jpg"},
 {t:"Portable Fire Extinguishers",c:"Home",e:"🏠",n:"40% off with code 6FSF8QW9",dt:"Nov 18",l:"https://www.amazon.com/dp/B0CSFKVPR4",img:"img/B0CSFKVPR4.jpg"},
 {t:"Pink Heart Pattern Throw Blanket, 3D Print Super Soft",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 18",l:"https://www.amazon.com/dp/B0G6CWPY3T",img:"img/B0G6CWPY3T.jpg"},
