@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Yalin Set of 6 Unbreakable 12 oz Acrylic Plastic Wine and Water Tumbler Stackable Goblets. (Yellow, 12 oz)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DTDW2LWG"},
+{t:"Wenrine Women Striped Sweater Dress Fall Zip Up Long Knit Cardigan Sweaters",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H74JMH3N"},
+{t:"Urban Decay Naked2 Basics Matte Eyeshadow Palette - 6 Cool Neutral Shadows",c:"Home",e:"🏠",n:"Coupon: 50% off",dt:"Nov 19",l:"https://www.amazon.com/dp/B07LBLK57Q"},
+{t:"Ceramic Flower Pot 13.5 Inch - Large Planter for Indoor Plants Outdoor Plant Pot with Drainage Hole Round",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DN13BX59"},
 {t:"Oral-B iO Series 3 Limited Deep Clean Rechargeable Electric Toothbrush forults",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0B5HRWH1S"},
 {t:"Hatch Restore 3, Science-Backed Sleep Audio, Circadian Lighting",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DLLTJFJL"},
 {t:"medicube Booster Pro X2 - 7 in 1 Glow Beauty Device, 2X Glow Care, Pink",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GS8YKMN3"},
