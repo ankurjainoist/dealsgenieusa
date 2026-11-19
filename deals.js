@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Barefoot Dreams CozyChic Barefoot in the Wild Throw, Cream-Stone, 54”x72”",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B01LY6JN8K"},
+{t:"TIRTIR Mask Fit Ai Filter Cushion Foundation, AI-Like Semi-Matte Finish - Up to 72-Hour Medium to Full",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FH5TM12N"},
+{t:"Nautica Men’s Soft Woven 100% Cotton Elastic Waistband Sleep Pajama Pant",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B07HNV1B37"},
+{t:"Marco Almond Kitchen Knife Set 12PC Kitchen Knives Set w Covers Black",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BFH6ZWWB"},
+{t:"Sunrise Alarm Clock White Noise Machine with Bluetooth",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GY3ZBR3H"},
 {t:"Turtle Fishing Statue for Koi Pond, Resin Tortoise with Rod and Fish",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DGL62Z6Y"},
 {t:"Grace & Stella Under Eye Patches",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CYCFRZKD"},
 {t:"Shark FacialPro Glow Facial Devices",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FMT8YXM5"},
