@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PRO 7D Head Shaver for Bald Men, Flexible Blade Electric Razor",c:"Tools",e:"🔧",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G7G5Y72C",img:"img/B0G7G5Y72C.jpg"},
 {t:"LABEL MAKER",c:"Home",e:"🏠",n:"63% off with code LZGJMIS4 (works on WHITE))",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HB9VPGN3",img:"img/B0HB9VPGN3.jpg"},
 {t:"Manscape Groin & Body Hair Trimmer for Men, Electric Pubic Shaver",c:"Beauty",e:"💄",n:"Use code B5TATYOM",dt:"Nov 19",l:"https://www.amazon.com/dp/B09HZTKLNP",img:"img/B09HZTKLNP.jpg"},
 {t:"Manscape Upgraded Body & Pubic Hair Trimmer for Men, Waterproof Ball Shaver",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FRF6R24N",img:"img/B0FRF6R24N.jpg"},
