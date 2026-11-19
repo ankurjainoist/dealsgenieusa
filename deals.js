@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Be Wise Reusable Face Masks",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B087WQB3R4"},
+{t:"John Deere Kids Workbench, Power Tools Workshop - 39 Pieces - Ages 5+",c:"Tools",e:"🔧",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CP9VZCXN"},
+{t:"Crunchy Squishy Box--3 Pcs",c:"Toys",e:"🧸",n:"40% off with code KISSAAAA",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HQ9ZJ9WT"},
+{t:"Counter Height Bar Stools (Beige)",c:"Home",e:"🏠",n:"Use code AO54P5",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HP9KFTZB"},
 {t:"Retro Wireless Bluetooth Headphones",c:"Electronics",e:"🔌",n:"Use code P9GZ64W0",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRY8HR37"},
 {t:"Prelit Christmas Garland, Real Touch Cedar Garland for Stairs",c:"Home",e:"🎄",n:"50% off with code ZUYXTQEE (works on 9FT-Cedar and 6FT-Cedar))",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H6QGS3DM"},
 {t:"Woodland Bear Hanging Mobile - Forest Animals Nursery Mobile for Boys and Girls - Felt Bear Pine Trees",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DHK6D2YV"},
