@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PAW Patrol Apple Berry Smoothie Pops",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DK9VJWK1"},
+{t:"Inflatable Travel Pillow - Travel Pillow for Long Flight, Inflatable Neck Pillow for Traveling, Pocket Blow",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F5HCK9FN"},
+{t:"American Girl Special Edition Modern Era Collection,dy Walker, 14.5-inch Doll, Historical Characters, Ages 8+",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FK11TZ3B"},
+{t:"Amazon Basics Bathroom Cleaner Disinfectant, Foaming Action, Lemon Scent, Kills 99.9% Of Bacteria, 22 OZ",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H4YCMF8L"},
 {t:"ROCK CLOUD Portable Folding Camping Chair Low Beach Chairs for Camp Lawn Hiking Sports Hunting",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0B5TKY77N"},
 {t:"Ryl Iced Tea, Variety Best Sellers (Half & Half/Sweet tea/Peach/Raspberry) + 50%",c:"Grocery",e:"🛒",n:"Subscribe & Save available",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F7977RPV"},
 {t:"GPS Vehicle Trackers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HPFLDGK7"},
