@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Tear-Resistant Christmas Wrapping Sheets",c:"Home",e:"🎄",n:"Use code I5WFWW2K",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HR1CZ5TW",img:"img/B0HR1CZ5TW.jpg"},
 {t:"Caydo Crochet Starter Kits",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FXM8XMLC",img:"img/B0FXM8XMLC.jpg"},
 {t:"Fossil Mens Nate Quartz Chronograph Watch for Men",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B00NVAWTLY",img:"img/B00NVAWTLY.jpg"},
 {t:"MERACH CV30 Pro Curved Vibration Plate Exercise Machine, Powerful & Quiet",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D4QXFW1L",img:"img/B0D4QXFW1L.jpg"},
