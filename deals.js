@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Shark FlexStyle Hair Stylers",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DZ7RZ14S"},
+{t:"Kindle Scribe Colorsoft (Fig)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FC1WNVMX"},
+{t:"Shark PowerDetect Robot Vacuum & Mop Combo, 60-Day Self-Empty, AV2900XE",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJNGMN4Y"},
+{t:"Pink Short Bob Wavy Wig with Bangs for women (14 Inch)",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D9Y99345"},
 {t:"WallFlower Womens Dreamer Jackets Juniors, Size-Inclusive",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0B1JHX18J"},
 {t:"Beckham Hotel Collection Queen Pillows",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B01LYNW421"},
 {t:"maamgic Mens Swim Trunks with Compression Liner 9 inch Quick Dry Men Bathing Suit Stretch Board Shorts",c:"Health",e:"💊",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DQ1TH659"},
