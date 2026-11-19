@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"GameSir G8 Plus MFi iPhone Controller, Hall Effect Sticks",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FYQ1SHHS"},
+{t:"4 Tier Steel Storage Shelves, Heavy Duty Metal Shelf Wire Shelving Rack for Pantry, Kitchen, Living Room, or",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F66WTTGH"},
+{t:"Kids 2 Piece Bamboo Viscose Long Sleeve Top and Pants Set for Boys & Girls",c:"Fashion",e:"👗",n:"50% off with code 1783YHIS",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HJ5PT2HX"},
+{t:"Billie Eilish YOUR TURN Eau de Parfum Perfume for Women, Warm, Woody, & Fresh Fragrance",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FBR7SR25"},
+{t:"OfficeGoods No Slip Clip Refills",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B074QWH6XP"},
 {t:"Derek Lam 10 Crosby - Blackout- 1.7 Oz Eau De Parfum - Fragrance Mist For Women - Woody And Floral Scent -",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B01MYDEK74"},
 {t:"Secret Clinical Antiperspirant Deodorant for Women, Completely Clean 2.6 oz",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B00HF3XSO0"},
 {t:"Unisex-Baby 2-pack Cute Print Bodysuit, Soft Bamboo Rayon",c:"Baby",e:"👶",n:"50% off with code LCF11Y60",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GFHR67KT"},
