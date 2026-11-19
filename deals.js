@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Manscape Upgraded Body & Pubic Hair Trimmer for Men, Waterproof Ball Shaver",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FRF6R24N",img:"img/B0FRF6R24N.jpg"},
 {t:"Azzaro Wanted By Night Eau de Parfum - Mens Cologne - Woody, Oriental & Spicy Fragrance",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B07BX5PGKT",img:"img/B07BX5PGKT.jpg"},
 {t:"eufy Permanent Outdoor Lights E22, 50ft with 30 Triple-LED Lights",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FKS3V4T9",img:"img/B0FKS3V4T9.jpg"},
 {t:"LAURA GELLER Baked Balance-n-Brighten Powder Foundation – Light",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B01H1V7WQU",img:"img/B01H1V7WQU.jpg"},
