@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B00AHAWWO0"},
+{t:"LEGO Tiny Wildflower Bouquets",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/1464245363"},
+{t:"Amazon Kindle Paperwhite 16GB (2024 model) – 7” glare-free display and weeks of battery life – Black",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CFPJYX7P"},
+{t:"PUMA Evercat Transformation Duffels",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0792DV4JZ"},
+{t:"Amazon Echo Show 15, Full HD 15.6” kitchen hub for home organization, with built-in Fire TV, Designed for",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0C5DPSW5Y"},
 {t:"TIRTIR On-The-Glow Essentials Kits",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H5CDC2P4"},
 {t:"Govee Outdoor Net Lights, Christmas 2.8 * 9.4ft with RGBIC, DIY, 480 LEDs",c:"Home",e:"🎄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D73HNDT5"},
 {t:"Bare Home Printed Sheet Set - 1800 Ultra-Soft (Twin XL, Heathered Pewter)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B081S44XW1"},
