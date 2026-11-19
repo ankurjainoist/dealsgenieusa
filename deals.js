@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Portable Bucket Commodes (Blue)",c:"Home",e:"🏠",n:"Use code HXSJPFFC",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRFXYKV1"},
 {t:"Motor Meter Racing Gauge Sets",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D8L5FG8W"},
 {t:"Digital Cameras for Kids",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H3ZYTPFN"},
 {t:"Extra Large Christmas Gift Bags",c:"Home",e:"🎄",n:"40% off with code HZMDCSF8",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FMP5J6KQ"},
