@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Juicy Couture Printed Microfiber Sheet Set, 3-Piece Twin, Ditsy Rose",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GWNRH8RH"},
+{t:"Yokenvent Calendar 2026,24 Days Christmas Women Beauty Skincare Gift Set",c:"Beauty",e:"🎄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H2724971"},
+{t:"Wooroo Collagen Lifting Body Oils",c:"Home",e:"🏠",n:"Use code 2E02GPC4",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H3TMCBZP"},
+{t:"Mushroom Cottage Automatic Pet Feeders",c:"Pets",e:"🐾",n:"50% off with code CXAXGJZY",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRVD9LVM"},
+{t:"Christmas Tree Bow Topper Decor",c:"Home",e:"🎄",n:"50% off with code XVMWP6S6",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HJ6BL6K6"},
 {t:"Size Medium",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B09MDHTCZS"},
 {t:"Mimibelt Universal Seat Straps",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HDPB4B5S"},
 {t:"Cinema Light Box, A4 Size 16 Color Changing with 400 Letters Symbols(Black)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B09CDRLLHK"},
