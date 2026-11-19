@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"WallFlower Womens Dreamer Jackets Juniors, Size-Inclusive",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0B1JHX18J"},
+{t:"Beckham Hotel Collection Queen Pillows",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B01LYNW421"},
+{t:"maamgic Mens Swim Trunks with Compression Liner 9 inch Quick Dry Men Bathing Suit Stretch Board Shorts",c:"Health",e:"💊",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DQ1TH659"},
+{t:"Govee Permanent Outdoor Lights Pro",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DX1WPB9J"},
+{t:"Nex Playground - The Active Play System for Kids & Families Where Indoor Physical Activity Meets Interactive",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D2JGYX3F"},
 {t:"Ultra Game Boy’s NBA Premium Quality Teamster Hoodie Sweatshirt",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D1CTMR7L"},
 {t:"Tommy Hilfiger Boys Straight Fit 5-Pocket Stretch Denim Jean",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B06XB5X7SJ"},
 {t:"Stanley J5C09D 1200 Peak Amp Jump Starter with 120 PSI Inflator",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B07QS5NFMY"},
