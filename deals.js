@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Derek Lam 10 Crosby - Blackout- 1.7 Oz Eau De Parfum - Fragrance Mist For Women - Woody And Floral Scent -",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B01MYDEK74"},
+{t:"Secret Clinical Antiperspirant Deodorant for Women, Completely Clean 2.6 oz",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B00HF3XSO0"},
+{t:"Unisex-Baby 2-pack Cute Print Bodysuit, Soft Bamboo Rayon",c:"Baby",e:"👶",n:"50% off with code LCF11Y60",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GFHR67KT"},
+{t:"Kids Preferred How to Train Your Dragon 4 Pc Cuteeze Set - 6 Inch Hiccup, Toothless, Astrid, & Light Fury",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F3BCR6KK"},
 {t:"PAW Patrol Apple Berry Smoothie Pops",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DK9VJWK1"},
 {t:"Inflatable Travel Pillow - Travel Pillow for Long Flight, Inflatable Neck Pillow for Traveling, Pocket Blow",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F5HCK9FN"},
 {t:"American Girl Special Edition Modern Era Collection,dy Walker, 14.5-inch Doll, Historical Characters, Ages 8+",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FK11TZ3B"},
