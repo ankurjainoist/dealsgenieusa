@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lockly Secure Pro Wi-Fi Deadbolt Smart Lock Latest Version with Fingerprint",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DPMV48KP"},
+{t:"Amazon Echo Dot Kids, Smart speaker to enjoy age-appropriate audiobooks, sleep routines and Alexa+",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FD4435WL"},
+{t:"Vera Bradley Womens Featherweight Large Bancroft Backpack, Withered Rose",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FBBY6RK7"},
+{t:"Cuisinart Air Fryer Toaster Oven Combo, Countertop, 7-in-1",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GVVJZDQV"},
+{t:"9 Area Rug Living Room: Abstract Washable Carpet Brown Black",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DYY29BNX"},
 {t:"Yalin Set of 6 Unbreakable 12 oz Acrylic Plastic Wine and Water Tumbler Stackable Goblets. (Yellow, 12 oz)",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DTDW2LWG"},
 {t:"Wenrine Women Striped Sweater Dress Fall Zip Up Long Knit Cardigan Sweaters",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H74JMH3N"},
 {t:"Urban Decay Naked2 Basics Matte Eyeshadow Palette - 6 Cool Neutral Shadows",c:"Home",e:"🏠",n:"Coupon: 50% off",dt:"Nov 19",l:"https://www.amazon.com/dp/B07LBLK57Q"},
