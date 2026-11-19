@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fossil Mens Nate Quartz Chronograph Watch for Men",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B00NVAWTLY",img:"img/B00NVAWTLY.jpg"},
 {t:"MERACH CV30 Pro Curved Vibration Plate Exercise Machine, Powerful & Quiet",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D4QXFW1L",img:"img/B0D4QXFW1L.jpg"},
 {t:"60W Fast Chargers (2-Pack)",c:"Electronics",e:"🔌",n:"Use code 0L7OJ400",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GVDYYTMK",img:"img/B0GVDYYTMK.jpg"},
 {t:"Estée Laudervanced Night Repair Face Serum Synchronized Multi-Recovery Complex with Hyaluronic Acid &",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B08DHQCGH9",img:"img/B08DHQCGH9.jpg"},
