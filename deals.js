@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"FUNID Mahjongvent Calendars",c:"Home",e:"🏠",n:"Use code M3TRLMSE",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HDHVJR8Q",img:"img/B0HDHVJR8Q.jpg"},
 {t:"KitchenAid Artisan Mini, 3.5-Qt Tilt Head Stand Mixer, White",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B01HKAUHO6"},
 {t:"Ring Pan-Tilt Indoor Cam 2K (newest model), White",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GZLRN1ST"},
 {t:"Kids Press-On Nail Art Kits",c:"Beauty",e:"💄",n:"Use code LGVQIN3G",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HJ1X7SVS"},
