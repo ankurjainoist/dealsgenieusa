@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hello Kitty Islandventures",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJYHNRRY"},
+{t:"Resident Evil 2 (PS5)",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DKW2H52M"},
+{t:"Sonic Superstars Nintendo Switch Games",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B0C91MLPNG"},
 {t:"HORI Nintendo Switch HORIPAD Turbo (The Legend of Zelda) Ergonomic Wired Controller Pad",c:"Games",e:"🎮",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CBNB6CKS"},
 {t:"Women’s Oversized Sweaters Crewneck Cable Knit Pullover",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F53PVCM1"},
 {t:"Ninja French Door Premier Air Fry Oven, 10-in-1, 20.3 Qt, Stainless, FO101",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FM5KF34G"},
