@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"STAUB Cast Iron Dutch Oven 4-qt Round Cocotte, Made in France, Serves 3-4, Cherry",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B003G65YQ0"},
+{t:"Sunscreen SPF 50 Lotion",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H9RQ8L8N"},
 {t:"Drunk Elephant C-Firma Fresh Day Serum - 28 ml/.94 fl oz - 15% Illuminating Vitamin C - Clean Clinical",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B09B4B1ZJQ"},
 {t:"Mattel Jurassic World Rebirth Tyrannosaurus Rex Dinosaur Playset",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DB3LRJL1"},
 {t:"Talking Alphabet Wall Charts",c:"Home",e:"🏠",n:"Use code 2VO3TX56",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HRTSTX2G"},
