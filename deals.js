@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bio Ionic Curling Irons",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B01J248HWM"},
+{t:"Waffle Bath Mat Beige 36 inx24 in, Boho Woven Modern Bath Mat Rugs, Absorbent Non Slip Bathroom Rugs, Soft",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DH7T19C9"},
+{t:"Real Techniques Miracle Complexion Sponge, 4 Pack, Makeup Blending Sponges",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B01JINOV5E"},
+{t:"Melissa & Doug Giant Elephants",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B000NV6D16"},
+{t:"YouTheFan NFL Spirit Series 3-Piece BBQ Set",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B071CYL4GP"},
 {t:"Barefoot Dreams CozyChic Barefoot in the Wild Throw, Cream-Stone, 54”x72”",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B01LY6JN8K"},
 {t:"TIRTIR Mask Fit Ai Filter Cushion Foundation, AI-Like Semi-Matte Finish - Up to 72-Hour Medium to Full",c:"Beauty",e:"💄",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FH5TM12N"},
 {t:"Nautica Men’s Soft Woven 100% Cotton Elastic Waistband Sleep Pajama Pant",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B07HNV1B37"},
