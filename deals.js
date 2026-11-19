@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ultra Game Boy’s NBA Premium Quality Teamster Hoodie Sweatshirt",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D1CTMR7L"},
+{t:"Tommy Hilfiger Boys Straight Fit 5-Pocket Stretch Denim Jean",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B06XB5X7SJ"},
+{t:"Stanley J5C09D 1200 Peak Amp Jump Starter with 120 PSI Inflator",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B07QS5NFMY"},
+{t:"SUUKSESS 2 Piece Workout Sets for Women Twist Back Cami Bike Short",c:"Fashion",e:"👗",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GWCQS6V2"},
+{t:"Orthopedic Dog Bed for XX-Large Dogs, 44 x 34 Inch, Dark Green",c:"Pets",e:"🐾",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D44C4CCD"},
 {t:"Kivtrer Tuxedo Cat Building Sets",c:"Pets",e:"🐾",n:"50% off with code 5SDQ4Z09",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H28WYRR2"},
 {t:"Tytan Magnetic Tiles 100 Piece Playset S1 by ZURU",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G36MKRMD"},
 {t:"BELLA BREW 14 Cup Auto Pour Over Coffee Maker, Slate",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G4T633K3"},
