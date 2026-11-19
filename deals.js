@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Shintenchi 3 Pieces Patio Bistro Sets, Outdoor Textilene Fabric Conversation Bistro Set, Textilene Fabric",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D26395Q9"},
+{t:"FATONE Hi-Vis Reflective Hoodies",c:"Fashion",e:"👗",n:"40% off with code M88QYMXD",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FH9LZVVT"},
+{t:"Essential Beatrix Potter Storytime Collection: The Original Classics Featuring Peter Rabbit and His Famous",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/1510780947"},
 {t:"Size 13 little kid",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FJHM9CKV"},
 {t:"Cuisinart, 11-Pcvantage Ceramic Nonstick Set, 55C-11BK",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GFB17GVM"},
 {t:"Super7 Reaction Figure Gremlins 2 Mohawk - 3.75 in Action Figure",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F6968L43"},
