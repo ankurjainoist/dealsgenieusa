@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Turtle Fishing Statue for Koi Pond, Resin Tortoise with Rod and Fish",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DGL62Z6Y"},
+{t:"Grace & Stella Under Eye Patches",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CYCFRZKD"},
+{t:"Shark FacialPro Glow Facial Devices",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FMT8YXM5"},
+{t:"Moonlite Storytime Starter Set: Projector and 4 Disney Winnie Pooh Stories",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0BSP148HH"},
 {t:"Pretty Jolly Boho Pampas Wall Decor Black Metal Wall-Mounted Art",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DG5MCNF9"},
 {t:"Anastasia Beverly Hills - Lip Liner Precision Matte Long-Lasting Pencil",c:"Kids",e:"🎨",dt:"Nov 19",l:"https://www.amazon.com/dp/B09S1DFF22"},
 {t:"Ontel Organizer Storage Case & Tester, Holds 180, Charcoal",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0DVD5R3BW"},
