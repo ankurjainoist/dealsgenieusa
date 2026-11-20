@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"SunnyMelody Womens Christmas",c:"Fashion",e:"🎄",n:"Use code 8XL7IA4V",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FSRNS21M"},
+{t:"Vitamix Propel Series 750 Professional-Grade Blender, 4 Programs, Red",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C8PH9Z2H"},
+{t:"Red Light Therapy Mat for Body",c:"Health",e:"💊",n:"Use code 1ROCEWWO",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4ZP7FW6"},
+{t:"KastKing Vertical Fishing Rod Holder, 5.5 lb Capacity",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G7BVQ94F"},
+{t:"JBL Clip 5 - Ultra-Portable Waterproof Speaker - Purple",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CTNX1VK2"},
 {t:"Jartoo Baby Monitor Floor Stand with Hidden Cord",c:"Baby",e:"👶",n:"Use code JTFS1120",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GX1N1V5Z"},
 {t:"Sweeper Mop with 36 Refills",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CXXN14R9"},
 {t:"3 in 1 Wireless Charging Station for Apple",c:"Home",e:"🏠",n:"Use code OWWLX9PH",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HRZZ7VVS"},
