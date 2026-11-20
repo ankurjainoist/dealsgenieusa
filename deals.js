@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"My Hero Academia Midoriya Plushes",c:"Home",e:"🏠",n:"Clip the 46% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B07KS3HH1D"},
+{t:"PlayStation5 Digital Edition – 825GB Console DualSense Wireless Controller Bundle",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GWKBVLK2"},
+{t:"Bikini Trimmer for Women",c:"Beauty",e:"💄",n:"50% off with code B0GYP6YDGC",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GYP6YDGC"},
+{t:"Barrel Blow Dryer Brush",c:"Home",e:"🏠",n:"40% off with code L2HXE2T8",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H1RB5GZX"},
+{t:"Christmas Refrigerator Handle Covers",c:"Home",e:"🎄",n:"50% off with code 64ZPMKXR",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HRVJ1325"},
 {t:"DJI Osmo Pocket 3 Creator Combo, Vlogging Camera With 1 CMOS & 4K/120fps",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CG19FGQ5"},
 {t:"Oura Ring 5 Smart Ring",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GRJZX1D8"},
 {t:"Color Nymph Makeup Kit for Teen Girls Make up Palette with Lip Gloss Pink",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6DB2GM3"},
