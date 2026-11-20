@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Armani Beauty Si Eau de Parfum - Sweet Aromatic Rose Perfume for Women",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B00G3C2FOI"},
+{t:"Monster Truck Playsets",c:"Auto",e:"🚗",n:"Use code 1AWVR0KS",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HBVTM8GW"},
+{t:"Armani Beauty Acqua di Gioia Eau de Parfum Intense - Floral Womens Perfume",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DBMNDCS9"},
+{t:"Ruiot Stuffed Animal Storage Organizers",c:"Home",e:"🏠",n:"Use code 06AACL8X",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HQ9YJWVR"},
+{t:"Eagle Peak Pop Up Canopies",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B07NYXYC8X"},
 {t:"Grill Cleaning Brushes",c:"Kitchen",e:"🍳",n:"Use code SCIOTVRF",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DYD1CZMB"},
 {t:"LOL Surprise 5 Piece Storage Set with Collapsible Trunk, 3 Cubes and Pop Up Hamper",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B07TGMBZX7"},
 {t:"GOOLOO G7 Jump Starters",c:"Home",e:"🏠",n:"Use code FMXNYWOV",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FMRDXDLM"},
