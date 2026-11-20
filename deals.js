@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Winter Beanie Sets",c:"Home",e:"🏠",n:"Use code 5S59Q1GM",dt:"Nov 20",l:"https://www.amazon.com/dp/B07JQ7CN61"},
+{t:"Alice in Wonderland 55-Well Face Palette, Eyeshadow, Ages 13+",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FKFW9C33"},
+{t:"Knorr Chicken Granulated Bouillon Powder 32 oz, Caldo de Pollo, Soups, 3PK",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B08TMBJMQ6"},
+{t:"6 Outlet Power Strips",c:"Electronics",e:"🔌",n:"Use code M6MY2R0H",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FVL22KR7"},
 {t:"OfficeGoods Stainless Steel Scissors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0891X7Q2W"},
 {t:"Memory Foam Moccasin Slippers",c:"Fashion",e:"👗",n:"Use code RFWIJK97",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FHHCXW95"},
 {t:"Fuzzy Christmas Tree Centerpieces",c:"Home",e:"🎄",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GY8QV6T3"},
