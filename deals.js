@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Mattel Disney Descendants: The Rise of Red Fashion Doll & Accessory Uliana, Younger Sister of Ursula with",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CMGXCC5T"},
+{t:"Karaoke Machines with Wireless Microphones",c:"Home",e:"🏠",n:"48% off with code 485WOQ5Z",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HD2NV95W"},
 {t:"LAURA GELLER Gellers Greatest Magic Moment Face & Eye Palette",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FP346W6X"},
 {t:"Radio Flyer Scan & Sort Shopping Cart, for Kids 1+, Red, for Indoor Play",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CDM8NGZH"},
 {t:"A Little Bit of Mario 10-Piece Skincare Kit – Vitamin C Serum, Glycolic Acid Toner, Hyaluronic Dew Cream",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F6VCFZY2"},
