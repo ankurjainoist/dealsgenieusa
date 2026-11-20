@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"medicube Rosemary PDRN Leave in Conditioner Spray, Do-It-All Detangler",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H8FC5TZ6"},
+{t:"Dixie Ultra Large Paper Plates 10 Inch, Heavy Duty Disposable Plates, 172ct",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B099BWGZBP"},
+{t:"medicube Rosemary PDRN Silk Hair Oil, Lightweight Glass Oil &ds Shine",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H71K75Q9"},
+{t:"Collapsible Water Tanks",c:"Home",e:"🏠",n:"Use code R8TYDC63",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HQNZ2QLY"},
 {t:"Beats Studio Buds+ Earbuds, 36H Battery, Noise Cancelling",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C2WD567R"},
 {t:"JBL Tune Flex - True Wireless Noise Cancelling Earbuds",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C1QDR7HP"},
 {t:"Mayfan 4K Fiber Optic HDMI Cables",c:"Electronics",e:"🔌",n:"50% off with code TG3Y2JFK",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D66WJQ8T"},
