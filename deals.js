@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Electric Food Warming Mats",c:"Home",e:"🏠",n:"45% off with code CVZFLVF0",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HCY3DD3H"},
+{t:"Balsam Hill 7.5 ft Unlit Classic Blue Spruce - Artificial Christmas Tree with 2,960+ Tips, Premium Stand &",c:"Home",e:"🎄",dt:"Nov 20",l:"https://www.amazon.com/dp/B002PF3P5U"},
+{t:"Mooas Crystal Mag-safe Charging Stands",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DF7K82N4"},
+{t:"Orgain 30g High Protein Dairy Shake, 5g BCAAs, Variety Pack, 11 oz, 12 PK",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FY7V7X3K"},
+{t:"Subscribe and save",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F4DRRDXN"},
 {t:"Pantene Shampoo & Conditioner Set, Daily Moisture Renewal",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B09GV3RGW2"},
 {t:"TELFAR Small Shopping Bag, Unisex Compact Mini Tote",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DHW7KC54"},
 {t:"Minetom Curtain Lights, 300 LED Dimmable Twinkle Fairy Lights, 8 Modes",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CYLKRRQX"},
