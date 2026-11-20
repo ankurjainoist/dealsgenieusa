@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Govee Permanent Outdoor Lights Pro, 200ft with 120 RGBIC LED Lights, Black",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DX1XLCZW"},
+{t:"TAO Clean Sonic Toothbrush and UV Cleaning Station, Black",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B07DNRMDWL"},
+{t:"Wyze Pan Security Cameras",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0BWSPP9HH"},
+{t:"Cricut Explore 5 Deluxe Bundles",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GS9S3HDQ"},
+{t:"Nissan Door Sill Protectors",c:"Home",e:"🏠",n:"Use code 1IWBUUA2",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HMLDKJ9C"},
 {t:"Toniebox 2 Audio Player Speaker Bundle for Kids",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H53CZJDL"},
 {t:"Brite Star Chasing Light Sets",c:"Home",e:"🏠",n:"Clip the 45% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B00GTPW2BK"},
 {t:"Klein Tools FRCLVST2 Flame-Resistant Cooling Vest, One Size Fits Most",c:"Tools",e:"🔧",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GLKG4MYK"},
