@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Metallic Pink",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FHLPS8ZF"},
+{t:"TIRTIR Mask Fit Red Cushion Foundation",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D2L39Y4P"},
+{t:"Heysam Titanium Ceramic Flat Iron Hair Straightener1.6 Inch, Dual Voltage Hair Straightening and Curler 2 in",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FGTXQN21"},
+{t:"Little Tikes Huge Inflatable Backyard Soccer & Basketball Court for Multiple Kids, Blower with GFCI Plug",c:"Kids",e:"🎨",dt:"Nov 20",l:"https://www.amazon.com/dp/B08L72DR2F"},
 {t:"BOSS Mens Contrast Logo Knit Hat",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F61XB2SL"},
 {t:"Ratchet & Clank: Rift Apart - PlayStation 5",c:"Games",e:"🎮",dt:"Nov 20",l:"https://www.amazon.com/dp/B095T8C99C"},
 {t:"Mattel Disney Frozen Anna & Elsa Slumber Sister Set of 2 Fashion Dolls",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G44PTJH5"},
