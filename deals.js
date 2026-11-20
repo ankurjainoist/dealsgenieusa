@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Charlotte Tilbury Hollywood Beauty Wonderlandvent Calendar, 15-Piece Makeup & Skincare Holiday Beauty Gift Set",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4S1M9F2"},
+{t:"NEW Nano Tape Bubble Kit for Kids, 2 Luminous & 4 Glitter Nano Tapes, DIY Squishy Maker Making Kit With",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GY4BGTSV"},
+{t:"Magnetic Tiles Learn Letters Magnetic Building Blocks",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GZN2J5DR"},
+{t:"Mini Folding Soccer Goal Set for Kids",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F2YGMT22"},
 {t:"Stens PTO Bearings",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B08KTKF4BR"},
 {t:"Loungefly Disney Princess Stained Glass: Sleeping Beauty Mini-Backpack, Amazon Exclusive",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CFGF9BMX"},
 {t:"X-TIGER Polarized Youth Baseball Sunglasses",c:"Home",e:"🏠",n:"50% off with code HEPWHOBS",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CM3Q2V1S"},
