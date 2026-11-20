@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"The Grinch 2: Saving Christmas (Nintendo Switch)",c:"Games",e:"🎄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GV123FTN"},
+{t:"SOUR PATCH KIDS Coal Black Raspberry Soft & Chewy Holiday Candy, 12 Boxes",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B0925HTYMP"},
+{t:"Bella 6qt Slim Air Fryers",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DPNJKMPX"},
+{t:"Personalized Name Teddy Fleece Keyhole Scarf",c:"Home",e:"🏠",n:"49% off with code 68QZCZNE",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HRJJKS7T"},
+{t:"JBL Clip 5 Bluetooth Speakers",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CTP56C5R"},
 {t:"Handheld Flashlights Emergency Torches Portable Searchlight Work Light",c:"Home",e:"🏠",n:"50% off with code KLN463R2",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HRZW5J92"},
 {t:"Purple Whitening Strips, Long-Lasting Results, Enamel Safe & Low-Sensitivity",c:"Home",e:"🏠",n:"48% off with code GXI6VDQC",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FWC65QCN"},
 {t:"Upper Arm Blood Pressure Monitors",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FGNMRP3M"},
