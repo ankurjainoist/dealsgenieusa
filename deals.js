@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Jazwares Pokemon Battle Action Pikachu",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G1TXLQYY"},
+{t:"JMUQ 120Pcs Artificial Marigold Flowers, 2inch Silk Marigolds with Stems, Orange Artificial Flowers for",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DB5GKXBM"},
+{t:"LEGO Animal Crossing Creative HoUses: Seasons of Fun 77057",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DRW4RCV5"},
+{t:"Cool Maker Hollywood Hair Amazon Exclusive Extension Maker, Ages 7+",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B084BMXHLL"},
+{t:"3 in 1 Wireless Charging Stations",c:"Home",e:"🏠",n:"50% off with code M9ARYKVQ",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CKXFCVSL"},
 {t:"Pre-Dried PLA Basic, 8x250g Bundle for Bambu Lab 3D Printers",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GHYDJCH9"},
 {t:"Samsung Galaxy Tab A11+ 8GB RAM, 256GB Storage, Large Display, Silver",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FVXLPWHM"},
 {t:"Cheez-It, Baked Snack Cheese Crackers, Variety Pack, Original, White Cheddar, Cheddar Jack, 12.1oz (4 Count)",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B00T6HBSR2"},
