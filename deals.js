@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Tupperware Heritage Vintage Pastel Containers",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0BZ7QFGLF"},
+{t:"Dreame D30 Ultra Robot Vacuums",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GQSDKJ39"},
+{t:"Funko Pokmon Bitty Pop Figures",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DJRZHPF9"},
+{t:"Shark FacialPro Glow Facial Devices",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4RTZZ2S"},
 {t:"Signature Design by Ashley Hybrid Queen Mattress in a Box, 12 Inch",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HFZ3MHGG"},
 {t:"Braun MultiQuick 73-in-1 Immersion Blender & Food Processor",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B085FRKBMF"},
 {t:"TIOBOHEM Fence Wire Tighteners",c:"Home",e:"🏠",n:"Use code WIWKSLC1",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H73N8LJ6"},
