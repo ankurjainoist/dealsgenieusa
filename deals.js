@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"KOOPER Solar Christmas Pathway Lights",c:"Home",e:"🎄",n:"Use code N576TF7B",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HBV2J8SS",img:"img/B0HBV2J8SS.jpg"},
 {t:"Tupperware Heritage Vintage Pastel Containers",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0BZ7QFGLF"},
 {t:"Dreame D30 Ultra Robot Vacuums",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GQSDKJ39"},
 {t:"Funko Pokmon Bitty Pop Figures",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DJRZHPF9"},
