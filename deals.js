@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Walking Pad Treadmill for Home - Under Desk Treadmills",c:"Home",e:"🏠",n:"50% off with code 5K2LGZRD (works on Solid White)",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6JKLT26"},
+{t:"24V 10Ah Kids Tractor with Trailer & Remote Control",c:"Kids",e:"🎨",n:"50% off with code BNS33T77",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HKH7S9J1"},
+{t:"YAMATIC Pressure Washer Hoses",c:"Home",e:"🏠",n:"Use code YOSAKCN1",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6J9SFPY"},
+{t:"Lightdot 66IN Dimmable Floor Lamp 3-Lights Vintage Floor Lamps with Pebble Shade& Warm White Bulbs for",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G5N1JWD4"},
+{t:"Retro Phone Handsets (Red)",c:"Home",e:"🏠",n:"41% off with code F4Y4VFTA",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HR64S42V"},
 {t:"Tankini Swimsuits for Women Bathing Suit High Waisted Bikini Sets",c:"Fashion",e:"👗",n:"50% off with code MYY60UJI",dt:"Nov 20",l:"https://www.amazon.com/dp/B0982TCXR2"},
 {t:"28 in/30 in/32 in/34 in Inseam Womens Yoga Pants with Pockets",c:"Fashion",e:"👗",n:"44% off with code 7SGWU7D6",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DJQC1X18"},
 {t:"Womens Yoga Pants with Pockets Flare Leggings",c:"Fashion",e:"👗",n:"40% off with code CBCZTNZ7",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CBVDQ1YJ"},
