@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"check all",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FKGM8R88"},
+{t:"Disney Princess Nail Polish Set, 15-Piece Peel-Off with Toe Space",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B01N2T7W6T"},
 {t:"BUNMO Stretchy Noodles, Fun Funny Stocking Stuffersults Men, Smooth 6pk",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B07L8G1L52"},
 {t:"MARYRUTHS Liquid Multivitamin + Hair Growth, Clinically Thicker Hair, 30oz",c:"Beauty",e:"💄",n:"Use code JANSSENB",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DQLVWK6L"},
 {t:"FPV Drones with Controller Screen",c:"Home",e:"🏠",n:"Use code D2CZSDHW",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HHQX938G"},
