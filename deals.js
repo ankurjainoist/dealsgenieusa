@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pre-Dried PLA Basic, 8x250g Bundle for Bambu Lab 3D Printers",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GHYDJCH9"},
+{t:"Samsung Galaxy Tab A11+ 8GB RAM, 256GB Storage, Large Display, Silver",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FVXLPWHM"},
+{t:"Cheez-It, Baked Snack Cheese Crackers, Variety Pack, Original, White Cheddar, Cheddar Jack, 12.1oz (4 Count)",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B00T6HBSR2"},
 {t:"Melissa & Doug Flip & Fry Grill Play Set with Water Wow! Kids Kitchen Playset with Color Changing Play Food",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DL7ZJ8PF"},
 {t:"Zak Designs Gabbys DollhoUse Sage 16oz Leak-Proof Straw Kids Water Bottle",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DMDRRV2D"},
 {t:"PETPHABET Chicken Wrapped Sweet Potato Apple Dog Treats, 14oz",c:"Pets",e:"🐾",n:"Subscribe & Save available",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G4QVQ1YV"},
