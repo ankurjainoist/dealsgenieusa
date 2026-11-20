@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dr. Jart+ Cicapair Soothing Korean Color Correcting Treatment SPF 30 with Centella Asiatica, Redness",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F8PKCTVS"},
+{t:"DR. MORITZ Ashwagandha Gummies for Calm, Relaxation, and Immune Support - Ashwagandha for Women and Men -",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DFQFDQCM"},
 {t:"Amazon business account",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G3RB8FST"},
 {t:"Wonlink WiFi Range Extenders",c:"Electronics",e:"🔌",n:"40% off with code LW4RPBMN",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G23QZ532"},
 {t:"Sesame Street Elmo’s Sesame Snacks Vending Machine Toy by Just Play",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FX5FL88W"},
