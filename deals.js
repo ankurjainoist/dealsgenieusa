@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Handheld Flashlights Emergency Torches Portable Searchlight Work Light",c:"Home",e:"🏠",n:"50% off with code KLN463R2",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HRZW5J92"},
+{t:"Purple Whitening Strips, Long-Lasting Results, Enamel Safe & Low-Sensitivity",c:"Home",e:"🏠",n:"48% off with code GXI6VDQC",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FWC65QCN"},
+{t:"Upper Arm Blood Pressure Monitors",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FGNMRP3M"},
+{t:"Custom Pet Photo Pajamas – Personalized for Men & Women",c:"Pets",e:"🐾",n:"50% off with code JQLK3AR0",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FZWB7XQR"},
+{t:"Vacuum Steamer for Clothes, Handheld Clothes Steamer & Iron 3 in 1",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HJ5NWKB3"},
 {t:"Govee Permanent Outdoor Lights Pro, 200ft with 120 RGBIC LED Lights, Black",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DX1XLCZW"},
 {t:"TAO Clean Sonic Toothbrush and UV Cleaning Station, Black",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B07DNRMDWL"},
 {t:"Wyze Pan Security Cameras",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0BWSPP9HH"},
