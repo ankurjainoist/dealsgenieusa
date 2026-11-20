@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pantene Shampoo & Conditioner Set, Daily Moisture Renewal",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B09GV3RGW2"},
+{t:"TELFAR Small Shopping Bag, Unisex Compact Mini Tote",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DHW7KC54"},
+{t:"Minetom Curtain Lights, 300 LED Dimmable Twinkle Fairy Lights, 8 Modes",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CYLKRRQX"},
 {t:"40W USB-C iPhone Chargers",c:"Electronics",e:"🔌",n:"Use code QUXD8AXO",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FVXW7JRV"},
 {t:"INFANS Modular Kids Play Couch, 8 PCS Toddler Creative Sectional Fort Building Sofa for Playroom",c:"Baby",e:"👶",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F4BZKMSY"},
 {t:"Canon EOS R100 Mirrorless Camera RF-S18-45mm F4.5-6.3 IS STM Lens Kit",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C5PGRP7V"},
