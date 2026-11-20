@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ultra Slim 10000mAh Power Banks",c:"Home",e:"🏠",n:"50% off with code 26FH3QZT",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CX8FY36L"},
+{t:"Lymphatic Drainage Massager, Anti Cellulite Massage Tool",c:"Tools",e:"🔧",n:"50% off with code 9U877UAG",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H9Q2QZL9"},
+{t:"Solar Bug Zapper Outdoor Waterproof, Electric Mosquitoes Zapper",c:"Home",e:"🏠",n:"50% off with code OJL7EP9K",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CSSLBN3H"},
+{t:"2PCS 9FT Christmas Cedar Garland, Real Touch Layered Greenery Garland",c:"Home",e:"🎄",n:"40% off with code CZK0SPMD (works on 92pc Standard)",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HGG9ZG3W"},
+{t:"FKPCAM 4K Trail Cameras",c:"Electronics",e:"🔌",n:"Use code FL138DWQ",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HML625SC"},
 {t:"ESR HaloLock Magsafe Chargers",c:"Electronics",e:"🔌",n:"Use code HAQZKPZ8",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DHZ8NG6D"},
 {t:"Wavytalk Thermal Brush 1.5″ Heated Round Brush for Air-free Blowout Look",c:"Home",e:"🏠",n:"60% off with code B9V12B4C",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CQSNXLJR"},
 {t:"OBDResource Battery Load Testers",c:"Electronics",e:"🔌",n:"50% off with code G3ORF7CF",dt:"Nov 20",l:"https://www.amazon.com/dp/B08YD9MMLN"},
