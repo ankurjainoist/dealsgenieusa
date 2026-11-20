@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Messy Bun Hair Pieces",c:"Beauty",e:"💄",n:"Clip the 41% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HDMVF9CL"},
+{t:"Nutella Creamy Hazelnut Spread with Cocoa, 0.88 oz",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B08XZB944W"},
+{t:"Cooling Comforter, Cooling Blankets for Hot Sleepers & Night Sweats, Arc-Chill Q-Max > 0.5 Breathable Ice",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FCG7XH31"},
+{t:"King Size Pillows Set of 2 for Side and Back Sleepers",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DXFFK3KR"},
+{t:"Gelvin King Size Mattress, 14 Inch Hybrid King Mattress, Motion Isolation",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GT7GZ5TZ"},
 {t:"Armani Beauty Si Eau de Parfum - Sweet Aromatic Rose Perfume for Women",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B00G3C2FOI"},
 {t:"Monster Truck Playsets",c:"Auto",e:"🚗",n:"Use code 1AWVR0KS",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HBVTM8GW"},
 {t:"Armani Beauty Acqua di Gioia Eau de Parfum Intense - Floral Womens Perfume",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DBMNDCS9"},
