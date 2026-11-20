@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"RITZ Bits Peanut Butter Sandwich Crackers 12 Bags",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B00R7BUI3Y"},
+{t:"Purex Crystals In-Wash Scent Booster, Fresh Mountain Breeze, 21 oz, 4-Pack",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C2X67JK8"},
+{t:"Nabisco Cookies Variety Pack 40 ct",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DKH1H2Q6"},
+{t:"TIGI Bed Head Hard Head Hair Spray – Extra Strong Hold for All Day Style and All Hair Types, 11.7 oz",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B08X976H6W"},
+{t:"Sour Jacks Sour Gummy Wedges Variety Pack 75 Ct",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FF5JVHKP"},
 {t:"SunnyMelody Womens Christmas",c:"Fashion",e:"🎄",n:"Use code 8XL7IA4V",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FSRNS21M"},
 {t:"Vitamix Propel Series 750 Professional-Grade Blender, 4 Programs, Red",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C8PH9Z2H"},
 {t:"Red Light Therapy Mat for Body",c:"Health",e:"💊",n:"Use code 1ROCEWWO",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4ZP7FW6"},
