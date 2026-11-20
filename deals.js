@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wonlink WiFi Range Extenders",c:"Electronics",e:"🔌",n:"40% off with code LW4RPBMN",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G23QZ532"},
+{t:"Sesame Street Elmo’s Sesame Snacks Vending Machine Toy by Just Play",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FX5FL88W"},
+{t:"UGG Womens Classic Micro",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DPRGB27N"},
+{t:"Suave Milk and Honey Body Wash, Glycerin, Moisturizing, 18 Oz, Pack of 6",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FNNGZLJ7"},
+{t:"Verdusa Womens Halter Mini Dress Ruched Draped Deep V Neck Tie Backless Bodycon Dresses",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4K546KL"},
 {t:"2 Pcs 23.6 in Christmas Teardrop Swag for Front Door Brown Bow Bells",c:"Home",e:"🎄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HC3LNTG2"},
 {t:"Igloo Disney Insulated Tumbler, Stainless Steel Travel Mug",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FH7C4N4G"},
 {t:"Electric Nail Drills (Purple)",c:"Tools",e:"🔧",n:"Use code EBCR2TG3",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FQMKDGKL"},
