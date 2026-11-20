@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"2 Pcs 23.6 in Christmas Teardrop Swag for Front Door Brown Bow Bells",c:"Home",e:"🎄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HC3LNTG2"},
+{t:"Igloo Disney Insulated Tumbler, Stainless Steel Travel Mug",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FH7C4N4G"},
 {t:"Electric Nail Drills (Purple)",c:"Tools",e:"🔧",n:"Use code EBCR2TG3",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FQMKDGKL"},
 {t:"Plum Play Kids Outdoor Water Slide Play Equipment - with Built-in Toy Sprinklers, Backyard Waterpark with",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CW64W51W"},
 {t:"Nillkin Galaxy S25 Ultra Cases",c:"Home",e:"🏠",n:"Use code NWEASCU8",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DNLWS93J"},
