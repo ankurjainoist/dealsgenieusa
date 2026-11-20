@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Laundry Hamper with Lid,150L Rolling Laundry Basket",c:"Home",e:"🏠",n:"Use code L73WCD46",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GS9814W3",img:"img/B0GS9814W3.jpg"},
 {t:"Hasbro Gaming Jenga Wooden Blocks Stacking Tumbling Tower Game",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B000GBA60W",img:"img/B000GBA60W.jpg"},
 {t:"STANLEY Halloween Quencher H2.0 Flow State Tumbler, 20 oz, Black Magic",c:"Home",e:"🎃",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HF2NGLQ1",img:"img/B0HF2NGLQ1.jpg"},
 {t:"YETI Rambler 8 oz Travel Bottle - Stainless Steel, Stag Red",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H9M99R7Y",img:"img/B0H9M99R7Y.jpg"},
