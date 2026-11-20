@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Beats Studio Buds+ Earbuds, 36H Battery, Noise Cancelling",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C2WD567R"},
+{t:"JBL Tune Flex - True Wireless Noise Cancelling Earbuds",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C1QDR7HP"},
+{t:"Mayfan 4K Fiber Optic HDMI Cables",c:"Electronics",e:"🔌",n:"50% off with code TG3Y2JFK",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D66WJQ8T"},
 {t:"My Hero Academia Midoriya Plushes",c:"Home",e:"🏠",n:"Clip the 46% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B07KS3HH1D"},
 {t:"PlayStation5 Digital Edition – 825GB Console DualSense Wireless Controller Bundle",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GWKBVLK2"},
 {t:"Bikini Trimmer for Women",c:"Beauty",e:"💄",n:"50% off with code B0GYP6YDGC",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GYP6YDGC"},
