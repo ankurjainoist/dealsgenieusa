@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"OKOENIEO H7 Halogen Headlight Bulbs",c:"Home",e:"🏠",n:"Use code 52FUD64H",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GZNJWTRX"},
+{t:"5-Tier Bakers Racks",c:"Home",e:"🏠",n:"Use code 7QWHJGJT",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GLGX8BXR"},
+{t:"Torani Pumpkin Pie Flavored Drink Syrup, 25.4 fl oz, 4 Pack",c:"Home",e:"🎃",dt:"Nov 20",l:"https://www.amazon.com/dp/B00IRRJ734"},
+{t:"Insulated Water Bottles",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C4T9WJ57"},
+{t:"Custom Personalized Ballpoint Pens",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HN8BRX8H"},
 {t:"RITZ Bits Peanut Butter Sandwich Crackers 12 Bags",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B00R7BUI3Y"},
 {t:"Purex Crystals In-Wash Scent Booster, Fresh Mountain Breeze, 21 oz, 4-Pack",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C2X67JK8"},
 {t:"Nabisco Cookies Variety Pack 40 ct",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DKH1H2Q6"},
