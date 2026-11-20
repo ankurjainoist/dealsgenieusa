@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Oura Ring 5 Smart Rings",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GRK9KZ2P",img:"img/B0GRK9KZ2P.jpg"},
 {t:"Paw Patrol My First Instant Camera; Photo, selfie, and video functions",c:"Electronics",e:"🔌",dt:"Nov 19",l:"https://www.amazon.com/dp/B0CW283H4N",img:"img/B0CW283H4N.jpg"},
 {t:"Laundry Hamper with Lid,150L Rolling Laundry Basket",c:"Home",e:"🏠",n:"Use code L73WCD46",dt:"Nov 19",l:"https://www.amazon.com/dp/B0GS9814W3",img:"img/B0GS9814W3.jpg"},
 {t:"Hasbro Gaming Jenga Wooden Blocks Stacking Tumbling Tower Game",c:"Toys",e:"🧸",dt:"Nov 19",l:"https://www.amazon.com/dp/B000GBA60W",img:"img/B000GBA60W.jpg"},
