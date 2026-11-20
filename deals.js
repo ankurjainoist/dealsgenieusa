@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dyson V15 Detect Cordless Vacuum",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GXX8KQY7",img:"img/B0GXX8KQY7.jpg"},
 {t:"Heated Mattress Pad",c:"Home",e:"🏠",n:"60% off with code T80Z2W03 (works on Full, Queen, King and California King)",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GS9Q2F6B",img:"img/B0GS9Q2F6B.jpg"},
 {t:"O-Cedar EasyWring Microfiber Spin Mop & Bucket Floor Cleaning System + 3 Extra Refill",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B01MCVXNSG",img:"img/B01MCVXNSG.jpg"},
 {t:"4K Kids Digital Cameras",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4GPFJGW"},
