@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MARYRUTHS Kids Multivitamin Gummies, Sugar Free, 2 Month Supply, Ages 4+",c:"Kids",e:"🎨",dt:"Nov 20",l:"https://www.amazon.com/dp/B07WMX9N2D",img:"img/B07WMX9N2D.jpg"},
 {t:"Rubbermaid Brilliance BPA Free 44-Piece Food Storage Containers Set Airtight Leak-Proof with Lids for Meal",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B07X64Z8RM",img:"img/B07X64Z8RM.jpg"},
 {t:"Clear Waterproof Table Protectors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FMNNHPTX",img:"img/B0FMNNHPTX.jpg"},
 {t:"Michael Kors Women’s Romee Small Satchel",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F22TTB5M"},
