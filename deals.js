@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"4K Kids Digital Cameras",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4GPFJGW"},
+{t:"Comforter for Hot Sleepers, Queen",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G3P3W5MN"},
+{t:"Water-Resistant Thermal Touchscreen Gloves",c:"Fashion",e:"👗",n:"Use code LVHXHN7N",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HLZ9MSG5"},
 {t:"Walking Pad Treadmill for Home - Under Desk Treadmills",c:"Home",e:"🏠",n:"50% off with code 5K2LGZRD (works on Solid White)",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6JKLT26"},
 {t:"24V 10Ah Kids Tractor with Trailer & Remote Control",c:"Kids",e:"🎨",n:"50% off with code BNS33T77",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HKH7S9J1"},
 {t:"YAMATIC Pressure Washer Hoses",c:"Home",e:"🏠",n:"Use code YOSAKCN1",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6J9SFPY"},
