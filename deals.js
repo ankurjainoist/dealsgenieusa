@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Kitchen Rugs",c:"Kitchen",e:"🎄",n:"Use code IT7M6B6P",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HR4KH3J7"},
+{t:"Heated Blanket Throw, Fast Heating Electric Blanket",c:"Home",e:"🏠",n:"Use code D36DZ0W5",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6XZ2RX6"},
+{t:"Trendy Queen Womens Wide Leg Fleece Lined Sweatpants",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FBFM59G4"},
 {t:"Privacy Screen Fence, TOTU 5ft x 50ft",c:"Home",e:"🏠",dt:"Nov 19",l:"https://www.amazon.com/dp/B0G5WK2PW5",img:"img/B0G5WK2PW5.jpg"},
 {t:"Seventeen Quiz Books (Japanese)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 19",l:"https://www.amazon.com/dp/B0F431X5KT",img:"img/B0F431X5KT.jpg"},
 {t:"Filtered Rain Shower Head with Handheld Combo High Pressure 12 Rainfall Shower Heads",c:"Home",e:"🏠",n:"Use code 9KOZYYKY",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FZH463CQ",img:"img/B0FZH463CQ.jpg"},
