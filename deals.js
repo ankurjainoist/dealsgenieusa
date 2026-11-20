@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"ESR HaloLock Magsafe Chargers",c:"Electronics",e:"🔌",n:"Use code HAQZKPZ8",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DHZ8NG6D"},
+{t:"Wavytalk Thermal Brush 1.5″ Heated Round Brush for Air-free Blowout Look",c:"Home",e:"🏠",n:"60% off with code B9V12B4C",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CQSNXLJR"},
+{t:"OBDResource Battery Load Testers",c:"Electronics",e:"🔌",n:"50% off with code G3ORF7CF",dt:"Nov 20",l:"https://www.amazon.com/dp/B08YD9MMLN"},
+{t:"Kitchen Knife Set with Block 14-Piece Full Tang Stainless Steel Knives with Sharpener",c:"Kitchen",e:"🍳",n:"67% off with code NS5GQO1H",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DYP3J5BW"},
+{t:"Smart Watches for Women , Smartwatch Compatible For iPhone /Android/Samsung",c:"Electronics",e:"🔌",n:"70% off with code JEYAUWKJ",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HDS4M9J5"},
 {t:"The Grinch 2: Saving Christmas (Nintendo Switch)",c:"Games",e:"🎄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GV123FTN"},
 {t:"SOUR PATCH KIDS Coal Black Raspberry Soft & Chewy Holiday Candy, 12 Boxes",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B0925HTYMP"},
 {t:"Bella 6qt Slim Air Fryers",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DPNJKMPX"},
