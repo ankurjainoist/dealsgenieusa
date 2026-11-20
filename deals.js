@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wrangler Smart Spinner Luggage Sets",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B07SBKPDZ2"},
+{t:"9FT Christmas Cedar Garland",c:"Home",e:"🎄",n:"40% off with code YD3YFS34",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HHF7D31F"},
+{t:"TELFAR Large Shopping Bag, Unisex Faux Leather Oversized Tote, Dual Interior Pockets, Crossbody Strap",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DHW4JS6P"},
 {t:"9FT Christmas Garland",c:"Home",e:"🎄",n:"40% off with code YLL608UZ",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H7H4PZBV",img:"img/B0H7H4PZBV.jpg"},
 {t:"LEGO Polaroid OneStep Cameras",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CGY4H58V",img:"img/B0CGY4H58V.jpg"},
 {t:"HonestBaby Holiday Footed Pajamas",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DDZQXG8Q",img:"img/B0DDZQXG8Q.jpg"},
