@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"The Usbornevent Calendar Book Collection (Wheres the...)",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/1835404448"},
+{t:"Swarovski Constella Pierced Stud Earrings",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0B1F5ZYF7"},
+{t:"Swarovski Teddy Pendant Bear finish",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DY917PCT"},
 {t:"Mattel Disney Descendants: The Rise of Red Fashion Doll & Accessory Uliana, Younger Sister of Ursula with",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CMGXCC5T"},
 {t:"Karaoke Machines with Wireless Microphones",c:"Home",e:"🏠",n:"48% off with code 485WOQ5Z",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HD2NV95W"},
 {t:"LAURA GELLER Gellers Greatest Magic Moment Face & Eye Palette",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FP346W6X"},
