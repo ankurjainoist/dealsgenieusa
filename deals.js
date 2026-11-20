@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LEGO Polaroid OneStep Cameras",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CGY4H58V",img:"img/B0CGY4H58V.jpg"},
 {t:"HonestBaby Holiday Footed Pajamas",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DDZQXG8Q",img:"img/B0DDZQXG8Q.jpg"},
 {t:"Ankle Resistance Bands with Cuffs",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F8HX7GNC",img:"img/B0F8HX7GNC.jpg"},
 {t:"Little Tikes Story Dream Machines",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DMV143XN",img:"img/B0DMV143XN.jpg"},
