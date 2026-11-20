@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Signature Design by Ashley Hybrid Queen Mattress in a Box, 12 Inch",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HFZ3MHGG"},
+{t:"Braun MultiQuick 73-in-1 Immersion Blender & Food Processor",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B085FRKBMF"},
+{t:"TIOBOHEM Fence Wire Tighteners",c:"Home",e:"🏠",n:"Use code WIWKSLC1",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H73N8LJ6"},
+{t:"Voyager Kids 3-Wheel Scooter, Light-Up Wheels & Rear Brake, Ages 3+",c:"Kids",e:"🎨",dt:"Nov 20",l:"https://www.amazon.com/dp/B09MDMVQG5"},
+{t:"Samsung SSD 9100 PRO 2TB, PCIe 5.0x4 M.22280, Up to 14,700MB/s",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DX2DPJZ5"},
 {t:"QiQiCi Modern Bubble Hookahs",c:"Home",e:"🏠",n:"Use code P02BVMW8",dt:"Nov 20",l:"https://www.amazon.com/dp/B09WJYWT94"},
 {t:"GLOBALWIN Cowboy Boots for Women, Mid-Calf Western Style",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B07T2D6YK3"},
 {t:"Bloom Pop Prebiotic Sodas",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FJKN2F76"},
