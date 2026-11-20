@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Little Tikes Play Kitchen Ovens",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0851KPVDS",img:"img/B0851KPVDS.jpg"},
 {t:"Screen Pop Up HoUse Room Tent, Canopy Sun Shade Shelter for Patio, Backyard, Deck & Outdoor Activities",c:"Auto",e:"🚗",n:"50% off with code HD8MH1LT",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D6R4435C",img:"img/B0D6R4435C.jpg"},
 {t:"Portable Breastmilk Cooler",c:"Home",e:"🏠",n:"47% off with code A8V2MBZM",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H2TZ7BP7",img:"img/B0H2TZ7BP7.jpg"},
 {t:"Christmas Nativity Sets",c:"Home",e:"🎄",n:"Use code DRW1D4T0",dt:"Nov 19",l:"https://www.amazon.com/dp/B0H9899C5V",img:"img/B0H9899C5V.jpg"},
