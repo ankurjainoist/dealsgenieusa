@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Talloganic Tallow Face Moisturizers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4XGX175"},
+{t:"medicube Exosome Shot Zero 2,000 PPM Spicule Facial Serum For Pores & Sebum",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D16L5F2M"},
+{t:"Clarks Mens Shacre Boots",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B08FV7NSB6"},
 {t:"Shark NeverChange Detect iQ Air Purifiers",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GX7NYLV3"},
 {t:"idas Cushioned Crew Socks",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B000M23Q2U"},
 {t:"Calvin Klein Obsession Perfumes",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0009STDD8"},
