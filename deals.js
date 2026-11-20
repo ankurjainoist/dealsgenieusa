@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DEWALT 2 in×10×3,300 lbs Heavy-Duty Retractable Ratchet Straps, 2-Pack",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F67M84FL"},
+{t:"Floating Wall Shelves (Walnut)",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F98TXD9Z"},
 {t:"Dr. Jart+ Cicapair Soothing Korean Color Correcting Treatment SPF 30 with Centella Asiatica, Redness",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F8PKCTVS"},
 {t:"DR. MORITZ Ashwagandha Gummies for Calm, Relaxation, and Immune Support - Ashwagandha for Women and Men -",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DFQFDQCM"},
 {t:"Amazon business account",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G3RB8FST"},
