@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Grill Cleaning Brushes",c:"Kitchen",e:"🍳",n:"Use code SCIOTVRF",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DYD1CZMB"},
+{t:"LOL Surprise 5 Piece Storage Set with Collapsible Trunk, 3 Cubes and Pop Up Hamper",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B07TGMBZX7"},
+{t:"GOOLOO G7 Jump Starters",c:"Home",e:"🏠",n:"Use code FMXNYWOV",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FMRDXDLM"},
+{t:"Armani Beauty Acqua di Giò Elixir - Woody Earthy Mens Cologne - 1.6 Fl Oz",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DQVNHK3G"},
+{t:"Football Headrest Covers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H74Z4RLR"},
 {t:"Winter Beanie Sets",c:"Home",e:"🏠",n:"Use code 5S59Q1GM",dt:"Nov 20",l:"https://www.amazon.com/dp/B07JQ7CN61"},
 {t:"Alice in Wonderland 55-Well Face Palette, Eyeshadow, Ages 13+",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FKFW9C33"},
 {t:"Knorr Chicken Granulated Bouillon Powder 32 oz, Caldo de Pollo, Soups, 3PK",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B08TMBJMQ6"},
