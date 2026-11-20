@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Jartoo Baby Monitor Floor Stand with Hidden Cord",c:"Baby",e:"👶",n:"Use code JTFS1120",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GX1N1V5Z"},
+{t:"Sweeper Mop with 36 Refills",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CXXN14R9"},
+{t:"3 in 1 Wireless Charging Station for Apple",c:"Home",e:"🏠",n:"Use code OWWLX9PH",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HRZZ7VVS"},
+{t:"Candle Warmer Lamp with Timer,Birthday Gifts for Women Mom Home Decor",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HFJJKB5Z"},
+{t:"Carpet Sweeper, Mini Size, Manual Sweeping",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B07TM2SJ3B"},
 {t:"Adidas Moves Him Eau de Toilette 1 fl oz (Pack of 1), Notes of Green Apple, Cedarwood, Musk, Mens Fragrance",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B002Z7FU9C"},
 {t:"CAP Threaded Barbell Set with 100 LB Cement Grip Plates, 47 in Threaded Bar, 25LB / 15LB / 10LB Grip Plates",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G3T4GB1F"},
 {t:"Lenzhan Electric Grill Brushes",c:"Kitchen",e:"🍳",n:"Use code L964MRPW",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G5QBRZ4X"},
