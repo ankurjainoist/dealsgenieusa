@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Shark NeverChange Detect iQ Air Purifiers",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GX7NYLV3"},
+{t:"idas Cushioned Crew Socks",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B000M23Q2U"},
+{t:"Calvin Klein Obsession Perfumes",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0009STDD8"},
+{t:"Stanley Quencher H2.0 Tumblers (Cobalt)",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G78PQD7L"},
+{t:"Dr. Scholls Paraffin Wax Foot Masks",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GLJ66HQ4"},
 {t:"OKOENIEO H7 Halogen Headlight Bulbs",c:"Home",e:"🏠",n:"Use code 52FUD64H",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GZNJWTRX"},
 {t:"5-Tier Bakers Racks",c:"Home",e:"🏠",n:"Use code 7QWHJGJT",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GLGX8BXR"},
 {t:"Torani Pumpkin Pie Flavored Drink Syrup, 25.4 fl oz, 4 Pack",c:"Home",e:"🎃",dt:"Nov 20",l:"https://www.amazon.com/dp/B00IRRJ734"},
