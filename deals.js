@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Solar Firework Starburst Lights",c:"Home",e:"🏠",n:"Use code 78JZ3AMZ",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CMPZ296D"},
+{t:"Extra Large Moving Bags, Heavy Duty Packing Bags with Double Zipper & Handles, Water-Resistant Storage Totes",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HDJJV23R"},
+{t:"Collapsible Camping Wagon",c:"Home",e:"🏠",n:"40% off with code ZPTT92BE",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GVR27122"},
+{t:"Ceramic Nonstick Frying Pans",c:"Kitchen",e:"🍳",n:"Use code FEJOIB3N",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GKNCVKXQ"},
+{t:"Christmas Tree",c:"Home",e:"🎄",n:"40% off with code O1SEFTFI",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HQHNZFNF"},
 {t:"Suede Fuzzy Lined Winter Ankle Boots",c:"Home",e:"🏠",n:"Use code FS0THORB",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HG9VV3YY",img:"img/B0HG9VV3YY.jpg"},
 {t:"Shark Pet Cordless Stick Vacuum, 40-Min Runtime, Lightweight, Grey, IX141",c:"Pets",e:"🐾",dt:"Nov 20",l:"https://www.amazon.com/dp/B07S652B12",img:"img/B07S652B12.jpg"},
 {t:"Dyson V15 Detect Cordless Vacuum",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GXX8KQY7",img:"img/B0GXX8KQY7.jpg"},
