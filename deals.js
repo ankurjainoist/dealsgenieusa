@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Electric Nail Drills (Purple)",c:"Tools",e:"🔧",n:"Use code EBCR2TG3",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FQMKDGKL"},
+{t:"Plum Play Kids Outdoor Water Slide Play Equipment - with Built-in Toy Sprinklers, Backyard Waterpark with",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CW64W51W"},
+{t:"Nillkin Galaxy S25 Ultra Cases",c:"Home",e:"🏠",n:"Use code NWEASCU8",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DNLWS93J"},
+{t:"Bestway H2OGO! Canopy Cove Mega Outdoor Water Park, Features Water Slide, Shaded Canopy, Water Cannons",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B09VYD4FVC"},
 {t:"Messy Bun Hair Pieces",c:"Beauty",e:"💄",n:"Clip the 41% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HDMVF9CL"},
 {t:"Nutella Creamy Hazelnut Spread with Cocoa, 0.88 oz",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B08XZB944W"},
 {t:"Cooling Comforter, Cooling Blankets for Hot Sleepers & Night Sweats, Arc-Chill Q-Max > 0.5 Breathable Ice",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FCG7XH31"},
