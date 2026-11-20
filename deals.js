@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"O-Cedar EasyWring Microfiber Spin Mop & Bucket Floor Cleaning System + 3 Extra Refill",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B01MCVXNSG",img:"img/B01MCVXNSG.jpg"},
 {t:"4K Kids Digital Cameras",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4GPFJGW"},
 {t:"Comforter for Hot Sleepers, Queen",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G3P3W5MN"},
 {t:"Water-Resistant Thermal Touchscreen Gloves",c:"Fashion",e:"👗",n:"Use code LVHXHN7N",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HLZ9MSG5"},
