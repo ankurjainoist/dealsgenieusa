@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Adidas Moves Him Eau de Toilette 1 fl oz (Pack of 1), Notes of Green Apple, Cedarwood, Musk, Mens Fragrance",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B002Z7FU9C"},
+{t:"CAP Threaded Barbell Set with 100 LB Cement Grip Plates, 47 in Threaded Bar, 25LB / 15LB / 10LB Grip Plates",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G3T4GB1F"},
+{t:"Lenzhan Electric Grill Brushes",c:"Kitchen",e:"🍳",n:"Use code L964MRPW",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G5QBRZ4X"},
+{t:"BYOMA Milky Toner - Hydrating Face Toner, Moisturizing, Korean Skincare",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CSDWS3HJ"},
 {t:"Electric Food Warming Mats",c:"Home",e:"🏠",n:"45% off with code CVZFLVF0",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HCY3DD3H"},
 {t:"Balsam Hill 7.5 ft Unlit Classic Blue Spruce - Artificial Christmas Tree with 2,960+ Tips, Premium Stand &",c:"Home",e:"🎄",dt:"Nov 20",l:"https://www.amazon.com/dp/B002PF3P5U"},
 {t:"Mooas Crystal Mag-safe Charging Stands",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DF7K82N4"},
