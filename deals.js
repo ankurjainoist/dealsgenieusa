@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BTFBM Womens Summer Casual Dresses Ruffle Sleeve Lightweight Maxi Dress",c:"Fashion",e:"👗",n:"Use code 50ZGN4CR",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FRML2QBS"},
+{t:"Solar Lights Outdoor Patio Lights",c:"Home",e:"🏠",n:"Use code 4PN7BQXF",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GBV9HRQ3"},
+{t:"Keter City 30 Gal Outdoor Storage Box and Patio Side Table",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B09DTJPPG8"},
 {t:"COSRXvanced Snail Mucin Hydrogel Under Eye Patches for Fine Lines",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B08V56GJ7W"},
 {t:"Foldable Microwave Splatter Covers",c:"Home",e:"🏠",n:"Use code 0EK8M1N9",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HDJNBYML"},
 {t:"Classic Christmas Stockings",c:"Home",e:"🎄",n:"Use code P9M8Q2RG",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HCBQ4XYW"},
