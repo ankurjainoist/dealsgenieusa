@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Baby Balance Bike for 1 Year Old Boy Girl, First Birthday Gift Toy",c:"Baby",e:"👶",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HKNDVM5C"},
+{t:"Beyblade X Clash & Carry Beystadium Battle Arena Spinning-Top Toys, Kids Gifts, Ages 8+",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D9ZGXMRN"},
+{t:"Ferrero Rocher Premium Gourmet Milk Chocolate Hazelnut Candy Gift Box, Individually Wrapped Chocolate Candy",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C88KW88M"},
+{t:"Solar Ceiling Fan Lights",c:"Home",e:"🏠",n:"40% off with code MSGXMHCO",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H3ZV979X"},
+{t:"Cuisinart Air Fryer, Glass Basket & ClearView Window, 5 Functions, 4 Qt",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GVPBSXXF"},
 {t:"Keurig K-Express Single Serve K-Cup Pod Coffee Maker",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CT43D46H"},
 {t:"Bedsure Cloud Bubble Small Dog Blanket 3-Pack",c:"Pets",e:"🐾",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H44WGX1P"},
 {t:"American Girl, AG Sisters Jozette Doll, with Blue Eyes, Long Wavy Blonde Hair with Blue Highlights, 14.5 in",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F257LBST"},
