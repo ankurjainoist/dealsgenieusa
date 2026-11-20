@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Toniebox 2 Audio Player Speaker Bundle for Kids",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H53CZJDL"},
+{t:"Brite Star Chasing Light Sets",c:"Home",e:"🏠",n:"Clip the 45% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B00GTPW2BK"},
+{t:"Klein Tools FRCLVST2 Flame-Resistant Cooling Vest, One Size Fits Most",c:"Tools",e:"🔧",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GLKG4MYK"},
+{t:"Hot Wheels Barbie RC Corvette from the Movie, Remote-Control Toy Car",c:"Auto",e:"🚗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0BCMDJMHZ"},
+{t:"Herd Mentality Board Game: #1 Family Party Games, 4-20 Players",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B093HBBMPT"},
 {t:"Jazwares Pokemon Battle Action Pikachu",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G1TXLQYY"},
 {t:"JMUQ 120Pcs Artificial Marigold Flowers, 2inch Silk Marigolds with Stems, Orange Artificial Flowers for",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DB5GKXBM"},
 {t:"LEGO Animal Crossing Creative HoUses: Seasons of Fun 77057",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DRW4RCV5"},
