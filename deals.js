@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BOSS Mens Contrast Logo Knit Hat",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F61XB2SL"},
+{t:"Ratchet & Clank: Rift Apart - PlayStation 5",c:"Games",e:"🎮",dt:"Nov 20",l:"https://www.amazon.com/dp/B095T8C99C"},
+{t:"Mattel Disney Frozen Anna & Elsa Slumber Sister Set of 2 Fashion Dolls",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G44PTJH5"},
 {t:"The Usbornevent Calendar Book Collection (Wheres the...)",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/1835404448"},
 {t:"Swarovski Constella Pierced Stud Earrings",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0B1F5ZYF7"},
 {t:"Swarovski Teddy Pendant Bear finish",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DY917PCT"},
