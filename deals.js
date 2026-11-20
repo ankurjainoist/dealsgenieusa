@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"QiQiCi Modern Bubble Hookahs",c:"Home",e:"🏠",n:"Use code P02BVMW8",dt:"Nov 20",l:"https://www.amazon.com/dp/B09WJYWT94"},
+{t:"GLOBALWIN Cowboy Boots for Women, Mid-Calf Western Style",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B07T2D6YK3"},
+{t:"Bloom Pop Prebiotic Sodas",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FJKN2F76"},
+{t:"Ionic Hair Dryers",c:"Beauty",e:"💄",n:"Use code N6K5UKOJ",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C33RTVJG"},
 {t:"Razer Huntsman Mini 60% Gaming Keyboard, Linear Optical Switches, White",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FFJDH7GM",img:"img/B0FFJDH7GM.jpg"},
 {t:"Shlinnuo Gold Elephant Statues",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FW4H39XS",img:"img/B0FW4H39XS.jpg"},
 {t:"MARYRUTHS Kids Multivitamin Gummies, Sugar Free, 2 Month Supply, Ages 4+",c:"Kids",e:"🎨",dt:"Nov 20",l:"https://www.amazon.com/dp/B07WMX9N2D",img:"img/B07WMX9N2D.jpg"},
