@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MARYRUTHS Liquid Multivitamin + Hair Growth, Clinically Thicker Hair, 30oz",c:"Beauty",e:"💄",n:"Use code JANSSENB",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DQLVWK6L"},
+{t:"FPV Drones with Controller Screen",c:"Home",e:"🏠",n:"Use code D2CZSDHW",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HHQX938G"},
+{t:"Zhkung Vintage LED Wall Sconces",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D3GH1HGP"},
+{t:"Flavia Aroma Brewer - Coffee Machine, Makes Coffee, Lattes, Tea, and other Hot or Iced Beverages with",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FGMFBFPW"},
+{t:"Thomas & Friends Talking Thomas Engine by Fisher-Price",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G53ZBTJN"},
 {t:"medicube Rosemary PDRN Leave in Conditioner Spray, Do-It-All Detangler",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H8FC5TZ6"},
 {t:"Dixie Ultra Large Paper Plates 10 Inch, Heavy Duty Disposable Plates, 172ct",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B099BWGZBP"},
 {t:"medicube Rosemary PDRN Silk Hair Oil, Lightweight Glass Oil &ds Shine",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H71K75Q9"},
