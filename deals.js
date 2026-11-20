@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Melissa & Doug Flip & Fry Grill Play Set with Water Wow! Kids Kitchen Playset with Color Changing Play Food",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DL7ZJ8PF"},
+{t:"Zak Designs Gabbys DollhoUse Sage 16oz Leak-Proof Straw Kids Water Bottle",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DMDRRV2D"},
+{t:"PETPHABET Chicken Wrapped Sweet Potato Apple Dog Treats, 14oz",c:"Pets",e:"🐾",n:"Subscribe & Save available",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G4QVQ1YV"},
+{t:"Sony ULT Field 1 Wireless Bluetooth Portable Waterproof Speaker, Smoke Blue",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HF6FY9H6"},
+{t:"Press to Go Animal Cars",c:"Auto",e:"🚗",n:"Clip the 50% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HK7ZLN9Z"},
 {t:"Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Metallic Pink",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FHLPS8ZF"},
 {t:"TIRTIR Mask Fit Red Cushion Foundation",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D2L39Y4P"},
 {t:"Heysam Titanium Ceramic Flat Iron Hair Straightener1.6 Inch, Dual Voltage Hair Straightening and Curler 2 in",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FGTXQN21"},
