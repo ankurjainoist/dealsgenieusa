@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Keurig K-Express Single Serve K-Cup Pod Coffee Maker",c:"Kitchen",e:"🍳",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CT43D46H"},
+{t:"Bedsure Cloud Bubble Small Dog Blanket 3-Pack",c:"Pets",e:"🐾",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H44WGX1P"},
+{t:"American Girl, AG Sisters Jozette Doll, with Blue Eyes, Long Wavy Blonde Hair with Blue Highlights, 14.5 in",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F257LBST"},
 {t:"Charlotte Tilbury Hollywood Beauty Wonderlandvent Calendar, 15-Piece Makeup & Skincare Holiday Beauty Gift Set",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4S1M9F2"},
 {t:"NEW Nano Tape Bubble Kit for Kids, 2 Luminous & 4 Glitter Nano Tapes, DIY Squishy Maker Making Kit With",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GY4BGTSV"},
 {t:"Magnetic Tiles Learn Letters Magnetic Building Blocks",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GZN2J5DR"},
