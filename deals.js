@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dash Camera for Cars,4K Full UHD Car Camera",c:"Auto",e:"🚗",n:"Use code F7UDJKHH",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GX1HYHVL"},
+{t:"THERUN Dual-Sided Walking Pad Treadmill",c:"Home",e:"🏠",n:"Use code U1IOT77V",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G6DJCW8V"},
+{t:"Nuby Pop Up Tent for Babies and Toddlers",c:"Baby",e:"👶",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6R6GB6M"},
+{t:"Womens Christmas Sweatshirt M",c:"Fashion",e:"🎄",n:"Use code J28GBEQQ",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HR69T6CF"},
 {t:"Baby Balance Bike for 1 Year Old Boy Girl, First Birthday Gift Toy",c:"Baby",e:"👶",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HKNDVM5C"},
 {t:"Beyblade X Clash & Carry Beystadium Battle Arena Spinning-Top Toys, Kids Gifts, Ages 8+",c:"Toys",e:"🧸",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D9ZGXMRN"},
 {t:"Ferrero Rocher Premium Gourmet Milk Chocolate Hazelnut Candy Gift Box, Individually Wrapped Chocolate Candy",c:"Grocery",e:"🛒",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C88KW88M"},
