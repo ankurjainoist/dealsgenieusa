@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Stens PTO Bearings",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B08KTKF4BR"},
+{t:"Loungefly Disney Princess Stained Glass: Sleeping Beauty Mini-Backpack, Amazon Exclusive",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CFGF9BMX"},
+{t:"X-TIGER Polarized Youth Baseball Sunglasses",c:"Home",e:"🏠",n:"50% off with code HEPWHOBS",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CM3Q2V1S"},
+{t:"Kendra Scott Elisa Pendant Necklace for Women, Fashion Jewelry, 14k Gold-Plated",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B01N1ZHRTJ"},
 {t:"Christmas Kitchen Rugs",c:"Kitchen",e:"🎄",n:"Use code IT7M6B6P",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HR4KH3J7"},
 {t:"Heated Blanket Throw, Fast Heating Electric Blanket",c:"Home",e:"🏠",n:"Use code D36DZ0W5",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6XZ2RX6"},
 {t:"Trendy Queen Womens Wide Leg Fleece Lined Sweatpants",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FBFM59G4"},
