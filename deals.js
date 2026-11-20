@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Tankini Swimsuits for Women Bathing Suit High Waisted Bikini Sets",c:"Fashion",e:"👗",n:"50% off with code MYY60UJI",dt:"Nov 20",l:"https://www.amazon.com/dp/B0982TCXR2"},
+{t:"28 in/30 in/32 in/34 in Inseam Womens Yoga Pants with Pockets",c:"Fashion",e:"👗",n:"44% off with code 7SGWU7D6",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DJQC1X18"},
+{t:"Womens Yoga Pants with Pockets Flare Leggings",c:"Fashion",e:"👗",n:"40% off with code CBCZTNZ7",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CBVDQ1YJ"},
+{t:"55 Inch 4K Outdoor TVs",c:"Home",e:"🏠",n:"Use code HP10AGDX",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GSFR7GB4"},
 {t:"Ultra Slim 10000mAh Power Banks",c:"Home",e:"🏠",n:"50% off with code 26FH3QZT",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CX8FY36L"},
 {t:"Lymphatic Drainage Massager, Anti Cellulite Massage Tool",c:"Tools",e:"🔧",n:"50% off with code 9U877UAG",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H9Q2QZL9"},
 {t:"Solar Bug Zapper Outdoor Waterproof, Electric Mosquitoes Zapper",c:"Home",e:"🏠",n:"50% off with code OJL7EP9K",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CSSLBN3H"},
