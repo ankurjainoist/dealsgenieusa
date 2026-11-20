@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"40W USB-C iPhone Chargers",c:"Electronics",e:"🔌",n:"Use code QUXD8AXO",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FVXW7JRV"},
+{t:"INFANS Modular Kids Play Couch, 8 PCS Toddler Creative Sectional Fort Building Sofa for Playroom",c:"Baby",e:"👶",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F4BZKMSY"},
+{t:"Canon EOS R100 Mirrorless Camera RF-S18-45mm F4.5-6.3 IS STM Lens Kit",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0C5PGRP7V"},
+{t:"Smart Digital Calendar Frames",c:"Electronics",e:"🔌",n:"Use code NKAVFAS9",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HJBQCWLK"},
+{t:"K&F Concept Ring Lights with Tripod",c:"Electronics",e:"🔌",n:"50% off with code NDHHM2X2",dt:"Nov 20",l:"https://www.amazon.com/dp/B07VGDB9SG"},
 {t:"Wrangler Smart Spinner Luggage Sets",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B07SBKPDZ2"},
 {t:"9FT Christmas Cedar Garland",c:"Home",e:"🎄",n:"40% off with code YD3YFS34",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HHF7D31F"},
 {t:"TELFAR Large Shopping Bag, Unisex Faux Leather Oversized Tote, Dual Interior Pockets, Crossbody Strap",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DHW4JS6P"},
