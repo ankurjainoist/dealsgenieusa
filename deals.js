@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DJI Osmo Pocket 3 Creator Combo, Vlogging Camera With 1 CMOS & 4K/120fps",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CG19FGQ5"},
+{t:"Oura Ring 5 Smart Ring",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GRJZX1D8"},
+{t:"Color Nymph Makeup Kit for Teen Girls Make up Palette with Lip Gloss Pink",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6DB2GM3"},
 {t:"Dash Camera for Cars,4K Full UHD Car Camera",c:"Auto",e:"🚗",n:"Use code F7UDJKHH",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GX1HYHVL"},
 {t:"THERUN Dual-Sided Walking Pad Treadmill",c:"Home",e:"🏠",n:"Use code U1IOT77V",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G6DJCW8V"},
 {t:"Nuby Pop Up Tent for Babies and Toddlers",c:"Baby",e:"👶",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H6R6GB6M"},
