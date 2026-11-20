@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Razer Huntsman Mini 60% Gaming Keyboard, Linear Optical Switches, White",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FFJDH7GM",img:"img/B0FFJDH7GM.jpg"},
 {t:"Shlinnuo Gold Elephant Statues",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FW4H39XS",img:"img/B0FW4H39XS.jpg"},
 {t:"MARYRUTHS Kids Multivitamin Gummies, Sugar Free, 2 Month Supply, Ages 4+",c:"Kids",e:"🎨",dt:"Nov 20",l:"https://www.amazon.com/dp/B07WMX9N2D",img:"img/B07WMX9N2D.jpg"},
 {t:"Rubbermaid Brilliance BPA Free 44-Piece Food Storage Containers Set Airtight Leak-Proof with Lids for Meal",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B07X64Z8RM",img:"img/B07X64Z8RM.jpg"},
