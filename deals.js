@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"COSRXvanced Snail Mucin Hydrogel Under Eye Patches for Fine Lines",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B08V56GJ7W"},
+{t:"Foldable Microwave Splatter Covers",c:"Home",e:"🏠",n:"Use code 0EK8M1N9",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HDJNBYML"},
+{t:"Classic Christmas Stockings",c:"Home",e:"🎄",n:"Use code P9M8Q2RG",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HCBQ4XYW"},
+{t:"HEYDUDE Women’s Austin Lift Platform Mule, Lightweight Casual Slip On Shoe",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F2KF25WV"},
+{t:"Womens Yoga Workout Sets",c:"Fashion",e:"👗",n:"Use code KUALTREU",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G64QG9F3"},
 {t:"Talloganic Tallow Face Moisturizers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H4XGX175"},
 {t:"medicube Exosome Shot Zero 2,000 PPM Spicule Facial Serum For Pores & Sebum",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D16L5F2M"},
 {t:"Clarks Mens Shacre Boots",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B08FV7NSB6"},
