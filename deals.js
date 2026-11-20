@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Michael Kors Women’s Romee Small Satchel",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F22TTB5M"},
+{t:"Windshield Ice and Snow Covers",c:"Auto",e:"🚗",n:"Use code 8TIOHC07",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HGLZF1N2"},
+{t:"Pickleball Paddle Rainbow Design with a Free Carry Bag",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H35G9KBG"},
+{t:"Cococu Baby Feeding Bibs",c:"Baby",e:"👶",n:"Use code CLFC2DZW",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GGQXT5KZ"},
+{t:"PROJECT CLOUD Mens Slippers 100% Genuine Leather Shearling Slippers for Men",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DB39LQTB"},
 {t:"Solar Firework Starburst Lights",c:"Home",e:"🏠",n:"Use code 78JZ3AMZ",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CMPZ296D"},
 {t:"Extra Large Moving Bags, Heavy Duty Packing Bags with Double Zipper & Handles, Water-Resistant Storage Totes",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HDJJV23R"},
 {t:"Collapsible Camping Wagon",c:"Home",e:"🏠",n:"40% off with code ZPTT92BE",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GVR27122"},
