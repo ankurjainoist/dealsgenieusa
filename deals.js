@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Filtered Rain Shower Head with Handheld Combo High Pressure 12 Rainfall Shower Heads",c:"Home",e:"🏠",n:"Use code 9KOZYYKY",dt:"Nov 19",l:"https://www.amazon.com/dp/B0FZH463CQ",img:"img/B0FZH463CQ.jpg"},
 {t:"RC Fighter Jet Drones (Blue)",c:"Home",e:"🏠",n:"50% off with code 8KCFLR4Y",dt:"Nov 19",l:"https://www.amazon.com/dp/B0HGLF3DK6",img:"img/B0HGLF3DK6.jpg"},
 {t:"Little Tikes Play Kitchen Ovens",c:"Kitchen",e:"🍳",dt:"Nov 19",l:"https://www.amazon.com/dp/B0851KPVDS",img:"img/B0851KPVDS.jpg"},
 {t:"Screen Pop Up HoUse Room Tent, Canopy Sun Shade Shelter for Patio, Backyard, Deck & Outdoor Activities",c:"Auto",e:"🚗",n:"50% off with code HD8MH1LT",dt:"Nov 19",l:"https://www.amazon.com/dp/B0D6R4435C",img:"img/B0D6R4435C.jpg"},
