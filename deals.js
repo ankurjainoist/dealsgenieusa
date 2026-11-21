@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Engraving Pen Set",c:"Home",e:"🏠",n:"35% off with code 9CNT2F13",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GXZTP81N"},
+{t:"Snow Suit for Kids One Piece Ski Suit",c:"Kids",e:"🎨",n:"40% off with code 7BERP4EA",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HC7745Q7"},
+{t:"Portable Clothes Dryer",c:"Home",e:"🏠",n:"60% off with code Q1SY1N1E",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HRTNWTZC"},
+{t:"DreamsEden Wooden Storage Boxes",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0C9ZN964V"},
 {t:"110pcs Christmas Goodie Bags",c:"Home",e:"🎄",n:"42% off with code 0NIMM9R4",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HG919S95"},
 {t:"BlueWood Foam Climbing Blocks",c:"Toys",e:"🧸",n:"Use code I12332IH",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HDSX1SCQ"},
 {t:"Santa Punching Bag for Kids, Christmas Toy Gifts Boxing Bag Set with Bell",c:"Toys",e:"🎄",n:"40% off with code DZFDZWSO",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HRDQ2RP7"},
