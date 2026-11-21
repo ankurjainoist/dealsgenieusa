@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"3-in-1 Soccer Goal with Soccer Rebounder and Backstop Net",c:"Home",e:"🏠",n:"51% off with code I62OMYMC (works on With Posts; Standard and Large)",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GLF5HY39"},
+{t:"Squishy Toys, 2 Pack Rainbow Butter Squishy",c:"Kitchen",e:"🍳",n:"66% off with code 2M7TD7D8",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HQ44JTYX"},
+{t:"Crunchy Squishy ,ASMR Bead Filled Slow Rising Squishy",c:"Toys",e:"🧸",n:"50% off with code FX7G8ZUN",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HLZZ6D66"},
+{t:"2PK 32LED 55FT Mushroom Solar Christmas Lights Outdoor, Red&White",c:"Home",e:"🎄",n:"60% off with code SKEYIVJT",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FGX622JH"},
+{t:"Ornament Storage Box Holds 80 Christmas Ornaments",c:"Home",e:"🎄",n:"50% off with code UF2JHR13",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DG8LY1RB"},
 {t:"Engraving Pen Set",c:"Home",e:"🏠",n:"35% off with code 9CNT2F13",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GXZTP81N"},
 {t:"Snow Suit for Kids One Piece Ski Suit",c:"Kids",e:"🎨",n:"40% off with code 7BERP4EA",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HC7745Q7"},
 {t:"Portable Clothes Dryer",c:"Home",e:"🏠",n:"60% off with code Q1SY1N1E",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HRTNWTZC"},
