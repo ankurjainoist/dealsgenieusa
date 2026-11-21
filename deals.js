@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"1X/30X Makeup Mirror with Lights, Rechargeable Magnifying Mirror",c:"Beauty",e:"💄",n:"40% off with code RRY9HKEB",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H5QHN9QW"},
+{t:"High-Speed Travel Hair Dryer, 360° Rotating Head, 0.6Lb Lightweight",c:"Beauty",e:"💄",n:"33% off with code EJTU8PC7",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FRFJFLS7"},
+{t:"Von Dutch Womens Two Tone",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G38ZXZHD"},
+{t:"Panda Hand Warmers Rechargeable 2 Pack - Electric Hand Warmers",c:"Home",e:"🏠",n:"Use code 39I49JMP",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HDMVC5PH"},
+{t:"Amazon Basics Tall Kitchen Trash Bags",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B092VPGJB9"},
 {t:"Shark NeverChange Air Purifier, HP153, White",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F3QZH7HP"},
 {t:"Myamz Metabolism Support Supplements",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GYS1J76K"},
 {t:"Kidstinct Smart Robot Dogs",c:"Pets",e:"🐾",n:"50% off with code RID1LB9T",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H6G2PJKN"},
