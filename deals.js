@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DJI Osmo Action 4 Essential Combo, Waterproof Action Camera Vlogging Camera",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DS2B3P2B"},
+{t:"Arlo Essential Wireless Security Camera 2K (3rd Gen) - 2-Cam",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FJTJZW2V"},
+{t:"OANDYS Magnetic Car Chargers",c:"Auto",e:"🚗",n:"Use code SBWTL2QW",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GSZXDFN8"},
+{t:"Soundcore Boom Go 3i Portable Bluetooth Speaker by Anker, 24H Playtime",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GFNF7TZ9"},
+{t:"FUJIFILM Instax Mini 12 Instant Camera Holiday Bundle 2026, Blossom Pink",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HB6W86LR"},
 {t:"Sound Deadening Mats",c:"Home",e:"🏠",n:"50% off with code N1LUQEA7",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HJGDYJBJ"},
 {t:"Barbie Puppy Pet Doctor Set, Role Play Set for Kids",c:"Pets",e:"🐾",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G3VXPS1Y"},
 {t:"LEGO Friends Heartlake City Convenience Store 42680",c:"Toys",e:"🧸",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FMS6SHX5"},
