@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Brightown Blue Solar Christmas Lights, 50LED C6 Solar String lights Outdoor",c:"Home",e:"🎄",n:"Use code E7BQIQS2",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H29C9XL6"},
+{t:"Exclusivo Mezcla 3D Checkered Fleece Throw Blanket for Couch, Ivory",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0D25Z18JG"},
+{t:"16oz/470ml Glass Olive Oil Sprayer for Cooking",c:"Home",e:"🏠",n:"Use code TWDGR7OC",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G2XJNSSL"},
 {t:"3 Inch Thick Twin Mattress Topper, Viscose Derived from Bamboo",c:"Home",e:"🏠",n:"Use code B2ISXJ3T",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H33BB4FQ",img:"img/B0H33BB4FQ.jpg"},
 {t:"CULLOK Remote Control Cars",c:"Auto",e:"🚗",n:"Use code 77S7WG50",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HCN6HZBS",img:"img/B0HCN6HZBS.jpg"},
 {t:"RipRider DXT Drift Trike, Drifting Tricycle",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B00WBVXYJK",img:"img/B00WBVXYJK.jpg"},
