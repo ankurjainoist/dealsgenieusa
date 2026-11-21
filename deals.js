@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Sennheiser CX 150BT Wireless Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B083W8TM8V"},
+{t:"Fisher-Price Little People 10 Animal Figures Pack",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0B626KVH7"},
+{t:"KidKraft Appleton Wooden Swing Set",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B075MMXC89"},
+{t:"Wrangler Hobo Bags for Women Designer Aztec Bucket Purses",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DF79JYSN"},
+{t:"Educational Insights Design & Drill Toolbox",c:"Tools",e:"🔧",dt:"Nov 21",l:"https://www.amazon.com/dp/B09HL5X3J7"},
 {t:"Lordtex Waterproof Patio Curtains",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B089SHX23S"},
 {t:"Old Spice The Super Mario Galaxy Movie Holiday Gift Pack for Men, Pack of 4",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HC4K1V91"},
 {t:"Marco Almond Kitchen Knife Set with Block KYA31,14 Pieces Japanese Stainless Steel Cutlery Knives Block Set",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B07RS8Z5L6"},
