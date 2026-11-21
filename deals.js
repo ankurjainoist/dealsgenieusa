@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Turtle Beach Rematch Wireless Controller Animal Crossing Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H3W9RBTY"},
+{t:"Hanes Mens EcoSmart Sweatpants, Athletic Lounge Pants with Pockets, Open Hem Bottom, Fleece Pants",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F2NCKGPF"},
+{t:"Bluey Police Car Toy, Lights & Sounds, Policeman Figure",c:"Auto",e:"🚗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FLKL6P7R"},
+{t:"Gerardos Bouncy Animal Hoppers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B07VB36T7D"},
 {t:"Minions All-Over Print 20-Inch Expandable Spinner Luggage",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HBT5WZ2X"},
 {t:"Hello Kitty Bows All-Over Print 5-Piece Duffel Bag Set",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FK6T6L8Z"},
 {t:"Disney Stitch Ride-On Luggage for Kids, Blue Hardshell Suitcase",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DKG11QG2"},
