@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BIC Xtra Smooth Pastel Mechanical Pencils",c:"Kids",e:"🎨",dt:"Nov 20",l:"https://www.amazon.com/dp/B09RGH38NZ"},
+{t:"Luela Convertible Shoulder Crossbody Bag Duo with Pouch Gift Set",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GQDKYXMZ"},
+{t:"The North Face Trucker Hats",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F97WG7R6"},
+{t:"Electric Toothbrushes (3-Pack)",c:"Home",e:"🏠",n:"Use code 429CSDW6",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HH926BJ4"},
 {t:"Medicube Retinol Boosting Serums",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FPFDSC7X"},
 {t:"The Sak Sequoia Leather Hobo Bags",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CDZRM54Z"},
 {t:"Tabletop Gift Wrapping Tool with Tape Dispenser–2 Packjustable Wrapping Paper Table Clamps with 2",c:"Tools",e:"🔧",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FPQQGDS4"},
