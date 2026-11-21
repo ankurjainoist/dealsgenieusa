@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"GHCKER Boho Rattan Floor Lamps",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D2VLFY79"},
+{t:"ApplianPar Hood Lock Latches",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DQ8HJRLX"},
+{t:"Sampeel Leather Jacket Women Faux Oversized Motorcycle Bomber Coats 2026 Fall Fashion Outfits Winter Clothes",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D7MC9QCY"},
+{t:"LENSGO Wireless Lavalier Microphones",c:"Home",e:"🏠",n:"Coupon: 40% off",dt:"Nov 20",l:"https://www.amazon.com/dp/B0969LTTQN"},
 {t:"Beats Solo 4 with AppleCare+ for Headphones (2 Years) - Metallic Pink",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FNBNX7JD"},
 {t:"GPS Pet Trackers",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G39QL7MJ"},
 {t:"Plano 4-Shelf Plastic Storage Shelves, 48” x 23” x 14”, 200lb Capacity, Pantry, Office, Closet and Garage",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CKLS8P2Q"},
