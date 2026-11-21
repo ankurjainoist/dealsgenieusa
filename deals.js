@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"110pcs Christmas Goodie Bags",c:"Home",e:"🎄",n:"42% off with code 0NIMM9R4",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HG919S95"},
+{t:"BlueWood Foam Climbing Blocks",c:"Toys",e:"🧸",n:"Use code I12332IH",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HDSX1SCQ"},
+{t:"Santa Punching Bag for Kids, Christmas Toy Gifts Boxing Bag Set with Bell",c:"Toys",e:"🎄",n:"40% off with code DZFDZWSO",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HRDQ2RP7"},
+{t:"Puralis Shilajit Capsules (500mg)",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GX1PLKX2"},
+{t:"Girls Pirate Costume Buccaneer Princess Costume for Halloween Party Dress Up",c:"Fashion",e:"🎃",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CFYHKJM4"},
 {t:"Personalized Santa Sack with Name, Large Christmas Gift Bag, Gift string",c:"Home",e:"🎄",n:"49% off with code 1M6CFKWG",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HN2C7QHY"},
 {t:"Color Changing Lip Balm - Long Lasting Tinted Moisturizing Lipstick",c:"Home",e:"🏠",n:"50% off with code 2QGS2TAT",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HR27XZD4"},
 {t:"2pk Vita-A Retinol Shot Wrinkle Cream – Firming Pore Minimizer",c:"Beauty",e:"💄",n:"50% off with code 6FBKI2MC",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HR23ZH25"},
