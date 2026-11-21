@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Step2 Love & Care Deluxe Baby Doll Nursery Playset for Kids, Compact Changing Station & Crib",c:"Baby",e:"👶",dt:"Nov 21",l:"https://www.amazon.com/dp/B00MYWFC46"},
+{t:"Toniebox 2 Audio Player Starter Set for Kids 1+, Sunset Red",c:"Kids",e:"🎨",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FJ2ZJHHT"},
+{t:"Crayola Color Wonder Mess Free Fingerprint Book, Toddler Finger Painting",c:"Baby",e:"👶",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BG3FKR7P"},
+{t:"Funko POP! Disney Lilo & Stitch - Stitch with Ukulele",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B08MQ5C98P"},
 {t:"Sennheiser CX 150BT Wireless Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B083W8TM8V"},
 {t:"Fisher-Price Little People 10 Animal Figures Pack",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0B626KVH7"},
 {t:"KidKraft Appleton Wooden Swing Set",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B075MMXC89"},
