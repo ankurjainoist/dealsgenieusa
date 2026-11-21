@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Floor Gap Fixer Tools",c:"Tools",e:"🔧",n:"Use code O1UCTS2B",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HFNND3K1"},
+{t:"Swarovski Infinity Heart Jewelry Collection, Necklaces and Bracelets, Rose Gold & Rhodium Tone Finish, Clear",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0814Y1G6Z"},
+{t:"Squishmallows Original Jolene the Lavender Spotted Cowgirl Fruit Bat Multisize Combo Pack",c:"Home",e:"🏠",n:"Clip the 47% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DK7Y2BVV"},
+{t:"Fisher-Price Laugh & Learn Light-Up Learning Vacuum",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B079JWMS51"},
 {t:"DJI Osmo Action 4 Essential Combo, Waterproof Action Camera Vlogging Camera",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DS2B3P2B"},
 {t:"Arlo Essential Wireless Security Camera 2K (3rd Gen) - 2-Cam",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FJTJZW2V"},
 {t:"OANDYS Magnetic Car Chargers",c:"Auto",e:"🚗",n:"Use code SBWTL2QW",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GSZXDFN8"},
