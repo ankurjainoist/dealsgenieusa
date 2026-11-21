@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"3 Inch Thick Twin Mattress Topper, Viscose Derived from Bamboo",c:"Home",e:"🏠",n:"Use code B2ISXJ3T",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H33BB4FQ",img:"img/B0H33BB4FQ.jpg"},
 {t:"CULLOK Remote Control Cars",c:"Auto",e:"🚗",n:"Use code 77S7WG50",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HCN6HZBS",img:"img/B0HCN6HZBS.jpg"},
 {t:"RipRider DXT Drift Trike, Drifting Tricycle",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B00WBVXYJK",img:"img/B00WBVXYJK.jpg"},
 {t:"HANDONTIME Abstract Couch Covers",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FN7KDVFD",img:"img/B0FN7KDVFD.jpg"},
