@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"4 Pack Christmas Money Box for Cash Gift Pull, Money Pull Box Set with 120 Pcs Transparent Bags",c:"Home",e:"🎄",n:"50% off with code C9Z2Y0E8",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H33MBCRC"},
+{t:"Fezatuda 8CH Security Camera Systems",c:"Electronics",e:"🔌",n:"Use code R7P4BKDK",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HDLRLJ7V"},
+{t:"Oars + Alps Exfoliating & Moisturizing Mens Bar Soap, Coconut Oil, 6pk",c:"Fashion",e:"👗",n:"Subscribe & Save available",dt:"Nov 21",l:"https://www.amazon.com/dp/B09B435F7J"},
+{t:"Joycraft Pink Bow Gift Bags",c:"Home",e:"🏠",n:"Use code RBDHZJCU",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H2LN2QV6"},
 {t:"3-in-1 Soccer Goal with Soccer Rebounder and Backstop Net",c:"Home",e:"🏠",n:"51% off with code I62OMYMC (works on With Posts; Standard and Large)",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GLF5HY39"},
 {t:"Squishy Toys, 2 Pack Rainbow Butter Squishy",c:"Kitchen",e:"🍳",n:"66% off with code 2M7TD7D8",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HQ44JTYX"},
 {t:"Crunchy Squishy ,ASMR Bead Filled Slow Rising Squishy",c:"Toys",e:"🧸",n:"50% off with code FX7G8ZUN",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HLZZ6D66"},
