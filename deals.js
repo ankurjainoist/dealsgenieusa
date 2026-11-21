@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fitness Trackers with Heart Rate Monitor",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HM2M1R59"},
+{t:"Burts Bees Tips and Toes Kit Gift Set",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DSQNRZLL"},
+{t:"Squishmallows Original Micromallows Plush “Snack Machine” Deluxe Accessory Set",c:"Grocery",e:"🛒",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DGB56YNC"},
+{t:"Flamingo Glow Shave",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FHHZ43SH"},
+{t:"12Pcs Christmas Decorations Red Velvet Bows",c:"Home",e:"🎄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HGKS83Y2"},
 {t:"Size Large",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DNTVZ9DW"},
 {t:"TI-84 Evo Graphing Calculator Texas Instruments",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G8QXXF8B"},
 {t:"Michael Kors Womens Tanner Large Packable Tote",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GHZP17FG"},
