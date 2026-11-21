@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Shark NeverChange Air Purifier, HP153, White",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F3QZH7HP"},
+{t:"Myamz Metabolism Support Supplements",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GYS1J76K"},
+{t:"Kidstinct Smart Robot Dogs",c:"Pets",e:"🐾",n:"50% off with code RID1LB9T",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H6G2PJKN"},
+{t:"tarte lights, camera, lashes 4-in-1 mascara – Volume, Length, Curl & Conditioning for Fuller Looking Lashes",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B00547HS36"},
+{t:"Pinch Pleated Linen Curtains",c:"Home",e:"🏠",n:"Use code LYG6W7W9",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GJB6JZYP"},
 {t:"Plaid Heated Blanket",c:"Home",e:"🏠",n:"30% off with code NGMY7X4P",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HH6H39L8"},
 {t:"DHC Deep Cleansing Oil, Makeup Remover, Gentle Oil Cleanser, 6.7 oz",c:"Beauty",e:"💄",dt:"Nov 21",l:"https://www.amazon.com/dp/B001UE60E0"},
 {t:"DROFELY Three Wise Men Decorations",c:"Home",e:"🏠",n:"50% off with code ZEJPGF7A",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CBK3VMGP"},
