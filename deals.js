@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Beats Solo 4 with AppleCare+ for Headphones (2 Years) - Metallic Pink",c:"Electronics",e:"🔌",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FNBNX7JD"},
+{t:"GPS Pet Trackers",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0G39QL7MJ"},
+{t:"Plano 4-Shelf Plastic Storage Shelves, 48” x 23” x 14”, 200lb Capacity, Pantry, Office, Closet and Garage",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CKLS8P2Q"},
+{t:"GREENWORKS 24V 1/2” Brushless Cordless Drill (400 In-lbs.), 2.0Ah (12,000mAh Power Bank) USB-C Batteries, 3.3",c:"Tools",e:"🔧",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F916XPT8"},
+{t:"YDlawn Pole Hedge Trimmers",c:"Beauty",e:"💄",n:"Use code 97RAOSMH",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HR4HXG99"},
 {t:"BIC Xtra Smooth Pastel Mechanical Pencils",c:"Kids",e:"🎨",dt:"Nov 20",l:"https://www.amazon.com/dp/B09RGH38NZ"},
 {t:"Luela Convertible Shoulder Crossbody Bag Duo with Pouch Gift Set",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GQDKYXMZ"},
 {t:"The North Face Trucker Hats",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F97WG7R6"},
