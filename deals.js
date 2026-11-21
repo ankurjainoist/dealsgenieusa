@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Personalized Santa Sack with Name, Large Christmas Gift Bag, Gift string",c:"Home",e:"🎄",n:"49% off with code 1M6CFKWG",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HN2C7QHY"},
+{t:"Color Changing Lip Balm - Long Lasting Tinted Moisturizing Lipstick",c:"Home",e:"🏠",n:"50% off with code 2QGS2TAT",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HR27XZD4"},
+{t:"2pk Vita-A Retinol Shot Wrinkle Cream – Firming Pore Minimizer",c:"Beauty",e:"💄",n:"50% off with code 6FBKI2MC",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HR23ZH25"},
+{t:"Olafus Floodlight Security Cameras",c:"Electronics",e:"🔌",n:"Use code 9RFHDWD8",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DRJK5F8F"},
+{t:"Mens Long Sleeve Button Down Cotton Shirts with Pockets",c:"Fashion",e:"👗",n:"50% off with code UG1PUGWZ",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GLPFV6MB"},
 {t:"36-Hour Emergency Candles (3-Pack)",c:"Home",e:"🏠",n:"Use code SNDH84LK8",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HS7V335J"},
 {t:"Propane Torch Gun,justable Flame Thrower One-Touch Max Fire for Welding",c:"Home",e:"🏠",n:"50% off with code C3EJVCXF",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HC8J2J9P"},
 {t:"2-in-1 Lymphatic Contour Face Brush & Stainless Steel Gua Sha Facial Tools",c:"Tools",e:"🔧",n:"59% off with code WXW6SR7D",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HJ8HF4G4"},
