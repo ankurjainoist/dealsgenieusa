@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"10 Foot Santa Inflatables",c:"Home",e:"🏠",n:"Use code 1U4RJPET",dt:"Nov 21",l:"https://www.amazon.com/dp/B0C997P7FM"},
+{t:"Wi-Fi Fingerprint Door Lock",c:"Home",e:"🏠",n:"40% off with code L1JIQ6L5",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H4546HNW"},
+{t:"Projector Telescope, 24 Space Images, STEM Kids 3-12",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B07XYD3LHJ"},
+{t:"Creatine Monohydrate Gummies",c:"Home",e:"🏠",n:"50% off with code 6WIACJTE",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GLNTK8BD"},
+{t:"6 FT Christmas Tree Curved",c:"Home",e:"🎄",n:"40% off with code JDW229OQ",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H8F359GV"},
 {t:"Meta Quest 3S 128GB, New XBOX Nano Controller & Game Pass Ultimate",c:"Games",e:"🎮",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HNQLCTQD"},
 {t:"Pregnancy Support Pillows (Grey)",c:"Home",e:"🏠",n:"50% off with code NVA1G4H0",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FZSNHQ67"},
 {t:"HW Jump Starters with Air Compressors",c:"Home",e:"🏠",n:"Use code D2C42DST",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G4VC3WXS"},
