@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Sound Deadening Mats",c:"Home",e:"🏠",n:"50% off with code N1LUQEA7",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HJGDYJBJ"},
+{t:"Barbie Puppy Pet Doctor Set, Role Play Set for Kids",c:"Pets",e:"🐾",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G3VXPS1Y"},
+{t:"LEGO Friends Heartlake City Convenience Store 42680",c:"Toys",e:"🧸",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FMS6SHX5"},
+{t:"Throw Throw Burrito by Exploding Kittens, Ages 7+, 2-6 Players",c:"Pets",e:"🐾",dt:"Nov 21",l:"https://www.amazon.com/dp/B07TS96J7Q"},
+{t:"LOreal Paris Elvive Hyaluron Plump Shampoo and Conditioner Set, 53 Fl Oz",c:"Beauty",e:"💄",n:"Subscribe & Save available",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BJNX6R5X"},
 {t:"Campbells Condensed Cream of Broccoli Soup, 10.5 oz Can (12 Pack)",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B006JW4W16"},
 {t:"McFarlane Toys - DC Super Powers Whirlybat (Batmans Aerial Pursuit Copter) Vehicle",c:"Toys",e:"🧸",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BX4QYRKC"},
 {t:"John Deere Farmers Musical Piano",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GWS8FZYT"},
