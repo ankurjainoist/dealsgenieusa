@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BaubleBar - Renee Charm Necklace",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H8BC1H8M"},
+{t:"kate spade new york womens Molten Glass Solitaire Bracelet",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DRW8ZK6N"},
+{t:"Wavytalk Red Light Therapy Mask for Face, Glow Time LED Face Mask 850nm NIR",c:"Beauty",e:"💄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DZ6SLJQ3"},
+{t:"Princess Polly Womens Off Shoulder Top",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GPC4BX6F"},
+{t:"Christmas Shag Runner Rug for Bedroom Living Room 2x6 Upgrade Non-Slip Fluffy Soft Bedside Rugs,Checked",c:"Home",e:"🎄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GRZK1V57"},
 {t:"Apple Watch Series 12 GPS 42mm Smartwatch",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HJ9ZXCSD"},
 {t:"JLab JBuds Lux ANC Jelle Wireless Over-Ear Headphones, Gold Digger",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H3R5RVTQ"},
 {t:"LANEIGE Lip Sleeping Mask, Overnight Care for Dry, Flaky Lips, 0.7 oz/20 g",c:"Beauty",e:"💄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GZR19V44"},
