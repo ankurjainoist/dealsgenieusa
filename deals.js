@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lordtex Waterproof Patio Curtains",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B089SHX23S"},
+{t:"Old Spice The Super Mario Galaxy Movie Holiday Gift Pack for Men, Pack of 4",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HC4K1V91"},
+{t:"Marco Almond Kitchen Knife Set with Block KYA31,14 Pieces Japanese Stainless Steel Cutlery Knives Block Set",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B07RS8Z5L6"},
+{t:"KORUHA Jump Rope Mats",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HCBGDSQ7"},
+{t:"Kids Beanie With Pom Pom",c:"Kids",e:"🎨",n:"50% off with code BT5I5P5U",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H3Z6L7N1"},
 {t:"1X/30X Makeup Mirror with Lights, Rechargeable Magnifying Mirror",c:"Beauty",e:"💄",n:"40% off with code RRY9HKEB",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H5QHN9QW"},
 {t:"High-Speed Travel Hair Dryer, 360° Rotating Head, 0.6Lb Lightweight",c:"Beauty",e:"💄",n:"33% off with code EJTU8PC7",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FRFJFLS7"},
 {t:"Von Dutch Womens Two Tone",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G38ZXZHD"},
