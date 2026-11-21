@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Minions All-Over Print 20-Inch Expandable Spinner Luggage",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HBT5WZ2X"},
+{t:"Hello Kitty Bows All-Over Print 5-Piece Duffel Bag Set",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FK6T6L8Z"},
+{t:"Disney Stitch Ride-On Luggage for Kids, Blue Hardshell Suitcase",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DKG11QG2"},
+{t:"Luwint Leather Workout Gloves",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0B9R61PH7"},
 {t:"Fitness Trackers with Heart Rate Monitor",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HM2M1R59"},
 {t:"Burts Bees Tips and Toes Kit Gift Set",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DSQNRZLL"},
 {t:"Squishmallows Original Micromallows Plush “Snack Machine” Deluxe Accessory Set",c:"Grocery",e:"🛒",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DGB56YNC"},
