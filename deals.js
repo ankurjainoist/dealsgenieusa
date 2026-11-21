@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bephor Scalp Cleansing Toners",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DHDGWXGK"},
+{t:"4K Night Vision Goggles forults, Digital Binoculars with Camera",c:"Electronics",e:"🔌",n:"40% off with code 7JBKS4HS",dt:"Nov 21",l:"https://www.amazon.com/dp/B0D2WSNMVK"},
+{t:"McCook Knife Set Gold Kitchen Knife Block Set w Built-in Sharpener",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B09Z6Q39QX"},
+{t:"XGIMI Vibe One Portable Projectors",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B08G86YNPW"},
 {t:"10 Foot Santa Inflatables",c:"Home",e:"🏠",n:"Use code 1U4RJPET",dt:"Nov 21",l:"https://www.amazon.com/dp/B0C997P7FM"},
 {t:"Wi-Fi Fingerprint Door Lock",c:"Home",e:"🏠",n:"40% off with code L1JIQ6L5",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H4546HNW"},
 {t:"Projector Telescope, 24 Space Images, STEM Kids 3-12",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B07XYD3LHJ"},
