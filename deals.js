@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Medicube Retinol Boosting Serums",c:"Beauty",e:"💄",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FPFDSC7X"},
+{t:"The Sak Sequoia Leather Hobo Bags",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0CDZRM54Z"},
+{t:"Tabletop Gift Wrapping Tool with Tape Dispenser–2 Packjustable Wrapping Paper Table Clamps with 2",c:"Tools",e:"🔧",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FPQQGDS4"},
+{t:"Philips Sonicare Electric Toothbrushes",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0H46YLSZ1"},
+{t:"Octobuddy Classic Phone Mounts",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B09KT2RYKV"},
 {t:"BTFBM Womens Summer Casual Dresses Ruffle Sleeve Lightweight Maxi Dress",c:"Fashion",e:"👗",n:"Use code 50ZGN4CR",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FRML2QBS"},
 {t:"Solar Lights Outdoor Patio Lights",c:"Home",e:"🏠",n:"Use code 4PN7BQXF",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GBV9HRQ3"},
 {t:"Keter City 30 Gal Outdoor Storage Box and Patio Side Table",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B09DTJPPG8"},
