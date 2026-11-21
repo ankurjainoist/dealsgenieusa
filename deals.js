@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Softsoap Antibacterial Hand Soap, Cool Splash Scent, 11.25 fl oz (6 Pack)",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B08KKCV4D5"},
+{t:"The Jesus Bible Artist Edition, NIV, Leathersoft, Multi-color/Teal, Comfort Print",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/0310454468"},
+{t:"Universal Seat Cushion Covers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HMHY8F2N"},
+{t:"Franklin Sports X-40 Pickleballs",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B074P8MZW9"},
+{t:"Energizer Smart 2K Doorbell & Chime, Wired Video Doorbell Security Camera, 2-Way Audio, Night Vision, Cloud &",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DT2539JG"},
 {t:"Christmas Nativity Inflatables",c:"Home",e:"🎄",n:"Use code TNPG1V4Y",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FVXH6WJK"},
 {t:"Cold Press Juicers",c:"Home",e:"🏠",n:"Use code RY6W565V",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GVJ9VVT8"},
 {t:"BLUEAIR 2.1L Mist-Free Humidifiers for Home, 1/2 Gallon, DreamWell Beige",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HF6NM3Q1"},
