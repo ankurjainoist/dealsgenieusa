@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"HANDONTIME Abstract Couch Covers",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FN7KDVFD",img:"img/B0FN7KDVFD.jpg"},
 {t:"FLORASIS Floral Dewy Lipsticks",c:"Home",e:"🏠",n:"Use code CNPHX87P",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HHS1DKLN",img:"img/B0HHS1DKLN.jpg"},
 {t:"iKumar 59 Pcs Crochet Kit for Beginnersults, Crochet Kits Include Yarn and Storage Bag",c:"Home",e:"🏠",n:"Use code 3TVQ8SC6",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GWMT8TDJ",img:"img/B0GWMT8TDJ.jpg"},
 {t:"17 Inch Christmas Candy Cane Pathway Lights, 12 Pack Outdoor Waterproof LED",c:"Grocery",e:"🎄",n:"Use code F2FX6O54",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H97ZHWTQ",img:"img/B0H97ZHWTQ.jpg"},
