@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Matcha Whisk Sets",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FVFKHVC4"},
+{t:"Wooden Trays with Gold Handles",c:"Home",e:"🏠",n:"Use code VWZ152II",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HBKPYS74"},
+{t:"Daymellow Sheet Masks (5-Pack)",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B07SFT99S7"},
+{t:"Transon Alcohol Markers (48 Colors)",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0F5W28Y9Y"},
 {t:"GHCKER Boho Rattan Floor Lamps",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D2VLFY79"},
 {t:"ApplianPar Hood Lock Latches",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B0DQ8HJRLX"},
 {t:"Sampeel Leather Jacket Women Faux Oversized Motorcycle Bomber Coats 2026 Fall Fashion Outfits Winter Clothes",c:"Fashion",e:"👗",dt:"Nov 20",l:"https://www.amazon.com/dp/B0D7MC9QCY"},
