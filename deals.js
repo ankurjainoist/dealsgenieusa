@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"10.5 Inch Damascus Butcher Knife, Full-Tang, Razor Sharp",c:"Kitchen",e:"🍳",n:"40% off with code VEPB0KZ8",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DDCH9G7Y"},
+{t:"AVJONE Under Eye Patches",c:"Home",e:"🏠",n:"Use code WLBKZ2C9",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HPFGV3VJ"},
+{t:"Fixed Blade Knife with Kydex Sheath, EDC Survival Tanto",c:"Tools",e:"🔧",n:"60% off with code AR5XTJUZ",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HBRV5PTV"},
+{t:"Wall Heater with Energy Mode & Remote Control, 1500W Space Heater",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HGQTZ4XT"},
+{t:"Hawaiian Shirt for Men",c:"Home",e:"🏠",n:"50% off with code WP4HHHKO",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HKJ3RYTR"},
 {t:"Floor Gap Fixer Tools",c:"Tools",e:"🔧",n:"Use code O1UCTS2B",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HFNND3K1"},
 {t:"Swarovski Infinity Heart Jewelry Collection, Necklaces and Bracelets, Rose Gold & Rhodium Tone Finish, Clear",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0814Y1G6Z"},
 {t:"Squishmallows Original Jolene the Lavender Spotted Cowgirl Fruit Bat Multisize Combo Pack",c:"Home",e:"🏠",n:"Clip the 47% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DK7Y2BVV"},
