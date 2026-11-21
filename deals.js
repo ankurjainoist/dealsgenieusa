@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Amazon Kids Tablet 11 (newest model), Ages 6-12, Includes books, apps and videos for STEM and hobbies;d",c:"Kids",e:"🎨",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F5FTL637"},
+{t:"Vertvie 1 PC Fleece Lined Tights Women Fake Translucent",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DM1C7SKZ"},
+{t:"PEJE Smart Glasses (White)",c:"Electronics",e:"🔌",n:"Use code H5XWF9M3",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HS6N2PRZ"},
+{t:"Mosquito Repellent Balls",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HJQY5L11"},
+{t:"Portable Bluetooth Speakers with LED Lights",c:"Electronics",e:"🔌",n:"Use code Q0OKE86H",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HM7R55YZ"},
 {t:"Sol de Janeiro Jet Set, Travel Shower Kit, value",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CZMNGCSB"},
 {t:"Bento Lunch Boxes (Grey)",c:"Home",e:"🏠",n:"Use code 1ZYR9756",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GWLQT9NB"},
 {t:"Sol de Janeiro Hydrating Jet Set Cheirosa 62 Travel Size Skincare Minis",c:"Beauty",e:"💄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H12ZLGV2"},
