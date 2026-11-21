@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Sol de Janeiro Jet Set, Travel Shower Kit, value",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CZMNGCSB"},
+{t:"Bento Lunch Boxes (Grey)",c:"Home",e:"🏠",n:"Use code 1ZYR9756",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GWLQT9NB"},
+{t:"Sol de Janeiro Hydrating Jet Set Cheirosa 62 Travel Size Skincare Minis",c:"Beauty",e:"💄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H12ZLGV2"},
+{t:"Electric Razors for Women",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H86L4GLP"},
+{t:"GUI GUI Mega Slime Haul, 5 Scented Slimes, 50+ Pieces, Kids Toys",c:"Toys",e:"🧸",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G497FGT6"},
 {t:"OIYIO Modern Pendant Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HH3KB19W"},
 {t:"Bath Pillows (Black)",c:"Home",e:"🏠",n:"Use code D7SJBX0C",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H25S6DJ9"},
 {t:"Funny Black Cat Fridge Magnets Daily Life of Cat 3D Wood Magnet Funny Art Frame Designs Decorations for",c:"Pets",e:"🐾",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GTZWY2W8"},
