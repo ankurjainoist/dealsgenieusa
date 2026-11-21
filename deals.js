@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Campbells Condensed Cream of Broccoli Soup, 10.5 oz Can (12 Pack)",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B006JW4W16"},
+{t:"McFarlane Toys - DC Super Powers Whirlybat (Batmans Aerial Pursuit Copter) Vehicle",c:"Toys",e:"🧸",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BX4QYRKC"},
+{t:"John Deere Farmers Musical Piano",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GWS8FZYT"},
+{t:"Melissa & Doug Deluxe Chomp & Clack Alligator Wooden Baby Push Toy",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B000GZGE3Q"},
+{t:"Welchs Zero Sugar Fruity Bites,Mixed Fruit Snack Box,Gluten Free & Sugar Free Snacks,3oz Snack Packs,(Pack of",c:"Grocery",e:"🛒",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GHD451MX"},
 {t:"BaubleBar - Renee Charm Necklace",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H8BC1H8M"},
 {t:"kate spade new york womens Molten Glass Solitaire Bracelet",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DRW8ZK6N"},
 {t:"Wavytalk Red Light Therapy Mask for Face, Glow Time LED Face Mask 850nm NIR",c:"Beauty",e:"💄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DZ6SLJQ3"},
