@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Plaid Heated Blanket",c:"Home",e:"🏠",n:"30% off with code NGMY7X4P",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HH6H39L8"},
+{t:"DHC Deep Cleansing Oil, Makeup Remover, Gentle Oil Cleanser, 6.7 oz",c:"Beauty",e:"💄",dt:"Nov 21",l:"https://www.amazon.com/dp/B001UE60E0"},
+{t:"DROFELY Three Wise Men Decorations",c:"Home",e:"🏠",n:"50% off with code ZEJPGF7A",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CBK3VMGP"},
+{t:"low stock",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CWSCJ9DR"},
+{t:"low stock!",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CWSCPDMG"},
 {t:"Bephor Scalp Cleansing Toners",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DHDGWXGK"},
 {t:"4K Night Vision Goggles forults, Digital Binoculars with Camera",c:"Electronics",e:"🔌",n:"40% off with code 7JBKS4HS",dt:"Nov 21",l:"https://www.amazon.com/dp/B0D2WSNMVK"},
 {t:"McCook Knife Set Gold Kitchen Knife Block Set w Built-in Sharpener",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B09Z6Q39QX"},
