@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LED Clip On Running Light for Runners Angel Wing",c:"Home",e:"🏠",n:"Use code F12GYLAN",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HS4ZL3MJ"},
+{t:"Mini Magnetic Tiles Sets",c:"Home",e:"🏠",n:"Use code VXWBJMGN",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HK7XCL2S"},
+{t:"Overhead Phone Mount with 60 LED Portable Selfie Light",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CXXH6K91"},
+{t:"AI Smart Glasses with 8MP Camera, 1080P Video",c:"Electronics",e:"🔌",n:"Use code 5I3Q6BN0",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HLK1XLQH"},
 {t:"Novabright 36 Grids Bamboo Spice Organizer",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GGSY58H7"},
 {t:"Emergency Survival Candles",c:"Home",e:"🏠",n:"Use code BSS41FBO",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HS7K7HJQ"},
 {t:"Quilted Northern Ultra Plush Toilet Paper, 24 Mega Rolls = 96 Regular Rolls",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CQMJFR1S"},
