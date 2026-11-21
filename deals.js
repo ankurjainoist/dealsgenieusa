@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Size Large",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DNTVZ9DW"},
+{t:"TI-84 Evo Graphing Calculator Texas Instruments",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G8QXXF8B"},
+{t:"Michael Kors Womens Tanner Large Packable Tote",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GHZP17FG"},
+{t:"BaubleBar Daphne Pull Tie Bracelet for Women",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DHYQ4754"},
+{t:"Christmas Inflatable Elephants (4.5ft)",c:"Home",e:"🎄",n:"Use code EC6E4GZK",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DG2N17JC"},
 {t:"Brightown Blue Solar Christmas Lights, 50LED C6 Solar String lights Outdoor",c:"Home",e:"🎄",n:"Use code E7BQIQS2",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H29C9XL6"},
 {t:"Exclusivo Mezcla 3D Checkered Fleece Throw Blanket for Couch, Ivory",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0D25Z18JG"},
 {t:"16oz/470ml Glass Olive Oil Sprayer for Cooking",c:"Home",e:"🏠",n:"Use code TWDGR7OC",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G2XJNSSL"},
