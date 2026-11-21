@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PICKTOP 12 Pack 10 Inch Mini Christmas Wreaths,with Sturdy Artificial Vine Base,Mini Wreaths for",c:"Home",e:"🎄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HHMSL4XV"},
+{t:"VEGEMO Soy Cream Soups",c:"Beauty",e:"💄",n:"Clip the 50% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F99K5RSM"},
+{t:"TELFAR Small Shopping Bag, Unisex Compact Mini Tote, Faux Leather, Hand & Crossbody Carry Tote, Embossed",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DHW3JH4L"},
+{t:"Vacuum Bags for Travel with 6000Pa Pump, 13 Pack (S/M/L/XL/XXL) Space Saver Compression Bags for Suitcase",c:"Health",e:"💊",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H2XRNJYN"},
+{t:"Martha Stewart 5.3QT Tilt Head Stand Mixer, 12 Speeds, Stainless Steel Bowl",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HJDKPVTN"},
 {t:"Turtle Beach Rematch Wireless Controller Animal Crossing Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H3W9RBTY"},
 {t:"Hanes Mens EcoSmart Sweatpants, Athletic Lounge Pants with Pockets, Open Hem Bottom, Fleece Pants",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F2NCKGPF"},
 {t:"Bluey Police Car Toy, Lights & Sounds, Policeman Figure",c:"Auto",e:"🚗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FLKL6P7R"},
