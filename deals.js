@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Conair Luxe Claw Clips",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GYQK176R"},
+{t:"Charlotte Tilbury Beauty Light Wands",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H4SCGNRJ"},
+{t:"Roborock Q7 L5 Robot Vacuums",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F334DN9J"},
+{t:"Canon EOS Rebel T7 Cameras",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0101RW3QK"},
 {t:"Step2 Love & Care Deluxe Baby Doll Nursery Playset for Kids, Compact Changing Station & Crib",c:"Baby",e:"👶",dt:"Nov 21",l:"https://www.amazon.com/dp/B00MYWFC46"},
 {t:"Toniebox 2 Audio Player Starter Set for Kids 1+, Sunset Red",c:"Kids",e:"🎨",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FJ2ZJHHT"},
 {t:"Crayola Color Wonder Mess Free Fingerprint Book, Toddler Finger Painting",c:"Baby",e:"👶",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BG3FKR7P"},
