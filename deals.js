@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"36-Hour Emergency Candles (3-Pack)",c:"Home",e:"🏠",n:"Use code SNDH84LK8",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HS7V335J"},
+{t:"Propane Torch Gun,justable Flame Thrower One-Touch Max Fire for Welding",c:"Home",e:"🏠",n:"50% off with code C3EJVCXF",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HC8J2J9P"},
+{t:"2-in-1 Lymphatic Contour Face Brush & Stainless Steel Gua Sha Facial Tools",c:"Tools",e:"🔧",n:"59% off with code WXW6SR7D",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HJ8HF4G4"},
+{t:"Super Strong Magnetic Tool Holder",c:"Tools",e:"🔧",n:"50% off with code OZV2V46B",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H17TXGH7"},
+{t:"Mens Barefoot Shoes, Wide Toe, Zero Drop",c:"Fashion",e:"👗",n:"62% off with code XLNBNJA0",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GH1ZQG5J"},
 {t:"10.5 Inch Damascus Butcher Knife, Full-Tang, Razor Sharp",c:"Kitchen",e:"🍳",n:"40% off with code VEPB0KZ8",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DDCH9G7Y"},
 {t:"AVJONE Under Eye Patches",c:"Home",e:"🏠",n:"Use code WLBKZ2C9",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HPFGV3VJ"},
 {t:"Fixed Blade Knife with Kydex Sheath, EDC Survival Tanto",c:"Tools",e:"🔧",n:"60% off with code AR5XTJUZ",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HBRV5PTV"},
