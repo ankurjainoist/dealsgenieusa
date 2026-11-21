@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"OIYIO Modern Pendant Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HH3KB19W"},
+{t:"Bath Pillows (Black)",c:"Home",e:"🏠",n:"Use code D7SJBX0C",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H25S6DJ9"},
+{t:"Funny Black Cat Fridge Magnets Daily Life of Cat 3D Wood Magnet Funny Art Frame Designs Decorations for",c:"Pets",e:"🐾",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GTZWY2W8"},
+{t:"Amazon eero 6+ mesh wifi system - Supports internet plans up to a Gigabit, Coverage up to 6,000 sq. ft.",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BLXKY4PF"},
 {t:"Conair Luxe Claw Clips",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GYQK176R"},
 {t:"Charlotte Tilbury Beauty Light Wands",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H4SCGNRJ"},
 {t:"Roborock Q7 L5 Robot Vacuums",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F334DN9J"},
