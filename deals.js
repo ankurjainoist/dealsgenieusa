@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Nativity Inflatables",c:"Home",e:"🎄",n:"Use code TNPG1V4Y",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FVXH6WJK"},
+{t:"Cold Press Juicers",c:"Home",e:"🏠",n:"Use code RY6W565V",dt:"Nov 20",l:"https://www.amazon.com/dp/B0GVJ9VVT8"},
+{t:"BLUEAIR 2.1L Mist-Free Humidifiers for Home, 1/2 Gallon, DreamWell Beige",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HF6NM3Q1"},
 {t:"Matcha Whisk Sets",c:"Home",e:"🏠",dt:"Nov 20",l:"https://www.amazon.com/dp/B0FVFKHVC4"},
 {t:"Wooden Trays with Gold Handles",c:"Home",e:"🏠",n:"Use code VWZ152II",dt:"Nov 20",l:"https://www.amazon.com/dp/B0HBKPYS74"},
 {t:"Daymellow Sheet Masks (5-Pack)",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 20",l:"https://www.amazon.com/dp/B07SFT99S7"},
