@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Meta Quest 3S 128GB, New XBOX Nano Controller & Game Pass Ultimate",c:"Games",e:"🎮",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HNQLCTQD"},
+{t:"Pregnancy Support Pillows (Grey)",c:"Home",e:"🏠",n:"50% off with code NVA1G4H0",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FZSNHQ67"},
+{t:"HW Jump Starters with Air Compressors",c:"Home",e:"🏠",n:"Use code D2C42DST",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G4VC3WXS"},
+{t:"Samsung Galaxy Watch 840mm Bluetooth Smartwatch, Cushion Design, Quick Button, Sleep Coaching, Now Bar",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F7QD4HSD"},
 {t:"4 Pack Christmas Money Box for Cash Gift Pull, Money Pull Box Set with 120 Pcs Transparent Bags",c:"Home",e:"🎄",n:"50% off with code C9Z2Y0E8",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H33MBCRC"},
 {t:"Fezatuda 8CH Security Camera Systems",c:"Electronics",e:"🔌",n:"Use code R7P4BKDK",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HDLRLJ7V"},
 {t:"Oars + Alps Exfoliating & Moisturizing Mens Bar Soap, Coconut Oil, 6pk",c:"Fashion",e:"👗",n:"Subscribe & Save available",dt:"Nov 21",l:"https://www.amazon.com/dp/B09B435F7J"},
