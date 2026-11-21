@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Apple Watch Series 12 GPS 42mm Smartwatch",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HJ9ZXCSD"},
+{t:"JLab JBuds Lux ANC Jelle Wireless Over-Ear Headphones, Gold Digger",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H3R5RVTQ"},
+{t:"LANEIGE Lip Sleeping Mask, Overnight Care for Dry, Flaky Lips, 0.7 oz/20 g",c:"Beauty",e:"💄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GZR19V44"},
+{t:"VEVOR 3/8 in Drive Impact Socket Set, 64 Piece, Deep & Shallow Kit",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G2L57HPZ"},
+{t:"OGX Thick & Full + Biotin & Collagen Shampoo & Conditioner, 2 x 13 fl. oz",c:"Beauty",e:"💄",dt:"Nov 21",l:"https://www.amazon.com/dp/B078K4PKKR"},
 {t:"PICKTOP 12 Pack 10 Inch Mini Christmas Wreaths,with Sturdy Artificial Vine Base,Mini Wreaths for",c:"Home",e:"🎄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HHMSL4XV"},
 {t:"VEGEMO Soy Cream Soups",c:"Beauty",e:"💄",n:"Clip the 50% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F99K5RSM"},
 {t:"TELFAR Small Shopping Bag, Unisex Compact Mini Tote, Faux Leather, Hand & Crossbody Carry Tote, Embossed",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DHW3JH4L"},
