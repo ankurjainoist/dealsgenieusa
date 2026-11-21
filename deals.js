@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"17 Inch Christmas Candy Cane Pathway Lights, 12 Pack Outdoor Waterproof LED",c:"Grocery",e:"🎄",n:"Use code F2FX6O54",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H97ZHWTQ",img:"img/B0H97ZHWTQ.jpg"},
 {t:"Mason Jar Pitcher, 64oz (2 Quart), Glass Pitcher with Lid & Handle",c:"Home",e:"🏠",n:"Use code YM9KW67T",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GC6QYYCJ",img:"img/B0GC6QYYCJ.jpg"},
 {t:"Softsoap Antibacterial Hand Soap, Cool Splash Scent, 11.25 fl oz (6 Pack)",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B08KKCV4D5"},
 {t:"The Jesus Bible Artist Edition, NIV, Leathersoft, Multi-color/Teal, Comfort Print",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/0310454468"},
