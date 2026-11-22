@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ceiutrye Handheld Torch Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DZ2BT1NB"},
+{t:"Kenra Nitro Memory Crème 18, Firm Hold Crème Mousse, 3 Day Style Memory, 1st Nitrogen Crème Mousse, No Stick",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B07Q4X12J1"},
+{t:"Mitywah iPhone 15 Pro Max Cases",c:"Home",e:"🏠",n:"50% off with code LV2UM9XD",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CP34R3J2"},
+{t:"LANEIGE Lip Glowy Balm, Hydrating Glossy Lip Balm with Shea Butter",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B07DY2QRF6"},
 {t:"Soundcore Select 4 Go Shower Speakers",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DB1753RZ"},
 {t:"Onespring Eye Mask Patches",c:"Beauty",e:"💄",n:"Use code 7QTZUTSD",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F5H9RT1L"},
 {t:"LEAVAQ Peelable Microfiber Sponges",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DPSRN918"},
