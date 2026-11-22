@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Makita Guide Rail Connectors",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BJVJCDJR",img:"img/B0BJVJCDJR.jpg"},
 {t:"Portable Clothes Dryers",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HLDVDNY8",img:"img/B0HLDVDNY8.jpg"},
 {t:"TIOBOHEM Magnetic Cabinet Door Catches",c:"Home",e:"🏠",n:"Use code E1BUJ4FN",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H794KJGF"},
 {t:"Avaliable on regular & biz accounts",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0000A1ZN1"},
