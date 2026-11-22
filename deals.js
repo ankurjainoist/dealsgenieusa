@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hey! Play! Kids Exercise Equipment Collection: Strength Training, Cardio, Endurance, and Active Play",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CG2GZB5P"},
+{t:"Kids Preferred Elf 4 Pc Cuteeze Plush Set - Buddy, Arctic Puffin, Mr. Narwhal, and Baby Walrus - Stuffed",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F3B9QMF9"},
+{t:"Travel Size Conditioner Bulk 0.7fl oz,Small Size Mini Conditioner",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJMHJK8G"},
+{t:"Maison d Hermine Nap Mats",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D2X8RWRT"},
+{t:"Oars + Alps Mens Body & Face Wash, Moisturizing Body Wash, 3pk, 13.5 Fl Oz",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0BKGZXSFP"},
 {t:"OCBON Unscented Ultra Thin Sanitary Pads (64 Count, Regular) – Organic Cotton Feminine Pads with Wings for",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CGRFD22M"},
 {t:"Sunny Color Car Seat Cushions",c:"Auto",e:"🚗",n:"50% off with code QV9XPDSU",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G4CQ86H2"},
 {t:"Light Up Drawing Boards",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G34BYVZ2"},
