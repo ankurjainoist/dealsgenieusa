@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Owala SmoothSip Travel Coffee Cups",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GWSD4RW9"},
+{t:"Dump Garden Carts (Orange)",c:"Home",e:"🏠",n:"Use code GU6UYH7I",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HNK9Q59P"},
+{t:"medicube PDRN Silky Sun Stick, SPF 50 Airy & Pore-Blurring Finish, 0.81 oz.",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H71MS45B"},
+{t:"Liberecoo Clear Vinyl Tablecloths",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B09YPYB9RR"},
 {t:"medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin",c:"Beauty",e:"💄",n:"Use code MEDICUBE15",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DBF65JYY"},
 {t:"12 Pcs Handcrafted Christmas Crochet Ball Ornaments Christmas Knitted Ornaments Neutral Decoration for Xmas",c:"Home",e:"🎄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FND3TZX8"},
 {t:"Oral-B Rechargeable Electric Toothbrush, iO3 Limited Deep Clean",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0B5HQZ4QB"},
