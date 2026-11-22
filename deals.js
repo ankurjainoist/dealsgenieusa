@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Vqqiz Spider Web Shooters",c:"Home",e:"🏠",n:"50% off with code 2ZVAJKJ3",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJCCVTQ7"},
+{t:"Rubbermaid Brilliance Plastic Airtight Food Storage Container, 12-Cup",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B07531HM8Q"},
+{t:"Astro Bot PS5",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D5SM3K4Q"},
+{t:"Ray-Ban Meta (Gen 2), Headliner AI Glasses",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FLYL62ND"},
+{t:"Funko POP! Movies: Ghostface",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CND1KMSD"},
+{t:"2pk Life360 Tile Sticker - Small Bluetooth Tracker, Remote Finder and Item Locator for Bikes, Glasses and More",c:"Electronics",e:"🔌",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D636SL59"},
+{t:"LANEIGE Bouncy & Firm Plumping & Firming Lip Treatment",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D84WSNQK"},
+{t:"Kitsch Stainless Steel Guasha Tool for Face, Iridescent",c:"Tools",e:"🔧",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F5S6N75Z"},
+{t:"Cat in the Hat: Rainy Day Mayhem (Amazon Exclusive sticker sheet) - Nintendo Switch",c:"Pets",e:"🐾",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H3W27WY2"},
+{t:"Unicorn Overlord - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CJ3ZGM7Y"},
 {t:"MAGNA-TILES microMAGSvent Calendar 34-Piece Magnetic Construction Set",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DW97H6ZR"},
 {t:"Sonic Racing: CrossWorlds Amazon Exclusive Edition - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F8RBYYNM"},
 {t:"Sol de Janeiro Body Badalada Body Lotion for Dry Skin",c:"Beauty",e:"💄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GR6YYMC5"},
