@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Magnetic Tiles 102pcs with 2 Stairs 2 Dolls",c:"Toys",e:"🧸",n:"30% off with code 24318JZJ",dt:"Nov 22",l:"https://www.amazon.com/dp/B09XK6FMYV"},
+{t:"RXLUY Folding Pocket Knives",c:"Home",e:"🏠",n:"Use code B5SXSZ5T",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GSS79PFP"},
+{t:"Octomo Christmasvent Calendar 2026, 24 Mini XMAS Building Blocks Set",c:"Toys",e:"🎄",n:"Use code CAC50OFF",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJYWDVZN"},
+{t:"Adjustable Toddler Basketball Hoop & Soccer Goal",c:"Baby",e:"👶",n:"50% off with code WU4YZCR9",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HDDKK75V"},
+{t:"Emergency Long Burning Candles",c:"Home",e:"🏠",n:"50% off with code SEPMCEN6",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HRTYXBSJ"},
+{t:"Soalmost Dog 9x12 Pink Area Rugs for Baby Girl Nursery, Washable Soft Rug",c:"Pets",e:"🐾",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GQM7J5N3"},
+{t:"Elmer’s Ocean Dive Slime Kit, Includes Glue & Activators, 9 Piece Kit",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FKCQ5XWM"},
+{t:"Brightown Solar Meteor Shower Lights",c:"Home",e:"🏠",n:"44% off with code FPAGWANL",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H33XM8M4"},
 {t:"AIboost USB-C Charging Cables",c:"Electronics",e:"🔌",n:"Use code 8UXYYKP9",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HCTQ5VL5"},
 {t:"Toilet Stool Squatult, Poop Squatting Stool, 7” Potty Step for Bathroom",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CSRVGR3M"},
 {t:"Geruicee Cordless Pressure Washers",c:"Home",e:"🏠",n:"50% off with code MQ2EOYB3",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HCY8Q66C"},
