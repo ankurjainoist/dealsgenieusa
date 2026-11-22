@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"RC Excavators",c:"Home",e:"🏠",n:"Use code QTTTC1Y6",dt:"Nov 21",l:"https://www.amazon.com/dp/B0B2JQ969L"},
+{t:"BISSELL Portable Carpet Cleaners",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DJMP6T3N"},
+{t:"Electric Motorized Train Sets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G9HLJVL1"},
+{t:"Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Olive",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H82XM1S2"},
+{t:"Electric Space Heaters",c:"Home",e:"🏠",n:"Use code JV3ABNBT",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H8N82V4H"},
 {t:"60 Count Duster Refills Dusters for Cleaning Compatible with Swiffer",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G3XMVK64"},
 {t:"Anayguto Engine Block Heater Cords",c:"Home",e:"🏠",n:"Coupon: 50% off",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GHRBR1P1"},
 {t:"Full Length Mirrors with Lights",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HCSLYM21"},
