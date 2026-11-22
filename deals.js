@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"60 Count Duster Refills Dusters for Cleaning Compatible with Swiffer",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G3XMVK64"},
+{t:"Anayguto Engine Block Heater Cords",c:"Home",e:"🏠",n:"Coupon: 50% off",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GHRBR1P1"},
+{t:"Full Length Mirrors with Lights",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HCSLYM21"},
+{t:"Dry Erase Boards with Pens",c:"Home",e:"🏠",n:"Use code LTTSUCUL",dt:"Nov 21",l:"https://www.amazon.com/dp/B09BVRWP37"},
 {t:"Perfect Plants Autumn Bonfire Encore Azalea, 1 Gallon, Live Plant",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G3XSGD78"},
 {t:"Rosette Maker Sets",c:"Home",e:"🏠",n:"Use code 2EP2LBDU",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F9KGVXRK"},
 {t:"WOOMADA Velvet Jewelry Organizers",c:"Fashion",e:"👗",n:"Use code CSBZEA8P",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HCCDXM3N"},
