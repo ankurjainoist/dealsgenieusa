@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Zmodo 2.5K Window Security Cameras",c:"Electronics",e:"🔌",n:"Use code 3MB5YJD4",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HS3TSGX4"},
+{t:"Maison d Hermine Laptop Sleeves (15.5 in)",c:"Electronics",e:"🔌",n:"Clip the 40% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CPSFL2X5"},
+{t:"2 Pack 4FT Lighted Birch Trees, 96 LED Twinkling Trees, 2 Lighting Modes, Warm White",c:"Home",e:"🏠",n:"50% off with code NJGSS6L8",dt:"Nov 22",l:"https://www.amazon.com/dp/B0B59CW39H"},
+{t:"Baseball Cross Necklaces for Boys/Men",c:"Fashion",e:"👗",n:"46% off with code W5CDEHCJ",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FJQVF1TW"},
+{t:"LAVOIR Scented Dryer Sheets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B09TBGS5FN"},
+{t:"GIANTEX 5-Tier Geometric Bookshelf White, 70 Tall Wood Freestanding Decorative Display Open Shelves with",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B07WHFWNRK"},
+{t:"925 Sterling Silver Hug Ring for Granddaughter/Daughter/Girls/Women",c:"Fashion",e:"👗",n:"65% off with code 7WU58U0F",dt:"Nov 22",l:"https://www.amazon.com/dp/B0BTY2WQWN"},
+{t:"Owala FreeSip Stainless Steel Water Bottle 19 oz Tropical Rain",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FQZNDH3Z"},
 {t:"IVY Classic Cobalt Steel Drill Bits",c:"Tools",e:"🔧",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0050PTUEW"},
 {t:"Melissa & Doug USA Map Jumbo Floor Puzzle 51-Piece Educational Toy",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FKPSWT7X"},
 {t:"Glow Daily Beauty Supplements",c:"Health",e:"💊",n:"Clip the 40% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HBQK5C8D"},
