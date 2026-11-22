@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Highland Cow Neon Signs",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GS7SCC7Z"},
+{t:"Jelly Bras for Women No Underwire Scalloped Wireless Push Up Bra",c:"Fashion",e:"👗",n:"64% off with code WNXOP8DV",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G28QCVL1"},
+{t:"Hanna Nikole Tankini Swimsuits for Women Beaded Tankini with Shorts",c:"Fashion",e:"👗",n:"50% off with code 7N8Y6JTY",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HMCFVBTM"},
+{t:"Lightweight Long Sleeve Workout Tops for Women",c:"Fashion",e:"👗",n:"59% off with code U8U2DI0O",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FPM6YS1H"},
+{t:"Womens V Neck Long Sleeve Fall Midi Maxi Dresses with Pockets",c:"Fashion",e:"👗",n:"65% off with code USPHPE8J",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HH9GFMZ3"},
+{t:"Noizka Remote Control Excavators",c:"Home",e:"🏠",n:"Use code 830ZJDGM",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H2M9GKXY"},
+{t:"DreamsEden Leather Desk Organizers",c:"Home",e:"🏠",n:"Clip the 41% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CMQ15M5P"},
+{t:"Gender Reveal - 5.5 in - Pink & Blue Powder Filled Soccer Ball",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B08ZJRG7CB"},
+{t:"Roysmart Automotive Smoke Testers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H3PBPDYP"},
+{t:"MaxWorks 4-Tier Portable Walk-in GreenhoUse – 27” x 19” x 63” – Tall Mini Plant Grow HoUse with Clear PE",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DDVQQK36"},
 {t:"Leaf Blower Cordless, Black-Yellow",c:"Home",e:"🏠",n:"45% off with code JPOEXA3G",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HH8R1RD6"},
 {t:"Outdoor Christmas Rugs",c:"Home",e:"🎄",n:"Use code U1ZR5EC3",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HQHHF6LV"},
 {t:"24 Pack Solar Candy Cane Lights Outdoor Christmas Yard Decorations",c:"Grocery",e:"🎄",n:"63% off with code 30HN8A5N",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HDHR71CG"},
