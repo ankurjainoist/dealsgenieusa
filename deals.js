@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Baby Delight Go with Me Venture Portable Chair, Indoor and Outdoor, Sun Canopy, 3 Child Growth Stages",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0BXMV6TTW"},
+{t:"WiFi Extender Signal Boosters",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HPFYCWML"},
+{t:"Showstopper Bracelet for Women, 14k Gold Plated Clover Charm Chain Bracelet,justable Layering Statement",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FXBG5H2Y"},
+{t:"BaubleBar Three Bracelet Gift Set for Women, Gold-Plated Initial Beaded Bracelets, Fashion Jewelry",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FJTNCPF1"},
+{t:"Noise Cancelling Silicone Earplugs",c:"Health",e:"💊",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H8WMS58M"},
+{t:"Nintendo Switch 2 + Mario Kart World Bundle (includes 3-month NSO Individual Membership)",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HGHB3V16"},
+{t:"Ninja SLUSHi Professional Drink Maker, FS301",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D2LZYQ2M"},
+{t:"Under Armour Mens Charged Edge Shoes",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CKLKT857"},
+{t:"Funny Christmas Kitchen Aprons",c:"Kitchen",e:"🎄",n:"50% off with code 5ZQ6S51G",dt:"Nov 22",l:"https://www.amazon.com/dp/B0816M9LP6"},
 {t:"Cuisinart 12-Cup Classic Programmable Coffeemaker, White, 12-Cup, Programmable, DCC-1120NAS",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B08DCTFDH2"},
 {t:"Small Baby Piano Toy, Touch Play, 12 Melodies & Music Cards, Ages 18 Month+",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HHMSXNBQ"},
 {t:"Hills Science Diet Seniorult 7+ Small Bites Dry Dog Food",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B009B87RWG"},
