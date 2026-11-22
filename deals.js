@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cuisinart 12-Cup Classic Programmable Coffeemaker, White, 12-Cup, Programmable, DCC-1120NAS",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B08DCTFDH2"},
+{t:"Small Baby Piano Toy, Touch Play, 12 Melodies & Music Cards, Ages 18 Month+",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HHMSXNBQ"},
+{t:"Hills Science Diet Seniorult 7+ Small Bites Dry Dog Food",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B009B87RWG"},
+{t:"Anycubic Kobra 4 Combo 3D Printer with ACE 2 Pro, Native 4-Color Printing",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GZ3Y8PLG"},
+{t:"OATSBASF Samsung Galaxy Z Fold 7 Cases",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FK49833P"},
+{t:"Bioderma Sensibio Foaming Gel Cleansing and Make-Up Removing Refreshing feeling for Sensitive Skin Unscented",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B07N1W36GB"},
+{t:"Bioderma Sensibio AR+ Cream Facial Redness Relief Lotion for Sensitive Skin",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DVSM4W61"},
+{t:"LA FESTIN Handbags for Women Genuine Leather Small Top Handle Tote Travel",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FGX7Q9FQ"},
+{t:"Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C",c:"Electronics",e:"🔌",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F2LCBKVN"},
 {t:"Hey! Play! Kids Exercise Equipment Collection: Strength Training, Cardio, Endurance, and Active Play",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CG2GZB5P"},
 {t:"Kids Preferred Elf 4 Pc Cuteeze Plush Set - Buddy, Arctic Puffin, Mr. Narwhal, and Baby Walrus - Stuffed",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F3B9QMF9"},
 {t:"Travel Size Conditioner Bulk 0.7fl oz,Small Size Mini Conditioner",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJMHJK8G"},
