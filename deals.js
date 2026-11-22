@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Light Up Drawing Boards",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G34BYVZ2"},
+{t:"First Aid Beauty KP Bump Eraser Body Scrub, 10% AHA Body Exfoliator",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GSX3TH63"},
+{t:"Jean Paul Gaultier Gaultier Divine Le Parfum Intense for Women",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DJ3FG9DN"},
+{t:"4 Theme Montessori Busy Books, Reusable Sticker Set Ages 3+",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H2Z3BYKC"},
+{t:"GE Refrigerator Door Handles",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FSTK25CX"},
 {t:"Natures Answer Mullein-X Lung Support Gummies",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HN34HNB6"},
 {t:"Graywind Panel Track Blinds",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B09S8NNSWT"},
 {t:"ABCCANOPY 9ft Patio Umbrellas (Burgundy)",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B09QLQ4WZD"},
