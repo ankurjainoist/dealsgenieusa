@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hand Massager Gloves with Heat",c:"Health",e:"💊",n:"Use code VG1X9ENK",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GK8XGZTK"},
+{t:"LEGO Icons Dried Flower Centerpiece 10314",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0BGQLZ921"},
+{t:"Cascade Platinum Plus Dishwasher Pods, Dish Detergent Soap, Clean Scent, 62 Count",c:"Grocery",e:"🛒",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FDBJW9ND"},
+{t:"XAJ Cordless Foot Massagers (2 Pack)",c:"Health",e:"💊",n:"40% off with code TBZHMAR3",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HDND6R9J"},
+{t:"Apple Watch SE 3 GPS 40mm Smartwatch",c:"Electronics",e:"🔌",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJ9ZNRKT"},
+{t:"Donkey Kong Bananza (Nintendo Switch 2)",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F66KLYVH"},
+{t:"Sol de Janeiro Cheirosa Hair & Body Perfume Mist",c:"Beauty",e:"💄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D6ZPNZ4Z"},
+{t:"Super Mario Galaxy + Super Mario Galaxy 2",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FNQKK1C1"},
+{t:"Subscribe",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DM3BGTCN"},
 {t:"IBAYS Multi-Styler Hair Dryers",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJ37DC6L"},
 {t:"Open Ear Clip-On Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HN7LJTT9"},
 {t:"HexClad 5.5 Qt Hybrid Nonstick Deep Sauté Frying Pan & Lid, Induction Ready",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CLHLDB84"},
