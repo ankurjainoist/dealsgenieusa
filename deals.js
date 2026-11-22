@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BLOBY Rectangular Wicker Storage Basket, Water Hyacinth, Wooden Handles",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GK6KC6YF"},
+{t:"NanoBuds 3.0 Wireless Bluetooth Earbuds with Charging Case",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0D1D5VS64"},
+{t:"Hanes Womens Athletic Socks",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BXT5XC5X"},
+{t:"Plant Stand Shelf Tall for Indoor Corner, 4 Tier Wood Brown",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F61ZKZX5"},
 {t:"Ceiutrye Handheld Torch Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DZ2BT1NB"},
 {t:"Kenra Nitro Memory Crème 18, Firm Hold Crème Mousse, 3 Day Style Memory, 1st Nitrogen Crème Mousse, No Stick",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B07Q4X12J1"},
 {t:"Mitywah iPhone 15 Pro Max Cases",c:"Home",e:"🏠",n:"50% off with code LV2UM9XD",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CP34R3J2"},
