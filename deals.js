@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Teeth Whitening Paint Pens",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HMRH787F"},
 {t:"Baby Delight Go with Me Venture Portable Chair, Indoor and Outdoor, Sun Canopy, 3 Child Growth Stages",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0BXMV6TTW"},
 {t:"WiFi Extender Signal Boosters",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HPFYCWML"},
 {t:"Showstopper Bracelet for Women, 14k Gold Plated Clover Charm Chain Bracelet,justable Layering Statement",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FXBG5H2Y"},
