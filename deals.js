@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin",c:"Beauty",e:"💄",n:"Use code MEDICUBE15",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DBF65JYY"},
+{t:"12 Pcs Handcrafted Christmas Crochet Ball Ornaments Christmas Knitted Ornaments Neutral Decoration for Xmas",c:"Home",e:"🎄",dt:"Nov 21",l:"https://www.amazon.com/dp/B0FND3TZX8"},
+{t:"Oral-B Rechargeable Electric Toothbrush, iO3 Limited Deep Clean",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0B5HQZ4QB"},
+{t:"Belanttega Boho Beach Cosmetic Bags",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0C6SH664W"},
+{t:"Portable Cleaning Bucket Organizers",c:"Home",e:"🏠",n:"50% off with code AHEBC74FF",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HR5RH1MX"},
 {t:"LED Clip On Running Light for Runners Angel Wing",c:"Home",e:"🏠",n:"Use code F12GYLAN",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HS4ZL3MJ"},
 {t:"Mini Magnetic Tiles Sets",c:"Home",e:"🏠",n:"Use code VXWBJMGN",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HK7XCL2S"},
 {t:"Overhead Phone Mount with 60 LED Portable Selfie Light",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CXXH6K91"},
