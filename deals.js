@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"OATSBASF Magnetic Phone Grips",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HCZLSX37"},
+{t:"Infiniti Wheel Speed Sensors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DK5FDJZX"},
+{t:"Quican Smart Watches for Women",c:"Electronics",e:"🔌",n:"40% off with code M6HEA2QA",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJH5B6HL"},
+{t:"Lenovo Tab M8 (4th Gen) - 2023 - Tablet - Long Battery Life - 8 in HD - Front 2MP & Rear 5MP Camera - 2GB",c:"Electronics",e:"🔌",dt:"Nov 22",l:"https://www.amazon.com/dp/B0BYPKGM9V"},
+{t:"Rooftops & Alleys: Dual Pack Edition - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FMGMHT8G"},
 {t:"Smart Full Face Motorcycle Helmets",c:"Electronics",e:"🔌",n:"40% off with code 91BTG9CV",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJLJG14F"},
 {t:"OCTOPATH TRAVELER - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H8Q5JK5Y"},
 {t:"OCTOPATH TRAVELER II - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H8Q6S9H3"},
