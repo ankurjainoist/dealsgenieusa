@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Milk-Bone Soft & Chewy Dog Treats, 25 Oz. Canister",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B006HKA6II"},
+{t:"Sweechee Womens Cork Footbed Sandals, Double Buckle Slides, Arch Support",c:"Fashion",e:"👗",n:"Use code WYX6X7MG",dt:"Nov 22",l:"https://www.amazon.com/dp/B0C2MPC4KJ"},
+{t:"Kids Divided Snack Box with Hand Strap",c:"Grocery",e:"🛒",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GY476CQG"},
+{t:"2026 Upgraded Window Bird Feeder with Camera for Bird Watching",c:"Electronics",e:"🔌",n:"Use code KK7G9SSC",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H82JH9BL"},
+{t:"Mom & Sons I Love You Mom Blanket - Warm, Soft, 50 in x 70 in Purple",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CDGWBDJR"},
 {t:"6 Pairs Christmas Magnetic Holding Hands Socks, Funny 3D Doll Mid Calf Sock",c:"Toys",e:"🎄",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DD7CPJW6"},
 {t:"Stone Dish Drying Mat for Kitchen Counter",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FXWYZS6Y"},
 {t:"Sleep Earbuds for Side Sleepers",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HPBQD2LN"},
