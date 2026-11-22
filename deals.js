@@ -3,6 +3,9 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Natures Answer Mullein-X Lung Support Gummies",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HN34HNB6"},
+{t:"Graywind Panel Track Blinds",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B09S8NNSWT"},
+{t:"ABCCANOPY 9ft Patio Umbrellas (Burgundy)",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B09QLQ4WZD"},
 {t:"Solar Pool Thermometers",c:"Home",e:"🏠",n:"Use code QYIG8PBM",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H396MXJP"},
 {t:"AmHoo Striped Tassel Tablecloth",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GWH61TB1"},
 {t:"GOTHAM STEEL HAMMERED 15 Pc Titanium Ceramic Cookware Set, Diamond InfUsed",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G6298B1J"},
