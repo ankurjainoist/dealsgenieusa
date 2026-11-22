@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hikole 24V Kids Ride-On Trucks",c:"Auto",e:"🚗",n:"Use code N68Q8MG9",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FX2Q79WT"},
+{t:"Kiehls - Creme de Corps Whipped Body Butter - Moisturizes - 8 oz",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B004EHOTJS"},
+{t:"Spode - Christmas 3 Pack Kitchen Towels, Soft Cotton Dish Towels",c:"Kitchen",e:"🎄",dt:"Nov 22",l:"https://www.amazon.com/dp/B08L8TX45N"},
+{t:"SMEG HMF019-Speed Retro Hand Mixer",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B09K8K56KH"},
+{t:"BISSELL Little Green Limited Edition Bordeaux",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GYFRCKZ7"},
+{t:"Spode - Christmas Shower Curtain Hooks, 12 Pack, Durable, Easy Hanging",c:"Home",e:"🎄",dt:"Nov 22",l:"https://www.amazon.com/dp/B09GW1CSLK"},
+{t:"LEGO DUPLO Disney and Pixar Cars McQueen’s Visit to Doc’s Garage 10456",c:"Auto",e:"🚗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DRW6GBBH"},
+{t:"Chefman Electric Warming Tray withjustable Temperature Control",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DJ3HR489"},
 {t:"BLOOMWIN Inflatable Zombie Tombstones",c:"Home",e:"🏠",n:"Use code OH2DAQUD",dt:"Nov 22",l:"https://www.amazon.com/dp/B0C69NH6CC"},
 {t:"Dolce&Gabbana Light Blue Eau de Toilette Spray 3.3 oz/ 100 mL",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0C4154YNK"},
 {t:"OTSANT Water Filter Bags",c:"Home",e:"🏠",n:"Use code QM72ETHE",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HS8JJQ34"},
