@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Decorative Garden Fences (32 Pack)",c:"Home",e:"🏠",n:"Use code 1GZZQPLI",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H3SZJ6BF"},
+{t:"FreeNook One-Way Privacy Window Films",c:"Home",e:"🏠",n:"40% off with code Q6JC88IZ",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FB8XGL2Q"},
+{t:"Armani Beauty Acqua di Giò Eau de Toilette - Fresh Aquatic Mens Cologne",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0002JVJ2C"},
+{t:"Portable Tire Inflators",c:"Auto",e:"🚗",n:"Use code TIUMRGU1",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HF7VT7YV"},
+{t:"Ninja Blast Max Portable Blender, Twist & Go, 22oz, Pink, BC251PK",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DB8Y9C6H"},
+{t:"Sol de Janeiro Body Boldly Body Cream Discovery Set - Amazon Exclusive",c:"Beauty",e:"💄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FY85BTGY"},
+{t:"61 Key Piano Keyboard, Beginner Electronic Keyboard for Kids with Teaching Mode, 6 Demo Songs, 16 Tones",c:"Kids",e:"🎨",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HCNL21QC"},
+{t:"DRAGON QUEST III HD-2D Remake (PS5)",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D71JQXR4"},
+{t:"Retro Phone Handsets",c:"Home",e:"🏠",n:"50% off with code GM3HZ7LS",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HR97H36Q"},
+{t:"Philips Avent Premium Connected Baby Monitor, 1080p Camera, 5” HD Screen",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GYQ5F614"},
 {t:"Hand Massager Gloves with Heat",c:"Health",e:"💊",n:"Use code VG1X9ENK",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GK8XGZTK"},
 {t:"LEGO Icons Dried Flower Centerpiece 10314",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0BGQLZ921"},
 {t:"Cascade Platinum Plus Dishwasher Pods, Dish Detergent Soap, Clean Scent, 62 Count",c:"Grocery",e:"🛒",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FDBJW9ND"},
