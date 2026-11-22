@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Perfect Plants Autumn Bonfire Encore Azalea, 1 Gallon, Live Plant",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G3XSGD78"},
+{t:"Rosette Maker Sets",c:"Home",e:"🏠",n:"Use code 2EP2LBDU",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F9KGVXRK"},
+{t:"WOOMADA Velvet Jewelry Organizers",c:"Fashion",e:"👗",n:"Use code CSBZEA8P",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HCCDXM3N"},
+{t:"Washing Machine Cleaner Tablets",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G6SVB2RN"},
 {t:"Owala SmoothSip Travel Coffee Cups",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GWSD4RW9"},
 {t:"Dump Garden Carts (Orange)",c:"Home",e:"🏠",n:"Use code GU6UYH7I",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HNK9Q59P"},
 {t:"medicube PDRN Silky Sun Stick, SPF 50 Airy & Pore-Blurring Finish, 0.81 oz.",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H71MS45B"},
