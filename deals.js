@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"TIOBOHEM Magnetic Cabinet Door Catches",c:"Home",e:"🏠",n:"Use code E1BUJ4FN",dt:"Nov 21",l:"https://www.amazon.com/dp/B0H794KJGF"},
+{t:"Avaliable on regular & biz accounts",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0000A1ZN1"},
+{t:"Avaliable on regular & biz accounts",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0034A8C4O"},
+{t:"Avaliable on regular & biz accounts",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B003KYSLMW"},
+{t:"BOOQIBOY Christmas Kids Flashlights",c:"Kids",e:"🎄",n:"Use code DATL9X3V",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G1YBXN7P"},
 {t:"45W Dual Port USB-C Chargers",c:"Electronics",e:"🔌",n:"Use code 0CPONOHU",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CD7FYFK8"},
 {t:"BOA Collagen Protein Supplements",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0D2JFK8SX"},
 {t:"Elementjustable Fabric Belts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DG9V814Z"},
