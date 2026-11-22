@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Soundcore Select 4 Go Shower Speakers",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DB1753RZ"},
+{t:"Onespring Eye Mask Patches",c:"Beauty",e:"💄",n:"Use code 7QTZUTSD",dt:"Nov 21",l:"https://www.amazon.com/dp/B0F5H9RT1L"},
+{t:"LEAVAQ Peelable Microfiber Sponges",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DPSRN918"},
+{t:"Snuggle Fabric Softener Liquid, Blue Sparkle, 80oz, 200 Loads",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B07ND9L6S2"},
 {t:"RC Excavators",c:"Home",e:"🏠",n:"Use code QTTTC1Y6",dt:"Nov 21",l:"https://www.amazon.com/dp/B0B2JQ969L"},
 {t:"BISSELL Portable Carpet Cleaners",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DJMP6T3N"},
 {t:"Electric Motorized Train Sets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0G9HLJVL1"},
