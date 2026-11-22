@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Leaf Blower Cordless, Black-Yellow",c:"Home",e:"🏠",n:"45% off with code JPOEXA3G",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HH8R1RD6"},
+{t:"Outdoor Christmas Rugs",c:"Home",e:"🎄",n:"Use code U1ZR5EC3",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HQHHF6LV"},
+{t:"24 Pack Solar Candy Cane Lights Outdoor Christmas Yard Decorations",c:"Grocery",e:"🎄",n:"63% off with code 30HN8A5N",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HDHR71CG"},
+{t:"Red Light Hand Massager with Heat and Compression, Cordless",c:"Health",e:"💊",n:"56% off with code PLTCD633",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H774493T"},
+{t:"Heated Trapper Hat, 24.8 Inch Electric Winter Heated Hat with Rechargeable Battery for Men.Women",c:"Electronics",e:"🔌",n:"45% off with code HM0819PK",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DFVDHTFJ"},
+{t:"LED Drawing Board for Kids, 16 in Rechargeable Neon Light Up Drawing Tablet",c:"Kids",e:"🎨",n:"70% off with code HF9CF60B",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HK116T14"},
+{t:"Baby Stroller Arch Toy, Hanging Sensory Toys for Babies",c:"Baby",e:"👶",n:"60% off with code 7QOATNTL",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HDPB8HH8"},
+{t:"Womens Slipper Socks Indoor Bedroom Travel Neuropathy HoUse Slippers",c:"Fashion",e:"👗",n:"50% off with code KU4T4K29",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FM3PFPZ4"},
+{t:"Ramekins 8 Oz Oven Safe, Ceramic Creme Brulee Souffle Dishes, Pudding Custard Cups Ramekin For Baking, Small",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FRFQPR8S"},
 {t:"Zmodo 2.5K Window Security Cameras",c:"Electronics",e:"🔌",n:"Use code 3MB5YJD4",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HS3TSGX4"},
 {t:"Maison d Hermine Laptop Sleeves (15.5 in)",c:"Electronics",e:"🔌",n:"Clip the 40% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CPSFL2X5"},
 {t:"2 Pack 4FT Lighted Birch Trees, 96 LED Twinkling Trees, 2 Lighting Modes, Warm White",c:"Home",e:"🏠",n:"50% off with code NJGSS6L8",dt:"Nov 22",l:"https://www.amazon.com/dp/B0B59CW39H"},
