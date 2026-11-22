@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Encore Azalea 2 Gal. Autumn Sangria Shrub",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B084ZTPK5T"},
+{t:"Doin The Most Party Card Games",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FV44SPG5"},
+{t:"5-in-1 Hot Air Styler -Auto Curling, Frizz-Free Volumizing",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F62LJZVT"},
+{t:"Wangmuxin Mini Engraving Pens",c:"Home",e:"🏠",n:"Clip the 49% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H6X5LRYW"},
+{t:"The Crew Motorfest - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H7ZC7LSF"},
 {t:"Feosger Kids Ski Goggles",c:"Kids",e:"🎨",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DK77Q1J6"},
 {t:"Swarovski Annual Edition 3D Ornament Set 2026, Crystal Snowflake, Clear, Star Shape, 2 Piece Collectible",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GYSFQP9W"},
 {t:"Add 2 to cart for",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F63VB6JD",img:"img/B0F63VB6JD.jpg"},
