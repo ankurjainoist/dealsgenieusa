@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"IVY Classic Cobalt Steel Drill Bits",c:"Tools",e:"🔧",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0050PTUEW"},
+{t:"Melissa & Doug USA Map Jumbo Floor Puzzle 51-Piece Educational Toy",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FKPSWT7X"},
+{t:"Glow Daily Beauty Supplements",c:"Health",e:"💊",n:"Clip the 40% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HBQK5C8D"},
+{t:"Dance Mat for Kids, Ice Princess 9-Button Electronic Dance Pad",c:"Kids",e:"🎨",n:"45% off with code GXYIB3F3",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GSZF3GGD"},
+{t:"5W Qi2.2 Magnetic Power Bank, 10000mAh Ultra-Slim Portable Charger",c:"Electronics",e:"🔌",n:"50% off with code VAG7UPTO",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H4KW81WP"},
+{t:"Jack Link’s Beef Jerky Multipack - Original - 0.625 oz (20 Pack)",c:"Grocery",e:"🛒",n:"Subscribe & Save available",dt:"Nov 22",l:"https://www.amazon.com/dp/B07NR7694X"},
+{t:"Compact Vacuum Sealer for Food (Vacuum Sealer Machine + 30 Reusable Vacuum Bags)",c:"Kitchen",e:"🍳",n:"50% off with code KJXSQR9A",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GVQKSC6D"},
+{t:"Hard Bottom Dog Car Seat Extender, 420lbs",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GJZD97L5"},
+{t:"Linher 34-Inch Outdoor Ceiling Fans",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GSVH1LMV"},
+{t:"4Pcs Squishy Toys, Slow Rising Squeeze Sugar Squishy Stress Ball",c:"Toys",e:"🧸",n:"40% off with code H9XOZD0I",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H4GB53HK"},
 {t:"Women Onesie Pajamas Fleece Lined Hooded Zip Up Jumpsuitult One Piece",c:"Fashion",e:"👗",n:"50% off with code J1YI3LNC",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HS7ZRTMB"},
 {t:"Christmas Tinsel Garlands (White)",c:"Home",e:"🎄",n:"Use code L1Z9VTYS",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FL2HNXXR"},
 {t:"Virgin Mary Resin Molds",c:"Home",e:"🏠",n:"50% off with code D2QY2CTN",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G1T79K49"},
