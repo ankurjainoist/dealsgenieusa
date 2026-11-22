@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Feosger Kids Ski Goggles",c:"Kids",e:"🎨",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DK77Q1J6"},
+{t:"Swarovski Annual Edition 3D Ornament Set 2026, Crystal Snowflake, Clear, Star Shape, 2 Piece Collectible",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GYSFQP9W"},
 {t:"Add 2 to cart for",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F63VB6JD",img:"img/B0F63VB6JD.jpg"},
 {t:"Cranberry Urinary Tract Dog Supplements",c:"Pets",e:"🐾",n:"42% off with code CCHEWS10",dt:"Nov 22",l:"https://www.amazon.com/dp/B01JV2KPK2"},
 {t:"Garnier SkinActive Moisture Rescue Refreshing Gel-Cream for Dry Skin, Oil-Free, 1.7 Oz (50g), 1 Count",c:"Beauty",e:"💄",dt:"Nov 22",l:"https://www.amazon.com/dp/B00ALB397Y"},
