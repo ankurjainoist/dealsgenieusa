@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"AIboost USB-C Charging Cables",c:"Electronics",e:"🔌",n:"Use code 8UXYYKP9",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HCTQ5VL5"},
+{t:"Toilet Stool Squatult, Poop Squatting Stool, 7” Potty Step for Bathroom",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CSRVGR3M"},
+{t:"Geruicee Cordless Pressure Washers",c:"Home",e:"🏠",n:"50% off with code MQ2EOYB3",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HCY8Q66C"},
+{t:"low stock!",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B08VSCBS3R"},
+{t:"4-Pack Long-Sleeve Underscrub Tops Set",c:"Home",e:"🏠",n:"40% off with code H8X3R9K3",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H6WLJR3F"},
+{t:"Mujerbay Portable Carpet Cleaners",c:"Home",e:"🏠",n:"Use code N8J45O0Y",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H2LLTYGJ"},
+{t:"DenTek Professional-Fit Dental Guard, Mouth Guard for Grinding Teeth, 1 Ct",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B008YEMVSI"},
+{t:"Electric Scooter with Seat",c:"Home",e:"🏠",n:"50% off with code FSZMFSID",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FCY2H5FH"},
+{t:"Gemmy Goofy Santa Inflatables",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DB2MZNG5"},
+{t:"Christmas Garland with Lights 6.56 FT",c:"Home",e:"🎄",n:"50% off with code 746NP5IR",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HRYNMWJQ"},
 {t:"Decorative Garden Fences (32 Pack)",c:"Home",e:"🏠",n:"Use code 1GZZQPLI",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H3SZJ6BF"},
 {t:"FreeNook One-Way Privacy Window Films",c:"Home",e:"🏠",n:"40% off with code Q6JC88IZ",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FB8XGL2Q"},
 {t:"Armani Beauty Acqua di Giò Eau de Toilette - Fresh Aquatic Mens Cologne",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0002JVJ2C"},
