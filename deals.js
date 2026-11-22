@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"6 Pairs Christmas Magnetic Holding Hands Socks, Funny 3D Doll Mid Calf Sock",c:"Toys",e:"🎄",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DD7CPJW6"},
+{t:"Stone Dish Drying Mat for Kitchen Counter",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FXWYZS6Y"},
+{t:"Sleep Earbuds for Side Sleepers",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HPBQD2LN"},
+{t:"14 FT Giant Elf Christmas Inflatables Outdoor Decorations, Huge Inflatable Elf Built-in LED Lights Blow Up",c:"Home",e:"🎄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GSZ6N8D7"},
+{t:"13 Stems Artificial Christmas Flowers for Outdoors, Red and White (Mixed Color 004)",c:"Home",e:"🎄",n:"Use code B2W8AIX4",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H5BVHRP1"},
 {t:"Dont miss",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DHW1CXHM"},
 {t:"Conversation Card Games",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B07HGG6QVN"},
 {t:"Mudtun Sleep Earbuds (Jade Green)",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HP9L4J2Q",img:"img/B0HP9L4J2Q.jpg"},
