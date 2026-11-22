@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Heath Outdoor Products birds DD4-10 All Season High Energy Suet Cake, Case Of 10",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B000HHJKM0"},
+{t:"Rayjee Patio Umbrellas with Fringe",c:"Home",e:"🏠",n:"Clip the 43% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FT15CTMH"},
+{t:"Diomart RGB Under Cabinet Lights",c:"Home",e:"🏠",n:"Use code 69V77YR2",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FDVTJF85"},
+{t:"R36MAX Handheld Game Consoles",c:"Home",e:"🏠",n:"Use code GJ99OE22",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H9915NCT"},
+{t:"Philips Hue Smart LED A19 Bulb, 3-Pack",c:"Electronics",e:"🔌",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FMGNF843"},
+{t:"FUOAYOC Cordless Handheld Vacuums",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HPG8RBFN"},
+{t:"Ergobaby Metro 3 Sunshades",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DX2X7NB7"},
+{t:"YUZUCO Japanese Yuzu Juices",c:"Grocery",e:"🛒",n:"Clip the 40% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0C2GMHVJZ"},
 {t:"Christmas Refrigerator Handle Covers 7pcs",c:"Home",e:"🎄",n:"50% off with code Z83CKDCW",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H3KPKYZ5"},
 {t:"2 Pack XL Beeswax Bread Bags",c:"Home",e:"🏠",n:"50% off with code ST97C4KD",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HDT2NLX9"},
 {t:"Pilates Board",c:"Home",e:"🏠",n:"30% off with code ZGRVNLWM",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJGGGZ3B"},
