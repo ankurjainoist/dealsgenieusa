@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Frigidaire EFMIS171 Retro Mini Portable Personal Fridge - Ideal for Home, Office or Dorm - Includes Carrying",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B093213246",img:"img/B093213246.jpg"},
 {t:"LEGO Pokémon Pikachu and Poké Ball 72152",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FMYVG58P",img:"img/B0FMYVG58P.jpg"},
 {t:"CINAMON Mini Sewing Machines",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HRFLPTFS",img:"img/B0HRFLPTFS.jpg"},
 {t:"Baking Toolvent Calendar 2026, 24 Days Christmas Countdown Calendar",c:"Home",e:"🎄",n:"Use code ZMYR867B",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HBL15RKP",img:"img/B0HBL15RKP.jpg"},
