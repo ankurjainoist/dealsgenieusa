@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"CINAMON Mini Sewing Machines",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HRFLPTFS",img:"img/B0HRFLPTFS.jpg"},
 {t:"Baking Toolvent Calendar 2026, 24 Days Christmas Countdown Calendar",c:"Home",e:"🎄",n:"Use code ZMYR867B",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HBL15RKP",img:"img/B0HBL15RKP.jpg"},
 {t:"Ravensburger - for the Fans - 500 Piece Round Jigsaw Puzzle - Vibrant Collage of Trending Fan‑Favorite Series",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G665V43W"},
 {t:"Silverware Set, 20-Piece Stainless Steel Flatware Cutlery Set, Forks, Knives and Spoons for Home and Kitchen",c:"Kitchen",e:"🍳",n:"40% off with code FV9B7LXD",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HLDR2DWK"},
