@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Simple Joys by Carters Baby 3-Piece Snug-fit Cotton Holiday Pajama Set",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0795YWQKL"},
+{t:"Urban Decay Naked Mini Eyeshadow Palette - Travel-friendly with 6 Shades",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B09V3D93G1"},
+{t:"Barbie in the Nutcracker Land of Sweets Nikki Ballerina Doll",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G27VD9XX"},
+{t:"Portable Tire Inflators",c:"Auto",e:"🚗",n:"40% off with code TMUY074R",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HNNTY3PN"},
+{t:"Fuggler Powerpuff Girls 9-Inch Plush Toy (Blossom) by ZURU",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FL43PH78"},
+{t:"Sonic Mania + Team Sonic Racing Double Pack - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B08GHH697V"},
+{t:"Little Live Pets Mama Surprise Minis Bunny, Reveals 2-4 Babies",c:"Pets",e:"🐾",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DBXBZWVQ"},
+{t:"PANDORA Heart Charm",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CKG2WCYB"},
+{t:"Paw Patrol Dino World- Amazon Exclusive Poster - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GWFNRZ63"},
+{t:"Cascades PRO Tuff-Job Interfold Wipers 1-Ply – DRC Double Recrepe, Pop-Up Box With One-Sheet Dispensing, 100",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B07CN55LV2"},
 {t:"Vqqiz Spider Web Shooters",c:"Home",e:"🏠",n:"50% off with code 2ZVAJKJ3",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJCCVTQ7"},
 {t:"Rubbermaid Brilliance Plastic Airtight Food Storage Container, 12-Cup",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B07531HM8Q"},
 {t:"Astro Bot PS5",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D5SM3K4Q"},
