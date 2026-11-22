@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"OCBON Unscented Ultra Thin Sanitary Pads (64 Count, Regular) – Organic Cotton Feminine Pads with Wings for",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CGRFD22M"},
+{t:"Sunny Color Car Seat Cushions",c:"Auto",e:"🚗",n:"50% off with code QV9XPDSU",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G4CQ86H2"},
 {t:"Light Up Drawing Boards",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G34BYVZ2"},
 {t:"First Aid Beauty KP Bump Eraser Body Scrub, 10% AHA Body Exfoliator",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GSX3TH63"},
 {t:"Jean Paul Gaultier Gaultier Divine Le Parfum Intense for Women",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DJ3FG9DN"},
