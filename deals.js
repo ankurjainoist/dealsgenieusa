@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Refrigerator Handle Covers 7pcs",c:"Home",e:"🎄",n:"50% off with code Z83CKDCW",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H3KPKYZ5"},
+{t:"2 Pack XL Beeswax Bread Bags",c:"Home",e:"🏠",n:"50% off with code ST97C4KD",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HDT2NLX9"},
+{t:"Pilates Board",c:"Home",e:"🏠",n:"30% off with code ZGRVNLWM",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJGGGZ3B"},
+{t:"Self Care Package",c:"Home",e:"🏠",n:"45% off with code GJZZSMER",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HCZWL9WT"},
+{t:"Meat Thermometer Digital",c:"Home",e:"🏠",n:"50% off with code YGORBDDJ",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DHQHR5N1"},
+{t:"LED Magnetic Pickup Tool",c:"Tools",e:"🔧",n:"35% off with code CQMGIZND",dt:"Nov 22",l:"https://www.amazon.com/dp/B0C6XZSKC8"},
+{t:"Rubber Christmas Keychains Bulk",c:"Home",e:"🎄",n:"50% off with code 1LXMRXXH",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FMPSPHTZ"},
+{t:"Indoor Garden Hydroponics Growing System",c:"Home",e:"🏠",n:"40% off with code W2JXL799",dt:"Nov 22",l:"https://www.amazon.com/dp/B0B6BB4TVC"},
 {t:"Urban Decay Naked3 Soft Pink Eyeshadow Palette, Rose-Hued Neutral Shades",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B00HIFA24O"},
 {t:"Christmas Wrapping Papers",c:"Home",e:"🎄",n:"Use code 7UD1O73G",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HR1CMN46"},
 {t:"Smart Bird Feeder with Camera",c:"Electronics",e:"🔌",n:"35% off with code 4JF2X8JL",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FQ5TXJ83"},
