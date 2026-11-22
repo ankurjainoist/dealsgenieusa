@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Tonies Viva Audio Toy Figurine from Dreamworks Trolls Band Together",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CK4SVSHS"},
+{t:"58ct Christmas Tree Decorations Ball Ornaments Set, Burgundy Velvet",c:"Home",e:"🎄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H75C1X4Y"},
+{t:"Electric Nail Drill Kits (Rose Pink)",c:"Tools",e:"🔧",n:"Use code LYC54FYE",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GTD8MB5X"},
+{t:"Inflatable Punching Bag for Kids Ages 3–8, Toddler Boxing Toys",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GLH2ZHGN"},
+{t:"Solar Street Lights (2-Pack)",c:"Home",e:"🏠",n:"50% off with code KU4W98PU",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DJQ8NBWH"},
+{t:"National Tree Company 4ft Pre-Lit Dunhill Fir Mini Christmas Tree",c:"Home",e:"🎄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0749YYZ7J"},
+{t:"SUNGBOON EDITOR Deep Collagen Serum, Cream in Serum, Volufiline,1.01 fl.oz",c:"Beauty",e:"💄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CRDQPLCM"},
+{t:"Bluetooth Trucker Headsets",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HN3Q94N4"},
+{t:"Montana West Wrangler Small Keychain Wallet for Women",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G7WSPQD2"},
 {t:"Hikole 24V Kids Ride-On Trucks",c:"Auto",e:"🚗",n:"Use code N68Q8MG9",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FX2Q79WT"},
 {t:"Kiehls - Creme de Corps Whipped Body Butter - Moisturizes - 8 oz",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B004EHOTJS"},
 {t:"Spode - Christmas 3 Pack Kitchen Towels, Soft Cotton Dish Towels",c:"Kitchen",e:"🎄",dt:"Nov 22",l:"https://www.amazon.com/dp/B08L8TX45N"},
