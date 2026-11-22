@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Urban Decay Naked3 Soft Pink Eyeshadow Palette, Rose-Hued Neutral Shades",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B00HIFA24O"},
+{t:"Christmas Wrapping Papers",c:"Home",e:"🎄",n:"Use code 7UD1O73G",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HR1CMN46"},
+{t:"Smart Bird Feeder with Camera",c:"Electronics",e:"🔌",n:"35% off with code 4JF2X8JL",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FQ5TXJ83"},
+{t:"4-Piece Tartan Plaid Bear Toilet Seat Cover Set",c:"Home",e:"🏠",n:"50% off with code WSU5VNO6",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H3KQ3S71"},
+{t:"Christmas Bathroom Decor Off 50%",c:"Home",e:"🎄",n:"50% off with code KVJP73JQ",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GZVHQPYF"},
+{t:"Plackers Micro Line Floss Picks, Fresh Mint, 150 Count, Pack of 4",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B07S3B9YNX"},
+{t:"Spinning Whiskey Glasses",c:"Home",e:"🏠",n:"Use code HUPNLCD5",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H45RDNVF"},
+{t:"Boxing Reflex Ball",c:"Home",e:"🏠",n:"40% off with code AY3PY9T9",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HQ1DH2V6"},
 {t:"Magnetic Tiles 102pcs with 2 Stairs 2 Dolls",c:"Toys",e:"🧸",n:"30% off with code 24318JZJ",dt:"Nov 22",l:"https://www.amazon.com/dp/B09XK6FMYV"},
 {t:"RXLUY Folding Pocket Knives",c:"Home",e:"🏠",n:"Use code B5SXSZ5T",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GSS79PFP"},
 {t:"Octomo Christmasvent Calendar 2026, 24 Mini XMAS Building Blocks Set",c:"Toys",e:"🎄",n:"Use code CAC50OFF",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJYWDVZN"},
