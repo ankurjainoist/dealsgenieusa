@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Smart Full Face Motorcycle Helmets",c:"Electronics",e:"🔌",n:"40% off with code 91BTG9CV",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJLJG14F"},
+{t:"OCTOPATH TRAVELER - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H8Q5JK5Y"},
+{t:"OCTOPATH TRAVELER II - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H8Q6S9H3"},
+{t:"Inspector Gadget: Mad Time Party Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0C47WXGZP"},
 {t:"Encore Azalea 2 Gal. Autumn Sangria Shrub",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B084ZTPK5T"},
 {t:"Doin The Most Party Card Games",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FV44SPG5"},
 {t:"5-in-1 Hot Air Styler -Auto Curling, Frizz-Free Volumizing",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F62LJZVT"},
