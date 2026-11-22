@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ravensburger - for the Fans - 500 Piece Round Jigsaw Puzzle - Vibrant Collage of Trending Fan‑Favorite Series",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G665V43W"},
+{t:"Silverware Set, 20-Piece Stainless Steel Flatware Cutlery Set, Forks, Knives and Spoons for Home and Kitchen",c:"Kitchen",e:"🍳",n:"40% off with code FV9B7LXD",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HLDR2DWK"},
+{t:"Ultrasonic Jewelry Cleaners",c:"Fashion",e:"👗",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HH7G9H3R"},
+{t:"Soft Silicone Squeeze Egg Night Light With Temperature Display",c:"Home",e:"🏠",n:"Use code UMO51J3N",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HC5JPS93"},
+{t:"Amazon Basics Collapsible Storage Bins",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B09TTNNB2M"},
+{t:"MaryRuths Daily Liquid Hair Formulas",c:"Beauty",e:"💄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H51TNSNM"},
 {t:"Heath Outdoor Products birds DD4-10 All Season High Energy Suet Cake, Case Of 10",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B000HHJKM0"},
 {t:"Rayjee Patio Umbrellas with Fringe",c:"Home",e:"🏠",n:"Clip the 43% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FT15CTMH"},
 {t:"Diomart RGB Under Cabinet Lights",c:"Home",e:"🏠",n:"Use code 69V77YR2",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FDVTJF85"},
