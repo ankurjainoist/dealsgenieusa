@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BLOOMWIN Inflatable Zombie Tombstones",c:"Home",e:"🏠",n:"Use code OH2DAQUD",dt:"Nov 22",l:"https://www.amazon.com/dp/B0C69NH6CC"},
+{t:"Dolce&Gabbana Light Blue Eau de Toilette Spray 3.3 oz/ 100 mL",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0C4154YNK"},
+{t:"OTSANT Water Filter Bags",c:"Home",e:"🏠",n:"Use code QM72ETHE",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HS8JJQ34"},
+{t:"MACKENZIE-CHILDS Musical Snow Globe, Snowman",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B08GGDPRG7"},
+{t:"Brass Garden Hose Fittings",c:"Home",e:"🏠",n:"Clip the 45% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H2PK22CH"},
+{t:"Insulated Lunch Bag for Women, Leakproof Cooler Lunchbox forult Work Large Lunch Tote Purse withjustable",c:"Fashion",e:"👗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G19CCTNV"},
+{t:"Our Place Wonder Oven, 6-in-1 Air Fryer & Toaster Oven, 2-Rack, 13 Qt",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CLTLB2CK"},
+{t:"Rubbermaid Brilliance Tritan Plastic Food Storage Containers BPA Free Airtight Lids, Set of 5 (3.2 Cup)",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B079M8FPTW"},
+{t:"Shark StainStriker Portable Carpet/Upholstery Cleaner, 3 Tools",c:"Tools",e:"🔧",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GYQBS7XZ"},
 {t:"STORMTAL Samsung Galaxy Z Flip 7 Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FFSP1KG1"},
 {t:"LEGO Creator 3 in 1 Medieval Horse Knight Castle Toy for Kids - Building Blocks & Learning Toy for Boys &",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DRW5T8J9"},
 {t:"Wiwoo Bluetooth MP3 Players",c:"Electronics",e:"🔌",n:"Use code XFW44150",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DS1ZNXHZ"},
