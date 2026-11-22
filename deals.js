@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"45W Dual Port USB-C Chargers",c:"Electronics",e:"🔌",n:"Use code 0CPONOHU",dt:"Nov 21",l:"https://www.amazon.com/dp/B0CD7FYFK8"},
+{t:"BOA Collagen Protein Supplements",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0D2JFK8SX"},
+{t:"Elementjustable Fabric Belts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0DG9V814Z"},
+{t:"ERYTLLY Extended Rail Hooks",c:"Home",e:"🏠",n:"40% off with code IV13DEV2",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BLXD6G8B"},
+{t:"50 Organic Madagascar Vanilla Beans. Whole Grade A Vanilla Pods for Vanilla Extract and Baking",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B00PMUNF5A"},
 {t:"BLOBY Rectangular Wicker Storage Basket, Water Hyacinth, Wooden Handles",c:"Home",e:"🏠",dt:"Nov 21",l:"https://www.amazon.com/dp/B0GK6KC6YF"},
 {t:"NanoBuds 3.0 Wireless Bluetooth Earbuds with Charging Case",c:"Electronics",e:"🔌",dt:"Nov 21",l:"https://www.amazon.com/dp/B0D1D5VS64"},
 {t:"Hanes Womens Athletic Socks",c:"Fashion",e:"👗",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BXT5XC5X"},
