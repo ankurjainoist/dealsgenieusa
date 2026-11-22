@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"IBAYS Multi-Styler Hair Dryers",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJ37DC6L"},
+{t:"Open Ear Clip-On Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HN7LJTT9"},
+{t:"HexClad 5.5 Qt Hybrid Nonstick Deep Sauté Frying Pan & Lid, Induction Ready",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CLHLDB84"},
+{t:"Noise Cancelling Wireless Earbuds (Purple)",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HMC9MR4M"},
+{t:"Caraway 12-Piece Non-Stick Ceramic Cookware Set",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HD9QN6ZR"},
+{t:"CHEF iQ Sense, Smart Wireless Meat Thermometer, Ultra-Thin Probe, WiFi Unlimited Range, 1000°F Heat Safe, 5",c:"Electronics",e:"🔌",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DZF2ZM19"},
 {t:"Simple Joys by Carters Baby 3-Piece Snug-fit Cotton Holiday Pajama Set",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0795YWQKL"},
 {t:"Urban Decay Naked Mini Eyeshadow Palette - Travel-friendly with 6 Shades",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B09V3D93G1"},
 {t:"Barbie in the Nutcracker Land of Sweets Nikki Ballerina Doll",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G27VD9XX"},
