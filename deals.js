@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dont miss",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DHW1CXHM"},
+{t:"Conversation Card Games",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B07HGG6QVN"},
 {t:"Mudtun Sleep Earbuds (Jade Green)",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HP9L4J2Q",img:"img/B0HP9L4J2Q.jpg"},
 {t:"Core Hydration Perfectly Balanced Water, 23.9 fl oz Sport Cap bottle (Pack of 24)",c:"Kitchen",e:"🍳",dt:"Nov 21",l:"https://www.amazon.com/dp/B01MZC70DV",img:"img/B01MZC70DV.jpg"},
 {t:"Portable Karaoke Machines with Microphone",c:"Home",e:"🏠",n:"75% off with code ZMZB6K2D",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HMR1RFSN",img:"img/B0HMR1RFSN.jpg"},
