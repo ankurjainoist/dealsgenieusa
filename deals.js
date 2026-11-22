@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"STORMTAL Samsung Galaxy Z Flip 7 Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FFSP1KG1"},
+{t:"LEGO Creator 3 in 1 Medieval Horse Knight Castle Toy for Kids - Building Blocks & Learning Toy for Boys &",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DRW5T8J9"},
+{t:"Wiwoo Bluetooth MP3 Players",c:"Electronics",e:"🔌",n:"Use code XFW44150",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DS1ZNXHZ"},
+{t:"LEGO Minecraft The Baby Pig HoUse Toy Figures and Playset - Building Minecraft Toy for Kids, Boys and Girls",c:"Baby",e:"👶",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DJ19VGDH"},
+{t:"Heated Hooded Blanket Ponchos",c:"Home",e:"🏠",n:"50% off with code 9BCQ7TFV",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HRYCPTM6"},
+{t:"Diamosteel Black Knife Sets",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D8KYM4LJ"},
 {t:"OATSBASF Magnetic Phone Grips",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HCZLSX37"},
 {t:"Infiniti Wheel Speed Sensors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DK5FDJZX"},
 {t:"Quican Smart Watches for Women",c:"Electronics",e:"🔌",n:"40% off with code M6HEA2QA",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJH5B6HL"},
