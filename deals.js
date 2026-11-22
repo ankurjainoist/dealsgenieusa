@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Women Onesie Pajamas Fleece Lined Hooded Zip Up Jumpsuitult One Piece",c:"Fashion",e:"👗",n:"50% off with code J1YI3LNC",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HS7ZRTMB"},
+{t:"Christmas Tinsel Garlands (White)",c:"Home",e:"🎄",n:"Use code L1Z9VTYS",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FL2HNXXR"},
+{t:"Virgin Mary Resin Molds",c:"Home",e:"🏠",n:"50% off with code D2QY2CTN",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G1T79K49"},
+{t:"YBK Pink Glow Ampoule Serum with Niacinamide, Retinol & Golden Beads",c:"Beauty",e:"💄",n:"62% off with code 5XE14PHJ",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GFHBJ8L2"},
+{t:"YBK Relief Hydration Centella Cleansing Foam, Low pH Face Wash, 5.07 fl oz",c:"Home",e:"🏠",n:"54% off with code BA5TNRXK",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CR5MGZZ3"},
+{t:"Shameless Snacks Sour Candy Variety Pack - Keto Fruit Gummies",c:"Grocery",e:"🛒",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GV58BM2X"},
+{t:"CELSHYEE Spa Mineral Sticks",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H885WW9Y"},
+{t:"Head Massager Scalp",c:"Health",e:"💊",n:"50% off with code MHESW8DH",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FSR8NWHN"},
+{t:"Expandable Warming Mat for Food 54 inx16 in, 99H Timer, °C/°F Switchble",c:"Home",e:"🏠",n:"58% off with code 9MNV496J",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FHP7TYJH"},
+{t:"Baby Food Maker with Large Steam Basket Onestep Baby Food Processor Steamer with Steam & Grinding",c:"Baby",e:"👶",n:"50% off with code 4F6Q0VMG",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GSR3XQ1R"},
 {t:"Tonies Viva Audio Toy Figurine from Dreamworks Trolls Band Together",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CK4SVSHS"},
 {t:"58ct Christmas Tree Decorations Ball Ornaments Set, Burgundy Velvet",c:"Home",e:"🎄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H75C1X4Y"},
 {t:"Electric Nail Drill Kits (Rose Pink)",c:"Tools",e:"🔧",n:"Use code LYC54FYE",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GTD8MB5X"},
