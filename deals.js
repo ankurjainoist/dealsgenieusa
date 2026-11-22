@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MAGNA-TILES microMAGSvent Calendar 34-Piece Magnetic Construction Set",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DW97H6ZR"},
+{t:"Sonic Racing: CrossWorlds Amazon Exclusive Edition - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 22",l:"https://www.amazon.com/dp/B0F8RBYYNM"},
+{t:"Sol de Janeiro Body Badalada Body Lotion for Dry Skin",c:"Beauty",e:"💄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GR6YYMC5"},
+{t:"Nextmug - Temperature-Controlled, Self-Heating Coffee Mug",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0B6JTX6NB"},
+{t:"Life360 Tile Pro - Powerful Bluetooth Tracker, Key Finder and Item Locator for Keys Bags, and More",c:"Electronics",e:"🔌",dt:"Nov 22",l:"https://www.amazon.com/dp/B0D634ZR1Y"},
+{t:"Little Live Pets My Baby Monkey Mango, 50+ Sounds and Reactions, Plush Interactive Monkey Toy Set with",c:"Pets",e:"🐾",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CPMDY8GL"},
+{t:"Polaroid Go Generation 3 Bundle - Mini Instant Film Camera + 16 Color Photos - Light Blue",c:"Electronics",e:"🔌",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GXFJWW3W"},
+{t:"LEGO F1 Collectible Race Cars 6 Pack",c:"Auto",e:"🚗",dt:"Nov 22",l:"https://www.amazon.com/dp/B0DJ1CGPKN"},
 {t:"5% Minoxidil Hair Growth Serums",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJR59JD1"},
 {t:"FBSCJU Smart Christmas Cone Trees",c:"Electronics",e:"🎄",n:"Clip the 44% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FX3VW97R"},
 {t:"Little Tikes Cozy Coupe 30th Anniversary Car",c:"Auto",e:"🚗",dt:"Nov 22",l:"https://www.amazon.com/dp/B001NQHN7S"},
