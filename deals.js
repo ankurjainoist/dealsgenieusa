@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"5% Minoxidil Hair Growth Serums",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HJR59JD1"},
+{t:"FBSCJU Smart Christmas Cone Trees",c:"Electronics",e:"🎄",n:"Clip the 44% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FX3VW97R"},
+{t:"Little Tikes Cozy Coupe 30th Anniversary Car",c:"Auto",e:"🚗",dt:"Nov 22",l:"https://www.amazon.com/dp/B001NQHN7S"},
+{t:"Wireless Security Cameras (2K, 2-Pack)",c:"Electronics",e:"🔌",n:"Use code DECPQD24",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H457K8R4"},
+{t:"Noah & Paw Pet Carriers",c:"Pets",e:"🐾",n:"40% off with code 59WTVZXW",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H23YS7G5"},
+{t:"LED Fairy String Lights",c:"Home",e:"🏠",n:"Use code K5AUYHCU",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FJBXNJY4"},
+{t:"SWICKY 60L Travel Backpacks",c:"Home",e:"🏠",n:"50% off with code JCSKLCGF",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FP2KTXV1"},
+{t:"Hasbro Gaming Battleship Classic Board Game, Strategy Games for Kids andults, Ages 7+, 2 Players, Fun Kids",c:"Kids",e:"🎨",dt:"Nov 22",l:"https://www.amazon.com/dp/B09D4QRJ8Y"},
+{t:"Tenergy 100 Pack Alkaline AA Batteries and 100 Pack AAA Alkaline Batteries, AA and AAA Batteries for",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 22",l:"https://www.amazon.com/dp/B0CQKQHT6J"},
+{t:"Butterfly Goose Costumes",c:"Home",e:"🏠",n:"Use code 8MMQ4KPW",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H4TY2JSP"},
 {t:"Highland Cow Neon Signs",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GS7SCC7Z"},
 {t:"Jelly Bras for Women No Underwire Scalloped Wireless Push Up Bra",c:"Fashion",e:"👗",n:"64% off with code WNXOP8DV",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G28QCVL1"},
 {t:"Hanna Nikole Tankini Swimsuits for Women Beaded Tankini with Shorts",c:"Fashion",e:"👗",n:"50% off with code 7N8Y6JTY",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HMCFVBTM"},
