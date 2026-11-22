@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Portable Karaoke Machines with Microphone",c:"Home",e:"🏠",n:"75% off with code ZMZB6K2D",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HMR1RFSN",img:"img/B0HMR1RFSN.jpg"},
 {t:"Voastvy Lumbar Massager Pillows",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HMBSHDFQ",img:"img/B0HMBSHDFQ.jpg"},
 {t:"Mosquito Repellent Balls",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0HNQYRYKR",img:"img/B0HNQYRYKR.jpg"},
 {t:"Makita Guide Rail Connectors",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 21",l:"https://www.amazon.com/dp/B0BJVJCDJR",img:"img/B0BJVJCDJR.jpg"},
