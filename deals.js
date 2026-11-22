@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Solar Pool Thermometers",c:"Home",e:"🏠",n:"Use code QYIG8PBM",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H396MXJP"},
+{t:"AmHoo Striped Tassel Tablecloth",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GWH61TB1"},
+{t:"GOTHAM STEEL HAMMERED 15 Pc Titanium Ceramic Cookware Set, Diamond InfUsed",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0G6298B1J"},
+{t:"12Pack Christmas Gift Bags 8.7×4.3×10.6IN,Non Woven Tote Bags with Handles",c:"Fashion",e:"🎄",dt:"Nov 22",l:"https://www.amazon.com/dp/B0H456M5BL"},
+{t:"Zimtty Stainless Steel Rectangular Baking Pans, 9.8 x 7.9 x 2 in, 8 Pack",c:"Kitchen",e:"🍳",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GY2R1R9K"},
 {t:"Milk-Bone Soft & Chewy Dog Treats, 25 Oz. Canister",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B006HKA6II"},
 {t:"Sweechee Womens Cork Footbed Sandals, Double Buckle Slides, Arch Support",c:"Fashion",e:"👗",n:"Use code WYX6X7MG",dt:"Nov 22",l:"https://www.amazon.com/dp/B0C2MPC4KJ"},
 {t:"Kids Divided Snack Box with Hand Strap",c:"Grocery",e:"🛒",n:"Clip the coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0GY476CQG"},
