@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Window Vacuum Squeegee, 2000Pa Electric Window Cleaner Tool",c:"Tools",e:"🔧",n:"57% off with code SQ1VVNQ8",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HGXN4BJG"},
+{t:"Sunny Guard Outdoor Roller Shades",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FVSLH6NR"},
+{t:"Sharp Chef Knife Set, Full-Tang ABS",c:"Kitchen",e:"🍳",n:"50% off with code WLMCGWUR",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HKHMQYV9"},
+{t:"Floral Chicken Throw Blankets",c:"Home",e:"🏠",n:"50% off with code JURK0XRC",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FX5GHKW4"},
+{t:"AI Noise Cancelling Conference Speakerphone with AI Transcription, USB Plug and Play Desktop PC Speaker",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FH5CGWFJ"},
+{t:"Pack of 40 for",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B074N8ZYLX"},
+{t:"Velvet Curtains for Living Room, Thermal Insulated Blackout Curtains Luxury Room Darkening Rod Pocket Window",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H3NSMKZQ"},
+{t:"100% Cotton 3-Layer Muslin Duvet Cover",c:"Home",e:"🏠",n:"44% off with code IUV9RHQM",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H6LV9NWY"},
 {t:"Squishy Fidget Stress Ball - 20 Pack Taba Squishies Squeeze Sensory with Cat Paw, Fufu Squishy Bulk Kit",c:"Pets",e:"🐾",n:"50% off with code HOYTJFPA",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G31YGNV9"},
 {t:"AI Smart Glasses with 8MP Camera,Bluetooth glasses for Women Men",c:"Electronics",e:"🔌",n:"30% off with code V8DHE8U2",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H5C6W2FQ"},
 {t:"Steak Knives, Serrated Steak Knives Set of 8, Dishwasher Safe knife",c:"Kitchen",e:"🍳",n:"25% off with code 9D0Q6NI8",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HD76TKGD"},
