@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"FDK Veterinary Blood Pressure Cuffs",c:"Home",e:"🏠",n:"Clip the 46% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GTQKT16D"},
+{t:"LEGO Star Wars Jango Fett Helmet 75408",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DJ1BXC2B"},
+{t:"byACRE Carbon Ultralight Cane Holders",c:"Home",e:"🏠",n:"Clip the 47% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B08SDTQD21"},
+{t:"BLACK+DECKER Slip Joint Pliers, 2 Pack (BDHT84001)",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B08TRGGL8Y"},
+{t:"The Drippy Trip • 1000-Piece Puzzle by The Magic Puzzle Company • Series 5",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F2Q422VG"},
+{t:"Christmas Garland with Lights, 9FT Prelit Poinsettia Mantel Decor",c:"Home",e:"🎄",n:"45% off with code C3VYJMDF",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H1G3K2ZZ"},
+{t:"Mini Brands Really Works Magic Cook Kitchen Capsule Series 1 Waffle Maker & Blender Set by ZURU",c:"Kitchen",e:"🍳",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FNSYC65J"},
+{t:"LEGO Disney Moana Kakamora",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G2T2742B"},
 {t:"LEGO DUPLO Town Creative Garden & Flowers 10444",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DJ184XFZ"},
 {t:"Cutrix 5-in-1 Cordless Beard Trimmers",c:"Beauty",e:"💄",n:"50% off with code A8D3ZNPM",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H7Q8G5TQ"},
 {t:"TAGRY Wireless Noise Cancelling Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HMW3K5NW"},
