@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Hotel Series DiffUser Oil Set - 6 in 1-6 * 10 ml",c:"Home",e:"🏠",n:"68% off with code H9HDBANV",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GJS5TQJ2"},
+{t:"Smart Watches with AMOLED Screen",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FXQ23VN4"},
+{t:"Fishing Bobber Floats (Multicolour)",c:"Home",e:"🏠",n:"50% off with code LUW2I5WG",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HC35V7LW"},
+{t:"Electric Nail Clipper, 2-Speed Electric Nail Trimmer with Display Screen",c:"Beauty",e:"💄",n:"60% off with code Z8L6EDQ3 (works on White)",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HDBJV639"},
+{t:"Redken Color Extend Magnetics Shampoo – For Color-Treated Hair",c:"Beauty",e:"💄",dt:"Nov 23",l:"https://www.amazon.com/dp/B08SSCH7YZ"},
+{t:"JOYFLAME Ultrasoft Electric Heated Blanket Throw",c:"Home",e:"🏠",n:"Use code K88Q1J72",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H4LRQNM4"},
+{t:"UGG Women’s Classic Mini II Boot",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B01AY6CJ2Q"},
+{t:"Red Light Therapy Body, 10000mAh Cordless Infrared Light Pad, 24.5 x 13",c:"Health",e:"💊",n:"62% off with code LD59U8Y8",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HFWSDKSK"},
+{t:"Hunter Kids First Classic (Tod/YTH)",c:"Kids",e:"🎨",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HCQ5ZHWY"},
+{t:"Shoulder Heating Pad Massagers",c:"Health",e:"💊",n:"Use code 0CR272ZA",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HC2CCWSF"},
 {t:"ESR for MagSafe Car Mount Charger for iPhone 18 Pro/17-12, Samsung S26",c:"Auto",e:"🚗",n:"Use code WJRHBA2Y",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CM3DCWQY"},
 {t:"Mens Long Sleeve Tee Shirts Sun Protection Fast Dry",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G62PD871"},
 {t:"Dice Ice Mold",c:"Home",e:"🏠",n:"50% off with code AQ7BANFI",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HHMRK3SK"},
