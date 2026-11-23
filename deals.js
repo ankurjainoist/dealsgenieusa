@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Unicorn Hatching Rainbow Eggs f6 Pack",c:"Home",e:"🏠",n:"48% off with code 8KCCFCRH",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DLSVKQCJ"},
+{t:"Pottery Wheel for Kids with LED Lights",c:"Kids",e:"🎨",n:"40% off with code T234TNFN",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HGF1H94Q"},
+{t:"GPS Drone with 4K Camera",c:"Electronics",e:"🔌",n:"40% off with code BWQ6CW79",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HDW3B7TV"},
+{t:"Spider Remote Control Car",c:"Auto",e:"🚗",n:"50% off with code 384SBFLQ",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H29GX1CS"},
+{t:"Remote Control Car for Kids",c:"Auto",e:"🚗",n:"40% off with code YEVIMR6B",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FCMDMJ5Z"},
+{t:"Toilet Golf Game",c:"Home",e:"🏠",n:"40% off with code PT2L34DA",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HF51HVX9"},
+{t:"KIDS Real Washable Cosmetic Set with Storage Case",c:"Beauty",e:"💄",n:"50% off with code K4PS8IVN",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DYNL6HRP"},
+{t:"Magnetic Bath Toys SET",c:"Toys",e:"🧸",n:"50% off with code 5QZ85K1X",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HQGBQRSB"},
 {t:"New",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HFYTYC59"},
 {t:"Christmas Bell Hanging Ornaments",c:"Home",e:"🎄",n:"Use code HBR32Z82",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HQN8CVHG"},
 {t:"Almost all claimed!",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H7FB7FVW"},
