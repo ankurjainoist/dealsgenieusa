@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Large Desk Pad Protectors (Green)",c:"Home",e:"🏠",n:"50% off with code TMO5QBHG",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HCP1M41Q"},
+{t:"Learning Resources New Sprouts Deluxe Market Set",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B00B2B0I62"},
+{t:"ft Permanent Outdoor Light,RGB Eaves Lights with App Control Remote,DIY IP67 Waterproof Under Eave",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DK9JPX71"},
+{t:"ft Bluetooth Wireless Meat Thermometer for Smoker, Fitflavor Digital Grill Meat Thermometer Wireless for",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DDKWKFVB"},
+{t:"Petwelve No Choke Dog Harnesses",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H6MS77DD"},
+{t:"Assassin’s Creed Shadows - Limited Edition (Amazon Exclusive), PlayStation 5",c:"Games",e:"🎮",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D47WTKPM"},
+{t:"Check stock:",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FR15MTSZ"},
 {t:"PlayShifu Word Wiz – Plugo Letters Learning Kit, Build Reading, Spelling & Grammar Skills for Kids Ages 4–10",c:"Kids",e:"🎨",dt:"Nov 23",l:"https://www.amazon.com/dp/B07YXF8XJH",img:"img/B07YXF8XJH.jpg"},
 {t:"KARAVA Christmas Wreath Decorations",c:"Home",e:"🎄",n:"40% off with code 6KCPCOM2",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HHZ2NQF9",img:"img/B0HHZ2NQF9.jpg"},
 {t:"Cuisinart PrepExpress Vegetable and Fruit Box Chopper, CTG-00-VFC",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D74PL45R",img:"img/B0D74PL45R.jpg"},
