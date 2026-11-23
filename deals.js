@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Playmobil Junior: My Take Along Noahs Ark",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CS86RWF3"},
+{t:"Urban Decay Naked Shaped Multi-tasking Eyeshadow Palette for Eyes + Face",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F9QQ91NX"},
+{t:"Kiehls - 1.5% Hyaluronic Acid Serum - Boosts Hydration - 1 fl oz",c:"Beauty",e:"💄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0C71NRP6B"},
+{t:"THE NORTH FACE Jester Lumbar Pack, Fanny Pack",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F985T7GM"},
+{t:"Mederma Acne Scar Serum, Triple-Action Formula with Niacinamide, 1 Fl Oz",c:"Beauty",e:"💄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GGTV4364"},
+{t:"Smart RGB Corner Floor Lamps",c:"Electronics",e:"🔌",n:"50% off with code MMDXOHRE",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D1KLXZKF"},
+{t:"Soybean Milk Serum - Milky Serum for Elasticity & Barrier Repair, 1.69fl oz",c:"Beauty",e:"💄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CW677XDC"},
 {t:"FDK Veterinary Blood Pressure Cuffs",c:"Home",e:"🏠",n:"Clip the 46% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GTQKT16D"},
 {t:"LEGO Star Wars Jango Fett Helmet 75408",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DJ1BXC2B"},
 {t:"byACRE Carbon Ultralight Cane Holders",c:"Home",e:"🏠",n:"Clip the 47% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B08SDTQD21"},
