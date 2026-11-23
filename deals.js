@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Squishy Fidget Stress Ball - 20 Pack Taba Squishies Squeeze Sensory with Cat Paw, Fufu Squishy Bulk Kit",c:"Pets",e:"🐾",n:"50% off with code HOYTJFPA",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G31YGNV9"},
+{t:"AI Smart Glasses with 8MP Camera,Bluetooth glasses for Women Men",c:"Electronics",e:"🔌",n:"30% off with code V8DHE8U2",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H5C6W2FQ"},
+{t:"Steak Knives, Serrated Steak Knives Set of 8, Dishwasher Safe knife",c:"Kitchen",e:"🍳",n:"25% off with code 9D0Q6NI8",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HD76TKGD"},
+{t:"Japanese Chef Knife 8Inch, ZDF-905 Powder Steel, Sharp Kitchen Knife",c:"Kitchen",e:"🍳",n:"50% off with code 2J0528FJ",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DGWYXFRP"},
+{t:"Flexible Building Stick Blocks",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GSG4FNHN"},
+{t:"Laptop Tote Bag for Women Casual Tote Bag for Business Teacher Carry On Crossbody Bag",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FGDHKWZ3"},
+{t:"Emergency Lantern Solar Hand Crank Portable Camping Lantern for Outdoor",c:"Home",e:"🏠",n:"50% off with code RS3AFDXK",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HS89YSBM"},
+{t:"Daypack Laptop Backpack for Men Women Lightweight Slim Sturdy Business Work Commute (Dark Blue)",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FJ6WQPS7"},
+{t:"Osmotics Copper Peptide Concealers",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0757VJV4R"},
 {t:"Blueys Quest for The Gold Pen - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FX5ZKFXJ"},
 {t:"FINAL FANTASY VII REMAKE INTERGRADE",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B08XNRM6QN"},
 {t:"Norton 360 Deluxe 2027 Antivirus, 5 Devices, Auto-Renews [Download]",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B07Q33SJDW"},
