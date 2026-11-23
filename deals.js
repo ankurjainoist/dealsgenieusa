@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Crocs Kids Crocband Clogs",c:"Kids",e:"🎨",dt:"Nov 23",l:"https://www.amazon.com/dp/B09642BRNH"},
+{t:"Ceramic Incense Holder for Sticks",c:"Home",e:"🏠",n:"30% off with code XXQ660LE",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H3GKZ2R8"},
+{t:"HBselect Jelly Bras for Women Seamless Comfy Push Up Wireless Tshirt Bras",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FBGNJPL8"},
+{t:"MISSWHO Seamless Womens Underwear Bikini No Show Soft Comfortable Invisibles Briefs Low Rise Hipster Panties",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G2QTN3VB"},
+{t:"Air Purifier",c:"Home",e:"🏠",n:"22% off with code UV5Z8UD7",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DY4S3HP2"},
+{t:"3 Pack Mens Big and Tall Lightweight Hoodies",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FJMRCGK2"},
+{t:"Campbells Chunky Chicken Pot Pie Soups",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0B81VFLST"},
+{t:"Fruit of the Loom Mens Coolzone Boxer Briefs, Cotton Underwear Multipacks",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B084YVND3V"},
 {t:"Lovevook Laptop Backpacks",c:"Electronics",e:"🔌",n:"Use code A6O43A2Y",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HLDFGQXZ"},
 {t:"Professional Hair Clippers",c:"Beauty",e:"💄",n:"Use code AJIQST2B",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HK1X2D16"},
 {t:"Smart Christmas Star Tree Toppers",c:"Electronics",e:"🎄",n:"Use code WARWPWXV",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H25N77VQ"},
