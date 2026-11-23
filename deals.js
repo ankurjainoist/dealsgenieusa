@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Assassins Creed Shadows Standard Edition for Playstation 5",c:"Games",e:"🎮",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D4B6TLW6"},
+{t:"WWE 2K26 - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GKR53JKK"},
+{t:"BulkSupplements.com Ashwagandha Extract Capsules - 240 Count (Pack of 1)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0BHM7K95P"},
+{t:"Green CaroUsel Crystal 3D Puzzle Deluxe, 83-Pc Brain Teaser Ages 12+",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F1GG7NPT"},
+{t:"Ravensburger – Spooky Fun – 100 Piece XXL Jigsaw Puzzle – Colorful Halloween Scene with Pumpkins, Ghosts &",c:"Toys",e:"🎃",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F2GTPDHD"},
+{t:"PREORDER",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H34QNR86"},
+{t:"Nissin Top Ramen Noodles, Chicken and Beef Soup, Variety Pack, 3 Ounce (Pack of 48)",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FX768FTJ"},
+{t:"IDOPIP Toddler Baby Girls Dresses Long Puff Sleeve Pageant Mesh Tutu Dress Infant Wedding Baptism Photo Shoot",c:"Baby",e:"👶",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DRHT81P5"},
 {t:"Large Desk Pad Protectors (Green)",c:"Home",e:"🏠",n:"50% off with code TMO5QBHG",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HCP1M41Q"},
 {t:"Learning Resources New Sprouts Deluxe Market Set",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B00B2B0I62"},
 {t:"ft Permanent Outdoor Light,RGB Eaves Lights with App Control Remote,DIY IP67 Waterproof Under Eave",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DK9JPX71"},
