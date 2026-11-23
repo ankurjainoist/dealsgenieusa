@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Assistrust Sound Bars",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HRDS9N62"},
+{t:"Dinnerware Sets for 8",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GFDS9C59"},
+{t:"Candle Warmer Lamps with Timer",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FN83D814"},
+{t:"ShanSon Non-Stick Cookware Sets",c:"Kitchen",e:"🍳",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CYZKF2HL"},
+{t:"Stanley Quencher Tumblers",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H1YXDBD1"},
+{t:"Hefty Ultra Strong Trash Bags",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GS6SY63G"},
+{t:"Graco SlimFit Convertible Car Seats",c:"Auto",e:"🚗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DHM53GZC"},
+{t:"Solar Fence Lights (8 Pack)",c:"Home",e:"🏠",n:"Use code PR3R0SYI",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GF2Q5WPD"},
+{t:"Lymphatic Drainage Massagers with Heat",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H86JM2ML"},
 {t:"Wireless Bedwetting Alarms",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HMHKR7ZS"},
 {t:"Coconut Oil Sensory Stress Toys",c:"Toys",e:"🧸",n:"50% off with code D5E5SUFB",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HDNYRZ6P"},
 {t:"Christmas Snow Globe Lantern, Musical Snow Globe with Lights and Music",c:"Home",e:"🎄",n:"50% off with code N2FDHTSB",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HJ84SQX7"},
