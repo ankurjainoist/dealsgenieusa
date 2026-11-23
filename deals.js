@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Car Carrier Truck Toys with Vehicles",c:"Auto",e:"🚗",n:"Use code 6XNIOAR7",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H9XW97FF",img:"img/B0H9XW97FF.jpg"},
 {t:"Alpaca Wool Hiking Socks",c:"Home",e:"🏠",n:"Use code Z3OI9PGS",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H4QC9WTZ",img:"img/B0H4QC9WTZ.jpg"},
 {t:"Acrylic Paint Markers (36 Colors)",c:"Kids",e:"🎨",n:"Use code 84B6IQXX",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GL1VPNJF",img:"img/B0GL1VPNJF.jpg"},
 {t:"Rechargeable Motion Sensor Night Lights 4 Packs",c:"Home",e:"🏠",n:"33% off with code XMES9HTN",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GYS6RBK4"},
