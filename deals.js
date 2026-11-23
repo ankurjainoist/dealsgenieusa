@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PlayShifu Word Wiz – Plugo Letters Learning Kit, Build Reading, Spelling & Grammar Skills for Kids Ages 4–10",c:"Kids",e:"🎨",dt:"Nov 23",l:"https://www.amazon.com/dp/B07YXF8XJH",img:"img/B07YXF8XJH.jpg"},
 {t:"KARAVA Christmas Wreath Decorations",c:"Home",e:"🎄",n:"40% off with code 6KCPCOM2",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HHZ2NQF9",img:"img/B0HHZ2NQF9.jpg"},
 {t:"Cuisinart PrepExpress Vegetable and Fruit Box Chopper, CTG-00-VFC",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D74PL45R",img:"img/B0D74PL45R.jpg"},
 {t:"isheTao Springform Cake Pans",c:"Kitchen",e:"🍳",n:"Clip the 49% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FMXRWTZ5"},
