@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Acrylic Paint Markers (36 Colors)",c:"Kids",e:"🎨",n:"Use code 84B6IQXX",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GL1VPNJF",img:"img/B0GL1VPNJF.jpg"},
 {t:"Rechargeable Motion Sensor Night Lights 4 Packs",c:"Home",e:"🏠",n:"33% off with code XMES9HTN",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GYS6RBK4"},
 {t:"Only",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FKCXCHRP"},
 {t:"Electric Milk Frother",c:"Home",e:"🏠",n:"75% off with code L68EC8HY",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HKJDP8YC"},
