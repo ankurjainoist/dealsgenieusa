@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wireless Bedwetting Alarms",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HMHKR7ZS"},
+{t:"Coconut Oil Sensory Stress Toys",c:"Toys",e:"🧸",n:"50% off with code D5E5SUFB",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HDNYRZ6P"},
+{t:"Christmas Snow Globe Lantern, Musical Snow Globe with Lights and Music",c:"Home",e:"🎄",n:"50% off with code N2FDHTSB",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HJ84SQX7"},
+{t:"Professional Hair Clipper and Trimmer Kit for Men",c:"Beauty",e:"💄",n:"57% off with code WH7NXZAZ (works on Brown)",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G7FZLWS2"},
+{t:"Folding Sofa Bed Sleeper Chairs",c:"Home",e:"🏠",n:"Use code 6IUBDIN4",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GS4R99M9"},
+{t:"Portable Bluetooth Speaker, Up to12H Playtime, Lights for Parties",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HPXXC28X"},
+{t:"KAWA Tiny Dash Cams",c:"Home",e:"🏠",n:"Use code KAWAMINI",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FFT7M7Y3"},
+{t:"Fisher-Price Corn Poppers (Blue)",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B07N4N6LDV"},
+{t:"Jump Starter with Air Compressor, 5000A Car Battery Jump Box",c:"Auto",e:"🚗",n:"55% off with code TOPDB5UU",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H8J56HCF"},
 {t:"UGG Nita Throw Blanket, Reversible Plush Fleece, 50” x 70”, Navy Blue",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DPJHK8NW"},
 {t:"Open Ear Clip-On Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HQNTZK13"},
 {t:"MALIN+GOETZ 9oz Scented Candle, Hand-Poured Soy Wax with Unique Fragrance Blends, Clean-Burning, Vegan &",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B001E8OUSA"},
