@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Blueys Quest for The Gold Pen - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FX5ZKFXJ"},
+{t:"FINAL FANTASY VII REMAKE INTERGRADE",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B08XNRM6QN"},
+{t:"Norton 360 Deluxe 2027 Antivirus, 5 Devices, Auto-Renews [Download]",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B07Q33SJDW"},
+{t:"Fustaar Bone Conduction Headphones",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HL8G7JTH"},
+{t:"PURITO Best Kit Skincare Set for Sensitive Skin, 3.52 fl. Oz",c:"Beauty",e:"💄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DKHD1BS7"},
+{t:"TWMKLP Silicone Scar Sheets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HGPYT3NH"},
+{t:"Nativity Bath Bombs for Kids",c:"Kids",e:"🎨",n:"Use code OXY31Q8J",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HK2YP43J"},
+{t:"Maneater - Xbox One",c:"Games",e:"🎮",dt:"Nov 23",l:"https://www.amazon.com/dp/B082T8KQ36"},
+{t:"Inflatable Horse Costume Blow up Cowboy Costume Funny Ride on Horse Suits for Halloween Cosplay Party",c:"Home",e:"🎃",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F1SDFCD5"},
 {t:"Playmobil Junior: My Take Along Noahs Ark",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CS86RWF3"},
 {t:"Urban Decay Naked Shaped Multi-tasking Eyeshadow Palette for Eyes + Face",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F9QQ91NX"},
 {t:"Kiehls - 1.5% Hyaluronic Acid Serum - Boosts Hydration - 1 fl oz",c:"Beauty",e:"💄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0C71NRP6B"},
