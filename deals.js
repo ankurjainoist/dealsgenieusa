@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Roughness Smoothing Lotion",c:"Beauty",e:"💄",n:"50% off with code L6KM69H6",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H2BVQVWH"},
+{t:"Kids Instant Print Cameras",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HJFZWSN2"},
+{t:"Ugly Christmas Sweaters",c:"Fashion",e:"🎄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H885Y9M2"},
+{t:"Viodia Long Sleeve Tunics",c:"Home",e:"🏠",n:"Use code 1PHD03Q5",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H31VTC8T"},
+{t:"Water Bottle Holder RFID Crossbody Bag for Women",c:"Fashion",e:"👗",n:"50% off with code 6LR61ITE",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FNW3LSSG"},
+{t:"Funny Night Light Bedside Lamp Gag Gifts, White Elephant Gift forults",c:"Home",e:"🏠",n:"40% off with code 588437NR",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CWLPD2WN"},
 {t:"Hotel Series DiffUser Oil Set - 6 in 1-6 * 10 ml",c:"Home",e:"🏠",n:"68% off with code H9HDBANV",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GJS5TQJ2"},
 {t:"Smart Watches with AMOLED Screen",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FXQ23VN4"},
 {t:"Fishing Bobber Floats (Multicolour)",c:"Home",e:"🏠",n:"50% off with code LUW2I5WG",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HC35V7LW"},
