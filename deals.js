@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"FosPower Open Ear Wireless Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HMYKXZWK"},
+{t:"Frida Odor-Blocking Diaper Pail with One-Handed Disposal",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HJ6SDDYD"},
+{t:"Tropical Leaf Wall Art Canvases",c:"Kids",e:"🎨",n:"Use code 25TOABNM",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FC2N7SC8"},
+{t:"Operation Electronic Board Game with All-in-One Carrying Case 2 Ways to Play Ages 6+ 1+ Players 10 Mins. Fun",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DBJDYQNR"},
+{t:"I dont have the offer but check if you do",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DC8ZMR1P"},
+{t:"Bayehngs Remote Control Shark Toys",c:"Toys",e:"🧸",n:"50% off with code MRKQNKX9",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CR9B7MG6"},
 {t:"Frigidaire EFMIS171 Retro Mini Portable Personal Fridge - Ideal for Home, Office or Dorm - Includes Carrying",c:"Home",e:"🏠",dt:"Nov 22",l:"https://www.amazon.com/dp/B093213246",img:"img/B093213246.jpg"},
 {t:"LEGO Pokémon Pikachu and Poké Ball 72152",c:"Toys",e:"🧸",dt:"Nov 22",l:"https://www.amazon.com/dp/B0FMYVG58P",img:"img/B0FMYVG58P.jpg"},
 {t:"CINAMON Mini Sewing Machines",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 22",l:"https://www.amazon.com/dp/B0HRFLPTFS",img:"img/B0HRFLPTFS.jpg"},
