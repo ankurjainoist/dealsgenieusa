@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Astercook Knife Sets with Block",c:"Kitchen",e:"🍳",n:"Use code MAKZAC2P",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G8HTRKQG"},
+{t:"Nautica Voyage Mens Fragrances",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B000P22TIY"},
+{t:"Monster Jam Grave Digger RC Trucks",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DTJBHPL5"},
+{t:"Ring Pan-Tilt Indoor Cameras",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CG2WNRHF"},
+{t:"Lavisx Queen Air Mattresses with Built-in Pump",c:"Home",e:"🏠",n:"40% off with code SZHVPG1K",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D5CZZ372"},
+{t:"Snake Eyes Ninja Strike Swords",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B08P51TJFX"},
+{t:"Glov Beauty Lift & Firm Neck Creams",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FJYB99TC"},
+{t:"Insulated Water Bottles",c:"Kitchen",e:"🍳",n:"Use code N0CT5CAA",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HF84LSHM"},
 {t:"Taba Squishy Making Kit for Kids - Squishies Craft Kits - Christmas Gifts",c:"Toys",e:"🎄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GZWZH2L8"},
 {t:"Electric Hand Warmers Rechargeable: 2-in-1 Magnetic",c:"Home",e:"🏠",n:"Use code YM5Z4NOR",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HF6H45MY"},
 {t:"ESSLNB Kids Binoculars (Green)",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HBWJVXCB"},
