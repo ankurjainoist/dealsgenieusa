@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Rechargeable Motion Sensor Night Lights 4 Packs",c:"Home",e:"🏠",n:"33% off with code XMES9HTN",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GYS6RBK4"},
+{t:"Only",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FKCXCHRP"},
+{t:"Electric Milk Frother",c:"Home",e:"🏠",n:"75% off with code L68EC8HY",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HKJDP8YC"},
+{t:"Metal Detector forults Professional",c:"Home",e:"🏠",n:"40% off with code DUVPAAT7",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GKBF1GTN"},
+{t:"Osmotics Anti-Aging Face Serums",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B09KJT1B3Q"},
+{t:"Topicals, Faded Brightening Under Eye Masks, Depuffs & Brightens, Set of 6",c:"Beauty",e:"💄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0C3SB2P5G"},
+{t:"STAUB Ceramic 4-pc Baking Pans Set, Casserole Dish with Lid, Brownie Pan, Cherry",c:"Kitchen",e:"🍳",dt:"Nov 23",l:"https://www.amazon.com/dp/B07R5Q3FD9"},
+{t:"Alginra Air Tracker Tags",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FQL77WY4"},
+{t:"Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 16GB",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GR1JTFP8"},
+{t:"Marshall Emberton III Portable Bluetooth Waterproof Speaker - Black/Silver",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GXH3N61Z"},
 {t:"Unicorn Hatching Rainbow Eggs f6 Pack",c:"Home",e:"🏠",n:"48% off with code 8KCCFCRH",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DLSVKQCJ"},
 {t:"Pottery Wheel for Kids with LED Lights",c:"Kids",e:"🎨",n:"40% off with code T234TNFN",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HGF1H94Q"},
 {t:"GPS Drone with 4K Camera",c:"Electronics",e:"🔌",n:"40% off with code BWQ6CW79",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HDW3B7TV"},
