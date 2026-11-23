@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"ESR for MagSafe Car Mount Charger for iPhone 18 Pro/17-12, Samsung S26",c:"Auto",e:"🚗",n:"Use code WJRHBA2Y",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CM3DCWQY"},
+{t:"Mens Long Sleeve Tee Shirts Sun Protection Fast Dry",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G62PD871"},
+{t:"Dice Ice Mold",c:"Home",e:"🏠",n:"50% off with code AQ7BANFI",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HHMRK3SK"},
+{t:"Blackstone 1971 Original 17” Omnivore Tabletop Griddle, Black",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0083GOYGO"},
+{t:"6.5QT Stand Mixer,10-Speed Stainless Steel Bowl",c:"Kitchen",e:"🍳",n:"50% off with code 70AHNRQV",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H5P45BZK"},
+{t:"the jalapeno ones are my FAVVVV!!",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0761YSFL9"},
+{t:"Scott ComfortPlus Toilet Paper, 48 Triple Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DX33Q9QH"},
 {t:"Crocs Kids Crocband Clogs",c:"Kids",e:"🎨",dt:"Nov 23",l:"https://www.amazon.com/dp/B09642BRNH"},
 {t:"Ceramic Incense Holder for Sticks",c:"Home",e:"🏠",n:"30% off with code XXQ660LE",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H3GKZ2R8"},
 {t:"HBselect Jelly Bras for Women Seamless Comfy Push Up Wireless Tshirt Bras",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FBGNJPL8"},
