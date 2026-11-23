@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"UGG Nita Throw Blanket, Reversible Plush Fleece, 50” x 70”, Navy Blue",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DPJHK8NW"},
+{t:"Open Ear Clip-On Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HQNTZK13"},
+{t:"MALIN+GOETZ 9oz Scented Candle, Hand-Poured Soy Wax with Unique Fragrance Blends, Clean-Burning, Vegan &",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B001E8OUSA"},
+{t:"Ember Temperature Control Smart Mug 2, 10 Oz, App-Controlled Heated Coffee Mug with 80 Min Battery Life and",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B07NQPYGYD"},
+{t:"Ingrown Toenail Treatment Strips",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HQ3Z6G3M"},
+{t:"Vacuum Compression Travel Bags",c:"Health",e:"💊",n:"Use code 63UUH3JD",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HS1KPD8Y"},
+{t:"Ionic Hair Dryer with DiffUser, High-Speed LED Display Blow Dryer",c:"Beauty",e:"💄",n:"50% off with code XWWBX8G3",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G6YMGPJT"},
+{t:"25W Magnetic Wireless Car Mount Charger with TEC Cooling Fan",c:"Auto",e:"🚗",n:"50% off with code 1HIO7AE1",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H5BHTHJ6"},
 {t:"Over The Door Shoe Organizer with 16 Large Pockets",c:"Home",e:"🏠",n:"45% off with code MW1WMU7C",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FB9JP1BK"},
 {t:"Kids Camera, Mini Digital Camera with Front and Rear Lenses",c:"Electronics",e:"🔌",n:"50% off with code QN8RUYHR",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HGF59XC1"},
 {t:"33 Pcs Silicone Kitchen Cooking Utensils Set, Wood Handle & Holder, Gray",c:"Kitchen",e:"🍳",n:"40% off with code BDKSJQRA",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HS37VYWB"},
