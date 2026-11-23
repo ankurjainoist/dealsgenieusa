@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"OATSBASF Samsung Galaxy S26 Ultra Cases",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GDCT6LDQ"},
+{t:"Kitchen Knife Sets with Sharpener",c:"Kitchen",e:"🍳",n:"Use code Q3CHJCBD",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HDYNFYRV"},
+{t:"Beliiant Electric Train Sets with Marble Runs",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H8D7TJ77"},
+{t:"Electric Teeth Polishers",c:"Home",e:"🏠",n:"Use code I2KPZYHO",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F5H7TX7F"},
+{t:"Calf Massagers for Pain Relief",c:"Health",e:"💊",n:"Use code U6WUGQT3",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GXHNSTF8"},
+{t:"Reldor Pheromone Perfumes",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DHS9B61R"},
+{t:"Robot Vacuums",c:"Home",e:"🏠",n:"Use code 578R851L",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G5YDVR99"},
+{t:"ESR Wireless Charging Stations",c:"Home",e:"🏠",n:"Use code HAQZKPZ8",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CWQ39RB9"},
+{t:"Champion Performance Boxer Briefs (7-Pack)",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FRSHNXBF"},
 {t:"Fhumsh Wireless Earbuds (Black)",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HNVYRFKP"},
 {t:"Hudson Baby Plush Sleeping Bags",c:"Baby",e:"👶",n:"Clip the 45% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CSTDF7NG"},
 {t:"Vintage Christmas Wrapping Papers",c:"Home",e:"🎄",n:"Use code K7043VHQ",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HR1LKWVJ"},
