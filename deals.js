@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LEGO DUPLO Town Creative Garden & Flowers 10444",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DJ184XFZ"},
+{t:"Cutrix 5-in-1 Cordless Beard Trimmers",c:"Beauty",e:"💄",n:"50% off with code A8D3ZNPM",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H7Q8G5TQ"},
+{t:"TAGRY Wireless Noise Cancelling Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HMW3K5NW"},
+{t:"% Muslin Cotton Light Blue Duvet Cover Queen Set Fluffy Solid Bedding",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DCB6WXV7"},
+{t:"Fall Chair Covers for Dining Room Set of 4, Autumn Fall Thanksgiving Turkey Pumpkin Harvest Removable",c:"Home",e:"🎃",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DHH1P4JQ"},
+{t:"Beistle Cow Print Cowbells – 2-Pack Metal Noisemakers with Black and White Holstein Design, Farm Animal",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0C92J3MK8"},
+{t:"Folding Futon Sofa Beds (Pink)",c:"Home",e:"🏠",n:"Use code M8286CUK",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HPXKTTNL"},
+{t:"Betsey Johnson - Twin XL Sheet Set with Pillowcase, Deep Pockets",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DNV82BL6"},
+{t:"Heated Electric Gloves",c:"Fashion",e:"👗",n:"Use code 2VC5H3DV",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H44L37J8"},
 {t:"Bath Sheets Set 40x80 Inches Microfiber Extra Large BathTowels Super Soft Absorbent Quickly Dry Shower Towels",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FVVYXYLX"},
 {t:"Portable Mini Underwear Washing Machines",c:"Fashion",e:"👗",n:"Clip the 50% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HNDS57HS"},
 {t:"Apple Pencil (USB-C): Device Compatibility Check Required",c:"Kids",e:"🎨",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CL7J12YK"},
