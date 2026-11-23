@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Rear Bumper Reflectors for Honda",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DP9K6Q8Z"},
+{t:"Apple Watch Series 12 GPS 42mm Smartwatch",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HJ9ZHMF6"},
 {t:"Shark Pirate Ship Playsets",c:"Toys",e:"🧸",n:"50% off with code 7Z23PIZ8",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H9WV567K"},
 {t:"Shark StainStriker HairPro Portable Stain Cleaner,3 Tools, Self-Clean PX251",c:"Tools",e:"🔧",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DDZN2NY3"},
 {t:"Ninja Single Serve Coffee Makers",c:"Kitchen",e:"🍳",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D1LNKN4Z"},
