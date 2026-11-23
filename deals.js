@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bath Sheets Set 40x80 Inches Microfiber Extra Large BathTowels Super Soft Absorbent Quickly Dry Shower Towels",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FVVYXYLX"},
+{t:"Portable Mini Underwear Washing Machines",c:"Fashion",e:"👗",n:"Clip the 50% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HNDS57HS"},
+{t:"Apple Pencil (USB-C): Device Compatibility Check Required",c:"Kids",e:"🎨",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CL7J12YK"},
+{t:"Ontel Cord Daddy Pro, Cord Organizer Case for Cables and Chargers, Tech & Electronics Organizer, Holds Cords",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HCW5SZCF"},
+{t:"LEGO Fortnite Supply Llama Building Set - Kids Toy for Gamers, Ages 12+ - Display Model, Collectible Fortnite",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DF85X82B"},
+{t:"Floral Horse Baby Blankets",c:"Baby",e:"👶",n:"Use code JURK0XRC",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FX59GSKV"},
+{t:"Color Changing Foundation Sticks",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HKW1XYV5"},
+{t:"LEGO Marvel Spider-Man Prison Transport Chase 76349",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G2SXJKWZ"},
 {t:"TANSTC Period Underwear for Women Heavy Flow Menstrual Panties 3 Pack",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DDGWPG62"},
 {t:"Yewong Caveman Costume Set Includes Tunic Kit Tooth Necklace Cave Bat Barefoot Feet Slipper for Halloween",c:"Fashion",e:"🎃",dt:"Nov 23",l:"https://www.amazon.com/dp/B0B96VQ2WZ"},
 {t:"check all",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DLQ383R6"},
