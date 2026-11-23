@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ninja Single Serve Coffee Makers",c:"Kitchen",e:"🍳",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D1LNKN4Z"},
+{t:"SavfuMe Calming Dog Chews",c:"Pets",e:"🐾",n:"50% off with code CCFD1120",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HJWL8X5Q"},
+{t:"Nikeult Everyday Cushioned Training Crew Socks (6-Packs) Mens & Womens",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B00K5CN73A"},
+{t:"Nikeult Everyday Cushioned Training Ankle Socks (6-Packs) Mens Womens",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B00K5CVSLI"},
+{t:"AYOLNY Electric Bikes",c:"Home",e:"🏠",n:"50% off with code IJFZASX1",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GYRM7FD8"},
 {t:"Portable USB Battery Chargers",c:"Electronics",e:"🔌",n:"50% off with code 6SSF2F8X",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HR84N8V8"},
 {t:"Quick-Dry Vented Hair Brushes",c:"Beauty",e:"💄",n:"Coupon: 50% off",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F997CKZ6"},
 {t:"Foxlover Laptop Tote Bags (Black)",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GZK6K6QP"},
