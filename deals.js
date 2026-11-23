@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Taba Squishy Making Kit for Kids - Squishies Craft Kits - Christmas Gifts",c:"Toys",e:"🎄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GZWZH2L8"},
+{t:"Electric Hand Warmers Rechargeable: 2-in-1 Magnetic",c:"Home",e:"🏠",n:"Use code YM5Z4NOR",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HF6H45MY"},
+{t:"ESSLNB Kids Binoculars (Green)",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HBWJVXCB"},
+{t:"REESES Peanut Butter Candy Bars",c:"Grocery",e:"🛒",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GGMXM2L6"},
+{t:"Yunkeeper Fabric Storage Cubes (Black)",c:"Home",e:"🏠",n:"Use code YYM1H5M6",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H6JK1XDC"},
+{t:"Monster Jam Garage Playsets",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B09NJQCPCW"},
+{t:"Dr. Scholls Electric Callus Removers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G873RHJL"},
 {t:"OATSBASF Samsung Galaxy S26 Ultra Cases",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GDCT6LDQ"},
 {t:"Kitchen Knife Sets with Sharpener",c:"Kitchen",e:"🍳",n:"Use code Q3CHJCBD",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HDYNFYRV"},
 {t:"Beliiant Electric Train Sets with Marble Runs",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H8D7TJ77"},
