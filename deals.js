@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"New",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HFYTYC59"},
+{t:"Christmas Bell Hanging Ornaments",c:"Home",e:"🎄",n:"Use code HBR32Z82",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HQN8CVHG"},
+{t:"Almost all claimed!",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H7FB7FVW"},
+{t:"Levi’s Women’s Cloud Puff Hooded Extra Long Puffer Jacket",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DNSGM38H"},
+{t:"The Perfect Loaf: The Craft and Science of Sourdough Breads, Sweets, and More: A Baking Book",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/0593138414"},
+{t:"Solar Street Lights (2-Pack)",c:"Home",e:"🏠",n:"Use code 49496B20",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DJQB6VBK"},
+{t:"Dasku iPhone 17 Pro Max Cases",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FJY63CJ9"},
+{t:"Kids Electric Scooter",c:"Kids",e:"🎨",n:"Use code D8VA041V",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HM3H643W"},
 {t:"Assistrust Sound Bars",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HRDS9N62"},
 {t:"Dinnerware Sets for 8",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GFDS9C59"},
 {t:"Candle Warmer Lamps with Timer",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FN83D814"},
