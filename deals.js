@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LIS HEGENSA Alphabet Beads Kits",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H7HTPJPC"},
+{t:"Hunicom Kids Walkie Talkies",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FN7N9JDC"},
+{t:"Portable Car Heaters (2-in-1)",c:"Auto",e:"🚗",n:"Coupon: 50% off",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HCBWBGMJ"},
+{t:"Cervical Memory Foam Neck Pillows",c:"Home",e:"🏠",n:"Use code 96R4DH4U",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H3ZCYVRP"},
+{t:"Electric Spin Scrubbers with Brushes",c:"Home",e:"🏠",n:"Use code R9TG2QVZ",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H1QGRTQ4"},
+{t:"Beats Solo 4 Headphones",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CZPLV566"},
+{t:"Glov Hydrate & Brighten Eye Creams",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FJY56VJX"},
+{t:"Car Front Seat Organizers",c:"Auto",e:"🚗",n:"50% off with code 7VCE0JAO",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H3V1Y24L"},
+{t:"Phomemo Temporary Tattoo Printers",c:"Home",e:"🏠",n:"Use code HBT54HGS",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G6YS1D5V"},
 {t:"FosPower Open Ear Wireless Earbuds",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HMYKXZWK"},
 {t:"Frida Odor-Blocking Diaper Pail with One-Handed Disposal",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HJ6SDDYD"},
 {t:"Tropical Leaf Wall Art Canvases",c:"Kids",e:"🎨",n:"Use code 25TOABNM",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FC2N7SC8"},
