@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Portable USB Battery Chargers",c:"Electronics",e:"🔌",n:"50% off with code 6SSF2F8X",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HR84N8V8"},
+{t:"Quick-Dry Vented Hair Brushes",c:"Beauty",e:"💄",n:"Coupon: 50% off",dt:"Nov 23",l:"https://www.amazon.com/dp/B0F997CKZ6"},
+{t:"Foxlover Laptop Tote Bags (Black)",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GZK6K6QP"},
+{t:"Bella Ceramic Griddles",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CYJ65KJN"},
+{t:"Nurse Julies Kids Multivitamins",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HK8SCVSF"},
+{t:"88 Key Digital Pianos",c:"Home",e:"🏠",n:"Clip the 49% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HM2TXDD3"},
+{t:"Soft Heat Retaining Scarves",c:"Home",e:"🏠",n:"Use code 3XS8BNDF",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HRTQJWBR"},
+{t:"BALIZY Portable Bidet Sprayers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HRHLVYBN"},
 {t:"Astercook Knife Sets with Block",c:"Kitchen",e:"🍳",n:"Use code MAKZAC2P",dt:"Nov 23",l:"https://www.amazon.com/dp/B0G8HTRKQG"},
 {t:"Nautica Voyage Mens Fragrances",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B000P22TIY"},
 {t:"Monster Jam Grave Digger RC Trucks",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DTJBHPL5"},
