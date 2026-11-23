@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fhumsh Wireless Earbuds (Black)",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HNVYRFKP"},
+{t:"Hudson Baby Plush Sleeping Bags",c:"Baby",e:"👶",n:"Clip the 45% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CSTDF7NG"},
+{t:"Vintage Christmas Wrapping Papers",c:"Home",e:"🎄",n:"Use code K7043VHQ",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HR1LKWVJ"},
+{t:"Brightown Red Velvet Christmas Ornaments",c:"Home",e:"🎄",n:"Use code AA9XK7ZN",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FGNZ19L5"},
+{t:"Mattel Disney Cars Speedway Sets",c:"Auto",e:"🚗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D8WT7X4S"},
+{t:"Gonengo Smart RGB LED Garage Lights",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FSZKPV5B"},
 {t:"LIS HEGENSA Alphabet Beads Kits",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H7HTPJPC"},
 {t:"Hunicom Kids Walkie Talkies",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FN7N9JDC"},
 {t:"Portable Car Heaters (2-in-1)",c:"Auto",e:"🚗",n:"Coupon: 50% off",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HCBWBGMJ"},
