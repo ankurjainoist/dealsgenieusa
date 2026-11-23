@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Magnetic Phone Camera Grips",c:"Electronics",e:"🔌",n:"Use code JR8R37BY",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GQL7WPCY",img:"img/B0GQL7WPCY.jpg"},
 {t:"Monopoly Tokenvent Calendar 24 Day Countdown with 24 Tokens",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GH956Y17",img:"img/B0GH956Y17.jpg"},
 {t:"Car Carrier Truck Toys with Vehicles",c:"Auto",e:"🚗",n:"Use code 6XNIOAR7",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H9XW97FF",img:"img/B0H9XW97FF.jpg"},
 {t:"Alpaca Wool Hiking Socks",c:"Home",e:"🏠",n:"Use code Z3OI9PGS",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H4QC9WTZ",img:"img/B0H4QC9WTZ.jpg"},
