@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Over The Door Shoe Organizer with 16 Large Pockets",c:"Home",e:"🏠",n:"45% off with code MW1WMU7C",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FB9JP1BK"},
+{t:"Kids Camera, Mini Digital Camera with Front and Rear Lenses",c:"Electronics",e:"🔌",n:"50% off with code QN8RUYHR",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HGF59XC1"},
+{t:"33 Pcs Silicone Kitchen Cooking Utensils Set, Wood Handle & Holder, Gray",c:"Kitchen",e:"🍳",n:"40% off with code BDKSJQRA",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HS37VYWB"},
+{t:"Kipling Womens Creativity Large Pouch, Versatile Cosmetics Kit, Lightweight Travel Organizer",c:"Beauty",e:"💄",dt:"Nov 23",l:"https://www.amazon.com/dp/B07TRP3652"},
+{t:"Burlap Small Christmas Tree Decor",c:"Home",e:"🎄",n:"50% off with code 4CIHJRQX",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FLVRZQKY"},
+{t:"3 Pack Small Woven Storage Baskets for Organizing, Shelf Baskets",c:"Home",e:"🏠",n:"24% off with code LRDZAUGU",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H5WR7J7Z"},
+{t:"Video Walkie Talkies for Kids, 2 Pack Rechargeable Walkie Talkies with Camera & Screen",c:"Electronics",e:"🔌",n:"50% off with code 9BUNWDUS",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HDYX3G49"},
+{t:"11/116 in Inflatable Paddle Board, Wide Stable SUP forults",c:"Home",e:"🏠",n:"65% off with code 4DAWWWLG",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FWQG6YJX"},
+{t:"Adjustable Dog Sling for Large Dogs Hind Leg Support Weak Legs Mobility Aid",c:"Pets",e:"🐾",dt:"Nov 23",l:"https://www.amazon.com/dp/B07KXGWRYP"},
+{t:"16 in LED Drawing Boards",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H9K22LHF"},
 {t:"Window Vacuum Squeegee, 2000Pa Electric Window Cleaner Tool",c:"Tools",e:"🔧",n:"57% off with code SQ1VVNQ8",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HGXN4BJG"},
 {t:"Sunny Guard Outdoor Roller Shades",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0FVSLH6NR"},
 {t:"Sharp Chef Knife Set, Full-Tang ABS",c:"Kitchen",e:"🍳",n:"50% off with code WLMCGWUR",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HKHMQYV9"},
