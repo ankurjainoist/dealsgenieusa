@@ -3,6 +3,8 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Shark Pirate Ship Playsets",c:"Toys",e:"🧸",n:"50% off with code 7Z23PIZ8",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H9WV567K"},
+{t:"Shark StainStriker HairPro Portable Stain Cleaner,3 Tools, Self-Clean PX251",c:"Tools",e:"🔧",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DDZN2NY3"},
 {t:"Ninja Single Serve Coffee Makers",c:"Kitchen",e:"🍳",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D1LNKN4Z"},
 {t:"SavfuMe Calming Dog Chews",c:"Pets",e:"🐾",n:"50% off with code CCFD1120",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HJWL8X5Q"},
 {t:"Nikeult Everyday Cushioned Training Crew Socks (6-Packs) Mens & Womens",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B00K5CN73A"},
