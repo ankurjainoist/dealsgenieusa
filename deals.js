@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"TANSTC Period Underwear for Women Heavy Flow Menstrual Panties 3 Pack",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DDGWPG62"},
+{t:"Yewong Caveman Costume Set Includes Tunic Kit Tooth Necklace Cave Bat Barefoot Feet Slipper for Halloween",c:"Fashion",e:"🎃",dt:"Nov 23",l:"https://www.amazon.com/dp/B0B96VQ2WZ"},
+{t:"check all",c:"Home",e:"🏠",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DLQ383R6"},
+{t:"MOOSLOVER Women Cutout One Shoulder High Waisted Bikini High Cut Two Piece Swimsuits",c:"Fashion",e:"👗",dt:"Nov 23",l:"https://www.amazon.com/dp/B0BLV2R3X8"},
+{t:"PAW Patrol Lookout Tower 20-Inch Playset with 2 Chase Toy Figures",c:"Toys",e:"🧸",dt:"Nov 23",l:"https://www.amazon.com/dp/B0DSCJ3V42"},
+{t:"Maxwell HoUse Ground Coffee, Original Roast, 27.5 oz Canister",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0CXYYWL6G"},
+{t:"The Beginners Bible: Timeless Childrens Stories",c:"Kids",e:"🎨",dt:"Nov 23",l:"https://www.amazon.com/dp/031075013X"},
+{t:"Kids Video Walkie Talkies",c:"Kids",e:"🎨",n:"50% off with code 9W5N70T7",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HLDSQMJK"},
+{t:"Rolling Dog Storage Shelf for Tonie Box, Wooden Organizer for 50+ Tonies Figures, Player & Accessories",c:"Pets",e:"🐾",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GFVJ9V2R"},
 {t:"Assassins Creed Shadows Standard Edition for Playstation 5",c:"Games",e:"🎮",dt:"Nov 23",l:"https://www.amazon.com/dp/B0D4B6TLW6"},
 {t:"WWE 2K26 - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 23",l:"https://www.amazon.com/dp/B0GKR53JKK"},
 {t:"BulkSupplements.com Ashwagandha Extract Capsules - 240 Count (Pack of 1)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 23",l:"https://www.amazon.com/dp/B0BHM7K95P"},
