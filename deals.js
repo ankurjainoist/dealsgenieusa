@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Force Factor Hair Growth Accelerator with Clinically Studied Lustriva",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DGQX1FS7"},
+{t:"Kiehls - Retinol Skin-Renewing Daily Micro-Dose Serum, Reduces Wrinkles",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B098TSRWLZ"},
+{t:"AmazerBath Loofah Sponge 75g/Piece, Exfoliating Bath Sponge Body Scrubber - Loofa Set of 4 Flower Color",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B07WG6YYRG"},
+{t:"GOOSH 8 Ft Christmas Santa Inflatables",c:"Home",e:"🎄",n:"Clip the 50% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HHJLPH3B"},
+{t:"Kitsch Kojic Acid Soap – Turmeric Soap Bar – Made in USA, 4 oz + 10%",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 24",l:"https://www.amazon.com/dp/B0D827ZY5Y"},
+{t:"Kitsch French Hair Pins for Women, Secure Hold All Day - Gold, 1pc",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CRZRM3LP"},
+{t:"Pure Daily Care NuDerma Clinical Portable Skin Therapy Wand, Machine with 6 Fusion Neon + Argon Wands",c:"Health",e:"💊",dt:"Nov 24",l:"https://www.amazon.com/dp/B086M3XRK1"},
+{t:"Pegsun 9 oz Clear Plastic Cups",c:"Home",e:"🏠",n:"Use code UC2NYFEG",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HDCB27C8"},
+{t:"kate spade new york Charmed Other Dog Dangle Bag Charm",c:"Pets",e:"🐾",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GSHJVV7Z"},
 {t:"Evereden Kids Face Wash & Mineral SPF 20 Cream Set, Safe for Sensitive Skin",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DHDDKYWV",img:"img/B0DHDDKYWV.jpg"},
 {t:"Tire Inflator Portable Air Compressor",c:"Auto",e:"🚗",n:"Use code 5BVMN2IW",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H8Y7JPSZ",img:"img/B0H8Y7JPSZ.jpg"},
 {t:"Cordless Vacuum Cleaner LED Display",c:"Home",e:"🏠",n:"50% off with code C7KKQBNZ",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H7J37KPQ",img:"img/B0H7J37KPQ.jpg"},
