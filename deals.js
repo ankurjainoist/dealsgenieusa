@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Roku 55-Inch Pro Series LX Smart TV, 4K OLED 144Hz VRR, 2026 RokuTV",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H3XB1FRM"},
+{t:"Pets Alive Swimming Penguins",c:"Pets",e:"🐾",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G2BQRCDT"},
+{t:"AetherMist Misting Humidifier Fans",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HRFJGKZP"},
+{t:"Bioworld Nightmare Before Christmas Toiletry Sets",c:"Home",e:"🎄",dt:"Nov 24",l:"https://www.amazon.com/dp/B09SGRW3PH"},
+{t:"Loungefly Nightmare Before Christmas Backpacks",c:"Home",e:"🎄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CQZ76SVZ"},
+{t:"Loungefly Disney Tangled Mini Backpacks",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CNKY5D64"},
+{t:"Resident Evil Requiem Games",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FY9YW365"},
 {t:"KOSVEKS Dryer Lint Screen Covers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HKCTSMZB"},
 {t:"Waxfans Smart Wax Roller Kits",c:"Electronics",e:"🔌",n:"40% off with code R26ELGA5",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HG9K6SK9"},
 {t:"Automatic Fuel Nozzles (3/4 in NPT)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HCBYG53T"},
