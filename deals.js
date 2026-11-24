@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wood Lumber Storage Racks",c:"Home",e:"🏠",n:"Use code QKA23BU3",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FL2GWG96"},
+{t:"Shark VACMOP Reveal Cordless Vacuum & Spray Mop, Green, VM401",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FP2Y697Z"},
+{t:"Gift for Mom, Hanging Wooden Picture Frame Photo Holder",c:"Home",e:"🏠",n:"40% off with code 625UHLML",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GBWCY16W"},
+{t:"Food Warming Mat, 25.6 in x 15.55 in, 6 Temp, 5H Timer, Child Lock",c:"Home",e:"🏠",n:"46% off with code WGFF5MWE",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FDB1SK37"},
+{t:"Wrapping Paper Cutter with 3 Replaceable Blade Sets",c:"Tools",e:"🔧",n:"60% off with code NBHH88",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CZMWSTLM"},
+{t:"Habow Technic Parts Kits",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0BYP3XB4R"},
+{t:"Christmas Door Mat 17 inx30 in, Non-Slip Entryway Mat",c:"Home",e:"🎄",n:"52% off with code CMBSAMQR",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H3T42F1Z"},
+{t:"ZSAUTHREE Meta Quest 3 VR Protective Sets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DDTCXYLX"},
 {t:"Friendsgiving Gifts for Women Bulk, 30PCS/ 6 Set with Candles Socks Scrunchies Bracelets Gift Bags Cards",c:"Fashion",e:"👗",n:"40% off with code 6O0EIQLL",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HKRSM6VP"},
 {t:"Vacuum Steamer for Clothes, 5000Pa Handheld Steamer & Iron 2 in 1",c:"Home",e:"🏠",n:"66% off with code V6MFXFPT (works on Gray Blue)",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H9LK9JM2"},
 {t:"Cordless Water Flossers with 4 Modes",c:"Home",e:"🏠",n:"Use code 38SHGM04",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HDZGX88W"},
