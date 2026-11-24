@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PREORDER",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HFYC9RPL"},
+{t:"SIZE MED",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B07GWD6HCR"},
+{t:"iPower 15-Pack 5 Gallon Thickened Grow Bags Nonwoven Fabric Pots Aeration Container with Strap Handles for",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CRVS9THQ"},
+{t:"Amazon Essentials Kids School Backpack Set with Lunch Tote and Pencil Case, Multi-Pocket Tear-Resistant",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DTSWRHS9"},
+{t:"Richard Scarrys Busytown Seek & Find Floor Puzzle for Kids 3+",c:"Toys",e:"🧸",dt:"Nov 24",l:"https://www.amazon.com/dp/B098576ND8"},
+{t:"Magic Erasers Cleaning Sponges",c:"Home",e:"🏠",n:"50% off with code VH3WHS7V",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HBBWD762"},
+{t:"CVLIFE WildHawk X Pistol Red Dots",c:"Home",e:"🏠",n:"Use code A67TZTEN",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H1VNG1KW"},
+{t:"Electric Water Transfer Pumps",c:"Home",e:"🏠",n:"Use code YBQHN9QL",dt:"Nov 24",l:"https://www.amazon.com/dp/B0D415LKC7"},
 {t:"DYPER Sensitive Baby Wipes Unscented 99.9% Water Wipe (12 Pack)",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HCX9N723"},
 {t:"BaubleBar - Licensed Beaded Phone Charm",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GY594T7F"},
 {t:"BaubleBar - Friends Forever Charm Bracelet",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GYCRP6NR"},
