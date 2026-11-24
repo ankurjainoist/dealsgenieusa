@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"GUESS Mens Quartz Chronograph Watch, Water-Resistant to 165 Feet",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B00V49K740"},
+{t:"Armani Beauty Stronger With You Parfum - Ambery Leathery Cologne for Men",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DQVN9Q7Q"},
+{t:"The Beachwaver Co. Braid Balm Pre-Braid Prep - Full Size (4 Fl Oz), Frizz-Taming Primer Foam, Strengthen and",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B07V5VS53D"},
+{t:"Pacifica Hydrodew Slime Vegan Snail Mucin Barrier Face Moisturizing Gel, Hydrating For Smoothing & Refining",c:"Toys",e:"🧸",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DC85TSMR"},
+{t:"CeliAeh Dog Allergy Chews",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HQ3X8HTW"},
+{t:"DJI Avata 360 Motion Fly More Combo, 8K 360° Camera Drone",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G4RJB8S7"},
+{t:"Fisher-Price Grow-to-Pro T-Ball Set",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FGDRNYH7"},
+{t:"American Girl, Truly Me #131 Doll & Day of Fun All-in-One Set, Brown Eyes, Straight Blonde Hair, Ages 6+",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GC9YTQN5"},
+{t:"ADT Blu Home Safety Kit, Smoke, CO and Water Leak Sensors, Plan Required",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GQNRS573"},
 {t:"Bedsure Blue Gingham Comforter Set Queen Size, Soft Fall Bedding 3 pcs",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H1J7XNPY"},
 {t:"Wrangler Purse Western Tote Bag Women Aztec Top Handle Handbags with Detachable Strap",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CB7K9SSK"},
 {t:"Hunter Reversible Plush Throw Blanket, 50 inx70 in, Juniper Green Maria Plaid",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H8F2YY2D"},
