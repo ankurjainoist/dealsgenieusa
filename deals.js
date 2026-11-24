@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bedsure Blue Gingham Comforter Set Queen Size, Soft Fall Bedding 3 pcs",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H1J7XNPY"},
+{t:"Wrangler Purse Western Tote Bag Women Aztec Top Handle Handbags with Detachable Strap",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CB7K9SSK"},
+{t:"Hunter Reversible Plush Throw Blanket, 50 inx70 in, Juniper Green Maria Plaid",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H8F2YY2D"},
+{t:"Lancôme Lash Idôle Flutter Extension Lash-Lengthening Mascara - Black",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DNLC5T7S"},
+{t:"U-100 Insulin Syringes",c:"Home",e:"🏠",n:"50% off with code 99V9Z8CQ",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GY3J84JB"},
+{t:"Swarovski Lunar Drop Crystal Earrings, Pink Stone, 18k Rose-Gold Tone Finish",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DY91W3DG"},
+{t:"Farberware Brilliance Stainless Steel Cookware Set, 10-Piece",c:"Kitchen",e:"🍳",dt:"Nov 24",l:"https://www.amazon.com/dp/B0D4NVDX1M"},
 {t:"SWISSGEAR 1900 ScanSmart Laptop Backpack for Travel and Work, TSA-Friendly",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B09R37DNDB"},
 {t:"Chevrolet Intercooler Outlet Air Tubes",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DP6T259W"},
 {t:"Acacia Wood Cutting Board for Kitchen, 3-Piece Chopping Boards with Holder",c:"Kitchen",e:"🍳",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DM4GGC3V"},
