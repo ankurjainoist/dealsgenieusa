@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Couchmaster CYKEY Mechanical Gaming Keyboards",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CLDLWZJ2"},
+{t:"Refrigerator Evaporator Fan Motors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H45DZFVF"},
+{t:"Pruning Shears Clippers",c:"Tools",e:"🔧",n:"Clip the 45% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H8V5H873"},
+{t:"Weigh Safejustable Trailer Hitch Mounts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B08P53K34N"},
+{t:"Fresh Stepvanced Simply Unscented Multi Cat Clumping Cat Litter, 18.5 lb",c:"Pets",e:"🐾",n:"Subscribe & Save available",dt:"Nov 24",l:"https://www.amazon.com/dp/B07ZK3V87N"},
+{t:"Over Door Organizers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0F5QSTW86"},
+{t:"Pet GPS Tracker Collars",c:"Pets",e:"🐾",n:"Clip the 40% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HNC5854G"},
+{t:"HOTIYOK Desert Sunset Stained Glass Window Hanging, Cactus and Mountain Landscape Glass for Kitchen Indoor",c:"Kitchen",e:"🍳",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DSV4HPT8"},
+{t:"Samsung Galaxy Z Fold 8 Clear Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H87PZ6PP"},
+{t:"Bike Pannier Bags with Reflective Strips",c:"Home",e:"🏠",n:"50% off with code H5RFNW23",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HRKM56G4"},
 {t:"PREORDER",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HFYC9RPL"},
 {t:"SIZE MED",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B07GWD6HCR"},
 {t:"iPower 15-Pack 5 Gallon Thickened Grow Bags Nonwoven Fabric Pots Aeration Container with Strap Handles for",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CRVS9THQ"},
