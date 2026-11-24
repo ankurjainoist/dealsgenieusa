@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"IT Cosmetics Superhero No-Tug Waterproof Retractable Eyeliner",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B08YC4Z1KP"},
+{t:"COWAY Air Purifier for Home Large Room Up to 3,120ft², Washable Pre-Filter and HEPA Filter for Smoke",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0722YZ1R1"},
+{t:"GE Profile Smart Indoor Pellet Smoker + Accessories Bundle, Includes Four 1lb Bag, Strainer, 20-pack of Drip",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FG8D4SZR"},
+{t:"Folding Hand Truck, Luggage Cart, Dolly Cart with Wheels, Foldable Trolley",c:"Auto",e:"🚗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HMCGKKV1"},
+{t:"LAPCOS Honey Sheet Mask, Moisturizing Face Mask for Dry Skin, 5 Pack",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B07J4X9C51"},
+{t:"LAURA GELLER The Delectables 14-Well Baked Eyeshadow Palette, Hearthside Hues",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H85JYTQW"},
+{t:"Razer Wolverine V3 Tournament Edition Wired Xbox Gaming Controller, Black",c:"Games",e:"🎮",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DB6QT8K6"},
+{t:"Barefoot Dreams CozyChic Barefoot in the Wild Fuzzy Socks for Women, Ultra Soft Plush Microfiber, Warm & Cozy",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H78CD9B1"},
 {t:"GUESS Mens Quartz Chronograph Watch, Water-Resistant to 165 Feet",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B00V49K740"},
 {t:"Armani Beauty Stronger With You Parfum - Ambery Leathery Cologne for Men",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DQVN9Q7Q"},
 {t:"The Beachwaver Co. Braid Balm Pre-Braid Prep - Full Size (4 Fl Oz), Frizz-Taming Primer Foam, Strengthen and",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B07V5VS53D"},
