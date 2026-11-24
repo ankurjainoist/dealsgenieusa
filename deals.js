@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"P5 Pro Faceplate Covers (5-Piece)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0F8YR6PT6"},
+{t:"Cozy Fireplace Dishwasher Magnets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GV3SQGDC"},
+{t:"SuperATV Flip Windshields",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B07Q4XQG99"},
+{t:"Miracle Baby Sleep Sacks with Feet",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DPKJRJL2"},
+{t:"Sportstrail UV Protection Arm Sleeves",c:"Home",e:"🏠",n:"50% off with code Q8ZKNXQY",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H9YFXCKN"},
+{t:"Wonderskin Lip Scrubs",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B08M25YY9K"},
+{t:"Pleuvoir Floral Musk Perfumes",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HGFGPB2C"},
+{t:"TULA 24-7 Hydration Face Serums",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0BV1G5QB1"},
 {t:"Roku 55-Inch Pro Series LX Smart TV, 4K OLED 144Hz VRR, 2026 RokuTV",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H3XB1FRM"},
 {t:"Pets Alive Swimming Penguins",c:"Pets",e:"🐾",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G2BQRCDT"},
 {t:"AetherMist Misting Humidifier Fans",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HRFJGKZP"},
