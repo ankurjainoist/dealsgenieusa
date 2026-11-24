@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Alex and Ani I Do Stud Earring Set of 2 for Women, Mismatched Bridal",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FMGNDGXS"},
+{t:"Starlink Mini Extension Cables",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HCV67W29"},
+{t:"Roof Rack Cargo Carriers",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GS4RQ2WZ"},
+{t:"Cordless Handheld Vacuum Cleaners",c:"Home",e:"🏠",n:"Use code SD8VN9FK",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HFJP9TYB"},
+{t:"Rotary Cheese Graters with Handle",c:"Home",e:"🏠",n:"Use code E9XI5AED",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FSXJZTV3"},
+{t:"Instant Pot Pro 6 Qt Pressure Cookers",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B08PQ2KWHS"},
+{t:"YETI Hopper Flip Coolers",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H3CBRQXJ"},
+{t:"Philips Sonicare Countertop Power Flosser & Toothbrush System",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B08LJ6CBSW"},
+{t:"Funny Graphic T-Shirts",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B08NYSSMHZ"},
+{t:"Rain Shower Head Combos",c:"Home",e:"🏠",n:"Use code WPLLXYYU",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G64HLDLK"},
 {t:"Force Factor Hair Growth Accelerator with Clinically Studied Lustriva",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DGQX1FS7"},
 {t:"Kiehls - Retinol Skin-Renewing Daily Micro-Dose Serum, Reduces Wrinkles",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B098TSRWLZ"},
 {t:"AmazerBath Loofah Sponge 75g/Piece, Exfoliating Bath Sponge Body Scrubber - Loofa Set of 4 Flower Color",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B07WG6YYRG"},
