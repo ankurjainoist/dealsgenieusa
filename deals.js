@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Heated Ice Cream Scoop Rechargeable with Temp Display, Large Size, Black",c:"Beauty",e:"💄",n:"40% off with code OOPUKK",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GLH5NPHP",img:"img/B0GLH5NPHP.jpg"},
 {t:"Custom Photo Puzzle from Your Picture, Personalized Jigsaw Puzzle 120 to 1000 Pieces",c:"Toys",e:"🧸",n:"49% off with code CEE7L9TK",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GXYWTCY3",img:"img/B0GXYWTCY3.jpg"},
 {t:"LEGO Cruella De Vil Cars",c:"Auto",e:"🚗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DRW7WXDF",img:"img/B0DRW7WXDF.jpg"},
 {t:"Custom Christmas Photo Blanket Throw Personalized with Picture Text",c:"Home",e:"🎄",n:"49% off with code AV39V7CU",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HMCBV4BT",img:"img/B0HMCBV4BT.jpg"},
