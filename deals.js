@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Custom Christmas Photo Blanket Throw Personalized with Picture Text",c:"Home",e:"🎄",n:"49% off with code AV39V7CU",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HMCBV4BT",img:"img/B0HMCBV4BT.jpg"},
 {t:"Cool Maker Charm Studios",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GGTPZVJX",img:"img/B0GGTPZVJX.jpg"},
 {t:"American Girl Truly Me Dolls",c:"Toys",e:"🧸",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DR3LXZ5C",img:"img/B0DR3LXZ5C.jpg"},
 {t:"5-Row Trading Card Storage Box, 3-Pack Organizer, Holds 4,467 Cards for TCG",c:"Home",e:"🏠",n:"50% off with code LSOVOA22",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJC9Q5F1"},
