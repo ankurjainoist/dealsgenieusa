@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Fossil Coachman Quartz Chronograph Leather Watch for Men",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B00DUCIMCI"},
+{t:"Theragun Therabody Mini 3rd Gen Massage Gun, Travel Essential, Desert Rose",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DV81PTX3"},
+{t:"Quip Rev Smart Oscillating Toothbrush, App Connectivity, Black Crescent",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GFPWSRP4"},
+{t:"Casper Sleep Essential Cooling Foam Pillow – King Bed Pillow",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0C35MFMXJ"},
+{t:"YETI Hopper M Series Backpack Coolers - Insulated Soft Sided",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DTKSV5SX"},
+{t:"Roberlo Aircolor Crom Spray Paints",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CHGDVGLK"},
+{t:"SToK Espresso Coffee Shots, Black, Unsweetened, Dark Roast Coffee, Use for Lattes, Americanos, 0.44 fl oz",c:"Kitchen",e:"🍳",n:"Subscribe & Save available",dt:"Nov 24",l:"https://www.amazon.com/dp/B00284TTG2"},
+{t:"Philips Hue Signe Smart Table Lamp, 1-Pack, White",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B09BDKV84P"},
+{t:"Caydo I Cord Christmas Decoration Kits",c:"Home",e:"🎄",n:"Clip the 50% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FMK5F12M"},
 {t:"Couchmaster CYKEY Mechanical Gaming Keyboards",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CLDLWZJ2"},
 {t:"Refrigerator Evaporator Fan Motors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H45DZFVF"},
 {t:"Pruning Shears Clippers",c:"Tools",e:"🔧",n:"Clip the 45% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H8V5H873"},
