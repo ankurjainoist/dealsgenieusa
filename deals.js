@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"59PCS Acrylic Paint Set for Kids",c:"Kids",e:"🎨",n:"Use code CIXXZNFG",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HC5R5NF3"},
+{t:"Hero Rocket Launcher",c:"Home",e:"🏠",n:"Use code YFXIYJ5V",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJYQGT7G"},
+{t:"Isle of Paradise Self Tanning Face & Body DROPS- Self Tanner DROPS",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FDTFZSJ1"},
+{t:"2-in-1 Bird Feeder with Camera",c:"Electronics",e:"🔌",n:"50% off with code N1FJJPWU",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HLD87GM3"},
+{t:"Burts Bees Lip Balm, Moisturizing Lip Care, 0.15 oz., 4 Tubes",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B08VXNT6L2"},
+{t:"Colgate MaxFresh Fluoride Toothpaste, Travel Size, Mint, Bulk 24 Pack, 1 oz",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B07G74P9Q7"},
+{t:"4K HD Smart Bird Feeder with Camera",c:"Electronics",e:"🔌",n:"50% off with code 5Q1KKB8B",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CX14HMLS"},
+{t:"Peakeep Wireless Charging Stations",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HKND4VYP"},
+{t:"FRYE AND CO. Women’s Miranda 14 Boot (Medium Calf)",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HHPC9G9G"},
 {t:"Bedsure King Size Comforter Set",c:"Home",e:"🏠",n:"Use code WEFD0DLD",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CGLPC42G"},
 {t:"Sourdough Starter Warmer Mat",c:"Home",e:"🏠",n:"Use code EGA7YDN5",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H8YQG82D"},
 {t:"90L Large Storage Bags, 6 Pack Clothes Storage",c:"Home",e:"🏠",n:"Use code M2FBMCJH",dt:"Nov 24",l:"https://www.amazon.com/dp/B085ZV98JM"},
