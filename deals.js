@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Metal Small Animal Cage",c:"Home",e:"🏠",n:"40% off with code 05N8RX0Q",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HP5JLK7C"},
+{t:"Bible Covers for Women",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0D2NWWLC1"},
+{t:"Striped Race Car Driver Jackets",c:"Auto",e:"🚗",n:"50% off with code 20G5TU7Y",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HNSXLNCN"},
+{t:"eYeFANS DRIFT Kids Sports Sunglasses (White)",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H1LZ78WW"},
+{t:"3-Wheel Electric Scooter for Kids Ages 3–8 with 80W Motor",c:"Kids",e:"🎨",n:"50% off with code PHTBVDQF",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H6X57R3M"},
+{t:"Valytime Bathroom Vanity Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0BFW8RR9X"},
+{t:"Golf Rangefinder with Slope,1200 Yards Laser Range Finder",c:"Home",e:"🏠",n:"72% off with code 3LDPDI8R",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DW3V7N7X"},
+{t:"Toilet Seat Covers with Cushion",c:"Home",e:"🏠",n:"50% off with code C63GNWEU",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HQC39Z7W"},
 {t:"25W Fast Charging Power Banks",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FP96QL1P"},
 {t:"Woodenvent Candle Holder withvent Candles",c:"Home",e:"🏠",n:"40% off with code R3XITUDX",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJZ7KCSY"},
 {t:"Gumdrop DropTech Dell Chromebook Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B08B85NBDQ"},
