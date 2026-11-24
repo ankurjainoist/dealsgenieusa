@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Friendsgiving Gifts for Women Bulk, 30PCS/ 6 Set with Candles Socks Scrunchies Bracelets Gift Bags Cards",c:"Fashion",e:"👗",n:"40% off with code 6O0EIQLL",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HKRSM6VP"},
+{t:"Vacuum Steamer for Clothes, 5000Pa Handheld Steamer & Iron 2 in 1",c:"Home",e:"🏠",n:"66% off with code V6MFXFPT (works on Gray Blue)",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H9LK9JM2"},
+{t:"Cordless Water Flossers with 4 Modes",c:"Home",e:"🏠",n:"Use code 38SHGM04",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HDZGX88W"},
+{t:"3 Pack Book Diamond Art Kits forults Kids Beginners, DIY Crafts",c:"Kids",e:"🎨",n:"50% off with code 6D5EWM2V",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HKJ1MH8R"},
+{t:"Snowflake Shower Curtain Hooks",c:"Home",e:"🏠",n:"Use code WX4XU1XF",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DGBVH1PK"},
+{t:"Monster 25W USB-C Chargers",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0D66VSNJ6"},
 {t:"Metal Small Animal Cage",c:"Home",e:"🏠",n:"40% off with code 05N8RX0Q",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HP5JLK7C"},
 {t:"Bible Covers for Women",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0D2NWWLC1"},
 {t:"Striped Race Car Driver Jackets",c:"Auto",e:"🚗",n:"50% off with code 20G5TU7Y",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HNSXLNCN"},
