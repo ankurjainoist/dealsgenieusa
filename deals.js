@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cool Maker Charm Studios",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GGTPZVJX",img:"img/B0GGTPZVJX.jpg"},
 {t:"American Girl Truly Me Dolls",c:"Toys",e:"🧸",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DR3LXZ5C",img:"img/B0DR3LXZ5C.jpg"},
 {t:"5-Row Trading Card Storage Box, 3-Pack Organizer, Holds 4,467 Cards for TCG",c:"Home",e:"🏠",n:"50% off with code LSOVOA22",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJC9Q5F1"},
 {t:"Passport Holder with AirTag Slot - Magnetic Travel Passport Wallet Case",c:"Home",e:"🏠",n:"50% off with code 99QXA4N6",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HHMXWVT9"},
