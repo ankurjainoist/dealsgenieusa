@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Microdermabrasion Machine Pro, Large Diamond Electric Microdermabrasion Wand Tool With 3 Levels Frequency for",c:"Tools",e:"🔧",n:"52% off with code F16DS349",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CCV8C1XR",img:"img/B0CCV8C1XR.jpg"},
 {t:"Glass Mixer Bowl for KitchenAid 4.5-5QT Tilt-Head Stand Mixers",c:"Kitchen",e:"🍳",n:"50% off with code EE14WZKJ",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HKJDBH1Z"},
 {t:"DIY MoUse Ears Headbands, Sequin MoUse Ears",c:"Home",e:"🏠",n:"50% off with code YWHZXQQZ",dt:"Nov 24",l:"https://www.amazon.com/dp/B0F8T716HH"},
 {t:"Emergency Crank Radio Hand Crank Radio AM/FM/NOAA Weather Radio Solar Power",c:"Home",e:"🏠",n:"50% off with code PBCC4YAL",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HS8CB68S"},
