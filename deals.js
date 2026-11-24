@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"KINGART Premium Miracle Wedge Brushes",c:"Home",e:"🏠",n:"Clip the 47% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B082J58D1K"},
+{t:"NIV, Spiral-bound Illustrating Bible, Leathersoft Spiral, Pink: Draw, Write, and Reflect Your Way Through",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/1644548739"},
+{t:"Cold Press Juicer",c:"Home",e:"🏠",n:"Use code CCQ2Y1B5",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HNW9NB1G"},
+{t:"Automatic Litter Box",c:"Home",e:"🏠",n:"Use code 5X3N6I2M",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HNKZ5TF5"},
+{t:"3 Burner Propane Gas Grill",c:"Kitchen",e:"🍳",n:"30% off with code T5M8FMNQ",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G6DK5J1Q"},
+{t:"3 Burner Propane Griddle with Ignition",c:"Home",e:"🏠",n:"30% off with code 0WN4T32Z",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GVN8WTX9"},
+{t:"Wireless Charging Stations (3-in-1)",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G3PBKFNV"},
+{t:"Metal Swing Sets",c:"Home",e:"🏠",n:"50% off with code 4AYXU6PO",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FJM3G2H3"},
+{t:"DBPOWER 2500A Jump Starters",c:"Home",e:"🏠",n:"Clip the 49% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CCDJLMNL"},
+{t:"3K Dog Camera Treat Dispenser",c:"Pets",e:"🐾",n:"Use code 2O7BQ031",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HMK6KK4K"},
 {t:"Tankini Swimsuits for Women Beaded Tankini with Shorts",c:"Fashion",e:"👗",n:"50% off with code 7N8Y6JTY",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HMCKZM9X"},
 {t:"CWSDXM Fishing Landing Nets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DKTGTFZ5"},
 {t:"Women Tiered Maxi Skirt High Waist Flowy with Pockets",c:"Fashion",e:"👗",n:"63% off with code GASY3PL8 (works on all options except which price is lower than 19.99)",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G141FC66"},
