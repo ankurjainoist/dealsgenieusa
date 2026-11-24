@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"25W Fast Charging Power Banks",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FP96QL1P"},
+{t:"Woodenvent Candle Holder withvent Candles",c:"Home",e:"🏠",n:"40% off with code R3XITUDX",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJZ7KCSY"},
+{t:"Gumdrop DropTech Dell Chromebook Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B08B85NBDQ"},
+{t:"Extra Large Seat Cushion, Office Chair Cushions for Long Sitting Comfort",c:"Home",e:"🏠",n:"30% off with code OCD8FDA2",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HDBDXKJX"},
+{t:"Astercook 24-Piece Black Silverware Set with Steak Knives Flatware Set",c:"Home",e:"🏠",n:"53% off with code OWBW4BK9",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DRPD81K1"},
+{t:"Cat Diamond Art Kit 8 Pack, 1000 Gems, 5D Kitten Gem Sticker DIY Craft",c:"Pets",e:"🐾",n:"50% off with code J1D6QANX",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HBMQW83G"},
+{t:"AOMEE Laundry Detergent Sheets",c:"Grocery",e:"🛒",n:"Use code 2MNFN9YL",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H6G57T8D"},
 {t:"Custom 5D Diamond Art Painting Kit forults",c:"Kids",e:"🎨",n:"49% off with code Q28Q5WZ7",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HQBG41LX",img:"img/B0HQBG41LX.jpg"},
 {t:"Dewalt Cordless Garden Tillers",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GC8W2HP1",img:"img/B0GC8W2HP1.jpg"},
 {t:"Microdermabrasion Machine Pro, Large Diamond Electric Microdermabrasion Wand Tool With 3 Levels Frequency for",c:"Tools",e:"🔧",n:"52% off with code F16DS349",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CCV8C1XR",img:"img/B0CCV8C1XR.jpg"},
