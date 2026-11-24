@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Tankini Swimsuits for Women Beaded Tankini with Shorts",c:"Fashion",e:"👗",n:"50% off with code 7N8Y6JTY",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HMCKZM9X"},
+{t:"CWSDXM Fishing Landing Nets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DKTGTFZ5"},
+{t:"Women Tiered Maxi Skirt High Waist Flowy with Pockets",c:"Fashion",e:"👗",n:"63% off with code GASY3PL8 (works on all options except which price is lower than 19.99)",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G141FC66"},
+{t:"kate spade new york Women’s Deco Small Tulip Tote",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H6NH151N"},
+{t:"Volleyball Sweatshirt Women Baseball Softball Mom Crewneck Sweater Top",c:"Fashion",e:"👗",n:"40% off with code N5IM3NHK",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DJBWJG2R"},
+{t:"GAP Women’s Mid Rise Baggy Denim",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GCBFQBS5"},
+{t:"3 Pack Boat Neck Long Sleeve Top for Women Stretchy Fitted Tops",c:"Fashion",e:"👗",n:"50% off with code 8C0611D3",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJ5F3CHY"},
+{t:"CAROTE 21pcs Pots and Pans Set Non Stick, Detachable Handle Cookware, White",c:"Kitchen",e:"🍳",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H3ZC19SP"},
+{t:"Womens Lightweight V neck Sweaters Zip Pullover",c:"Fashion",e:"👗",n:"50% off with code HKEHO4QX",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HMRC9JCJ"},
 {t:"HiTotes Cheetah Print Makeup Bags",c:"Beauty",e:"💄",n:"Use code 09VKNXPK",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H9L6L6SW"},
 {t:"2026 Christmasvent Calendar, 24-Day Holiday Magic Countdown with Assorted Soft-Touch Collectibles",c:"Home",e:"🎄",n:"50% off with code 2YEZH917",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HLVWCQKF"},
 {t:"260 FT Drip Irrigation Systems",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DPWNS3KD"},
