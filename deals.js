@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Evereden Kids Face Wash & Mineral SPF 20 Cream Set, Safe for Sensitive Skin",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DHDDKYWV",img:"img/B0DHDDKYWV.jpg"},
 {t:"Tire Inflator Portable Air Compressor",c:"Auto",e:"🚗",n:"Use code 5BVMN2IW",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H8Y7JPSZ",img:"img/B0H8Y7JPSZ.jpg"},
 {t:"Cordless Vacuum Cleaner LED Display",c:"Home",e:"🏠",n:"50% off with code C7KKQBNZ",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H7J37KPQ",img:"img/B0H7J37KPQ.jpg"},
 {t:"Travel Steamer for Clothes",c:"Home",e:"🏠",n:"30% off with code SBZAZ744",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HHF2V3M5",img:"img/B0HHF2V3M5.jpg"},
