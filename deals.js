@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"KOSVEKS Dryer Lint Screen Covers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HKCTSMZB"},
+{t:"Waxfans Smart Wax Roller Kits",c:"Electronics",e:"🔌",n:"40% off with code R26ELGA5",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HG9K6SK9"},
+{t:"Automatic Fuel Nozzles (3/4 in NPT)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HCBYG53T"},
+{t:"G-Tube Feeding Pump Carriers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H8PC57P5"},
+{t:"CutEdge Electric Nail Files",c:"Beauty",e:"💄",n:"Use code 23I47C1O",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HG9CLFKY"},
+{t:"FAO Schwarz NoHo Shoulder Bag, Kids Fashion Purse & Dress-Up Accessory",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GR1W4GSM"},
+{t:"BOTUNZER Retractable Car Chargers",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GLN5Y2SC"},
+{t:"New Release",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GRCPPCJ2"},
+{t:"Classic Christmas Wrapping Paper Rolls",c:"Home",e:"🎄",n:"50% off with code XPAN6JXK",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HR1FX8VK"},
 {t:"Barefaced Clean Slate Spritz",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DR98V39P"},
 {t:"Fruit Punch Extra Strength Energy Shot 48 PK – 260mg Natural Caffeine B12 B6 – Energy & Focus Support – 2",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B08S6K8RSY"},
 {t:"MEION Espresso Tamping Mats",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DGLN4JZN"},
