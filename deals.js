@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Youth Dirt Bike Helmets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0B3HTCMGW"},
+{t:"Dutch Oven For Sourdough Bread Baking – Enamelled Cast Iron Bread Loaf Pot",c:"Kitchen",e:"🍳",dt:"Nov 24",l:"https://www.amazon.com/dp/B0F7RTSVT8"},
+{t:"MANSCAPED The Chairman PRO Men’s Electric Foil Shaver",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DDQV59B3"},
+{t:"Marvel Avengers Spider-Man Fleece Pullover Hoodie and Jogger Pants Outfit Set Toddler to Big Kid Sizes (2T -",c:"Baby",e:"👶",dt:"Nov 24",l:"https://www.amazon.com/dp/B085F33S3C"},
+{t:"Kitsch Detangler Brush – Gentle Curly Hair Brush All Hair Types, Terracotta",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0D4F9D79T"},
+{t:"Beetles Gel Polish Set, Modern MUse, 20 Colors Winter Gel Nail Polish Set",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B083SM56BR"},
+{t:"Touchland Body & Hair Golden Amber Hydrating Fragrance Mist Travel Size",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DWBLVD7L"},
+{t:"Foldable Baby Bouncers",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GWM2V9RS"},
+{t:"The Original MakeUp Eraser PRO, Chic Black, Stocking Stuffer",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B012TVK2P0"},
+{t:"American Girl My First Molly Doll & Board Book",c:"Toys",e:"🧸",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DR3LKDZS"},
 {t:"KitschPop Paddle Brush, Hair Brushes for Women – Soft Violet",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GN3WYG6H"},
 {t:"TULA Prebiotic Skincare 3-Piece Best Sellers Holiday Gift Set, Travel Size",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H53BV4X2"},
 {t:"Medicube Zero Pore Pads",c:"Home",e:"🏠",n:"Use code MEDICUBE15",dt:"Nov 24",l:"https://www.amazon.com/dp/B09V7Z4TJG"},
