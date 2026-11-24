@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"HiTotes Cheetah Print Makeup Bags",c:"Beauty",e:"💄",n:"Use code 09VKNXPK",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H9L6L6SW"},
+{t:"2026 Christmasvent Calendar, 24-Day Holiday Magic Countdown with Assorted Soft-Touch Collectibles",c:"Home",e:"🎄",n:"50% off with code 2YEZH917",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HLVWCQKF"},
+{t:"260 FT Drip Irrigation Systems",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DPWNS3KD"},
+{t:"800PCS Christmas Party Favors for Kids",c:"Kids",e:"🎄",n:"48% off with code 800BFCM",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJ7PSKZW"},
+{t:"1000 PCS Party Favors for Kids",c:"Kids",e:"🎨",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DDQ1QX7Q"},
+{t:"Monster Truck Toys - Remote Control Monster Truck with Light & Music, 1:20 Scale RC Truck with 360° Spins and",c:"Auto",e:"🚗",n:"53% off with code T2RR8EN0",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HHWM8276"},
+{t:"Talking Flash Cards for Toddlers: 2-in-1 LCD Writing Tablet, Pink",c:"Baby",e:"👶",n:"79% off with code DBSIYH2K",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GWRL2K75"},
+{t:"Retractable USB-C Car Chargers",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GTZ7JNCT"},
+{t:"Cooling Body Pillow Cover, Pillowcase for 20x54 Inch Pillow",c:"Home",e:"🏠",n:"52% off with code B097KLCE",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H6MKMXFV"},
+{t:"Anti-Theft Doorbell Camera Mounts",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FCXMBJY2"},
 {t:"Wood Lumber Storage Racks",c:"Home",e:"🏠",n:"Use code QKA23BU3",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FL2GWG96"},
 {t:"Shark VACMOP Reveal Cordless Vacuum & Spray Mop, Green, VM401",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FP2Y697Z"},
 {t:"Gift for Mom, Hanging Wooden Picture Frame Photo Holder",c:"Home",e:"🏠",n:"40% off with code 625UHLML",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GBWCY16W"},
