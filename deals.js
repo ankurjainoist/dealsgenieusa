@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"5-Row Trading Card Storage Box, 3-Pack Organizer, Holds 4,467 Cards for TCG",c:"Home",e:"🏠",n:"50% off with code LSOVOA22",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJC9Q5F1"},
+{t:"Passport Holder with AirTag Slot - Magnetic Travel Passport Wallet Case",c:"Home",e:"🏠",n:"50% off with code 99QXA4N6",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HHMXWVT9"},
+{t:"Jumbo C70 Christmas Pathway Lights Outdoor, 16FT 10 LED, 2-Pack, multicolor",c:"Home",e:"🎄",n:"50% off with code 1UYXDZCL",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GXDZRSNR"},
+{t:"Heating Pad Electric Throw for Back Pain & Cramps Relief, 12x24",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FNQZK118"},
+{t:"ZKOO Queen Air Mattresses with Pump",c:"Home",e:"🏠",n:"Use code WZGI9L6D",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G23Y6MNB"},
+{t:"Sleep Spray with Lavender Essential Oil, Pillow Spray, 2.5 FL OZ * 4",c:"Home",e:"🏠",n:"45% off with code GI607CQD",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G24CF3NX"},
+{t:"Resin Skull Decoration Sets",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HDB8XRNP"},
+{t:"Air Dry Clay Kit for Kids 3+, 12 Colorful Animals Modeling Clay Craft Projects",c:"Kids",e:"🎨",n:"45% off with code PTS8I2S9",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HHMP7K6X"},
+{t:"Vibration Plate Exercise Machine, Lymphatic Drainage Machine for Weight Loss",c:"Home",e:"🏠",n:"60% off with code W1NQIJGW",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GWQG8BRH"},
 {t:"TJHSM F150 Door Check Arms",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CHS2MCRS"},
 {t:"MyoGlow Arm Lifting Devices",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0D9L24W6Q"},
 {t:"Aquaphorvanced Therapy Healing Ointment, Multipack, 3 x 1.75 OZ",c:"Health",e:"💊",dt:"Nov 24",l:"https://www.amazon.com/dp/B076FT4R4H"},
