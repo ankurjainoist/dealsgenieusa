@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Barefaced Clean Slate Spritz",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DR98V39P"},
+{t:"Fruit Punch Extra Strength Energy Shot 48 PK – 260mg Natural Caffeine B12 B6 – Energy & Focus Support – 2",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B08S6K8RSY"},
+{t:"MEION Espresso Tamping Mats",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DGLN4JZN"},
+{t:"Florasis Floral Engraving Beauty Palettes",c:"Home",e:"🏠",n:"50% off with code 79MBY2GX",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HHRJ77GR"},
+{t:"KNIMLY Knitting Bear Kits",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FZS1G4Z9"},
+{t:"L.O.L. Surprise Inflatable River Race Water Slide with Blower",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B07HSKVMRW"},
+{t:"First Aid Beauty Facial Radiance Pads with Lactic & Glycolic Acid",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0G8TYPWZS"},
+{t:"Melissa & Doug Deluxe Double-Sided Magnetic Tabletop Easel",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B086WNQRC3"},
+{t:"PowerA Raspberry Red USB Game Controller for Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 24",l:"https://www.amazon.com/dp/B0BTMSMFG6"},
 {t:"Cuisinart 2 Qt. Ice Cream Maker Machine for Frozen Yogurt, ICE-30BCP1",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0006ONQOC"},
 {t:"EvoNation Open Toe Compression Socks",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B01J8WXRWS"},
 {t:"Apple Watch Series 12 GPS 42mm Smartwatch",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJB63G4M"},
