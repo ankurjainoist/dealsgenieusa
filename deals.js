@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Travel Steamer for Clothes",c:"Home",e:"🏠",n:"30% off with code SBZAZ744",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HHF2V3M5",img:"img/B0HHF2V3M5.jpg"},
 {t:"59PCS Acrylic Paint Set for Kids",c:"Kids",e:"🎨",n:"Use code CIXXZNFG",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HC5R5NF3"},
 {t:"Hero Rocket Launcher",c:"Home",e:"🏠",n:"Use code YFXIYJ5V",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJYQGT7G"},
 {t:"Isle of Paradise Self Tanning Face & Body DROPS- Self Tanner DROPS",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FDTFZSJ1"},
