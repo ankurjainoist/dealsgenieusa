@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DYPER Sensitive Baby Wipes Unscented 99.9% Water Wipe (12 Pack)",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HCX9N723"},
+{t:"BaubleBar - Licensed Beaded Phone Charm",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GY594T7F"},
+{t:"BaubleBar - Friends Forever Charm Bracelet",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GYCRP6NR"},
+{t:"Women Soccer Jersey Sports Fans Outdoor T-Shirts Athletic Slim Fit Fan Soccer Jersey",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DT6DF96R"},
+{t:"SIZE 2X",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DLHV5Z1D"},
+{t:"PLUS 25 CREDIT",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0BFC7WQ6R"},
+{t:"ApplianPar Belt Tensioner Pulleys",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DJR7BX3N"},
+{t:"SIZE 4",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CXX1XRHY"},
+{t:"Kids Soccer Jersey for Boys&Girls,Youth Training Jerseys Sports Fan Jerseys Football Shirt for Children",c:"Kids",e:"🎨",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DL2FBKWH"},
 {t:"IT Cosmetics Superhero No-Tug Waterproof Retractable Eyeliner",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B08YC4Z1KP"},
 {t:"COWAY Air Purifier for Home Large Room Up to 3,120ft², Washable Pre-Filter and HEPA Filter for Smoke",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0722YZ1R1"},
 {t:"GE Profile Smart Indoor Pellet Smoker + Accessories Bundle, Includes Four 1lb Bag, Strainer, 20-pack of Drip",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FG8D4SZR"},
