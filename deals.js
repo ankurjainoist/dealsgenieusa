@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"KitschPop Paddle Brush, Hair Brushes for Women – Soft Violet",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GN3WYG6H"},
+{t:"TULA Prebiotic Skincare 3-Piece Best Sellers Holiday Gift Set, Travel Size",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H53BV4X2"},
+{t:"Medicube Zero Pore Pads",c:"Home",e:"🏠",n:"Use code MEDICUBE15",dt:"Nov 24",l:"https://www.amazon.com/dp/B09V7Z4TJG"},
+{t:"Hefty Ultra Strong Trash Bags",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0B16LLH4V"},
+{t:"JBL Charge 6 - Portable Waterproof & DropProof Bluetooth Speaker",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DN2ZCZX6"},
+{t:"Faux Fur Ear Muffs",c:"Home",e:"🏠",n:"Use code UAV5S5Q4",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H5QYFHN5"},
 {t:"Alex and Ani I Do Stud Earring Set of 2 for Women, Mismatched Bridal",c:"Fashion",e:"👗",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FMGNDGXS"},
 {t:"Starlink Mini Extension Cables",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HCV67W29"},
 {t:"Roof Rack Cargo Carriers",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GS4RQ2WZ"},
