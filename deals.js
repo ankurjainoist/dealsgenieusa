@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Glass Mixer Bowl for KitchenAid 4.5-5QT Tilt-Head Stand Mixers",c:"Kitchen",e:"🍳",n:"50% off with code EE14WZKJ",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HKJDBH1Z"},
+{t:"DIY MoUse Ears Headbands, Sequin MoUse Ears",c:"Home",e:"🏠",n:"50% off with code YWHZXQQZ",dt:"Nov 24",l:"https://www.amazon.com/dp/B0F8T716HH"},
+{t:"Emergency Crank Radio Hand Crank Radio AM/FM/NOAA Weather Radio Solar Power",c:"Home",e:"🏠",n:"50% off with code PBCC4YAL",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HS8CB68S"},
+{t:"SMEG Retro Electric Kettles",c:"Kitchen",e:"🍳",n:"Coupon: 10% off",dt:"Nov 24",l:"https://www.amazon.com/dp/B0784716VV"},
+{t:"Purple Whitening Toothpaste, Dual Enzyme Stain Removal, 3.88oz",c:"Home",e:"🏠",n:"20% off with code MJGNU8VG",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FWC11DRH"},
+{t:"Ninja CrushBoss Blender Tumblers",c:"Kitchen",e:"🍳",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H2JWPTTB"},
+{t:"60 inMagnetic Phone Tripod for iPhone18Pro Auto Open Selfie Stick",c:"Home",e:"🏠",n:"37% off with code A8KWZB9T",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FRM5XJGF"},
+{t:"GoPro MAX2 Action Cameras",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FP5SVBHK"},
+{t:"FiveStarBaby Portable Baby Chair Straps",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CJRPJC8S"},
 {t:"LED Note Board with Colors, Acrylic Led Writing Board, 11.8 inX7.9 in",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FMY2R1WB",img:"img/B0FMY2R1WB.jpg"},
 {t:"Rustic 3 Tier Square Rotating Bookshelf with Reinforced Base",c:"Home",e:"🏠",n:"40% off with code XGCIGFXS",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HM8JJBWK",img:"img/B0HM8JJBWK.jpg"},
 {t:"Heated Ice Cream Scoop Rechargeable with Temp Display, Large Size, Black",c:"Beauty",e:"💄",n:"40% off with code OOPUKK",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GLH5NPHP",img:"img/B0GLH5NPHP.jpg"},
