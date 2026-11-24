@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"TJHSM F150 Door Check Arms",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CHS2MCRS"},
+{t:"MyoGlow Arm Lifting Devices",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0D9L24W6Q"},
+{t:"Aquaphorvanced Therapy Healing Ointment, Multipack, 3 x 1.75 OZ",c:"Health",e:"💊",dt:"Nov 24",l:"https://www.amazon.com/dp/B076FT4R4H"},
+{t:"Farmacy x WICKED Cleansing Balm Skin Care Set - Travel Size Makeup Remover Duo",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FXXGRDFW"},
+{t:"Eva NYC Therapy Session Deep Conditioning Hair Mask with Vegan Protein, Jojoba Oil + Argan Oil",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DRYZJ1MX"},
+{t:"Tree Hut Watermelon Body Scrub, Exfoliating Sugar Scrub, Vegan, 18 Oz",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B08Y5X8GJ9"},
+{t:"Xaproo Breast Milk Coolers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H87W974G"},
 {t:"Fossil Coachman Quartz Chronograph Leather Watch for Men",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B00DUCIMCI"},
 {t:"Theragun Therabody Mini 3rd Gen Massage Gun, Travel Essential, Desert Rose",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DV81PTX3"},
 {t:"Quip Rev Smart Oscillating Toothbrush, App Connectivity, Black Crescent",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GFPWSRP4"},
