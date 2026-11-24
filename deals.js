@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"SWISSGEAR 1900 ScanSmart Laptop Backpack for Travel and Work, TSA-Friendly",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B09R37DNDB"},
+{t:"Chevrolet Intercooler Outlet Air Tubes",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DP6T259W"},
+{t:"Acacia Wood Cutting Board for Kitchen, 3-Piece Chopping Boards with Holder",c:"Kitchen",e:"🍳",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DM4GGC3V"},
+{t:"Ravensburger Enchanted Lands Look & Find 1000 Piece Jigsaw Puzzle forults - 12000170 - Handcrafted Tooling",c:"Toys",e:"🧸",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CPFJ5NDX"},
+{t:"VT COSMETICS PDRN Capsule Creams",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FCMH43M9"},
+{t:"Café Bustelo Espresso Ground Coffee, Dark Roast, 12 Bricks (10 Oz. Each)",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CGVS8BTH"},
+{t:"TONYMOLY Tako Blackhead Scrub Stick Ornament, Charcoal + Sea Salt Pore Care",c:"Home",e:"🏠",n:"Clip the coupon (code TONYMOLY)",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HD2MF4T5"},
+{t:"TONYMOLY Glass Skin Dreams Hydrogel Mask Melt Gift Set with Free Pillowcase",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HCWJGMMS"},
+{t:"AI Translation Earbuds",c:"Electronics",e:"🔌",n:"Clip the 40% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HNN4YB1L"},
 {t:"AFAITH Magnetic Selfie Ring Lights",c:"Electronics",e:"🔌",n:"Use code SIT7E5OE",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H6X8C4B5"},
 {t:"IT Cosmetics CC+ Airbrush Powders",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B00VQS4IPS"},
 {t:"Urban Decay Eyeshadow Primers",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B075FH136K"},
