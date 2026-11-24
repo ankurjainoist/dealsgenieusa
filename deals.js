@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bedsure King Size Comforter Set",c:"Home",e:"🏠",n:"Use code WEFD0DLD",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CGLPC42G"},
+{t:"Sourdough Starter Warmer Mat",c:"Home",e:"🏠",n:"Use code EGA7YDN5",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H8YQG82D"},
+{t:"90L Large Storage Bags, 6 Pack Clothes Storage",c:"Home",e:"🏠",n:"Use code M2FBMCJH",dt:"Nov 24",l:"https://www.amazon.com/dp/B085ZV98JM"},
+{t:"BEDELITE Queen Mattress Topper",c:"Home",e:"🏠",n:"Use code 93STWGKN",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H4LB57VV"},
+{t:"BELLA JOLT 20-bar Slim Espresso Maker, Fig",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GNTYBGFV"},
+{t:"Hilighting LED Light Kits for Lego Sets",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CHMJGWSV"},
 {t:"KINGART Premium Miracle Wedge Brushes",c:"Home",e:"🏠",n:"Clip the 47% coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B082J58D1K"},
 {t:"NIV, Spiral-bound Illustrating Bible, Leathersoft Spiral, Pink: Draw, Write, and Reflect Your Way Through",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/1644548739"},
 {t:"Cold Press Juicer",c:"Home",e:"🏠",n:"Use code CCQ2Y1B5",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HNW9NB1G"},
