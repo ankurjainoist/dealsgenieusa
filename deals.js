@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"AFAITH Magnetic Selfie Ring Lights",c:"Electronics",e:"🔌",n:"Use code SIT7E5OE",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H6X8C4B5"},
+{t:"IT Cosmetics CC+ Airbrush Powders",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B00VQS4IPS"},
+{t:"Urban Decay Eyeshadow Primers",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B075FH136K"},
+{t:"IT Cosmetics Brow Power Pencils",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B003VPTA2U"},
+{t:"BYOMA Phyto-Mucin Glow Serums",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0DR9VMF5N"},
+{t:"Anastasia Beverly Hills Matte Lipsticks",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B09RTP86RQ"},
+{t:"Grace & Stella Lip Gloss Butters",c:"Kitchen",e:"🍳",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FB9DNJ9T"},
+{t:"BYOMA Hydrating Recovery Oils",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0C7C8S8FT"},
+{t:"Clinique Chubby Stick Tinted Lip Balms",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FZXG9SNG"},
 {t:"P5 Pro Faceplate Covers (5-Piece)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0F8YR6PT6"},
 {t:"Cozy Fireplace Dishwasher Magnets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0GV3SQGDC"},
 {t:"SuperATV Flip Windshields",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B07Q4XQG99"},
