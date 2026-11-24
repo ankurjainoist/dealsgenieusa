@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cuisinart 2 Qt. Ice Cream Maker Machine for Frozen Yogurt, ICE-30BCP1",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B0006ONQOC"},
+{t:"EvoNation Open Toe Compression Socks",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B01J8WXRWS"},
+{t:"Apple Watch Series 12 GPS 42mm Smartwatch",c:"Electronics",e:"🔌",dt:"Nov 24",l:"https://www.amazon.com/dp/B0HJB63G4M"},
+{t:"Indoor Door Mats",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FGXMW9B5"},
+{t:"Bronzejustable Curtain Rods",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0FYNM4W36"},
 {t:"Roughness Smoothing Lotion",c:"Beauty",e:"💄",n:"50% off with code L6KM69H6",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H2BVQVWH"},
 {t:"Kids Instant Print Cameras",c:"Electronics",e:"🔌",dt:"Nov 23",l:"https://www.amazon.com/dp/B0HJFZWSN2"},
 {t:"Ugly Christmas Sweaters",c:"Fashion",e:"🎄",dt:"Nov 23",l:"https://www.amazon.com/dp/B0H885Y9M2"},
