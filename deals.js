@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MIAO LAB Phone Camera Lens Kits",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DKNKMG66"},
+{t:"10x20 Pop Up Party Tent Waterproof Canopy",c:"Home",e:"🏠",n:"47% off with code S212SQLJ",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HGKP178H"},
+{t:"Shoe Storage Cabinets",c:"Home",e:"🏠",n:"44% off with code QGXLS5P2",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FWCC62TF"},
+{t:"GeekShare Grips for Nintendo Switch Joy Con",c:"Games",e:"🎮",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DZ1QTL8H"},
+{t:"10x10FT Pop Up Canopy Tent with Sidewall",c:"Home",e:"🏠",n:"50% off with code EM2MYT5D",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HN3KJ5CL"},
+{t:"Kitsch Sweet Hair Perfume & Silky Satin Scrunchies Hair Set – 4pcs",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HFYLXRZM"},
+{t:"Home Security System Wireless, Smart WiFi Alarm",c:"Electronics",e:"🔌",n:"Use code C6AX3ABK",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H3YS7RNF"},
+{t:"Electric Mountain Bike",c:"Home",e:"🏠",n:"50% off with code JNB5G22E",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HF4MHM4D"},
 {t:"Little Tikes 2-in-1 Pop n Pitch Trainer, Outdoor Sports",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CQ8TM6B9"},
 {t:"Little Tikes Learn & Play Learning Lane Activity Walker",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B09N9Y4RVX"},
 {t:"34 Gal Outdoor Storage Box Waterproof Lockable",c:"Home",e:"🏠",n:"Use code ECK4H7ZJ",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HH39RLJR"},
