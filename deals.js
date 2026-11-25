@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Joovy Tricycoo 4.1 Kids Tricycle with 4-Stages Featuring Extra-Wide Front Tire, Removable andjustable Parent",c:"Auto",e:"🚗",dt:"Nov 25",l:"https://www.amazon.com/dp/B01IHXX17K"},
+{t:"Kate Spade New York Harmony Hoops",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G3YJ4LJ7"},
+{t:"Dash Stacks 16-Piece Ceramic Cookware Set, Electric Burner, Forged Iron",c:"Kitchen",e:"🍳",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H5L3JGXN"},
+{t:"Floral Soft Printed Fabric Duvet Cover and Pillowcase Set,Cute Strawberry Printed Microfiber Comforter Cover",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F8HMBT8D"},
+{t:"MECCANO by Erector 5 in 1 Roadster Pull Back Car Building Kit, STEM Engineering Education Toy for Ages 8 and",c:"Auto",e:"🚗",dt:"Nov 25",l:"https://www.amazon.com/dp/B074XP4CGF"},
+{t:"Melissa & Doug Farm Wooden Cube Puzzle with Storage Tray",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B000096QJQ"},
+{t:"Estée Lauder Beautiful Perfumed Body Lotion with Notes of Rose, Lily, Tuberose & Orange Flower, 8.4 Fl Oz",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B000P22TA2"},
+{t:"Alienware 274K Dual-Resolution Gaming Monitor",c:"Electronics",e:"🔌",dt:"Nov 25",l:"https://www.amazon.com/dp/B0C1SDSYV6"},
+{t:"Progresso Cannellini White Kidney Beans, 19 ounces (Pack of 24)",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B005EKICBU"},
+{t:"Travelon Anti-Theft Signature Quilted Slim Pouch",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0792NSNNZ"},
 {t:"CreateOn Crayola Mini Magnetic PIP-Tiles, Bold Colors - Building Set for Kids, Magnetic Building Toys for",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CSH1H33H"},
 {t:"YETI Rambler 20 oz Tumbler with Straw Lid - Insulated, Tropical Pink",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FTZYTM58"},
 {t:"Christmas Gift Card Holders",c:"Home",e:"🎄",n:"50% off with code PCZONQS3",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HRZ92RC9"},
