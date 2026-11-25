@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Drone with Camera for Kids &ults, Easy-to-Fly Foldable Drone for Beginners",c:"Electronics",e:"🔌",n:"61% off with code XX4351OL",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HFWQ14QK"},
+{t:"High Speed 30+KM/H Remote Control Car, 1:14 RC Cars for Boys Age 8-12, 2.4 GHz All Terrain RC Truck, Ideal",c:"Auto",e:"🚗",n:"68% off with code H37SGLW9",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HJQR4HVN"},
+{t:"48 Count Highlighters Bulk - 6 Assorted Bright Colors, Chisel Tip, No Bleed & Quick Dry",c:"Home",e:"🏠",n:"51% off with code VQHQ8EW8",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GXY7G3PJ"},
+{t:"Bean Bag Chair forults Teens with Armrests for Small Place, White",c:"Home",e:"🏠",n:"50% off with code MOYTMYC9",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HS7L9WH3"},
+{t:"Xbox Elite Series 2 Controller Accessories",c:"Games",e:"🎮",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GDT4TLFX"},
+{t:"Emergency Long Burning Candles",c:"Home",e:"🏠",n:"50% off with code QM72ETHE",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HSBPT95T"},
+{t:"Cordless Red Light for Eyes,under eye red light mask,Dark Black",c:"Beauty",e:"💄",n:"40% off with code ZNVJGCXX",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H6B2NDDS"},
+{t:"GoveeLife Bluetooth Refrigerator Thermometer with LCD Disaplay, 2-Pack",c:"Electronics",e:"🔌",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CLB648RP"},
+{t:"P21 Label Maker Machine with 1 Label Tape, Bluetooth Label Printer",c:"Electronics",e:"🔌",n:"50% off with code 1T2EGL5C",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CHJR142G"},
 {t:"Blissy Silk Pillowcase - 100% Pure Mulberry Silk - 22 Momme 6A High-Grade Fibers",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BBSSRNHM"},
 {t:"Dr.Melaxin Mela-C·E Ferulic Core Multi Balm for Dark Spots, 0.35oz",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H7B317JS"},
 {t:"Magnet Toys for 3 Year Old Boys & Girls, Montessori Toys",c:"Toys",e:"🧸",n:"55% off with code 60EGMYJ6",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HMWYHZZY"},
