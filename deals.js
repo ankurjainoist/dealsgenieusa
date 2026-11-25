@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Gift Rose Bouquet Building Set",c:"Home",e:"🎄",n:"40% off with code YVSL9SSZ",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FY2T47TX"},
+{t:"Skull Rose Building Blocks",c:"Toys",e:"🧸",n:"63% off with code 9DVRA9G9",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H2DT1NDJ"},
+{t:"Kids Telescope",c:"Kids",e:"🎨",n:"Use code C11DX0SD",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HF3RZZD6"},
+{t:"Dumpling Squeeze Toys 2PCS",c:"Toys",e:"🧸",n:"50% off with code M9P1F31S",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HQ3SGF8W"},
+{t:"RC Wall Climbing Gecko, Rechargeable Remote Control Lizard for Kids Ages 3+",c:"Kids",e:"🎨",n:"56% off with code YXOGR46J",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H1C68RWD"},
+{t:"Money Game for Kids Ages 6-12, Electronic Banking Toy, 2-4 Players (White)",c:"Toys",e:"🧸",n:"Use code WAYNMER88",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HCTWVDKC"},
+{t:"Magnetic Dress Up Dolls",c:"Fashion",e:"👗",n:"40% off with code 2IY8IB88",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GT9D8SQ5"},
+{t:"Hair Gem Stamper Kit",c:"Beauty",e:"💄",n:"50% off with code FXB9C0OB",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HGXPC944"},
+{t:"Fritzfurt Portable Drill Guides",c:"Tools",e:"🔧",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FVWW7Y73"},
 {t:"MIAO LAB Phone Camera Lens Kits",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DKNKMG66"},
 {t:"10x20 Pop Up Party Tent Waterproof Canopy",c:"Home",e:"🏠",n:"47% off with code S212SQLJ",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HGKP178H"},
 {t:"Shoe Storage Cabinets",c:"Home",e:"🏠",n:"44% off with code QGXLS5P2",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FWCC62TF"},
