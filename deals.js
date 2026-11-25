@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"CreateOn Crayola Mini Magnetic PIP-Tiles, Bold Colors - Building Set for Kids, Magnetic Building Toys for",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CSH1H33H"},
+{t:"YETI Rambler 20 oz Tumbler with Straw Lid - Insulated, Tropical Pink",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FTZYTM58"},
+{t:"Christmas Gift Card Holders",c:"Home",e:"🎄",n:"50% off with code PCZONQS3",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HRZ92RC9"},
+{t:"Truly Beauty Luxury After Shave Oil, Soothing Treatment for Sensitive Skin",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DBZ1Q4PF"},
+{t:"Kodak Step Instant Color Photo Printer with Bluetooth/NFC, ZINK Technology & Kodak App for iOS & Android",c:"Electronics",e:"🔌",dt:"Nov 25",l:"https://www.amazon.com/dp/B094LKHTPV"},
+{t:"Franklin Sports Pro Hoops Over The Door Mini Basketball Hoop",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B07FWCBXJC"},
+{t:"eos Holiday Shimmer Body Lotion- Shimmer Vanilla Cashmere, 24H Moisture, 8 fl oz",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CYBSLF5B"},
+{t:"DERMAFLASH LUXE+ Sonic Dermaplaning Tool for Face Peach Fuzz Removal, Anti-Aging and Exfoliation",c:"Tools",e:"🔧",dt:"Nov 25",l:"https://www.amazon.com/dp/B09YW1BN1X"},
+{t:"Robitussin Maximum Strength Elderberry Cough Plus Chest Congestion DM, 8 fl oz (2 Pack)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B09CL7HS94"},
 {t:"SC Johnson Professional Ziploc Gallon Food Storage Bags, 9 Boxes x 81 Count",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GFPTRZ97"},
 {t:"BUNMO Plush Cute Pens 3-Pack – Squishy Animal Pens w/Scented Glitter Ink Refills – Cat, Cow, Unicorn – Fun",c:"Pets",e:"🐾",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CJ4T2VTQ"},
 {t:"Ghost Scary Headrest Covers",c:"Home",e:"🏠",n:"50% off with code N407C5AY",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HG1H4276"},
