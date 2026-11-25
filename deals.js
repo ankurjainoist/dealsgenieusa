@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Sensible Portions Veggie Straws - Garden Snacks Variety Pack, Sea Salt, Ranch, Cheddar, Apple Cinnamon",c:"Grocery",e:"🛒",dt:"Nov 25",l:"https://www.amazon.com/dp/B08BN9YYCB",img:"img/B08BN9YYCB.jpg"},
 {t:"Stainless Steel Cutting Boards with Pads",c:"Home",e:"🏠",n:"Use code AHBLHQ06",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GY7VR7CS",img:"img/B0GY7VR7CS.jpg"},
 {t:"Electric Scalp Massagers",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GQYVF3K3",img:"img/B0GQYVF3K3.jpg"},
 {t:"MUZUMU Sunset Cloud Toggle Switches",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CPY51CDY",img:"img/B0CPY51CDY.jpg"},
