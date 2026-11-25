@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"45L Travel Hiking Backpacks",c:"Home",e:"🏠",n:"50% off with code R5HLDJSF",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HC4HS63G"},
+{t:"Red Light Therapy for Eyes, 4-in-13 Minutes Treatment Under Eye Red Light Mask, Targets Fine Lines, Eye Bags",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FJWP8Y7Q"},
+{t:"Eomenie Womens Tankini Swimsuit Tummy Control Two Piece Bathing Suits",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F1FB1272"},
+{t:"CURMIO VR Headset Travel Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GF2MN9YB"},
+{t:"Bless Kitchen Dishwasher Cover Magnets",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GV3YGQJJ"},
+{t:"YESFIXS Leopard Trunk Organizers",c:"Home",e:"🏠",n:"Use code MDKW2LKU",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H2Y8ZM36"},
+{t:"Zomee Wearable Breast Pumps",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GGM9W974"},
+{t:"ATTRACO Tennis Outfits for Women Racerback Golf Dress Workout Dress",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0D8HQ9XMX"},
 {t:"O Boticario Coffee Duo Mens Cologne, 3.4 oz",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B07WZD3BW9"},
 {t:"Tangle Teezer Fine Ultimate Detangler Brush for Fine Hair, Hypnotic Heather",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B09F5KVPF7"},
 {t:"Nekteck Shiatsu Neck Massager with Heat for Pain Relief, NOT Cordless",c:"Health",e:"💊",dt:"Nov 25",l:"https://www.amazon.com/dp/B01BZOKLOY"},
