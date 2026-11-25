@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Burts Bees Hand Repair Sets",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0009F3R7E"},
+{t:"Charlotte Tilbury Hydrate & Glow Sets",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GFW5R3J4"},
+{t:"Garmin Venu 3S Smartwatches",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CDC6Y617"},
+{t:"Murdle: Volume 1",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/1250892317"},
+{t:"HUANGSTY Car Dent Pullers",c:"Auto",e:"🚗",n:"45% off with code FFQ2PO5N",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GLGLX8XQ"},
+{t:"AANTORA OptiGuard Screen Protectors",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GVBM64NS"},
+{t:"Ralph Lauren Polo 67 Eau de Parfum - Woody Fruit Cologne for Men",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F1NK4XRS"},
+{t:"Oversized Bean Bag Chairs",c:"Home",e:"🏠",n:"Use code PBG923Q8",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H4QHZ6XB"},
 {t:"Closet Organizer, 3-Tier Kids Clothing Rack with Drawer, Gold",c:"Kids",e:"🎨",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GSPMK9BM"},
 {t:"Spidey and his Amazing Friends Marvel Rescue-Webs Web-Quarters Playset with 3-Inch Action Figure & Toy Vehicle",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GHB9TG9R"},
 {t:"Breville Barista Express Espresso Machines",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B00CH9QWOU"},
