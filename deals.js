@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Taylor Digital Bathroom Scale, 400 lb Cap, Blue Water Drop",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B00EC42EPO",img:"img/B00EC42EPO.jpg"},
 {t:"Little Tikes Super Chef Kitchen Blue & Cream, 14.00 l x 28.00 w x 40.00 h inches",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B001QXDIX6",img:"img/B001QXDIX6.jpg"},
 {t:"Lifewit Felt Pin Boards",c:"Home",e:"🏠",n:"50% off with code AS1PDD69",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H583GF1P",img:"img/B0H583GF1P.jpg"},
 {t:"Bio Ionic Long Barrel Curling Irons",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CV8WXR1C",img:"img/B0CV8WXR1C.jpg"},
