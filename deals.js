@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"512GB USB-C Photo Sticks",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HQBNK7R1"},
+{t:"LOL Surprise Hello Kitty Plushes",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GSSHMJRT"},
+{t:"LOL Surprise Hello Kitty Plushes",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GCYS7GCS"},
+{t:"r.e.m. beauty Glossy Balms",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GTS6FYYP"},
+{t:"Calvin Klein CK One Eau de Toilette – Citrus Unisex Fragrance – With Notes of Green Tea",c:"Grocery",e:"🛒",dt:"Nov 25",l:"https://www.amazon.com/dp/B000E7WFX4"},
 {t:"BaubleBar Friends Forever Charm Bracelets",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GS36JFCC"},
 {t:"Nike Men’s Air Max Alpha Trainer 6 Workout Shoes",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0D7MT5H11"},
 {t:"OUGAR8 Snowman Refrigerator Covers",c:"Home",e:"🏠",n:"Use code 9GEP6DOK",dt:"Nov 25",l:"https://www.amazon.com/dp/B07GSYPSFY"},
