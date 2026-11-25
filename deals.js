@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lifewit Felt Pin Boards",c:"Home",e:"🏠",n:"50% off with code AS1PDD69",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H583GF1P",img:"img/B0H583GF1P.jpg"},
 {t:"Bio Ionic Long Barrel Curling Irons",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B0CV8WXR1C",img:"img/B0CV8WXR1C.jpg"},
 {t:"Youth Dirt Bike Helmets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 24",l:"https://www.amazon.com/dp/B0B3HTCMGW"},
 {t:"Dutch Oven For Sourdough Bread Baking – Enamelled Cast Iron Bread Loaf Pot",c:"Kitchen",e:"🍳",dt:"Nov 24",l:"https://www.amazon.com/dp/B0F7RTSVT8"},
