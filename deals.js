@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Blissy Silk Pillowcase - 100% Pure Mulberry Silk - 22 Momme 6A High-Grade Fibers",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BBSSRNHM"},
+{t:"Dr.Melaxin Mela-C·E Ferulic Core Multi Balm for Dark Spots, 0.35oz",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H7B317JS"},
+{t:"Magnet Toys for 3 Year Old Boys & Girls, Montessori Toys",c:"Toys",e:"🧸",n:"55% off with code 60EGMYJ6",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HMWYHZZY"},
+{t:"Welzona Folding Sofa Beds",c:"Home",e:"🏠",n:"Use code GB4M724U",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HR5J7D22"},
+{t:"13 Gallon Kitchen Trash Bags 0.8Mil， White，Lavender Vanilla, 112ct",c:"Kitchen",e:"🍳",n:"40% off with code K0HMRRC4",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HCNWPXLC"},
+{t:"Portable Charger 5500mAh Next-Gen Small Power Bank 22.5W Fast Charging Battery USB-C Portable Phone Charger",c:"Electronics",e:"🔌",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DBHDG8VN"},
+{t:"65W GaN Charger with Built-in Retractable USB-C Cable, 2 Devices Mini Travel Fast Charging Foldable Wall",c:"Electronics",e:"🔌",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DW33LYG9"},
 {t:"PECK COLLECTION Interior Car Wipes",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GL23GMR7"},
 {t:"Felskin 6PCS Mario Plush Toy Set, Cute Character Stuffed Dolls Including Mario Luigi Peach Toad Yoshi Egg",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GTQBQJPD"},
 {t:"Ray-Ban Unisex Rb4456f Zaya Low Bridge Fit Square Sunglasses",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DRWBXFTT"},
