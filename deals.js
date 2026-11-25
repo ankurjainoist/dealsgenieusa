@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Teamson Kids Starry Sky Vanities",c:"Kids",e:"🎨",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CDX4RPZF",img:"img/B0CDX4RPZF.jpg"},
 {t:"Fisher-Price Harley Davidson Tricycles",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BSJXX8YN",img:"img/B0BSJXX8YN.jpg"},
 {t:"SANS Mushroom Coffee Alternatives",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H2F3GGHY",img:"img/B0H2F3GGHY.jpg"},
 {t:"Small Crossbody Bags for Women",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FPKWMZTN"},
