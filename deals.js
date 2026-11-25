@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Greleon Wireless Tattoo Pen Kits",c:"Home",e:"🏠",n:"Use code 3C1FQY64",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G4LM345C"},
+{t:"Cheese-Shaped DIY Craft Kits",c:"Home",e:"🏠",n:"50% off with code U36A35EJ",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GV2Z3D7J"},
+{t:"Tesla MagSafe Phone Mounts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HDZ6K3JY"},
+{t:"Mini Keychain Cameras 2K (White)",c:"Electronics",e:"🔌",n:"Use code G21UN5B5",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H6G65WGC"},
+{t:"EASYGUARD Car Alarm Systems",c:"Auto",e:"🚗",n:"Clip the 42% coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B07L49XD7Q"},
+{t:"GHB Hex Agility Rings Speed Rings with Carrying Bag 6 Set",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FFML3KYD"},
+{t:"Cold Therapy Machines",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G7Z3MKBT"},
+{t:"4-Light Bathroom Light Fixtures Over Mirror Matte Black LED Vanity Light for Bathroom Modern Bath Wall",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FR352NPB"},
+{t:"Beoedre Automatic Foaming Soap Dispensers",c:"Home",e:"🏠",n:"Use code 8BO7AWKE",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H2H3Z8YX"},
+{t:"Feather Crochet Hair Extensions",c:"Beauty",e:"💄",n:"45% off with code T3EDBWJY",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HMD21N82"},
 {t:"45L Travel Hiking Backpacks",c:"Home",e:"🏠",n:"50% off with code R5HLDJSF",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HC4HS63G"},
 {t:"Red Light Therapy for Eyes, 4-in-13 Minutes Treatment Under Eye Red Light Mask, Targets Fine Lines, Eye Bags",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FJWP8Y7Q"},
 {t:"Eomenie Womens Tankini Swimsuit Tummy Control Two Piece Bathing Suits",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F1FB1272"},
