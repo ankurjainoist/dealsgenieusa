@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Closet Organizer, 3-Tier Kids Clothing Rack with Drawer, Gold",c:"Kids",e:"🎨",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GSPMK9BM"},
+{t:"Spidey and his Amazing Friends Marvel Rescue-Webs Web-Quarters Playset with 3-Inch Action Figure & Toy Vehicle",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GHB9TG9R"},
+{t:"Breville Barista Express Espresso Machines",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B00CH9QWOU"},
+{t:"Ninja SLUSHi Smart Frozen Drink Makers",c:"Electronics",e:"🔌",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HC7N76GW"},
+{t:"Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DZ76LW4J"},
+{t:"Yosfeng Kids Smart Phones",c:"Electronics",e:"🔌",n:"Use code 9XLD8Y98",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DC48T799"},
+{t:"Princess Polly Faux Suede Bomber Jackets",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GY252SX2"},
+{t:"Skechers Kids Power Jams Sneakers",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0C4RTXXJ1"},
+{t:"Mentos Pure Fresh Sugar‑Free Chewing Gum, Spearmint, 10 Pieces (Pack of 10)",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GFNX3QY8"},
+{t:"BaubleBar Initial Beaded Bracelets",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FJTKTZDW"},
 {t:"Taylor Digital Bathroom Scale, 400 lb Cap, Blue Water Drop",c:"Home",e:"🏠",dt:"Nov 24",l:"https://www.amazon.com/dp/B00EC42EPO",img:"img/B00EC42EPO.jpg"},
 {t:"Little Tikes Super Chef Kitchen Blue & Cream, 14.00 l x 28.00 w x 40.00 h inches",c:"Beauty",e:"💄",dt:"Nov 24",l:"https://www.amazon.com/dp/B001QXDIX6",img:"img/B001QXDIX6.jpg"},
 {t:"Lifewit Felt Pin Boards",c:"Home",e:"🏠",n:"50% off with code AS1PDD69",dt:"Nov 24",l:"https://www.amazon.com/dp/B0H583GF1P",img:"img/B0H583GF1P.jpg"},
