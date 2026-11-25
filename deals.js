@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dinosaur Toys for Kids Flexible Buildable Track Set with 2 LED Electric Cars",c:"Auto",e:"🚗",n:"47% off with code W9RB1P7L",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H36GGVNK"},
+{t:"Yunkeeper Collapsible Storage Baskets",c:"Home",e:"🏠",n:"Use code WUNRH08O",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FYX29ZCC"},
+{t:"Beard Kit Christmas Stocking Stuffers Gifts Set for Men Him Grooming & Care",c:"Home",e:"🎄",n:"63% off with code 3BJJ3TX3",dt:"Nov 25",l:"https://www.amazon.com/dp/B078N1DBY9"},
+{t:"Trucker Hat Chain Charms",c:"Home",e:"🏠",n:"40% off with code YWU6H7EX",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HLDK75JC"},
+{t:"Shoe Organizer for Closet,justable Storage Box Holds 32 Pairs",c:"Home",e:"🏠",n:"50% off with code IFYLEB7D",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DDTMCP27"},
+{t:"Ninja FB131WH FrostVault 30qt Hard Cooler with Dry Zone, Integrated Fridge-Temp Dry Storage Drawer, Premium",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CV5NLPSX"},
+{t:"Rocking Stepper for Exercise at Home, Rock Stepper Side to Side",c:"Home",e:"🏠",n:"45% off with code HYMKDLEJ",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GZZ7H2DR"},
+{t:"Bike Lights Front and Back Set for Night Riding",c:"Home",e:"🏠",n:"45% off with code XXGYGMAX",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GRTTKVT8"},
+{t:"100 Gallon Large Outdoor Storage Deck Box Waterproof",c:"Home",e:"🏠",n:"50% off with code 92H7SZWB",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HSNQY62B"},
+{t:"Womens Layered Workout Sets Padded Sports Bra Gym Set Yoga Pilates",c:"Fashion",e:"👗",n:"25% off with code WS76J91E",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HP9JMKRM"},
 {t:"Artificial Dracaena Plants Indoor, 5FT Fake Tree Plants with Tall Planter",c:"Home",e:"🏠",n:"60% off with code 9FE8Y52B",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H6K3FMT1"},
 {t:"Mens Heated Vest with Battery, Lightweight Heated Vest for Men",c:"Electronics",e:"🔌",n:"50% off with code 4U1PHJ9G",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H8NWD6XD"},
 {t:"GEEDOOWIN Galaxy Watch Screen Protectors",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FN7VJPFR"},
