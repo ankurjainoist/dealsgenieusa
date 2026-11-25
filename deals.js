@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Artificial Dracaena Plants Indoor, 5FT Fake Tree Plants with Tall Planter",c:"Home",e:"🏠",n:"60% off with code 9FE8Y52B",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H6K3FMT1"},
+{t:"Mens Heated Vest with Battery, Lightweight Heated Vest for Men",c:"Electronics",e:"🔌",n:"50% off with code 4U1PHJ9G",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H8NWD6XD"},
+{t:"GEEDOOWIN Galaxy Watch Screen Protectors",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FN7VJPFR"},
+{t:"Cordless Table Lamp, Rechargeable Black Lamp for Dining Table, 1 Pack",c:"Home",e:"🏠",n:"50% off with code NMJVO4DB",dt:"Nov 25",l:"https://www.amazon.com/dp/B0D7TNSH87"},
+{t:"Radar Detectors for Cars",c:"Auto",e:"🚗",n:"Use code URTI9U3V",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HKHGGT6J"},
+{t:"Custom Embroidered Name Crochet Tote Bag",c:"Fashion",e:"👗",n:"49% off with code Z44LHYHN",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HC78CM58"},
+{t:"Portable Golf Mat with Swing Path Trajectory, 3-in-1 Hitting Mat",c:"Home",e:"🏠",n:"40% off with code 3FA06TQG",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FHB89VXY"},
+{t:"Electric Scooter with Seat forults 20 Miles Range",c:"Home",e:"🏠",n:"60% off with code YW2GLHFO",dt:"Nov 25",l:"https://www.amazon.com/dp/B0D5D75FP9"},
+{t:"Eye Massagers with Heat & Vibration",c:"Health",e:"💊",n:"Use code 0PN5TVNB",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HQHHZ2KT"},
 {t:"Drone with Camera for Kids &ults, Easy-to-Fly Foldable Drone for Beginners",c:"Electronics",e:"🔌",n:"61% off with code XX4351OL",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HFWQ14QK"},
 {t:"High Speed 30+KM/H Remote Control Car, 1:14 RC Cars for Boys Age 8-12, 2.4 GHz All Terrain RC Truck, Ideal",c:"Auto",e:"🚗",n:"68% off with code H37SGLW9",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HJQR4HVN"},
 {t:"48 Count Highlighters Bulk - 6 Assorted Bright Colors, Chisel Tip, No Bleed & Quick Dry",c:"Home",e:"🏠",n:"51% off with code VQHQ8EW8",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GXY7G3PJ"},
