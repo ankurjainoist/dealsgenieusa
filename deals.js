@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Steam Hair Straighteners (Blue)",c:"Beauty",e:"💄",n:"50% off with code NE98ZZZT",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HHN1RCTY"},
+{t:"Wired Gaming Earbuds with Mic",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GWHNXMZ8"},
+{t:"Ettori Clear Storage Bins",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FRLBQ9TY"},
+{t:"Nature Made GLP-1 Companion Health Pack, 30 Count",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FMJ5T8S9"},
+{t:"GPS Vehicle Trackers",c:"Home",e:"🏠",n:"50% off with code 7VP2C4JI",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H79VSGV3"},
+{t:"Lucrum BMW Key Fob Covers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F39CW27W"},
+{t:"BabylissPRO Nano Titanium Ultra-Sleek Hair Straightener, Flat Iron for All Hair Types",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F4MHYKSZ"},
+{t:"Uniklook Vegan Leather Changing Pads",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B09V8H4QZN"},
+{t:"ohora Korean Press On Nails, Medium Oval, Fake Nails, Red French Tip",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H1M7CSZX"},
 {t:"Dinosaur Toys for Kids Flexible Buildable Track Set with 2 LED Electric Cars",c:"Auto",e:"🚗",n:"47% off with code W9RB1P7L",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H36GGVNK"},
 {t:"Yunkeeper Collapsible Storage Baskets",c:"Home",e:"🏠",n:"Use code WUNRH08O",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FYX29ZCC"},
 {t:"Beard Kit Christmas Stocking Stuffers Gifts Set for Men Him Grooming & Care",c:"Home",e:"🎄",n:"63% off with code 3BJJ3TX3",dt:"Nov 25",l:"https://www.amazon.com/dp/B078N1DBY9"},
