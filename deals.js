@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Christmas Stained Glass Suncatchers",c:"Home",e:"🎄",n:"50% off with code X2EXIJY0",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HHCYRQ9P"},
+{t:"orn512 Gingerbread Screw Back Earrings",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HK3RQYZS"},
+{t:"Melissa & Doug Top & Bake Wooden Pizza Counter Pretend Play Set",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B075KX9NS7"},
+{t:"The Essential Peanuts by Charles M. Schulz: The Greatest Comic Strip of All Time",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/141978417X"},
+{t:"Greenest Treats Black Soldier Fly Larvae",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CW3NVPD3"},
+{t:"Nuwave Pro Plus 2 Infra-Red Oven, Countertop, Convection, 360 Surround Heat",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DF3M4LM1"},
 {t:"TONSNY Dishwasher Silverware Baskets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B09ZP2NXD8"},
 {t:"Instant Coffee Stick Kits",c:"Kitchen",e:"🍳",n:"Clip the 40% coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H8S6GSMW"},
 {t:"Resin Solar Christmas Trees",c:"Home",e:"🎄",n:"50% off with code IN37YH5M",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HNWZGP2V"},
