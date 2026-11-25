@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Zesty Paws Flea and Tick Prevention Kits",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GRWY87QW"},
+{t:"Litter Genie Standard Cat Litter Disposal Pail with 14 ft Standard Refill",c:"Pets",e:"🐾",dt:"Nov 25",l:"https://www.amazon.com/dp/B019W0OH48"},
+{t:"SodaStream Dr Pepper Drink Mixes",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G26L857G"},
+{t:"Ritz Peanut Butter Cheese Crackers",c:"Kitchen",e:"🍳",dt:"Nov 25",l:"https://www.amazon.com/dp/B083K1CTYK"},
+{t:"OLD BAY Seasonings",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B008PO4B0I"},
+{t:"Lenny & Larrys Protein Cookies",c:"Grocery",e:"🛒",dt:"Nov 25",l:"https://www.amazon.com/dp/B004IJM4OY"},
+{t:"Hying Christmas Drawstring Gift Bags",c:"Home",e:"🎄",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FVSKQH52"},
+{t:"Torani Peppermint Bark Sauces",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B089CZDRZQ"},
 {t:"GLDRAM Nintendo Switch 2 Cases",c:"Games",e:"🎮",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F5Q5PHQP"},
 {t:"10 Pack Solar Star Candy Cane Christmas Lights Outdoor",c:"Grocery",e:"🎄",n:"50% off with code ZFB5VNC4",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HBPKXMS9"},
 {t:"Christmas Coloring Blanket Kit for Kids with 24 Dual-Tip Markers",c:"Kids",e:"🎄",n:"53% off with code KD2TBET7",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HJG7KX1G"},
