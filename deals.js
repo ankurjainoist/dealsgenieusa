@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"MUZUMU Sunset Cloud Toggle Switches",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CPY51CDY",img:"img/B0CPY51CDY.jpg"},
 {t:"Womens Embroidered Cowboy Boots",c:"Fashion",e:"👗",n:"Use code 6F46GMUA",dt:"Nov 25",l:"https://www.amazon.com/dp/B0B2D9RZLL"},
 {t:"MUZUMU Dotted Sun Toggle Switches",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G6TLWLXV"},
 {t:"Golfvent Calendar 2026, Golfervent Calendar for Women",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HF7DWN5Z"},
