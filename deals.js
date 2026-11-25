@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Portable Baby Bottle Warmers",c:"Baby",e:"👶",n:"Use code 35LH62HD",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GL1BMMC9"},
+{t:"Rechargeable LED Headlamps 4-Pack",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CGTYFQ7G"},
+{t:"2 Pack Smart Trash Cans",c:"Electronics",e:"🔌",n:"Use code W5EMY6MD",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HLYMCTHR"},
+{t:"Christmas Garlands with Lights",c:"Home",e:"🎄",n:"Use code 8KG55JDH",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FBL62D9H"},
+{t:"Preorder releases 12/01",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HSS7JQJC"},
+{t:"WIFORT Waterproof Phone Cases",c:"Home",e:"🏠",n:"50% off with code JSYFWTCH",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DM238KWD"},
+{t:"6-Piece Kitchen Knife Set with Block, High Carbon Stainless Steel",c:"Kitchen",e:"🍳",n:"Use code MAKZAC2P",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G8HSMYJJ"},
+{t:"ROVIBIOBIO Christmas Gift Bags",c:"Home",e:"🎄",n:"Use code 94F8VUQI",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H7RRNZZ4"},
+{t:"RAINOVA Heated Blankets",c:"Home",e:"🏠",n:"Use code Q2HDL2OU",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FPLWDF1W"},
+{t:"Mini Fridge Stand Carts with Storage",c:"Home",e:"🏠",n:"Use code 5YPJBB5P",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H6HR43GS"},
 {t:"Burts Bees Hand Repair Sets",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0009F3R7E"},
 {t:"Charlotte Tilbury Hydrate & Glow Sets",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GFW5R3J4"},
 {t:"Garmin Venu 3S Smartwatches",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CDC6Y617"},
