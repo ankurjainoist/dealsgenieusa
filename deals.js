@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Womens Embroidered Cowboy Boots",c:"Fashion",e:"👗",n:"Use code 6F46GMUA",dt:"Nov 25",l:"https://www.amazon.com/dp/B0B2D9RZLL"},
+{t:"MUZUMU Dotted Sun Toggle Switches",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G6TLWLXV"},
+{t:"Golfvent Calendar 2026, Golfervent Calendar for Women",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HF7DWN5Z"},
+{t:"Christmas Cash Gift Envelopes",c:"Home",e:"🎄",n:"50% off with code TM6LD94V",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H5WDR3FV"},
+{t:"Little Tikes Rocking Horse Blue, 33.00 L x 10.00 W x 17.50 H Inches",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B003ICWTME"},
+{t:"Magnetic Pool Toys",c:"Toys",e:"🧸",n:"Use code VIYR92OM",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GDDY133L"},
+{t:"Adoobox Vintage Bluetooth Speakers",c:"Electronics",e:"🔌",n:"50% off with code 9C7Y38RB",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G43V74LN"},
+{t:"Champion unisex-adult Manuscript Backpack with Paddedjustable Straps, Water Bottle Pocket for Work, Travel",c:"Kitchen",e:"🍳",dt:"Nov 25",l:"https://www.amazon.com/dp/B07BKY4Y3T"},
+{t:"Calphalon Prime 7-Piece Silicone and Teak Wood Kitchen Tool Set",c:"Tools",e:"🔧",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G6NQLGRT"},
+{t:"ZHXSHFC Switch Controller Wrist Straps",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H6TWNS5V"},
 {t:"Portable Baby Bottle Warmers",c:"Baby",e:"👶",n:"Use code 35LH62HD",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GL1BMMC9"},
 {t:"Rechargeable LED Headlamps 4-Pack",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CGTYFQ7G"},
 {t:"2 Pack Smart Trash Cans",c:"Electronics",e:"🔌",n:"Use code W5EMY6MD",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HLYMCTHR"},
