@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Travel Backpack for Women Men",c:"Fashion",e:"👗",n:"Use code QVKQLWHK",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GXF4MPV9"},
+{t:"Upholstery Carpet Cleaner with Heat",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GWD5RW8L"},
+{t:"DIY Flower Craft Kits Magic Dyeing Florist Bouquet",c:"Home",e:"🏠",n:"Use code L9SPX87K",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FLXBWL65"},
+{t:"12Pcs Christmas Glasses,Christmas Accessories",c:"Home",e:"🎄",n:"Use code G4ARFRHW",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H6BTY6SN"},
+{t:"Grill Tool Rack, Griddle Caddy for Blackstone Griddle",c:"Tools",e:"🔧",n:"Use code JY3XJLEW",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H6G421YM"},
+{t:"GPS Tracker for Vehicles, Real-Time Undetectable GPS",c:"Home",e:"🏠",n:"Use code XXYAQBG9",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HGQJVJD7"},
+{t:"Popilush Shapewear Long Sleeve Dress Satin Maxi",c:"Fashion",e:"👗",n:"Use code 35IE20TD",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CHF699Y7"},
+{t:"Hair Dryer, 160,000 RPM High-Speed Ionic Blow Dryer",c:"Beauty",e:"💄",n:"Use code WWA1FISN",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GJ8LTJ96"},
 {t:"COVERGIRL Lash Blast Volume Mascara(Very Black) & Perfect Point Plus Eyeliner Pencil (Black Onyx) - Twin Pack",c:"Beauty",e:"💄",n:"Subscribe & Save available",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BGVWVL2C"},
 {t:"Teayoha Samsung Galaxy S22 Plus Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GVYSR8R2"},
 {t:"Silicone Cooking Spoon Spatulas (2-Pack)",c:"Home",e:"🏠",n:"41% off with code M01ZZLHO",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H8HM9RS7"},
