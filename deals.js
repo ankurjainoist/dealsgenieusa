@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Sol de Janeiro Cheirosa Perfume Mists",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0D6ZVJ3K2"},
 {t:"Montessori Learning Farm Trains",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CYT85XT6",img:"img/B0CYT85XT6.jpg"},
 {t:"Learning Resources Snap Cubes",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B000G3LR9Y",img:"img/B000G3LR9Y.jpg"},
 {t:"Vacuum Steamers for Clothes (3-in-1)",c:"Home",e:"🏠",n:"Use code J9HSVS8G",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HH9987PQ",img:"img/B0HH9987PQ.jpg"},
