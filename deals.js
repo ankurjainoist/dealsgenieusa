@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"SC Johnson Professional Ziploc Gallon Food Storage Bags, 9 Boxes x 81 Count",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GFPTRZ97"},
+{t:"BUNMO Plush Cute Pens 3-Pack – Squishy Animal Pens w/Scented Glitter Ink Refills – Cat, Cow, Unicorn – Fun",c:"Pets",e:"🐾",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CJ4T2VTQ"},
+{t:"Ghost Scary Headrest Covers",c:"Home",e:"🏠",n:"50% off with code N407C5AY",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HG1H4276"},
+{t:"Lemme Chill Stress Relief Gummies (60 Gummies)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BHJ1ZJ3P"},
+{t:"Pacifica Beauty Persian Rose Spray Perfume, Romantic Floral Fragrance, Vegan, Non-Toxic, Classic Feminine",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B006SKF8V2"},
+{t:"Heating Pad for Back Cordless Massage Belt 10000mAh Portable",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HNP4RMW8"},
+{t:"LiovBnik Waterproof Mascaras (Black)",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HN4DLL8R"},
+{t:"Dash Cordless Food Chopper, 28 oz Ingredient Bowl, French Grey",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H2G2293Y"},
+{t:"Water Sleeping Mask: Hydrating Korean Overnight Face Mask with Hyaluronic Acid Blend & Niacinamide, for Deep",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F7ZJQP4K"},
+{t:"Hugo Boss Bottled Parfum – Woody Ambery Mens Cologne – With Notes of Leather, Orris & Wood – Luxury Perfumes",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0B8M5GB8J"},
 {t:"Gatorlyte Rapid Rehydration Electrolyte Drink, Lime Cucumber, 20 fl oz Bottles (12 Pack), Specialized Blend",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BMWBCZLM"},
 {t:"TELFAR Large Shopping Bag, Unisex Faux Leather Oversized Tote, Dual Interior Pockets, Crossbody Strap",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CJYKL26H"},
 {t:"TELFAR Small Shopping Bag, Unisex Compact Mini Tote, Faux Leather, Hand & Crossbody Carry Tote, Embossed",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DHW5KZSQ"},
