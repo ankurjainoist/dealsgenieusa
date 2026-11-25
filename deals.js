@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"CITIZEN Mens Eco-Drive Tony Stark 43mm Stainless Steel AW2075-05W",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BXQFMPX7",img:"img/B0BXQFMPX7.jpg"},
 {t:"Sensible Portions Veggie Straws - Garden Snacks Variety Pack, Sea Salt, Ranch, Cheddar, Apple Cinnamon",c:"Grocery",e:"🛒",dt:"Nov 25",l:"https://www.amazon.com/dp/B08BN9YYCB",img:"img/B08BN9YYCB.jpg"},
 {t:"Stainless Steel Cutting Boards with Pads",c:"Home",e:"🏠",n:"Use code AHBLHQ06",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GY7VR7CS",img:"img/B0GY7VR7CS.jpg"},
 {t:"Electric Scalp Massagers",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GQYVF3K3",img:"img/B0GQYVF3K3.jpg"},
