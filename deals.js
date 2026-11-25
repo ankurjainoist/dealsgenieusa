@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"TONSNY Dishwasher Silverware Baskets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B09ZP2NXD8"},
+{t:"Instant Coffee Stick Kits",c:"Kitchen",e:"🍳",n:"Clip the 40% coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H8S6GSMW"},
+{t:"Resin Solar Christmas Trees",c:"Home",e:"🎄",n:"50% off with code IN37YH5M",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HNWZGP2V"},
+{t:"Openora Personalized Baby Blankets (Blue)",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H1LQPL17"},
+{t:"Lavido Cleansing Balms",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FRB25HKV"},
+{t:"JERYAQTQ Samsung Galaxy S22 Ultra Leather Wallets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B09ZLTTD4J"},
+{t:"Apple AirTag Keychains (4-Pack)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HCWBFLWK"},
+{t:"Soft-Sided Pet Carriers",c:"Pets",e:"🐾",n:"50% off with code JK2926K6",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F38JTTCD"},
 {t:"CITIZEN Mens Eco-Drive Tony Stark 43mm Stainless Steel AW2075-05W",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BXQFMPX7",img:"img/B0BXQFMPX7.jpg"},
 {t:"Sensible Portions Veggie Straws - Garden Snacks Variety Pack, Sea Salt, Ranch, Cheddar, Apple Cinnamon",c:"Grocery",e:"🛒",dt:"Nov 25",l:"https://www.amazon.com/dp/B08BN9YYCB",img:"img/B08BN9YYCB.jpg"},
 {t:"Stainless Steel Cutting Boards with Pads",c:"Home",e:"🏠",n:"Use code AHBLHQ06",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GY7VR7CS",img:"img/B0GY7VR7CS.jpg"},
