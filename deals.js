@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Little Tikes 2-in-1 Pop n Pitch Trainer, Outdoor Sports",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CQ8TM6B9"},
+{t:"Little Tikes Learn & Play Learning Lane Activity Walker",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B09N9Y4RVX"},
+{t:"34 Gal Outdoor Storage Box Waterproof Lockable",c:"Home",e:"🏠",n:"Use code ECK4H7ZJ",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HH39RLJR"},
+{t:"Wearable Heated Blanket with Foot Pocket, Heated Robes for Women",c:"Fashion",e:"👗",n:"Use code VGVF9ZM2",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FKZB577X"},
+{t:"Air Purifiers for Bedroom, H13 HEPA Filter Up to 1095 Ft², White",c:"Home",e:"🏠",n:"Use code CE1VG8BM",dt:"Nov 25",l:"https://www.amazon.com/dp/B0B9678Z4L"},
+{t:"Smart Spiral Pathway Lights",c:"Electronics",e:"🔌",n:"Use code ABU3ZW81",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FXX8D4Z7"},
+{t:"Candle Warmer Lamp with Timer - Heightjustable for Jar Candles",c:"Home",e:"🏠",n:"Use code JAPYK36V",dt:"Nov 25",l:"https://www.amazon.com/dp/B0D25XZ6J6"},
+{t:"Champion Mens Performance Boxer Brief-7 Pack",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FRS9QKJM"},
 {t:"Travel Backpack for Women Men",c:"Fashion",e:"👗",n:"Use code QVKQLWHK",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GXF4MPV9"},
 {t:"Upholstery Carpet Cleaner with Heat",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GWD5RW8L"},
 {t:"DIY Flower Craft Kits Magic Dyeing Florist Bouquet",c:"Home",e:"🏠",n:"Use code L9SPX87K",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FLXBWL65"},
