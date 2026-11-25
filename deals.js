@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"O Boticario Coffee Duo Mens Cologne, 3.4 oz",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B07WZD3BW9"},
+{t:"Tangle Teezer Fine Ultimate Detangler Brush for Fine Hair, Hypnotic Heather",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B09F5KVPF7"},
+{t:"Nekteck Shiatsu Neck Massager with Heat for Pain Relief, NOT Cordless",c:"Health",e:"💊",dt:"Nov 25",l:"https://www.amazon.com/dp/B01BZOKLOY"},
+{t:"Wicker Papasan Rocking Chairs (Gray)",c:"Home",e:"🏠",n:"50% off with code UPKYX598",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HQ3FM17D"},
+{t:"Samsonite Omni 2 Hardside 2 Piece Set - Includes Global Carry-On & Medium Checked Suitcases - 360° Dual",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DXR5HLJX"},
+{t:"Dog Calming Blankets",c:"Pets",e:"🐾",n:"50% off with code ZAH1KXL4",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HR9CKYZK"},
+{t:"HAIRCUBE Long Wavy Wigs for Women with Partial Bangs, Heat Resistant Fibre Synthetic Lace Front Wig Blonde",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DX756S17"},
+{t:"Inflatable Camping Tent 3-4 Person Easy Setup Waterproof",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DYCXMD6V"},
+{t:"Ridhi 8-Pcs 100% Cotton Hand Block Print Drink Coasters 5 Inch Taupe Jal",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DZ28246B"},
 {t:"Joovy Tricycoo 4.1 Kids Tricycle with 4-Stages Featuring Extra-Wide Front Tire, Removable andjustable Parent",c:"Auto",e:"🚗",dt:"Nov 25",l:"https://www.amazon.com/dp/B01IHXX17K"},
 {t:"Kate Spade New York Harmony Hoops",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G3YJ4LJ7"},
 {t:"Dash Stacks 16-Piece Ceramic Cookware Set, Electric Burner, Forged Iron",c:"Kitchen",e:"🍳",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H5L3JGXN"},
