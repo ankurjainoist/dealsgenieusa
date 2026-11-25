@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Learning Resources Snap Cubes",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B000G3LR9Y",img:"img/B000G3LR9Y.jpg"},
 {t:"Vacuum Steamers for Clothes (3-in-1)",c:"Home",e:"🏠",n:"Use code J9HSVS8G",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HH9987PQ",img:"img/B0HH9987PQ.jpg"},
 {t:"AJY Christmas Inflatable Reindeers",c:"Home",e:"🎄",n:"Use code HOUUD84A",dt:"Nov 25",l:"https://www.amazon.com/dp/B07Y534FRN",img:"img/B07Y534FRN.jpg"},
 {t:"Teamson Kids Starry Sky Vanities",c:"Kids",e:"🎨",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CDX4RPZF",img:"img/B0CDX4RPZF.jpg"},
