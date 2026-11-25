@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"GLDRAM Nintendo Switch 2 Cases",c:"Games",e:"🎮",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F5Q5PHQP"},
+{t:"10 Pack Solar Star Candy Cane Christmas Lights Outdoor",c:"Grocery",e:"🎄",n:"50% off with code ZFB5VNC4",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HBPKXMS9"},
+{t:"Christmas Coloring Blanket Kit for Kids with 24 Dual-Tip Markers",c:"Kids",e:"🎄",n:"53% off with code KD2TBET7",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HJG7KX1G"},
+{t:"Foldable Under Desk Heater",c:"Home",e:"🏠",n:"Use code NJZ20261125",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HFHXZ94P"},
+{t:"Garbage Disposal Cleaner Powder 16 Packs",c:"Home",e:"🏠",n:"40% off with code 56MLVB6O",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G643W2GN"},
+{t:"OLAPLEX Hair Care Kits",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0D4SBLLRJ"},
+{t:"Portable Clothes Dryers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HCV3BG24"},
+{t:"Foot and Calf Massager with Heat, Unique 2-in-1 Kneading & Vibration Combo",c:"Health",e:"💊",n:"Use code ZFB5VNC4",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HLZT9DDL"},
+{t:"Cordless Hand Massager with Heat and Compression",c:"Health",e:"💊",n:"47% off with code 2X3RW2Z8",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BYZ26Q1Q"},
+{t:"Air Purifiers for Home",c:"Home",e:"🏠",n:"55% off with code ZHW8UJGE",dt:"Nov 25",l:"https://www.amazon.com/dp/B08PJQ3MWB"},
 {t:"512GB USB-C Photo Sticks",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HQBNK7R1"},
 {t:"LOL Surprise Hello Kitty Plushes",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GSSHMJRT"},
 {t:"LOL Surprise Hello Kitty Plushes",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GCYS7GCS"},
