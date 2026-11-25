@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"COVERGIRL Lash Blast Volume Mascara(Very Black) & Perfect Point Plus Eyeliner Pencil (Black Onyx) - Twin Pack",c:"Beauty",e:"💄",n:"Subscribe & Save available",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BGVWVL2C"},
+{t:"Teayoha Samsung Galaxy S22 Plus Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GVYSR8R2"},
+{t:"Silicone Cooking Spoon Spatulas (2-Pack)",c:"Home",e:"🏠",n:"41% off with code M01ZZLHO",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H8HM9RS7"},
+{t:"Wireless Driveway Alarm Sensor Sets",c:"Home",e:"🏠",n:"Use code 6L29K23T",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HJ23GGWP"},
+{t:"Microtouch Titanium Edge Ear & Nose Trimmer",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FTMY35HR"},
+{t:"LED Face & Neck Masks",c:"Beauty",e:"💄",n:"Use code DR1PW9CF",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HQ6G1JDX"},
+{t:"CHI Original 1” Ceramic Hair Straightener Flat Iron for Styling",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0009V1YR8"},
+{t:"Vacuum Travel Compression Bags",c:"Health",e:"💊",n:"Use code L4JF0VJU",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HN6TGGZM"},
+{t:"Rkwins Sherpa Jackets",c:"Home",e:"🏠",n:"Use code 1HYHM7UB",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HN83WLYV"},
+{t:"Don’t miss it!",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B005PZY56K"},
 {t:"Steam Hair Straighteners (Blue)",c:"Beauty",e:"💄",n:"50% off with code NE98ZZZT",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HHN1RCTY"},
 {t:"Wired Gaming Earbuds with Mic",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GWHNXMZ8"},
 {t:"Ettori Clear Storage Bins",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FRLBQ9TY"},
