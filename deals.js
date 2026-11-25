@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Gatorlyte Rapid Rehydration Electrolyte Drink, Lime Cucumber, 20 fl oz Bottles (12 Pack), Specialized Blend",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BMWBCZLM"},
+{t:"TELFAR Large Shopping Bag, Unisex Faux Leather Oversized Tote, Dual Interior Pockets, Crossbody Strap",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CJYKL26H"},
+{t:"TELFAR Small Shopping Bag, Unisex Compact Mini Tote, Faux Leather, Hand & Crossbody Carry Tote, Embossed",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DHW5KZSQ"},
+{t:"Music Boxing Machines",c:"Home",e:"🏠",n:"46% off with code 6NLICUSW",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H8D5DYY1"},
+{t:"O BOTICARIO Liz Intense Womens Perfume, 3.4 oz",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CYJ6XSX7"},
+{t:"Kendra Scott Elisa Pendant Necklace for Women, Fashion Jewelry, 14k Gold-Plated",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B00FGZ0KWM"},
+{t:"Little Tikes First Dishwasher",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0BN5LZWR4"},
+{t:"Step2 Up & Down Rapid Ride & Hide Roller Coaster Toy for Kids, 9 Ft Track",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H4HP9117"},
 {t:"Christmas Stained Glass Suncatchers",c:"Home",e:"🎄",n:"50% off with code X2EXIJY0",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HHCYRQ9P"},
 {t:"orn512 Gingerbread Screw Back Earrings",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HK3RQYZS"},
 {t:"Melissa & Doug Top & Bake Wooden Pizza Counter Pretend Play Set",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B075KX9NS7"},
