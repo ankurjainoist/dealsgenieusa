@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Small Crossbody Bags for Women",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FPKWMZTN"},
+{t:"Dough Tools Kids Modeling Clay Kits",c:"Tools",e:"🔧",n:"50% off with code FC609VH0",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HML1KL2C"},
+{t:"Wrangler Fringe Crossbody Bags",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H2TMGKNW"},
+{t:"Rothys Casual Clogs",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DL9FNNCH"},
+{t:"THE NORTH FACE Mens Aconcagua 3 Insulated Vest",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CNBMPP6L"},
+{t:"The North Face Borealis Backpacks",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0F9JDGVDD"},
+{t:"Samsonite Omni 2 Hardside 2 Piece Set",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B09H7LPV13"},
+{t:"Crock-Pot Slow Cookers",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B012CP15H2"},
 {t:"Christmas Gift Rose Bouquet Building Set",c:"Home",e:"🎄",n:"40% off with code YVSL9SSZ",dt:"Nov 25",l:"https://www.amazon.com/dp/B0FY2T47TX"},
 {t:"Skull Rose Building Blocks",c:"Toys",e:"🧸",n:"63% off with code 9DVRA9G9",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H2DT1NDJ"},
 {t:"Kids Telescope",c:"Kids",e:"🎨",n:"Use code C11DX0SD",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HF3RZZD6"},
