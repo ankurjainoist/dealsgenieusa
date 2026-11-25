@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BaubleBar Friends Forever Charm Bracelets",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GS36JFCC"},
+{t:"Nike Men’s Air Max Alpha Trainer 6 Workout Shoes",c:"Fashion",e:"👗",dt:"Nov 25",l:"https://www.amazon.com/dp/B0D7MT5H11"},
+{t:"OUGAR8 Snowman Refrigerator Covers",c:"Home",e:"🏠",n:"Use code 9GEP6DOK",dt:"Nov 25",l:"https://www.amazon.com/dp/B07GSYPSFY"},
+{t:"ABEAUROOSE Foldable Bluetooth Headphones (White)",c:"Electronics",e:"🔌",n:"75% off with code 9F1R7RN3",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HJNXPV2S"},
+{t:"Limited Edition, Echo Dot Marvel Doctor Doom Bundle",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HFT6B22G"},
+{t:"Melissa & Doug Bead Maze Toys",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B000SONEQA"},
+{t:"Steering Wheel Locks (2-Pack)",c:"Home",e:"🏠",n:"Use code J57KDP1R",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H8X2LFYN"},
 {t:"Sol de Janeiro Cheirosa Perfume Mists",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0D6ZVJ3K2"},
 {t:"Montessori Learning Farm Trains",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CYT85XT6",img:"img/B0CYT85XT6.jpg"},
 {t:"Learning Resources Snap Cubes",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B000G3LR9Y",img:"img/B000G3LR9Y.jpg"},
