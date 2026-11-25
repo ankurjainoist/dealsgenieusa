@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"PECK COLLECTION Interior Car Wipes",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GL23GMR7"},
+{t:"Felskin 6PCS Mario Plush Toy Set, Cute Character Stuffed Dolls Including Mario Luigi Peach Toad Yoshi Egg",c:"Toys",e:"🧸",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GTQBQJPD"},
+{t:"Ray-Ban Unisex Rb4456f Zaya Low Bridge Fit Square Sunglasses",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0DRWBXFTT"},
+{t:"GE Profile Opal Mini Nugget Ice Maker, Chewable Ice in 5 min, 36 lbs/Day",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0H51ZX6SB"},
+{t:"S.Pellegrino Sparkling Natural Mineral Water, Unflavored, 11.15 Fl. Oz (Pack of 24)",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 25",l:"https://www.amazon.com/dp/B07G6KHNXH"},
+{t:"LOreal Paris Infallible 3-Second Setting Spray, Up to 36HR Wear, 1.76 oz",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CZF2T7CK"},
+{t:"CHI Spin N Curl 1″ Ceramic Rotating Curling Iron, Ruby Red",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B07TLNRWGQ"},
+{t:"Dollar Shave Club For Women - Shave Butter 6oz (2 Pack) - Clear Shave Cream",c:"Beauty",e:"💄",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GRDPBZ6J"},
+{t:"easy@Home Electric Nasal Aspirators",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0CL6SYCLD"},
 {t:"Greleon Wireless Tattoo Pen Kits",c:"Home",e:"🏠",n:"Use code 3C1FQY64",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G4LM345C"},
 {t:"Cheese-Shaped DIY Craft Kits",c:"Home",e:"🏠",n:"50% off with code U36A35EJ",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GV2Z3D7J"},
 {t:"Tesla MagSafe Phone Mounts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 25",l:"https://www.amazon.com/dp/B0HDZ6K3JY"},
