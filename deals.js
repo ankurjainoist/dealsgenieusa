@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Magnetic Building Blocks (150 Pieces)",c:"Toys",e:"🧸",n:"40% off with code XEIQYMKX",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HKHZ9J1D"},
+{t:"Slim Jim Smoked Jerky Meat Snack Sticks, Original Flavor, 0.28 oz., 46-ct",c:"Grocery",e:"🛒",n:"Subscribe & Save available",dt:"Nov 26",l:"https://www.amazon.com/dp/B071G6PFDR"},
+{t:"GE Refrigerator LED Replacement Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHHZH62F"},
+{t:"Heated USB Shawl Wraps",c:"Home",e:"🏠",n:"50% off with code 337MCWXN",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HSR9V3H2"},
+{t:"PicassoTiles 100 Piece Mini Magnetic Tiles, Travel STEM Toy for Kids 3+",c:"Toys",e:"🧸",dt:"Nov 26",l:"https://www.amazon.com/dp/B07VT7N2LV"},
+{t:"Heavy Duty Tailgate Cargo Nets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GTDCDV56"},
+{t:"Heomoone Baby Food Freezer Trays",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CQPXRQL5"},
+{t:"LifeTree Baby Swaddle Blankets",c:"Baby",e:"👶",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G4P4J2Z4"},
+{t:"Owlet Dream Sock Smart Baby Monitor, Includes 3 months of Owlet 360",c:"Baby",e:"👶",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HFYNG1D1"},
+{t:"VANTREEGAO Portable Cupping Kits",c:"Home",e:"🏠",n:"Use code 5UDI5SR3",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HLS44PXB"},
 {t:"Wireless CarPlayapters",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F6CVRF42"},
 {t:"Red Light Therapy Neck Wraps",c:"Health",e:"💊",n:"Use code NM3Q6GOT",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HCV7JWLS"},
 {t:"GODIVA Holiday Chocolate Signature Belgian Truffles Gift Box, 15-Piece",c:"Grocery",e:"🛒",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HBXMSBRZ"},
