@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Lighted Reindeer Christmas Decorations",c:"Home",e:"🎄",n:"Use code 17H47Q9Y",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FNVHWX4R"},
+{t:"Little Live Pets Ouchies Poodles",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DQ69SSZD"},
+{t:"RPE Flushable Wet Wipes",c:"Home",e:"🏠",n:"Use code Z5056E1H",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HRTZ3NYD"},
+{t:"Coleman Xtreme Rolling Cooler with Wheels, Extra-Walled Insulation Keeps Ice up to 5 Days, Portable Wheeled",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B00BYDG3BM"},
+{t:"Titanium Frying Pans with Lid",c:"Kitchen",e:"🍳",n:"Use code 56KAF36I",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H6D5JRSP"},
+{t:"Halloween Tumbler 40oz Ghost Tumbler Spooky Leak Proof Cups with Handle and Straw Insulated Water Bottle",c:"Kitchen",e:"🎃",dt:"Nov 26",l:"https://www.amazon.com/dp/B0D62W95SS"},
 {t:"Love to Dream Swaddle Transition Bags",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FLN34MMX"},
 {t:"UGG Tasman II Slippers",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G3S9Q5P4"},
 {t:"Lyrisiphy Round Toe Woven Mule Flats Women Mesh Flat Sandals",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F447VFG6"},
