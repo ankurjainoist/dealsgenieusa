@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"UGG Kids Classic Micro",c:"Kids",e:"🎨",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G3M967X5"},
+{t:"PetLab Co. Probiotic Chews for Dogs, 30 Soft Chews, Pork",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B089XVJHFK"},
+{t:"Wavytalk Thermal Brush 1.5″ Heated Round Brush for Air-free Blowout Look",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DQWSW8QB"},
+{t:"Shapiro MD Hair Growth Experts Hair Loss Shampoo and Conditioner, 1 Month",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B075RG9KNY"},
+{t:"/mo. Mint Mobile Phone Plan with Unlimited Talk, Text & Data for 3 Months (3-in-1 SIM Card)",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B08FXRTYPH"},
+{t:"Dr. Squatch Spray Natural Deodorant Men, Aluminum Free (4oz, 2-Pack)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FXXZV1JC"},
 {t:"COLOR WOW Raise the Root – Volumizing Root Lift Spray",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B071936ZBD"},
 {t:"First Aid Beauty Ultra Repair Cream, Face Body Barrier Repair Moisturizer",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G4NPWB8L"},
 {t:"adidas Mens Lite Racerapt 7.0 Sneakers",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CKM9K1H9"},
