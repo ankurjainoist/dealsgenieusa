@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wireless CarPlayapters",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F6CVRF42"},
+{t:"Red Light Therapy Neck Wraps",c:"Health",e:"💊",n:"Use code NM3Q6GOT",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HCV7JWLS"},
+{t:"GODIVA Holiday Chocolate Signature Belgian Truffles Gift Box, 15-Piece",c:"Grocery",e:"🛒",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HBXMSBRZ"},
+{t:"Smart Music Boxing Machines",c:"Electronics",e:"🔌",n:"40% off with code KDEYVDYA",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HQBLTX9X"},
+{t:"Cozy Bliss Rex Faux Fur Throw Blankets",c:"Home",e:"🏠",n:"Use code 54LM0SIX",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HDYNFCZ7"},
+{t:"Relivoween 300FT RGB Eave Lights",c:"Home",e:"🏠",n:"50% off with code NUYJ8G92",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HCBQ4YLN"},
+{t:"Purina Tidy Cats Breeze Litter Box System Kit with Pellet Cat Litter, XL Litter Box and Litter Box Pads",c:"Pets",e:"🐾",dt:"Nov 26",l:"https://www.amazon.com/dp/B083QPH4VT"},
+{t:"Paradise Longboard Swallow Tail Skateboards",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B00960B4WI"},
+{t:"Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark",c:"Kitchen",e:"🍳",dt:"Nov 26",l:"https://www.amazon.com/dp/B085DTZQNZ"},
+{t:"Rainwater Collection Systems",c:"Home",e:"🏠",n:"Use code E5C74CAM",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HQPBHD4B"},
 {t:"Xerox VersaLink Drum Cartridges",c:"Home",e:"🏠",n:"50% off with code DDHPFQDJ",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FK18JBRN"},
 {t:"Knorr Granulated Bouillon, Chicken, 7.9 Ounce (Pack of 12)",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B000HZF1AM"},
 {t:"Sonic X Shadow Generations - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 26",l:"https://www.amazon.com/dp/B0D6JKTRHP"},
