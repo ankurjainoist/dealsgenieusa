@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Softan Chenille Knit Throw Blankets",c:"Home",e:"🏠",n:"Use code ZIIPT0QP",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HK3W7MCL"},
+{t:"Led Drawing Board SET",c:"Home",e:"🏠",n:"45% off with code IIW2PPKJ",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HC72XV4B"},
+{t:"OLIPOP 6g Fiber Prebiotic Soda, Crisp Apple, 12 fl oz, 12Pack Skinny",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GJTX5GV8"},
+{t:"Baby Bath Shower Head",c:"Baby",e:"👶",n:"40% off with code GB1X46TY",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H1RB3WJY"},
+{t:"Bird Feeder with Camera",c:"Electronics",e:"🔌",n:"67% off with code YPB8FJXH",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HNMZL4MH"},
+{t:"Tire Inflator Portable Air Compressor Cordless Air Pump for Car",c:"Auto",e:"🚗",n:"35% off with code KRNDTBBN",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HFMC2MJT"},
+{t:"3 Tier Floating Shelves",c:"Home",e:"🏠",n:"50% off with code J88FYIUN",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GZMSP1F7"},
+{t:"Solar Christmas Pathway Lights",c:"Home",e:"🎄",n:"50% off with code E1DKLK4E",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HN6T7B2L"},
+{t:"Heated Insoles with 10000mAh Battery",c:"Electronics",e:"🔌",n:"40% off with code PV52I5JR",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HC21ZZMB"},
+{t:"Heated Mittens",c:"Home",e:"🏠",n:"Use code HKKMEV9V",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HF4XB852"},
 {t:"Pikioraz Truck Bed Tie Down Anchors",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F4QVJZRN"},
 {t:"3 in 1 Foldable Wireless Charger",c:"Electronics",e:"🔌",n:"Use code 50DTSP8P",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HN4SN2WS"},
 {t:"Momcare Breast Milk Storage Bottles",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H36S7X43"},
