@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"VisionSync USB-C Charging Stations",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CYSJHG43"},
+{t:"CELSIUS Sparkling Spritz Vibe Summer Edition, Sugar Free Energy Drink, 12 Fl Oz (Pack of 12)",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H2K3KGM5"},
+{t:"NIV,venture Bible, Leathersoft, Pink, Full Color",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/0310727510"},
+{t:"Tosview 4G Solar Security Cameras",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHJB7ZB1"},
+{t:"Coffee Mug Holder with 4 Hooks Cup Rack Stand for Countertop Mug Tree Kitchen Organizer (Brown)",c:"Kitchen",e:"🍳",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DRYBPLMK"},
+{t:"8Bitdo Ultimate 2 Bluetooth Controller for Switch & Windows PC, Switch Pro Controller with TMR Joysticks",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F2H6VKP8"},
+{t:"TUXSOBU Birthday Gift Sets",c:"Home",e:"🏠",n:"50% off with code 6X8QJLTZ",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HCHQW6TH"},
 {t:"Toploader Binder 2-Packs",c:"Home",e:"🏠",n:"50% off with code GKJP66CM",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HJ79WT6C"},
 {t:"Pokemon Vaporeon Sleeping Plush - 18-Inch Premium Plush in Sleeping Pose",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DLLMSKWB"},
 {t:"LYQC Glass Coffee Mugs",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HJZSFBC6"},
