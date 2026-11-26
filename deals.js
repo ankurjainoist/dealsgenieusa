@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"SKIPPY Natural Creamy Peanut Butter Spread, Plant Based Protein, 15oz x8",c:"Kitchen",e:"🍳",n:"Subscribe & Save available",dt:"Nov 26",l:"https://www.amazon.com/dp/B07Y93X657"},
+{t:"UNNKINE Samsung Galaxy S23 Ultra Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DSVP41CK"},
+{t:"Ear Wax Removal Kits",c:"Home",e:"🏠",n:"50% off with code CBREGBPG",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HKHSHNCN"},
+{t:"Smart Watches for Men & Women",c:"Electronics",e:"🔌",n:"Use code OHCV67IU",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HMCLLB2B"},
+{t:"WWE 2K26 - Xbox Series X",c:"Games",e:"🎮",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GKQFMLK3"},
+{t:"DODENSHA MagSafe Wallets (Black)",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FRMNLPSX"},
+{t:"Bliss Glow and Hydrate Niacinamide + Hyaluronic Acid Face Serum, 1 Fl. Oz.",c:"Beauty",e:"💄",n:"Subscribe & Save available",dt:"Nov 26",l:"https://www.amazon.com/dp/B07YGQ2BHH"},
+{t:"CamelBak Chute Mag Water Bottle with Magnetic Leak‑Resistant Cap, Lightweight Tritan Design for Everyday",c:"Kitchen",e:"🍳",dt:"Nov 26",l:"https://www.amazon.com/dp/B08QVCKFM6"},
+{t:"MZEIBO Sound Bars",c:"Home",e:"🏠",n:"62% off with code YWQAPU3C",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHD8GK2Q"},
 {t:"Magnetic Building Blocks (150 Pieces)",c:"Toys",e:"🧸",n:"40% off with code XEIQYMKX",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HKHZ9J1D"},
 {t:"Slim Jim Smoked Jerky Meat Snack Sticks, Original Flavor, 0.28 oz., 46-ct",c:"Grocery",e:"🛒",n:"Subscribe & Save available",dt:"Nov 26",l:"https://www.amazon.com/dp/B071G6PFDR"},
 {t:"GE Refrigerator LED Replacement Lights",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHHZH62F"},
