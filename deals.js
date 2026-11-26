@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cuisinart Air Fryer, 9-Quart Basket Stainless Steel Fryer Oven with 6 Presets to Roast, Bake",c:"Kitchen",e:"🍳",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DPNCNJ43"},
+{t:"Sonic Dermaplane Razors (Purple)",c:"Home",e:"🏠",n:"Use code 3V4LSNFL",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHDCJSXK"},
+{t:"Queen Size Mattress Toppers",c:"Home",e:"🏠",n:"Use code IZS0L8NZ",dt:"Nov 26",l:"https://www.amazon.com/dp/B08QRG9LV9"},
+{t:"110 Pack 16 oz Disposable Clear Plastic Cups with Lids and Straws",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HGZLG724"},
+{t:"✄-45 percent off -✄",c:"Home",e:"🏠",n:"Use code AL2V1366",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HDZDR56Y"},
+{t:"4K Selfie Monitor Screens",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FCLKFDKV"},
+{t:"Family Size Electric Skillet with Lid, 6-Quart Ceramic, Forged Iron",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHG5XSZ6"},
+{t:"Upgraded Version-Electrical Outlet Extender Stick with USB-A&USB-C&2 AC Outlets,Free Assembly Extends 16.5",c:"Home",e:"🏠",n:"50% off with code WVTFSG90",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HMW6TVHF"},
 {t:"DJI Osmo Action Cameras",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0C783YNW7"},
 {t:"Youth To The People Superberry Dream Mask - Hydrate + Glow Face Moisturizer",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B07PH2BBKS"},
 {t:"Source Naturals Hyaluronic Acid Tablets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B000GFSVL4"},
