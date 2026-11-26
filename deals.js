@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dr.Melaxin Peel Shot Black Rice Ampoule for Pores & Blackheads, 2.7 fl oz",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DJPB7H94"},
+{t:"Kitchen Knife Set, 15 Piece Knife Block Set with Sharpener",c:"Kitchen",e:"🍳",n:"Use code VVT8LDQQ",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HD7FRMM6"},
+{t:"Smith Sursee Diaper Bag Backpacks",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HBVQZRBR"},
+{t:"Wireless CarPlayapters",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F6CYXFYS"},
+{t:"Kitchen Knife Set, Knife Block Set with Sharpener 15 Piece German",c:"Kitchen",e:"🍳",n:"Use code Q1ULO4CI",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HD7KG2QZ"},
+{t:"21in Meat Resting Bag",c:"Home",e:"🏠",n:"Use code 0KKG0GSW",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HN1M131J"},
+{t:"Familife Electric Foot Files",c:"Home",e:"🏠",n:"Use code YS4ZTHT8",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F2MQB7NB"},
+{t:"22 Pcs Nonstick Baking Pans Set",c:"Kitchen",e:"🍳",n:"Use code ALSFMLL4",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DPYTDBP4"},
 {t:"Solar Christmas Tree Pathway Lights 10 pack",c:"Home",e:"🎄",n:"50% off with code GZRAEVF2",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HDGXQWFR"},
 {t:"Rolling Knife Sharpener Kit",c:"Kitchen",e:"🍳",n:"50% off with code MW7U6E4L",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G8SYD245"},
 {t:"Full Face Bike Helmet",c:"Home",e:"🏠",n:"Use code PFHL8HKZ",dt:"Nov 26",l:"https://www.amazon.com/dp/B08DQVW4VW"},
