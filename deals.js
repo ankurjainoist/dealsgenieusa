@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Gaiatop Magnetic Hand Warmers (2-Pack)",c:"Home",e:"🏠",n:"Use code G2FJ79A9",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GWQWV88H"},
+{t:"3Pcs Washable Kitchen Rugs",c:"Kitchen",e:"🍳",n:"50% off with code 7JWA9YBB",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H3VH713F"},
+{t:"Wipkviey Drones with Camera",c:"Electronics",e:"🔌",n:"Use code 9BDGOM2W",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H3ZZDY4V"},
+{t:"Vegetable Choppers with Containers",c:"Home",e:"🏠",n:"Use code TF9KGRNO",dt:"Nov 26",l:"https://www.amazon.com/dp/B0D6KM1DFF"},
+{t:"Food Storage Containers with Lids",c:"Home",e:"🏠",n:"Use code 8FIXWKSF",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H3TNNC5Y"},
+{t:"Flycatcher smART Sketcher 2.0 Projector, Step-by-Step Drawing, Kids Ages 5+",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B08TCD1RTK"},
+{t:"Conversation Card Games",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B07XCD8V66"},
 {t:"Henckels Bread Knives",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B00MYI0VYG"},
 {t:"Electric Bike",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GVL2N9HF"},
 {t:"KitchenAid Stainless Steel Utility Tongs",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B07Q5CJDM9"},
