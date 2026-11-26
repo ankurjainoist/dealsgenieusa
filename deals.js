@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Camera Recording Glasses",c:"Electronics",e:"🔌",n:"Use code DPAYS9DL",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CN6RZ5H3"},
+{t:"Spigen Galaxy Watch Bezel Protectors",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F97GS4GX"},
+{t:"Andalusite Red Light Therapy Masks",c:"Beauty",e:"💄",n:"Use code 5M8P21YS",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H87RHPYR"},
+{t:"8ft Inflatable Christmas Trees",c:"Home",e:"🎄",n:"Use code M2OK25FB",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DFPLSQC7"},
+{t:"Secura Electric Coffee Grinders",c:"Kitchen",e:"🍳",n:"Use code 83XOV0S9",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FNCVH9CX"},
+{t:"YPENSLZX Foldable Wireless Headphones (Black)",c:"Electronics",e:"🔌",n:"72% off with code NEKLA9ST",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HKVGN3R3"},
+{t:"Lifewit Arched Bulletin Boards",c:"Home",e:"🏠",n:"Use code 4R3MV05X",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GYZ24STM"},
+{t:"Holbrook Fuze Foam Pickleball Paddles",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H61XXQ4B"},
 {t:"Professional Acrylic Painting Kits",c:"Home",e:"🏠",n:"Use code 3O4571PH",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HG8VPGF3"},
 {t:"IBESTOPIA Muslin Crib Sheets",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GDXCRRB9"},
 {t:"HAYVAN Foldable Bamboo Gift Baskets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GCZMZKGB"},
