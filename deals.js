@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"INSIGNIA 75-inch Class QF Series LED 4K UHD QLED Smart Fire TV with Alexa Voice Remote (NS75-UQFL26)",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DWBMW3LD"},
+{t:"Mando Whole Body Deodorant For Men - Solid Stick - 2.6 oz, 2 pk - Bourbon",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0C6S7RX2C"},
+{t:"Funko POP! Movies: Friday the 13th - Jason Voorhees",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B004GFWBCU"},
+{t:"Coleman Xtreme Rolling Cooler with Wheels, Extra-Walled Insulation Keeps Ice up to 5 Days, Portable Wheeled",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B00AU6G4QS"},
+{t:"HAIRtamin Gummy Stars Hair Vitamins with Biotin, 1 Pack, 1 Month Supply",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B084YTG7H6"},
+{t:"eufy Security 2K Video Doorbell E340,Dual Cameras,2K FHD,SD Card Slot Model",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H86KFVC7"},
 {t:"Franklin Sports Flying Field Goal Mini Tabletop Football Game",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CBQHQPRM"},
 {t:"STANLEY Quencher H2.0 Flow State Tumbler, 30 oz",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DQY65BX6"},
 {t:"Super Bright Tactical Flashlights",c:"Home",e:"🏠",n:"50% off with code OXFZHKKS",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HS9KD4GD"},
