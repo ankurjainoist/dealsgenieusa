@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"First Aid Kits",c:"Home",e:"🏠",n:"Use code DSBT96XH",dt:"Nov 26",l:"https://www.amazon.com/dp/B0B8Z3VD43"},
+{t:"Queen Cotton Linen Duvet Covers",c:"Home",e:"🏠",n:"Use code GWF0BQ06",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GJPV226C"},
+{t:"Light Therapy Lamps 10000 Lux",c:"Health",e:"💊",n:"Use code DNKOCPK5",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FP2Z1TDG"},
+{t:"Sunrise Alarm Clocks with Charger",c:"Electronics",e:"🔌",n:"Use code 4IWJX9MA",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HCNC5668"},
+{t:"Casly Skirt Sets (2-Piece)",c:"Home",e:"🏠",n:"Use code Y35UXZHU",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GXFCP4W3"},
+{t:"Grace Karin Bodycon Work Dresses",c:"Fashion",e:"👗",n:"Use code 4FPV5YMN",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GXVGD8PH"},
+{t:"Portable Storage Bags (180L)",c:"Home",e:"🏠",n:"Use code MB2CUS84",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HCMF9L3H"},
 {t:"Nollh DIY Journal Kits",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0C23NBZ6W"},
 {t:"Hot Wheels Super Mario Galaxy Deserts",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GBZXX4WK"},
 {t:"La Roche-Posay Hydrating Facial Cleansers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B01N7T7JKJ"},
