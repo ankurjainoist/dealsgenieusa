@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Professional Acrylic Painting Kits",c:"Home",e:"🏠",n:"Use code 3O4571PH",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HG8VPGF3"},
+{t:"IBESTOPIA Muslin Crib Sheets",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GDXCRRB9"},
+{t:"HAYVAN Foldable Bamboo Gift Baskets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GCZMZKGB"},
+{t:"Thermal Round Blowout Brushes",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FZTBQ6KH"},
+{t:"Wilson US Open Jr Tennis Rackets",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G8QVB53J"},
+{t:"Palimder Full Body Massage Chairs",c:"Home",e:"🏠",n:"50% off with code FG0FVRCJ",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FY5ZNGN6"},
+{t:"Apple 2026 MacBook Neo 13-inch Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GR6F79MT"},
+{t:"URO Vaginal Probiotics for Women, Healthy Odor & pH Balance, 1-Month Supply",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0D5FZGY8W"},
 {t:"Gingerbread HoUse Floor Puzzles",c:"Toys",e:"🧸",n:"Use code IFPQVMM8",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHDW6MFP"},
 {t:"Womens Thermal Henley Onesies",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B08XWF9H8K"},
 {t:"Steam Mop, 13-in-1 Powerful Handheld Steam Cleaner, 260°F Detachable Floor Steamer, 460ml Large Tank, 23FT",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HPZSCQFP"},
