@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"COLOR WOW Raise the Root – Volumizing Root Lift Spray",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B071936ZBD"},
+{t:"First Aid Beauty Ultra Repair Cream, Face Body Barrier Repair Moisturizer",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G4NPWB8L"},
+{t:"adidas Mens Lite Racerapt 7.0 Sneakers",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CKM9K1H9"},
+{t:"Too Faced Born This Way Natural Nudes Mini Eye Shadow Palette Makeup, Creamy, High Pigment Matte + Shimmer",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0D19JDZJS"},
+{t:"Carhartt Mens Rain Defender Relaxed Fit Heavyweight Hooded Shirt Jac",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0C4V52YH2"},
+{t:"BLACK+DECKER Perfect Pint Ice Cream Maker for Protein Recipes",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FR7G1RTN"},
+{t:"BYOMA Barrier Boosting Lab Kit, Skincare Set, Travel Size Skincare",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HG2LW4YF"},
+{t:"roborock F25 GT Neo Wet Dry Vacuum Mop, Cordless Vacuum Cleaner, 180° Flat",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H9Y69YYN"},
+{t:"Miracle Feather Crochet Hair Extensions",c:"Beauty",e:"💄",n:"45% off with code ZU7PE79Y",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H31VW36L"},
+{t:"Pacifica Sunset Glow DROPS – Face Bronzer - Vitamin C Face Bronzing Makeup for Instant Sun-Kissed Glowing",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DK2DG7RF"},
 {t:"INSIGNIA 75-inch Class QF Series LED 4K UHD QLED Smart Fire TV with Alexa Voice Remote (NS75-UQFL26)",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DWBMW3LD"},
 {t:"Mando Whole Body Deodorant For Men - Solid Stick - 2.6 oz, 2 pk - Bourbon",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0C6S7RX2C"},
 {t:"Funko POP! Movies: Friday the 13th - Jason Voorhees",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B004GFWBCU"},
