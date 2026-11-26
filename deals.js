@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Franklin Sports Flying Field Goal Mini Tabletop Football Game",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CBQHQPRM"},
+{t:"STANLEY Quencher H2.0 Flow State Tumbler, 30 oz",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DQY65BX6"},
+{t:"Super Bright Tactical Flashlights",c:"Home",e:"🏠",n:"50% off with code OXFZHKKS",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HS9KD4GD"},
+{t:"BaubleBar - Disney Mickey & Minnie MoUse Bride & Groom Pisa Bracelet",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DFMTZSJM"},
+{t:"Nutri-Grain Bars 4-Flavor Variety Pack (4 Boxes, 32 Bars)",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DWMY9144"},
+{t:"LG 65 inch Class OLED evo AI C64K Smart TV (65C6, 2026 Model)",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GRK5D3RW"},
+{t:"TCL 85 Inch QM6K Series QLED Mini LED 4K HDR Smart Google TV, 85QM6K, 144Hz",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DSR9Q461"},
+{t:"Norton 360 Premium 2027 Antivirus, 10 Devices, Auto-Renews [Key Card]",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B07QCVZW81"},
+{t:"Vuees Hummingbird Solar Lanterns",c:"Home",e:"🏠",n:"50% off with code VUEES1111",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FWK21R5S"},
+{t:"Funko POP! Deluxe: Meme - Wolverine",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FTPH1GLX"},
 {t:"Cheese Squishy, Cheese Block Squeeze Toy",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H391Q15Z"},
 {t:"Invengo Automatic Self-Cleaning Litter Boxes",c:"Home",e:"🏠",n:"50% off with code 3MFE2NVX",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HK3V2SRH"},
 {t:"12A Body Wave Human Hair Bundles 1820 22 Inch",c:"Beauty",e:"💄",n:"Use code WHJOTMAM",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HQZC5W3V"},
