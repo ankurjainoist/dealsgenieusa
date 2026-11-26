@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LEGO DUPLO Town 3 in 1 Animals on Wheels Building Toy - Learning Play Set for Toddler Boys & Girls, Ages 2+ -",c:"Baby",e:"👶",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DRW5DBY3"},
+{t:"Under Cabinet LED Lights",c:"Home",e:"🏠",n:"Use code YOJBTQP5",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HH92B87C"},
+{t:"LEGO City F1 Williams Racing & Haas F1 Race Car Toys - Car Building Toy Set for Kids, Boys and Girls, Ages 4+",c:"Auto",e:"🚗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DJ17WGMB"},
+{t:"UMUACCAN Emergency Snow Shovels",c:"Home",e:"🏠",n:"50% off with code 8C2JGLJ5",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GY49RW6P"},
 {t:"SKIPPY Natural Creamy Peanut Butter Spread, Plant Based Protein, 15oz x8",c:"Kitchen",e:"🍳",n:"Subscribe & Save available",dt:"Nov 26",l:"https://www.amazon.com/dp/B07Y93X657"},
 {t:"UNNKINE Samsung Galaxy S23 Ultra Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DSVP41CK"},
 {t:"Ear Wax Removal Kits",c:"Home",e:"🏠",n:"50% off with code CBREGBPG",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HKHSHNCN"},
