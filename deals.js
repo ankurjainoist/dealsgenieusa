@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cheese Squishy, Cheese Block Squeeze Toy",c:"Toys",e:"🧸",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H391Q15Z"},
+{t:"Invengo Automatic Self-Cleaning Litter Boxes",c:"Home",e:"🏠",n:"50% off with code 3MFE2NVX",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HK3V2SRH"},
+{t:"12A Body Wave Human Hair Bundles 1820 22 Inch",c:"Beauty",e:"💄",n:"Use code WHJOTMAM",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HQZC5W3V"},
+{t:"2 Dinosaur Remote Control Car",c:"Auto",e:"🚗",n:"Use code PU8T5VOM",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HJZ962BM"},
+{t:"Dinosaur Talking Pen, Autism Sensory Learning Toy",c:"Toys",e:"🧸",n:"Use code B4PP7NAY",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HMHVF19T"},
+{t:"NIVEA MEN Maximum Hydration 3-in-1 Body Wash 3 Pack",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B00OQ1ZKO0"},
+{t:"800 LED Christmas Tree Lights with Voice/Button Control",c:"Home",e:"🎄",n:"Use code H3IPX0IP",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FMK7Q2KM"},
 {t:"Camera Recording Glasses",c:"Electronics",e:"🔌",n:"Use code DPAYS9DL",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CN6RZ5H3"},
 {t:"Spigen Galaxy Watch Bezel Protectors",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F97GS4GX"},
 {t:"Andalusite Red Light Therapy Masks",c:"Beauty",e:"💄",n:"Use code 5M8P21YS",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H87RHPYR"},
