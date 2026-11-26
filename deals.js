@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Solar Christmas Tree Pathway Lights 10 pack",c:"Home",e:"🎄",n:"50% off with code GZRAEVF2",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HDGXQWFR"},
+{t:"Rolling Knife Sharpener Kit",c:"Kitchen",e:"🍳",n:"50% off with code MW7U6E4L",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G8SYD245"},
+{t:"Full Face Bike Helmet",c:"Home",e:"🏠",n:"Use code PFHL8HKZ",dt:"Nov 26",l:"https://www.amazon.com/dp/B08DQVW4VW"},
+{t:"Celadon-Style Ceramic Incense Holder",c:"Home",e:"🏠",n:"30% off with code DAYDDI07",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H3GLYXHR"},
+{t:"WiFi Trail Camera",c:"Electronics",e:"🔌",n:"Use code XBH5ZQZQ",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHWT9R13"},
+{t:"Hunting Blind, 270° / 360° See Through Ground Blind",c:"Home",e:"🏠",n:"35% off with code I19MA1QU",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H5WTWK7J"},
+{t:"Maison d Hermine Nap Mats",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0D2X6MYTN"},
+{t:"Christmas Truck Decor",c:"Auto",e:"🎄",n:"48% off with code Y9MZPBBL",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H5SK6ZX8"},
+{t:"Cordless Heated Pad Belt with Massager for Lower Back,justable Fit",c:"Health",e:"💊",n:"Use code ABKKHY",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H1D8HS1S"},
 {t:"Softan Chenille Knit Throw Blankets",c:"Home",e:"🏠",n:"Use code ZIIPT0QP",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HK3W7MCL"},
 {t:"Led Drawing Board SET",c:"Home",e:"🏠",n:"45% off with code IIW2PPKJ",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HC72XV4B"},
 {t:"OLIPOP 6g Fiber Prebiotic Soda, Crisp Apple, 12 fl oz, 12Pack Skinny",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GJTX5GV8"},
