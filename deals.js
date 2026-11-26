@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"QBAMZ Steamer & Vacuum Systems",c:"Home",e:"🏠",n:"50% off with code W0EWZQ3F",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HLPBY125",img:"img/B0HLPBY125.jpg"},
 {t:"UGG Kids Classic Micro",c:"Kids",e:"🎨",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G3M967X5"},
 {t:"PetLab Co. Probiotic Chews for Dogs, 30 Soft Chews, Pork",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B089XVJHFK"},
 {t:"Wavytalk Thermal Brush 1.5″ Heated Round Brush for Air-free Blowout Look",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DQWSW8QB"},
