@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"REVLON One-Step Volumizer Hair Dryer and Styler",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B01LSUQSB0"},
+{t:"Over 85% claimed already!",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FMKJTVGV"},
+{t:"BAGSMART Travel Toiletry Bags",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CC86TQV7"},
+{t:"Beauty of Joseon Revive Eye Serums",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CTC25796"},
+{t:"Native Shampoo and Conditioner Set contain Naturally Derived Ingredients, All Hair Types",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DJDV89LV"},
+{t:"Neutrogena Makeup Remover Wipes, 2 Pack",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B00U2VQZDS"},
+{t:"Nemos War Ultimate Edition Board Games",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B096N2H8V6"},
+{t:"Filtered Rainfall Shower Heads",c:"Home",e:"🏠",n:"50% off with code H05MF1S1",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HK7R2FQR"},
+{t:"Juicy Couture Viva La Juicy Perfumes",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B002XQ1YTK"},
 {t:"LEGO DUPLO Town 3 in 1 Animals on Wheels Building Toy - Learning Play Set for Toddler Boys & Girls, Ages 2+ -",c:"Baby",e:"👶",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DRW5DBY3"},
 {t:"Under Cabinet LED Lights",c:"Home",e:"🏠",n:"Use code YOJBTQP5",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HH92B87C"},
 {t:"LEGO City F1 Williams Racing & Haas F1 Race Car Toys - Car Building Toy Set for Kids, Boys and Girls, Ages 4+",c:"Auto",e:"🚗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DJ17WGMB"},
