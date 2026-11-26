@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Love to Dream Swaddle Transition Bags",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FLN34MMX"},
+{t:"UGG Tasman II Slippers",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G3S9Q5P4"},
+{t:"Lyrisiphy Round Toe Woven Mule Flats Women Mesh Flat Sandals",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F447VFG6"},
+{t:"Motts No Sugarded Applesauce Variety Pack",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0D5S8B748"},
+{t:"Goldfish Cheddar Cracker Snack Packs",c:"Grocery",e:"🛒",dt:"Nov 26",l:"https://www.amazon.com/dp/B0116WQ62G"},
+{t:"Bandmax Men Stainless Steel Flat Cuban Link Chain Necklace 14–30 Inches",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FHKPGK1Z"},
+{t:"Automatic Foaming Soap Dispenser Touchless, 0.2s Fast Sensor, USB-C Rechargeable, Smudge-Resistant Stainless",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FGD3G68H"},
+{t:"Poo-Pourri Lavender Vanilla Sprays",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B01486Z286"},
+{t:"Urban Decay 24/7 Moondust Eyeshadows",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B092JT62XB"},
+{t:"Houdqklee Magnetic Star Phone Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DQTCCKJ9"},
 {t:"REVLON One-Step Volumizer Hair Dryer and Styler",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B01LSUQSB0"},
 {t:"Over 85% claimed already!",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FMKJTVGV"},
 {t:"BAGSMART Travel Toiletry Bags",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CC86TQV7"},
