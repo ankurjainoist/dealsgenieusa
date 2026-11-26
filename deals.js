@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Harrys Plus Shaving Kit for Men - 5 Razor Blade Cartridges, 2 oz Shave Gel",c:"Tools",e:"🔧",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FHQMW5R2"},
+{t:"Too Faced Lip Injection Lip Plumper, Hydrating Lip Gloss for Fuller-Looking Lips, Original, Maximum Plump",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0842XJLVZ"},
+{t:"Bowie Hand Chain for Women, 14k Gold Plated Crystal Hand Jewelry, Dainty Finger Loop Chain Bracelet,justable",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FYG83NM1"},
+{t:"Seagate 8TB Expansion Desktop Hard Drive, USB 3.0 (STKP8000400)",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B092R5KTT7"},
+{t:"Truly Beauty Soft Serve After Shave Plump Cream, Post-Shave Body Lotion",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DZRBNZGP"},
+{t:"HLC.ME Butterfly Floral Lace Tablecloth, Oval, 60x84 Inch, White",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DMTXL1NK"},
+{t:"White Book Ends Decorative, Girl Thinker Design, Modern Bookends for Shelves, Non-Skid Heavy Duty Resin Book",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DFWCZYTB"},
+{t:"Cordless Heating Pads with LED",c:"Home",e:"🏠",n:"40% off with code V5SXTQFI",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H945J234"},
+{t:"LL TRADER iPhone 11 LCD Screen 6.1 Inch Replacement Touch Screen 3D Touch Digitizer Assembly and Repair Kit",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DM5THJ89"},
 {t:"Premier Protein Sparkling Protein Soda, Black Cherry, 15g Whey, 12 Pack",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GS7J3WTR",img:"img/B0GS7J3WTR.jpg"},
 {t:"QBAMZ Steamer & Vacuum Systems",c:"Home",e:"🏠",n:"50% off with code W0EWZQ3F",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HLPBY125",img:"img/B0HLPBY125.jpg"},
 {t:"UGG Kids Classic Micro",c:"Kids",e:"🎨",dt:"Nov 26",l:"https://www.amazon.com/dp/B0G3M967X5"},
