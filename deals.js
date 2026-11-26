@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DJI Osmo Action Cameras",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0C783YNW7"},
+{t:"Youth To The People Superberry Dream Mask - Hydrate + Glow Face Moisturizer",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B07PH2BBKS"},
+{t:"Source Naturals Hyaluronic Acid Tablets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B000GFSVL4"},
+{t:"Bumble and bumble. Hairdressers Invisible Oil Heat Protectant Leave-In Conditioner Hair Primer, Hydrating",c:"Beauty",e:"💄",dt:"Nov 26",l:"https://www.amazon.com/dp/B00K7O332G"},
+{t:"Silicone Oven Mitts",c:"Home",e:"🏠",n:"Use code 92P0EF4M",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H87Z4YSZ"},
+{t:"Construction Truck Storage Carriers",c:"Auto",e:"🚗",n:"Use code GMYKKCG4",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H337PTZT"},
+{t:"OKK Robot Building Kits",c:"Home",e:"🏠",n:"Use code 3S44APWG",dt:"Nov 26",l:"https://www.amazon.com/dp/B08HM4ZVQS"},
 {t:"First Aid Kits",c:"Home",e:"🏠",n:"Use code DSBT96XH",dt:"Nov 26",l:"https://www.amazon.com/dp/B0B8Z3VD43"},
 {t:"Queen Cotton Linen Duvet Covers",c:"Home",e:"🏠",n:"Use code GWF0BQ06",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GJPV226C"},
 {t:"Light Therapy Lamps 10000 Lux",c:"Health",e:"💊",n:"Use code DNKOCPK5",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FP2Z1TDG"},
