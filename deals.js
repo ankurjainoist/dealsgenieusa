@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Henckels Bread Knives",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B00MYI0VYG"},
+{t:"Electric Bike",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GVL2N9HF"},
+{t:"KitchenAid Stainless Steel Utility Tongs",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B07Q5CJDM9"},
+{t:"PLANTERS Honey Roasted Cashews, Plant Based Protein, 1.5 Oz (18 Ct)",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B002ULC3KW"},
+{t:"Columbia Crestwood Waterproof Hiking Boots",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CLWB8Z8S"},
+{t:"Liquid Death Iced Tea - O.G. Variety, Less Sugar* (Pack of 12)",c:"Grocery",e:"🛒",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DZF23T84"},
+{t:"Crocs Floral Classic Clogs",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0D7GWB39T"},
+{t:"Adidasissage Slide Sandals",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DHWKB96F"},
+{t:"Blueys Happy Snaps: Deluxe Edition, AMAZON EXCLUSIVE - Nintendo Switch 2",c:"Games",e:"🎮",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GWB28TPR"},
 {t:"Zesty Paws Flea and Tick Prevention Kits",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0GRWY87QW"},
 {t:"Litter Genie Standard Cat Litter Disposal Pail with 14 ft Standard Refill",c:"Pets",e:"🐾",dt:"Nov 25",l:"https://www.amazon.com/dp/B019W0OH48"},
 {t:"SodaStream Dr Pepper Drink Mixes",c:"Home",e:"🏠",dt:"Nov 25",l:"https://www.amazon.com/dp/B0G26L857G"},
