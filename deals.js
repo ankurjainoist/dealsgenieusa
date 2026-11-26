@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Toploader Binder 2-Packs",c:"Home",e:"🏠",n:"50% off with code GKJP66CM",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HJ79WT6C"},
+{t:"Pokemon Vaporeon Sleeping Plush - 18-Inch Premium Plush in Sleeping Pose",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DLLMSKWB"},
+{t:"LYQC Glass Coffee Mugs",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HJZSFBC6"},
+{t:"Skylight Calendar – 15 in Touchscreen Digital Calendar & Chore Chart, White",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0C9V811L6"},
+{t:"Walking Pads with Incline",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HMWTQ2GX"},
+{t:"Tonies Carrying Case - Secure Protection for up to 10 Characters - Light Blue",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B09X5FCQWW"},
+{t:"BOOST Portable Car Jump Starters",c:"Auto",e:"🚗",n:"Clip the 45% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HNRKWX3D"},
+{t:"Guinea Pig Stuffed Animal, Hamster Plush Pillow, Guinea Pig Stuffed Plush Toy,Birthday Christmas (Brown and",c:"Toys",e:"🎄",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F1CYB7Q2"},
 {t:"Lighted Reindeer Christmas Decorations",c:"Home",e:"🎄",n:"Use code 17H47Q9Y",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FNVHWX4R"},
 {t:"Little Live Pets Ouchies Poodles",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DQ69SSZD"},
 {t:"RPE Flushable Wet Wipes",c:"Home",e:"🏠",n:"Use code Z5056E1H",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HRTZ3NYD"},
