@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Nollh DIY Journal Kits",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0C23NBZ6W"},
+{t:"Hot Wheels Super Mario Galaxy Deserts",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GBZXX4WK"},
+{t:"La Roche-Posay Hydrating Facial Cleansers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B01N7T7JKJ"},
+{t:"Music Boxing Machines",c:"Home",e:"🏠",n:"Use code 3NJZ0TXP",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DDPR4SY6"},
+{t:"Stanley Hard Coolers",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GCC3NC11"},
+{t:"Electric Train Track Sets",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H3919T6P"},
+{t:"2pcs Set Travel Duffle",c:"Home",e:"🏠",n:"50% off with code DJI8OLIL",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H679TK7R"},
+{t:"2 PC Initial Travel Hanging Toiletry Bag SETS",c:"Home",e:"🏠",n:"Use code 5VALPOP7",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FBW94V2D"},
+{t:"Repair Shampoo and Conditioner Set",c:"Beauty",e:"💄",n:"50% off with code FM2JZ73J",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HGM8VD43"},
 {t:"GOOSH 8 FT Christmas Inflatables",c:"Home",e:"🎄",n:"Clip the 46% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HJ1H2V16"},
 {t:"Shkalacar Wire Insertion Tools",c:"Tools",e:"🔧",n:"Use code J4IKKH4X",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FQMX26JZ"},
 {t:"11-Inch Cordless Snow Shovel",c:"Home",e:"🏠",n:"Use code T5YZD2SX",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HJG7XGGV"},
