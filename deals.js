@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Gingerbread HoUse Floor Puzzles",c:"Toys",e:"🧸",n:"Use code IFPQVMM8",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHDW6MFP"},
+{t:"Womens Thermal Henley Onesies",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B08XWF9H8K"},
+{t:"Steam Mop, 13-in-1 Powerful Handheld Steam Cleaner, 260°F Detachable Floor Steamer, 460ml Large Tank, 23FT",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HPZSCQFP"},
+{t:"Womens Knee High Cowboy Boots",c:"Fashion",e:"👗",n:"Use code A3BIRED8",dt:"Nov 26",l:"https://www.amazon.com/dp/B0B222BXB9"},
+{t:"Keychron K2 Wireless Keyboards",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DCVQBMVP"},
+{t:"Step2 Best Chefs Kids Kitchen Playset, Lights & Sounds, 25 Accessories",c:"Kitchen",e:"🍳",dt:"Nov 26",l:"https://www.amazon.com/dp/B00XPH0618"},
+{t:"TWAKAP Gas Stove Covers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F6XKCJJ4"},
+{t:"NOPANE Propane Tank Carrying Handles",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FQ3JLJVZ"},
 {t:"Gaiatop Magnetic Hand Warmers (2-Pack)",c:"Home",e:"🏠",n:"Use code G2FJ79A9",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GWQWV88H"},
 {t:"3Pcs Washable Kitchen Rugs",c:"Kitchen",e:"🍳",n:"50% off with code 7JWA9YBB",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H3VH713F"},
 {t:"Wipkviey Drones with Camera",c:"Electronics",e:"🔌",n:"Use code 9BDGOM2W",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H3ZZDY4V"},
