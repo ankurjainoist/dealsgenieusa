@@ -3,6 +3,11 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Xerox VersaLink Drum Cartridges",c:"Home",e:"🏠",n:"50% off with code DDHPFQDJ",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FK18JBRN"},
+{t:"Knorr Granulated Bouillon, Chicken, 7.9 Ounce (Pack of 12)",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B000HZF1AM"},
+{t:"Sonic X Shadow Generations - Nintendo Switch",c:"Games",e:"🎮",dt:"Nov 26",l:"https://www.amazon.com/dp/B0D6JKTRHP"},
+{t:"SimplyMDRN Joker iPhone 14 Plus Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0C66L34WM"},
+{t:"Allroaring Dog Shoes (Blue)",c:"Pets",e:"🐾",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H1M6LK9V"},
 {t:"Harrys Plus Shaving Kit for Men - 5 Razor Blade Cartridges, 2 oz Shave Gel",c:"Tools",e:"🔧",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FHQMW5R2"},
 {t:"Too Faced Lip Injection Lip Plumper, Hydrating Lip Gloss for Fuller-Looking Lips, Original, Maximum Plump",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0842XJLVZ"},
 {t:"Bowie Hand Chain for Women, 14k Gold Plated Crystal Hand Jewelry, Dainty Finger Loop Chain Bracelet,justable",c:"Fashion",e:"👗",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FYG83NM1"},
