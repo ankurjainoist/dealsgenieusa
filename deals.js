@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"GOOSH 8 FT Christmas Inflatables",c:"Home",e:"🎄",n:"Clip the 46% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HJ1H2V16"},
+{t:"Shkalacar Wire Insertion Tools",c:"Tools",e:"🔧",n:"Use code J4IKKH4X",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FQMX26JZ"},
+{t:"11-Inch Cordless Snow Shovel",c:"Home",e:"🏠",n:"Use code T5YZD2SX",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HJG7XGGV"},
+{t:"Cordless Red Light Ankle Heating Pad",c:"Home",e:"🏠",n:"45% off with code AYDV4G1N",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H749B345"},
+{t:"Neck and Back Massager",c:"Health",e:"💊",n:"50% off with code BGM5050",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GY71SJRK"},
+{t:"7-in-1 Smart Cupping Therapy Set",c:"Electronics",e:"🔌",n:"50% off with code 7UD1GKDW",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FT3VYBRW"},
+{t:"2 Inch Label Maker Machine",c:"Home",e:"🏠",n:"55% off with code MO7CQTXE",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HLK12W76"},
+{t:"Projector with WiFi and Bluetooth",c:"Electronics",e:"🔌",n:"65% off with code BAT9CGDW",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HSRSQNSV"},
 {t:"Dr.Melaxin Peel Shot Black Rice Ampoule for Pores & Blackheads, 2.7 fl oz",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DJPB7H94"},
 {t:"Kitchen Knife Set, 15 Piece Knife Block Set with Sharpener",c:"Kitchen",e:"🍳",n:"Use code VVT8LDQQ",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HD7FRMM6"},
 {t:"Smith Sursee Diaper Bag Backpacks",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HBVQZRBR"},
