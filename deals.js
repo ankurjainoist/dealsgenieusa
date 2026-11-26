@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Pikioraz Truck Bed Tie Down Anchors",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0F4QVJZRN"},
+{t:"3 in 1 Foldable Wireless Charger",c:"Electronics",e:"🔌",n:"Use code 50DTSP8P",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HN4SN2WS"},
+{t:"Momcare Breast Milk Storage Bottles",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H36S7X43"},
+{t:"Wnetone Scalloped Wall Baskets",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H1R7QY3T"},
+{t:"iPhone 17/16/15 Pro/Pro Max Charger, Dual Port USB-C Wall Charger with PD 40W & QC 20W Fast Charging, 10FT",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0FX3TH22L"},
+{t:"MSI MAG X870E Tomahawk MAX WiFi V1 Motherboard, ATX - Supports AMD Ryzen 9000/8000 / 7000 Processors, AM5-80A",c:"Electronics",e:"🔌",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HFPJ82XF"},
+{t:"iPhone 17 Cases with Kickstand",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0GCMQTNHK"},
+{t:"Self-Warming Cat Bed Pads",c:"Pets",e:"🐾",n:"Clip the 40% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HDZQG7BC"},
 {t:"VisionSync USB-C Charging Stations",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 26",l:"https://www.amazon.com/dp/B0CYSJHG43"},
 {t:"CELSIUS Sparkling Spritz Vibe Summer Edition, Sugar Free Energy Drink, 12 Fl Oz (Pack of 12)",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 26",l:"https://www.amazon.com/dp/B0H2K3KGM5"},
 {t:"NIV,venture Bible, Leathersoft, Pink, Full Color",c:"Home",e:"🏠",dt:"Nov 26",l:"https://www.amazon.com/dp/0310727510"},
