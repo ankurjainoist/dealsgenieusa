@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Grace Karin Trench Coats",c:"Fashion",e:"👗",n:"Use code OBUPQHL5",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H829Q8T8"},
+{t:"Waterfall Tree Topper Lights",c:"Home",e:"🏠",n:"Use code 4IEXYIZE",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FMKM92FF"},
+{t:"Neutrogena Skincare Gift Sets",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H88G8VNW"},
+{t:"Saucemoto Dip Clips",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B07D1KW3PB"},
+{t:"Drunk Elephant Opening Night Skincare Kits",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FNFCNTTL"},
+{t:"BTFBM Strapless Boho Rompers",c:"Home",e:"🏠",n:"Use code 50WLN7VI",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DR8S9KP5"},
+{t:"Honest Company Baby Wipes",c:"Baby",e:"👶",dt:"Nov 27",l:"https://www.amazon.com/dp/B07B195TT6"},
+{t:"Abalter Washer Dryer Protector Mats",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GTNTRV5D"},
 {t:"Cuisinart Air Fryer, 9-Quart Basket Stainless Steel Fryer Oven with 6 Presets to Roast, Bake",c:"Kitchen",e:"🍳",dt:"Nov 26",l:"https://www.amazon.com/dp/B0DPNCNJ43"},
 {t:"Sonic Dermaplane Razors (Purple)",c:"Home",e:"🏠",n:"Use code 3V4LSNFL",dt:"Nov 26",l:"https://www.amazon.com/dp/B0HHDCJSXK"},
 {t:"Queen Size Mattress Toppers",c:"Home",e:"🏠",n:"Use code IZS0L8NZ",dt:"Nov 26",l:"https://www.amazon.com/dp/B08QRG9LV9"},
