@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"DEWALT 20V MAX XR Cordless Hammer Drill Driver Brushless, Heavy Duty 1/2 in, 3-Speed, Tool Only",c:"Tools",e:"🔧",dt:"Nov 27",l:"https://www.amazon.com/dp/B01DR90MM6"},
+{t:"medicube Deodorant with Kojic Acid Turmeric, Sweet Vanilla Scent, 2.92",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GHM14SCX"},
+{t:"Lenox Merry Grinchmas Salt and Pepper Shakers",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CST16MW6"},
+{t:"Waterpik Aquarius Countertop Water Flosser with 10 Settings, 7 Tips, White",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B00HFQQ0VU"},
+{t:"Amazon Echo Time (all-new), Customizable smart clock, Smart alarms, Ambient sounds, Smart home hub, Ideal for",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FRPDXJYC"},
+{t:"Organic Vegan Protein Powder Variety Pack, Five Flavors, 1.62 oz, 10 Pack",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HD996CVP"},
+{t:"Shark Navigator Lift-Away Upright Vacuum Cleaner, HEPA, White",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B005KMDV9A"},
+{t:"Ninja Luxe Café Premier 3-in-1 Espresso Machine, Drip Coffee, & Cold Brew",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FGDTHY1Y"},
+{t:"Kendra Scott Chantal Beaded Bracelet for Women",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B07SKHMBT7"},
 {t:"Play-Doh Marvel Hulk Smash & Squish Kids Playset with Bendy Action Figure and Accessories",c:"Toys",e:"🧸",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CQ3NNBYF"},
 {t:"Water Hyacinth Wall Baskets with Lids, Set of 2",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F9PFZ7VJ"},
 {t:"Hasbro Games Clue Escape: The Midnight Hotel Board Game",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BCMNH8LV"},
