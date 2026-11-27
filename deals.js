@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Ceramic Mushroom Pen Holders",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FP9J5CWW",img:"img/B0FP9J5CWW.jpg"},
 {t:"Upgrad Electric Nail Clippers",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GRTTFG9Q"},
 {t:"UGG Womens Tazzelle",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0G7KNJM3Z"},
 {t:"Bedsure Sherpa Fleece Throw Blankets",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GWHG5RJ6"},
