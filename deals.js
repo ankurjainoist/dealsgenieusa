@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"HOMIDEC Wardrobe Closet, 4 Hanging Spaces Portable Clothes Rack",c:"Home",e:"🏠",n:"Use code YMP7I3QC",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DRVRKJQG",img:"img/B0DRVRKJQG.jpg"},
 {t:"300W Wireless Charger for Samsung,Zutspzss 10 in 1",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F3PMBHR8",img:"img/B0F3PMBHR8.jpg"},
 {t:"Blink Outdoor 4 – Wireless smart security camera, two-year battery life, two-way talk. Required Sync Module",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0B1N7LJD3",img:"img/B0B1N7LJD3.jpg"},
 {t:"Scott ComfortPlus Toilet Paper, 36 Triple Rolls, 231 Sheets per Roll",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DJWKTVSW"},
