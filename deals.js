@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Cuisinart Mini Food Choppers",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B09R94BHV2"},
+{t:"Umbrella Side Tables with Base",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GTQZSQTD"},
+{t:"36PCS Christmas Glasses and Party Favors Bags SET",c:"Home",e:"🎄",n:"40% off with code ARHPN1DJ",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HFW76MPG"},
+{t:"Ninja BlendBOSS Personal Blender, 26oz Tumbler, 1200PW, Cyberspace",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FSGSYF79"},
+{t:"100 FT Christmas Permanent Outdoor Lights",c:"Home",e:"🎄",n:"50% off with code D7ANK2AT",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HFZY95RY"},
+{t:"LG StanbyME 2 Max - 32-Inch 4K Smart Portable Touchscreen TV",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GV4P1KT6"},
+{t:"Rick and Morty PS5 Controller Skins",c:"Games",e:"🎮",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CDPMBD53"},
+{t:"8 FT Christmas Inflatable Gift Boxes Arch Archway with Candy Merry Christmas Decoration",c:"Grocery",e:"🎄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CC1TVHP3"},
+{t:"12 Pack Solar Candy Cane Lights",c:"Grocery",e:"🛒",n:"58% off with code 0ZTTES4O",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HBB7RB6G"},
+{t:"24 Pack Solar Candy Cane Lights",c:"Grocery",e:"🛒",n:"56% off with code C7DZWIEM",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HBBHSHG1"},
 {t:"Enameled Cast Iron Dutch Oven Pot with Lid, 5QT Dutch Oven for Bread Baking",c:"Kitchen",e:"🍳",n:"30% off with code QTQ8JLOF",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F32DLZL5"},
 {t:"6FT Artificial Olive Tree with Lights & Planter, Realistic Faux Olive Plant",c:"Home",e:"🏠",n:"40% off with code HZT5MVN4",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HPDQRYM3"},
 {t:"Ninja SLUSHi Smart Frozen Drink Makers",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HC7MNWYL"},
