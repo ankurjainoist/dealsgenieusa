@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Beetles Soft Tint Nude Gel Nail Polish Set, 20 Colors Jelly Gel Polish Kit",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FF4W6DP2"},
+{t:"Nioxin System 2 Kit For Natural Hair with Progressed Thinning",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B078YGKR6S"},
+{t:"Red Bull Zero Energy Drink, 8.4 fl. oz., with 80mg Caffeine, Taurine & B Vitamins, Case of 24 cans",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B007KIOBMS"},
+{t:"Beetles Christmas 48 Colors Gel Nail Polish Set,Winter Red Gel Polish",c:"Beauty",e:"🎄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DP8L2TTY"},
+{t:"Twister Arm Trainer, 3 in 1 Hydraulic Power Arm Trainer",c:"Home",e:"🏠",n:"Use code VVO70FOV",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H7S6DB6Z"},
+{t:"LENOVO IdeaPad Slim 315.6 in FHD Intel N150 Laptop",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HHMDNSD7"},
+{t:"Melissa & Doug Wooden Pizza Food Truck Activity Center",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CLHJ6LC1"},
+{t:"Fresh Step Odor Shield Multi Cat Clumping Cat Litter, 14 lb.",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B000VDR8LA"},
+{t:"Bedsure King Size Comforter Bed Set 3 Pcs",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0B49LHNZ2"},
 {t:"Bed Pillows for Sleeping Queen Size Set of 2 for Side Sleeper",c:"Home",e:"🏠",n:"Use code LV91E4E3",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HSJQJ33P"},
 {t:"Cetaphil 2-in-1 Baby Shampoo & Body Wash, Tear Free, 13.5oz, 2ct",c:"Baby",e:"👶",dt:"Nov 27",l:"https://www.amazon.com/dp/B09MVMNW5M"},
 {t:"Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Gryffindor",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HGHDV6TD"},
