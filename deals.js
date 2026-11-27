@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Medicube PDRN Glow Skincare Kits",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GYNK6PBB"},
+{t:"ELEMIS Pro-Collagen Cleansing Balms",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B08MJZYW8P"},
+{t:"Bella Slim 2-Slice Toasters",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CYJBB2JQ"},
+{t:"Our Place Always Pan 2.0, 10.5 in Ceramic Nonstick Pan, 2.6 Qt",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H79TWT2M"},
+{t:"KitchenAid Mini Oven Mitts",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B08J8DZYZL"},
+{t:"Red Velvet Christmas Ornaments",c:"Home",e:"🎄",n:"Use code 3QP8KNGB",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H838L5MT"},
+{t:"UGGalee Throw Blanket for Couch, Faux Fur Blanket, 50 in x 70 in, White",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B08KTQVGDN"},
+{t:"OPI Infinite Shine, Clear Gel Like Nail Polish Base Coat & Top Coat",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CRFV9CQK"},
+{t:"Sunday Riley Auto Correct Eye Cream",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B07B8DZN6B"},
 {t:"Duracell Coppertop AA Batteries",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0B1DF9NVJ"},
 {t:"Montessori Shelf",c:"Home",e:"🏠",n:"50% off with code CVSSCLBA",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GWSVQTHR"},
 {t:"Christmas Tree Lights, Waterfall Tree Topper Lights",c:"Home",e:"🎄",n:"50% off with code 5C4FKUUX",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HC5SKQPL"},
