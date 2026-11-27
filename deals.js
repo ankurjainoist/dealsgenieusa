@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Upgrad Electric Nail Clippers",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GRTTFG9Q"},
+{t:"UGG Womens Tazzelle",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0G7KNJM3Z"},
+{t:"Bedsure Sherpa Fleece Throw Blankets",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GWHG5RJ6"},
+{t:"Christmas Gift Bags",c:"Home",e:"🎄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CGX71895"},
+{t:"method Foaming Hand Wash, Waterfall, 10 fl oz, 6 pack",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B011OJQ1CQ"},
+{t:"Tineco Floor ONE i6 Wet Dry Vacuums",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F2LZJR1P"},
+{t:"Play-Doh Jewel Colors Bulk Packs",c:"Toys",e:"🧸",dt:"Nov 27",l:"https://www.amazon.com/dp/B07BC44JFC"},
+{t:"EZ-GLAZ Matte Screen Protectors",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GXF26DTQ"},
+{t:"Premier Protein 30g High Protein Shake, Chocolate, 12 Pack",c:"Grocery",e:"🛒",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B07MJL8NXR"},
+{t:"Blackstone 28 in Omnivore Griddles",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B08BWWKKKL"},
 {t:"Evenflo Revolve360 Car Seats",c:"Auto",e:"🚗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DTYJ1RKK"},
 {t:"Care Bears Castle Tower Pop-Up Tent for Kids, Indoor & Outdoor PlayhoUse with Colorful Graphics & Roll-Up",c:"Kids",e:"🎨",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FTP2NB2Z"},
 {t:"Crystal Berry LED Ceiling Fixtures",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B07XQHT77F"},
