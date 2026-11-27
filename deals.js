@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Chosen Foods Refined Avocado Oil for Cooking, 16.9 Fl Oz",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B00CYML9FW"},
+{t:"Dream On Me Toddler Beds",c:"Baby",e:"👶",dt:"Nov 27",l:"https://www.amazon.com/dp/B077Y1FCKS"},
+{t:"4 Tier Plastic Storage Bins with Lid",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CHRNM2YF"},
+{t:"Oura Ring 5 Smart Ring - Silver",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GRK1N94H"},
+{t:"CHAMBERLAIN myQ Smart Garage Door Video Keypad 2K+ Rechargeable Battery, with Wide-Angle Camera, Customizable",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HMYBC87T"},
+{t:"STEM Solar Robot Toys (Grey)",c:"Toys",e:"🧸",n:"Use code 67KEPH0L",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HGFJRNF8"},
+{t:"Christmas Pearl Diamond Painting Kits",c:"Home",e:"🎄",n:"40% off with code YEENKU62",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HD92QVYL"},
+{t:"FUNDIARY Boxing Hand Grips",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F5QGLMWK"},
 {t:"SexyHair Big Powder Play Volumizing & Texturizing Powder",c:"Toys",e:"🧸",dt:"Nov 27",l:"https://www.amazon.com/dp/B00390DN34"},
 {t:"Hot Wheels Booster Seats with Tray",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GV1GSBXH"},
 {t:"Vibration Plates for Weight Loss",c:"Home",e:"🏠",n:"Use code OVEOTK3U",dt:"Nov 27",l:"https://www.amazon.com/dp/B0G3P88BDM"},
