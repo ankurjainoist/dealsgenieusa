@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Scott ComfortPlus Toilet Paper, 36 Triple Rolls, 231 Sheets per Roll",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DJWKTVSW"},
+{t:"Pelon Pelo Rico Mexican Tamarind Candy, 1 oz, 36 Count (Pack of 1)",c:"Grocery",e:"🛒",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B005CUM0D8"},
+{t:"Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CZ5THL73"},
+{t:"Fabuloso 2X Multi-Purpose Cleaner Bleach Alternative 6 Pack",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BZ6FYV7T"},
+{t:"Energizer AA and AAA Batteries, 32 Count",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GNC8TM1Q"},
+{t:"Gain Odor Defense Liquid Laundry Detergent",c:"Grocery",e:"🛒",dt:"Nov 27",l:"https://www.amazon.com/dp/B0C35NDZH2"},
+{t:"LEGO Architecture Statue of Liberty 21042",c:"Toys",e:"🧸",dt:"Nov 27",l:"https://www.amazon.com/dp/B0793JTRKG"},
+{t:"Spin Mop and Bucket Set with 6 Mop Heads, Dark Grey",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HC3Q23YQ"},
+{t:"Cricut Explore 5 Essential Bundle + Digital Content, Taupe",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GJFL3WHS"},
+{t:"Tide Hygienic Clean Power PODS Laundry Detergent",c:"Grocery",e:"🛒",dt:"Nov 27",l:"https://www.amazon.com/dp/B09W69G979"},
 {t:"Selkirk Sport SLK Neo Pickleball Paddles Set of 2 + Pickleballs + Sling Bag",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B01F7VC6MQ"},
 {t:"Nike Womens Air Max Nuaxis Shoes",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0D967CSLV"},
 {t:"Champion Mens Performance Boxer Briefs, 5-Pack",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0G15XB65L"},
