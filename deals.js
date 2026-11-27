@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Evenflo Revolve360 Car Seats",c:"Auto",e:"🚗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DTYJ1RKK"},
+{t:"Care Bears Castle Tower Pop-Up Tent for Kids, Indoor & Outdoor PlayhoUse with Colorful Graphics & Roll-Up",c:"Kids",e:"🎨",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FTP2NB2Z"},
+{t:"Crystal Berry LED Ceiling Fixtures",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B07XQHT77F"},
+{t:"Step2 Unicorn Water Tables",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B07MK5H9N2"},
+{t:"medicube Toner Pads Kojic Acid Turmeric Clarifying Pad for Troubled Skin",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FJ21Z6BW"},
+{t:"Kendra Scott Elisa Pendant Necklaces",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B019Q0R8WM"},
+{t:"Amazon Kindle E-Readers (Matcha)",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CNVCQZG1"},
 {t:"Victorias Secret Gift Cards",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FQN9QYDQ"},
 {t:"HPRT Thermal Photo Printers",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H28Y5VTW"},
 {t:"Rstsoe Smart Fitness Rings",c:"Electronics",e:"🔌",n:"50% off with code LJ14B7Q0",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HH9HYGVC"},
