@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"SpeedTalk Prepaid Phone Plans",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BS1W6HJM"},
+{t:"105” Cloud Sectional Couches for Living Room, Modern Modular Sectional Sofa with Ottoman",c:"Home",e:"🏠",n:"20% off with code 242NY8G5",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HNNRY4WW"},
+{t:"50 Pack Christmas Potpourri Bags, Resealable Kraft Paper Stand-Up Simmer Pot Bags with Clear Window",c:"Home",e:"🎄",n:"30% off with code 07PU1DZK",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HCPSMZQP"},
+{t:"2-Pack Artificial Topiary Ball Tree with Pot, Fake Bushes for Outdoors",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DTK16XM9"},
+{t:"Fish Shower Curtain Blue Ocean Shower Curtain for Bathroom 72x84 in with 12 Hooks Colorful Under The Sea",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DX2137P3"},
+{t:"ShootzInsight AI Basketball Tracking Gimbals",c:"Home",e:"🏠",n:"Use code L1J5AP47",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HLD7BMZ7"},
+{t:"Shiatsu Foot Massager with Heat and Air Compression for Plantar Fasciitis",c:"Health",e:"💊",n:"45% off with code 9JMK9SUG",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H5KFC8TL"},
+{t:"Manual Siphon Fuel Pumps",c:"Home",e:"🏠",n:"50% off with code F15GQYOL",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HS7Q6CS9"},
+{t:"Smart Toilet with Bidet Built-In, Auto Flush, Auto Open/Close Lid, Foot Sensor, Heated Seat, Warm Water Wash",c:"Electronics",e:"🔌",n:"50% off with code MJQ9RK6C",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GZVR6MMP"},
 {t:"adidas Mens Athletic Cushioned Crew Socks 6 Pairs",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FTDYJLR1"},
 {t:"Wireless Meat Thermometer Bluetooth with Ceramic Probe: Waterproof Digital Oven Food Thermometer for Grill",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H8NZQ6J1"},
 {t:"PUMA Mens Crew Socks (6-Pack)",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B08KRYTBVX"},
