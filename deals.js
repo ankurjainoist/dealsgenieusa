@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Neutrogena Night Calming Makeup Remover Face Wipes, 2 x 25 ct",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B07FLD6T6Q"},
+{t:"Covergirl Outlast Lipstain, 50 Heat Wave, Smooth Application, Precise Pen-Like Tip, Transfer-Proof, Satin",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CLYLY7HD"},
+{t:"Maybelline Grippy Serum Primer, Hydrating Makeup Primer with 2% Niacinamide For Up To 24HR Make Up Wear",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DMQM25H9"},
+{t:"ASENEK Christmas String Lights",c:"Home",e:"🎄",dt:"Nov 27",l:"https://www.amazon.com/dp/B075ZKPFB3"},
+{t:"IT Cosmetics Do It All Radiant Concealer with Hydrating Multivitamin Serum",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DYQ46P1H"},
+{t:"Double Rhythm Cat Eye Gel Nail Polish Set of 6 Same Color Same Bottle 0.5 Oz Shimmer Glitter with Magnet",c:"Pets",e:"🐾",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DS553B5B"},
+{t:"Invisi Edge Clip in Hair Extensions",c:"Beauty",e:"💄",n:"Use code WP9BA87H",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DTQ38TL8"},
 {t:"Medicube PDRN Glow Skincare Kits",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GYNK6PBB"},
 {t:"ELEMIS Pro-Collagen Cleansing Balms",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B08MJZYW8P"},
 {t:"Bella Slim 2-Slice Toasters",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CYJBB2JQ"},
