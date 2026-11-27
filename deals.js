@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Size Small",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B084SGV1PC"},
+{t:"Bissell Water Fountain Filters (20-Pack)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HNVVS1D9"},
+{t:"Toyota Front Bumper Brackets",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DK73CJNX"},
+{t:"roborock F25 BX Wet Dry Vacuum Cleaner, Cordless Vacuum Mop with 20000Pa",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DHTTNJ2Y"},
+{t:"SR1 Ultraguard Tesla Model 3 Car Covers",c:"Auto",e:"🚗",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BPVZ7X8Q"},
+{t:"Aynmer Baby Bottle Brush Sets",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FDQRRSN8"},
+{t:"MEXS Baby Diaper Caddies",c:"Baby",e:"👶",n:"Clip the 40% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HG99VBDB"},
+{t:"Electric Razors for Women 4-in-1",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GBTDQ36V"},
+{t:"Baahtcha Organic Matcha Green Tea Powders",c:"Grocery",e:"🛒",n:"Coupon: 45% off",dt:"Nov 27",l:"https://www.amazon.com/dp/B07G5NNM9H"},
+{t:"iPhone 16 Plus Magnetic Wallet Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FF4N1B8C"},
 {t:"Chosen Foods Refined Avocado Oil for Cooking, 16.9 Fl Oz",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B00CYML9FW"},
 {t:"Dream On Me Toddler Beds",c:"Baby",e:"👶",dt:"Nov 27",l:"https://www.amazon.com/dp/B077Y1FCKS"},
 {t:"4 Tier Plastic Storage Bins with Lid",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CHRNM2YF"},
