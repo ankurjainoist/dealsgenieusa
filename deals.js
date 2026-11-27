@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"TOP-HEATER 8 Inch Electric Stove Coils",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0B9XT86LH"},
+{t:"Aluminum Trailer Chain Holders",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GVTL28RH"},
+{t:"DHOBWR Gold Wedding Table Numbers",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HL8H86MT"},
+{t:"Wee Bean Organic Bandana Bibs",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B08HHDBZSS"},
+{t:"Oars + Alps Mens Shampoo, Conditioner, Body Wash Set, Fresh Ocean Scent",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0B7NZCQD1"},
+{t:"AI Translation Earbuds (Snow White)",c:"Electronics",e:"🔌",n:"Clip the 50% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HSBDN5VH"},
+{t:"Lotus Biscoff Caramelised Biscuits, 300 Individually Wrapped Packs, Vegan",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0051GCRA4"},
+{t:"Tropicana 100% Apple Juice,�Single Serve, 10 Fl Oz Bottles (Pack of 24) - Real Fruit Juice, Vitamin C Rich",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B007SNJDXM"},
+{t:"Wine Bottle Chiller- Portable Champagne Insulator- Stainless Steel Wine Cooler Sleeve - Keeps Wine Cold",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B086FR9H7F"},
+{t:"DCA Cordless Grass Shears",c:"Tools",e:"🔧",n:"50% off with code DIZ65Z90",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GFV4HWFV"},
 {t:"TCL TV Metal Stands",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GT5KTJY1"},
 {t:"Styling Books Cutting Boards with Stand, Decorative Wooden Board Set of 3",c:"Home",e:"🏠",n:"Use code 8UK2G984",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HC1NTYCW"},
 {t:"ESR 15W MagSafe Car Mounts",c:"Auto",e:"🚗",n:"50% off with code DGCBZMTX",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CZ4BFNCF"},
