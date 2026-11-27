@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"adidas Mens Athletic Cushioned Crew Socks 6 Pairs",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FTDYJLR1"},
+{t:"Wireless Meat Thermometer Bluetooth with Ceramic Probe: Waterproof Digital Oven Food Thermometer for Grill",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H8NZQ6J1"},
+{t:"PUMA Mens Crew Socks (6-Pack)",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B08KRYTBVX"},
+{t:"The Grinch x Kitsch Cindy-Lou Hair Perfume Duo - Hair Spray & Body Mist",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HFY3HCVH"},
+{t:"Stainless Steel Oven Racks",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0G133MSR6"},
+{t:"Blue Moving Bags 200LB Heavy Duty 4 Pack Storage Bags",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FGCQCTMR"},
 {t:"TIGI Bed Head Manipulator Texturizing Putty, Firm Hold Styling Putty for Short to Medium Hair, 2.01 oz",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B08R4XX2QR"},
 {t:"Levis Womens 318 Shaping Wide-Leg Jeans",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DJWNZFMN"},
 {t:"Swarovski Imber Necklace Collection",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CPZ68GJ5"},
