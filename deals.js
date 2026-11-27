@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Premier Protein Mocha Shakes",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FQ97YZ8V"},
+{t:"Masters of the Universe 2026 Movie He-Man Power of Grayskull Sword",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FG9GTM56"},
+{t:"Mini Brands Really Works Magic Cook Kitchen Capsule Series 1 Pasta Maker & Steak with Pan Set by ZURU",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FNSXRRDJ"},
+{t:"Premier Protein Shakes (Chocolate Peanut Butter)",c:"Grocery",e:"🛒",dt:"Nov 27",l:"https://www.amazon.com/dp/B08SRSRN7G"},
+{t:"Educational Insights Pluffle Mini 8-pack",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B08WBVQ779"},
+{t:"Ghost Energy Drinks (Sour Strips Rainbow)",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FPPLS4PX"},
+{t:"LEGO Speed Champions MoneyGram Haas F1 Team VF-24 Race Car Toy - Building Set for Kids, Boys & Girls, Ages",c:"Auto",e:"🚗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DHLGNGWP"},
 {t:"Velvet Bead Bow Ornaments for Christmas Tree",c:"Home",e:"🎄",n:"50% off with code P3HFUK9N",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HJ2467NB"},
 {t:"Glad Large 30 Gallon Trash Bags, Unscented Heavy Duty Garbage Bags, Forceflex with Drawstring, 50 Count",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B00AQIULD2"},
 {t:"Double Reflective Insulation Roll Cuttable Pet Crate Insulation Cover",c:"Pets",e:"🐾",n:"50% off with code AXA92HYD",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HSTYSJNG"},
