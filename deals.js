@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Duracell Coppertop AA Batteries",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0B1DF9NVJ"},
+{t:"Montessori Shelf",c:"Home",e:"🏠",n:"50% off with code CVSSCLBA",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GWSVQTHR"},
+{t:"Christmas Tree Lights, Waterfall Tree Topper Lights",c:"Home",e:"🎄",n:"50% off with code 5C4FKUUX",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HC5SKQPL"},
+{t:"Cricut StickerPix Photo Printers",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HH9LH3GH"},
+{t:"5FT Christmas Cone Tree Light",c:"Home",e:"🎄",n:"50% off with code G26XPC4M",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HC64R7X9"},
+{t:"Pokmon TCG Mega Evolution Booster Bundles",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GYTRYV7P"},
+{t:"Electric Scooter with Seat forults, Lock & Phone Holder",c:"Home",e:"🏠",n:"28% off with code 6QOE1NC1",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FMK8CT3P"},
+{t:"Christmas Door Mat",c:"Home",e:"🎄",n:"50% off with code N3ZM1LD2",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HGR77RZ4"},
+{t:"Oil of Oregano",c:"Home",e:"🏠",n:"50% off with code Q9A9OXZM",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DQ3B2Q31"},
+{t:"Electric Wine Opener",c:"Home",e:"🏠",n:"Use code RBDY8CMO",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F7R2ZK5M"},
 {t:"Insulin Cooler Travel Cases",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HKWCTXNZ",img:"img/B0HKWCTXNZ.jpg"},
 {t:"Ceramic Mushroom Pen Holders",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FP9J5CWW",img:"img/B0FP9J5CWW.jpg"},
 {t:"Upgrad Electric Nail Clippers",c:"Beauty",e:"💄",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GRTTFG9Q"},
