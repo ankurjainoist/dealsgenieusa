@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Velvet Bead Bow Ornaments for Christmas Tree",c:"Home",e:"🎄",n:"50% off with code P3HFUK9N",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HJ2467NB"},
+{t:"Glad Large 30 Gallon Trash Bags, Unscented Heavy Duty Garbage Bags, Forceflex with Drawstring, 50 Count",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B00AQIULD2"},
+{t:"Double Reflective Insulation Roll Cuttable Pet Crate Insulation Cover",c:"Pets",e:"🐾",n:"50% off with code AXA92HYD",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HSTYSJNG"},
+{t:"The Lord of the Rings 3-Book Paperback Box Set",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/0358439191"},
+{t:"Nayoroom Christmas Comforter Set Queen Size - Christmas Bedding Comforter Set, Vintage Texture Santa Trees",c:"Home",e:"🎄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FP4N2PGD"},
+{t:"Rechargeable LED Drawing Boards",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H79HV2JT"},
+{t:"Graywind Motorized Smart Blinds",c:"Electronics",e:"🔌",n:"Clip the 45% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B07Z1P4GQH"},
+{t:"Kindergarten Preschool Graduation Cap and Gown Stole",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DGSZFYPX"},
 {t:"Kids Insulated Water Bottle with Straw, 18 oz",c:"Kitchen",e:"🍳",n:"50% off with code 40Q8NPTP",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GWF1ZDSP"},
 {t:"Walking Pads with Vibration Plates",c:"Home",e:"🏠",n:"Use code WSNQCXNE",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H6JHKPLL"},
 {t:"PEVOROS Solar Garden Lights",c:"Home",e:"🏠",n:"Use code YIW9BPM5",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H6J6CCTN"},
