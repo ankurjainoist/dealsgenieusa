@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Blink Outdoor 4 – Wireless smart security camera, two-year battery life, two-way talk. Required Sync Module",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0B1N7LJD3",img:"img/B0B1N7LJD3.jpg"},
 {t:"Scott ComfortPlus Toilet Paper, 36 Triple Rolls, 231 Sheets per Roll",c:"Home",e:"🏠",n:"Subscribe & Save available",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DJWKTVSW"},
 {t:"Pelon Pelo Rico Mexican Tamarind Candy, 1 oz, 36 Count (Pack of 1)",c:"Grocery",e:"🛒",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B005CUM0D8"},
 {t:"Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CZ5THL73"},
