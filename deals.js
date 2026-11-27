@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"SexyHair Big Powder Play Volumizing & Texturizing Powder",c:"Toys",e:"🧸",dt:"Nov 27",l:"https://www.amazon.com/dp/B00390DN34"},
+{t:"Hot Wheels Booster Seats with Tray",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GV1GSBXH"},
+{t:"Vibration Plates for Weight Loss",c:"Home",e:"🏠",n:"Use code OVEOTK3U",dt:"Nov 27",l:"https://www.amazon.com/dp/B0G3P88BDM"},
+{t:"Fisoew Womens Cable Knit Sweater Vests",c:"Electronics",e:"🔌",n:"50% off with code AAK25B5Y",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GVHLML4B"},
+{t:"Ninja Professional Plus Blenders",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BMGSZMW9"},
+{t:"Womens 2 Piece Workout Sets",c:"Fashion",e:"👗",n:"Use code Q8SSC9WX",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GRV1RDH5"},
+{t:"Hamilton Beach Power Elite Blenders",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B00EI7DPI0"},
+{t:"Estée Lauder DayWear Multi-Protection Anti-Oxidant 24H-Moisture Cream SPF 15, Anti-Aging Face Cream",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B008N0DF10"},
 {t:"Grace Karin Trench Coats",c:"Fashion",e:"👗",n:"Use code OBUPQHL5",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H829Q8T8"},
 {t:"Waterfall Tree Topper Lights",c:"Home",e:"🏠",n:"Use code 4IEXYIZE",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FMKM92FF"},
 {t:"Neutrogena Skincare Gift Sets",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H88G8VNW"},
