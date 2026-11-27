@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Carters Baby Boys 3-piece Bodysuit Pant Sets",c:"Baby",e:"👶",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GV4ZJSYK"},
+{t:"adidas Mens Astrastar Sneakers Shoes Casual - Green",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F2FTSQR5"},
+{t:"Electric Foil Shavers for Men, 3 Floating Blades Electric Razor, USB-C Charging & Travel Lock, LED Battery",c:"Tools",e:"🔧",n:"65% off with code NZ8TH25L",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HM3Z7LQ1"},
+{t:"Upstreman Portable Range Hoods",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GQHCG3WW"},
+{t:"BodyRefresh Gift Baskets for Women, 2026 Christmas & Birthday Self Care Spa Gift Set",c:"Fashion",e:"🎄",n:"50% off with code XQQJ4PXB",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HCZSG4MY"},
+{t:"5 Tiers Over the Door Organizer with 10 Mesh Side Pockets, 44 lbs Weight Capacity Closet Hanging Storage",c:"Home",e:"🏠",n:"50% off with code OU5ZPJCJ",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FWYGGWJZ"},
+{t:"Pet Air Purifiers for Home Large Room 2100 Ft², True HEPA Filter, White-50$ off",c:"Pets",e:"🐾",n:"Use code CVPAQYV0",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CY3GZ52B"},
+{t:"Car Air Fresheners with Visor Clips",c:"Auto",e:"🚗",n:"Use code Z39WPV8H",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HRP1WP87"},
 {t:"DEWALT 20V MAX XR Cordless Hammer Drill Driver Brushless, Heavy Duty 1/2 in, 3-Speed, Tool Only",c:"Tools",e:"🔧",dt:"Nov 27",l:"https://www.amazon.com/dp/B01DR90MM6"},
 {t:"medicube Deodorant with Kojic Acid Turmeric, Sweet Vanilla Scent, 2.92",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GHM14SCX"},
 {t:"Lenox Merry Grinchmas Salt and Pepper Shakers",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CST16MW6"},
