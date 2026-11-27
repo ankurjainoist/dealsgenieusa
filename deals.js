@@ -3,6 +3,10 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Red Bull Energy Drink, Strawberry Apricot, Amber Edition",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BVMT31X8"},
+{t:"FranklinCovey Her Point of View Planners",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FN7QYSQK"},
+{t:"Over the Door Shoe Organizer, 20-30 Pairs Shoe Storage",c:"Home",e:"🏠",n:"Use code 2WZIM9YE",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H33HH8XK"},
+{t:"HYSEYY Double Rods Clothes Rack, Rolling Clothing Rack",c:"Home",e:"🏠",n:"Use code G1DUURIC",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DKFMB2T2"},
 {t:"5 Pack Wreath Bags Storage",c:"Home",e:"🏠",n:"Use code 7LPFQZF8",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FN414RGZ",img:"img/B0FN414RGZ.jpg"},
 {t:"Vanpopubs 2 Pack 2.7 Gal Bathroom Automatic Trash Can",c:"Home",e:"🏠",n:"Use code LZF1C1NV",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DBLMHFJ8",img:"img/B0DBLMHFJ8.jpg"},
 {t:"HOMIDEC Wardrobe Closet, 4 Hanging Spaces Portable Clothes Rack",c:"Home",e:"🏠",n:"Use code YMP7I3QC",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DRVRKJQG",img:"img/B0DRVRKJQG.jpg"},
