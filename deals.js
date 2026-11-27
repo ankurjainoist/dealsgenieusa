@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"New Balance Unisexult 370 V1",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DQ2GV9ZK"},
+{t:"adidas Womens Streettalk Sneakers",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DJTQ7HGK"},
+{t:"Columbia Men’s Glennaker Lake II Rain Jacket",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CLR35N3T"},
+{t:"Columbia Girls Switchback II Jacket",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CLQQMWXP"},
+{t:"Columbia Men’s Hart Mountain II Half Zip",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0059DVD04"},
+{t:"Foldable Drones with 1080P Camera",c:"Electronics",e:"🔌",n:"Use code HY3GOF8Z",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HGY3PK26"},
+{t:"Senya Dishwasher Magnet Covers",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0D2X3GN1Z"},
+{t:"Columbia Mens Steens Mountain Full Zip 2.0",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0076R6L58"},
+{t:"Wicker Storage Baskets with Handles",c:"Home",e:"🏠",n:"Use code XHHH8TK5",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GXFHKMB8"},
 {t:"LANGE HAIR Glass Hair Heat Protectant Spray, Anti-Frizz Blow Dry Mist, Long Lasting Hold & Shine, Humidity",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BG9GQYKX"},
 {t:"Urban Decay Eyeshadow Primer Potion - Nude Eyeshadow Base for Smooth Makeup",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B015KBH894"},
 {t:"Entertaining by Martha",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DVLPZJ48"},
