@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Victorias Secret Gift Cards",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FQN9QYDQ"},
+{t:"HPRT Thermal Photo Printers",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H28Y5VTW"},
+{t:"Rstsoe Smart Fitness Rings",c:"Electronics",e:"🔌",n:"50% off with code LJ14B7Q0",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HH9HYGVC"},
+{t:"Touchland Hand Sanitizer Sprays",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GV5C7TQH"},
+{t:"HexClad 6pc Hybrid Nonstick Frying Pans Set with Lids, 8, 10 & 12” Pans",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B09ZBF3856"},
+{t:"Magnetic Dryer Vent Connector Kit",c:"Home",e:"🏠",n:"35% off with code CTTD9V51",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H11WR2Z3"},
+{t:"DeWalt Cordless Impact Wrenches",c:"Tools",e:"🔧",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H75T66K5"},
+{t:"Personalized Lace Floral Handbag, Embroidered Mini Tote Bag",c:"Fashion",e:"👗",n:"49% off with code OTMJB31S",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HRJYHNSM"},
 {t:"Cuisinart Mini Food Choppers",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B09R94BHV2"},
 {t:"Umbrella Side Tables with Base",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GTQZSQTD"},
 {t:"36PCS Christmas Glasses and Party Favors Bags SET",c:"Home",e:"🎄",n:"40% off with code ARHPN1DJ",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HFW76MPG"},
