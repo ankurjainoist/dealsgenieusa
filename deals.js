@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Selkirk Sport SLK Neo Pickleball Paddles Set of 2 + Pickleballs + Sling Bag",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B01F7VC6MQ"},
+{t:"Nike Womens Air Max Nuaxis Shoes",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0D967CSLV"},
+{t:"Champion Mens Performance Boxer Briefs, 5-Pack",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0G15XB65L"},
+{t:"Harrys Original Razors for Men Shaving Kit, Handle, 5 Refills & Shave Gel",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DBJCS2HG"},
+{t:"Amazon Essentials Womens Slim-Fit Pack of 4",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0775YFJ5H"},
+{t:"Nike Unisex Kids Classics Elemental Backpack",c:"Kids",e:"🎨",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0G2Y67BKG"},
+{t:"Truly Beauty The Viral Edit, TikTok Viral 4-Piece Glow & Hydration Set",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GQ5C21KF"},
+{t:"idas All Me Tote Bag",c:"Fashion",e:"👗",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0B7Q3N8H6"},
+{t:"Amika Perk Up Dry Shampoo",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B07H349CVV"},
 {t:"Beetles Soft Tint Nude Gel Nail Polish Set, 20 Colors Jelly Gel Polish Kit",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FF4W6DP2"},
 {t:"Nioxin System 2 Kit For Natural Hair with Progressed Thinning",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B078YGKR6S"},
 {t:"Red Bull Zero Energy Drink, 8.4 fl. oz., with 80mg Caffeine, Taurine & B Vitamins, Case of 24 cans",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B007KIOBMS"},
