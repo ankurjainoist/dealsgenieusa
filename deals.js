@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Bed Pillows for Sleeping Queen Size Set of 2 for Side Sleeper",c:"Home",e:"🏠",n:"Use code LV91E4E3",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HSJQJ33P"},
+{t:"Cetaphil 2-in-1 Baby Shampoo & Body Wash, Tear Free, 13.5oz, 2ct",c:"Baby",e:"👶",dt:"Nov 27",l:"https://www.amazon.com/dp/B09MVMNW5M"},
+{t:"Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Gryffindor",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HGHDV6TD"},
+{t:"Purina Fancy Feast Appetizers and Broths Variety Pack (2 Pack) 24 Count",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B099FM8N94"},
+{t:"Barbie Makeup Set with Lip Gloss & Nail Polish, 11-Piece, Ages 3+",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FH3YCMTR"},
+{t:"UGG unisex-child Tasman II Spotted",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0G3R1VJW9"},
+{t:"Physicians CHOICEvanced Gut Health Bundle: 60 Billion Probiotics 30ct + Digestive Enzymes 60ct w/Lactase+",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DLPJH5FX"},
 {t:"TOP-HEATER 8 Inch Electric Stove Coils",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0B9XT86LH"},
 {t:"Aluminum Trailer Chain Holders",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GVTL28RH"},
 {t:"DHOBWR Gold Wedding Table Numbers",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HL8H86MT"},
