@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Kids Insulated Water Bottle with Straw, 18 oz",c:"Kitchen",e:"🍳",n:"50% off with code 40Q8NPTP",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GWF1ZDSP"},
+{t:"Walking Pads with Vibration Plates",c:"Home",e:"🏠",n:"Use code WSNQCXNE",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H6JHKPLL"},
+{t:"PEVOROS Solar Garden Lights",c:"Home",e:"🏠",n:"Use code YIW9BPM5",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H6J6CCTN"},
+{t:"Cordless Vacuum Cleaner,Upgraded 600W 50KPA 65Mins 1.8L Cup Cordless Stick Vacuum Cleaner",c:"Home",e:"🏠",n:"30% off with code UBHQOP5N",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HF7YBRQD"},
+{t:"Car Vacuum Rechargeable 21000Pa Powerful Suction Handheld Vacuum Cordless",c:"Auto",e:"🚗",n:"45% off with code VZWGPOJC",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FVLTR8QR"},
+{t:"116dB Loud Alarm Clock for Heavy Sleepers, Alarm Clock for Bedrooms with Wireless Bed Shaker",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HDXST4T9"},
+{t:"Mermaid Dance Mat Toy for Girls Ages 3-12, 9 Challenge Levels Dance Pad",c:"Toys",e:"🧸",n:"50% off with code R0MSAV2F",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HFCVQ5HX"},
+{t:"Steak Knives Set of 8, 4.5 Inch Serrated Steak Knives with Wood Handle",c:"Home",e:"🏠",n:"50% off with code HXLTTS2F",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HKG68CKV"},
+{t:"6 ft Prelit Christmas Tree with Artificial Realistic PE Foliage",c:"Home",e:"🎄",n:"5% off with code OPSVUNDC",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HFJNYH9Z"},
 {t:"SpeedTalk Prepaid Phone Plans",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BS1W6HJM"},
 {t:"105” Cloud Sectional Couches for Living Room, Modern Modular Sectional Sofa with Ottoman",c:"Home",e:"🏠",n:"20% off with code 242NY8G5",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HNNRY4WW"},
 {t:"50 Pack Christmas Potpourri Bags, Resealable Kraft Paper Stand-Up Simmer Pot Bags with Clear Window",c:"Home",e:"🎄",n:"30% off with code 07PU1DZK",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HCPSMZQP"},
