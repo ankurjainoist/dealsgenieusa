@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"TIGI Bed Head Manipulator Texturizing Putty, Firm Hold Styling Putty for Short to Medium Hair, 2.01 oz",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B08R4XX2QR"},
+{t:"Levis Womens 318 Shaping Wide-Leg Jeans",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DJWNZFMN"},
+{t:"Swarovski Imber Necklace Collection",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CPZ68GJ5"},
+{t:"HydroJug Traveler 32oz, Insulated Water Bottle with Handle, Wildrose",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F462TMRK"},
+{t:"Cuisinart CSB-179 Smart Stick Variable Speed",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B079NJTL29"},
+{t:"Dyson Airwrap i.d. Multi-Styler, 6-in-1, Dryer, Curler, No Heat Damage",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GKJ4PHWM"},
+{t:"Belkin Qi215W Wireless Charging Dock",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FQS1T3SK"},
+{t:"Bose QuietComfort Bluetooth Headphones, Wireless Headphones with Active Over Ear Noise Cancelling and Mic",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CCZ1SQ8G"},
+{t:"Anne Klein Womens Bracelet Watch",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DP5F54X9"},
 {t:"Red Bull Energy Drink, Strawberry Apricot, Amber Edition",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BVMT31X8"},
 {t:"FranklinCovey Her Point of View Planners",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FN7QYSQK"},
 {t:"Over the Door Shoe Organizer, 20-30 Pairs Shoe Storage",c:"Home",e:"🏠",n:"Use code 2WZIM9YE",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H33HH8XK"},
