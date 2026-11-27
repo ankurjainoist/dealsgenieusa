@@ -3,6 +3,16 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Play-Doh Marvel Hulk Smash & Squish Kids Playset with Bendy Action Figure and Accessories",c:"Toys",e:"🧸",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CQ3NNBYF"},
+{t:"Water Hyacinth Wall Baskets with Lids, Set of 2",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F9PFZ7VJ"},
+{t:"Hasbro Games Clue Escape: The Midnight Hotel Board Game",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BCMNH8LV"},
+{t:"Hasbro Gaming Pretty Princess Unicorn Edition Board Game (Amazon Exclusive)",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B09KWKMKJB"},
+{t:"Big Country Toys Chicken Coopventure - 11-Piece Farm Toy Playset",c:"Toys",e:"🧸",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GR6C82W6"},
+{t:"Squish-a-longs Hello Kitty and Friends Hello Kitty Boba Playset",c:"Toys",e:"🧸",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DK7YCQZZ"},
+{t:"AppleRound Space Hopper Ball with Air Pump: 22in/55cm Diameter for Age 10-13, Kangaroo Bouncer",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B06XRX6Y9F"},
+{t:"Crayola Scribble Scrubbies Color Blast Airbrush Sprayer, Spray Art Kit",c:"Kids",e:"🎨",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GW9DJGH8"},
+{t:"Klever Kits Decorate Your Own Baseball Cap with 7 Sheets Gems Stickers, Art & Crafts Kit for Kids",c:"Kids",e:"🎨",dt:"Nov 27",l:"https://www.amazon.com/dp/B08V8SVPRX"},
+{t:"Wooden Stacking Puzzle Toy,3D Colored Wooden Puzzle Russian",c:"Toys",e:"🧸",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FJF8LBBY"},
 {t:"Premier Protein Mocha Shakes",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FQ97YZ8V"},
 {t:"Masters of the Universe 2026 Movie He-Man Power of Grayskull Sword",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FG9GTM56"},
 {t:"Mini Brands Really Works Magic Cook Kitchen Capsule Series 1 Pasta Maker & Steak with Pan Set by ZURU",c:"Kitchen",e:"🍳",dt:"Nov 27",l:"https://www.amazon.com/dp/B0FNSXRRDJ"},
