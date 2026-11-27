@@ -3,6 +3,12 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"TCL TV Metal Stands",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GT5KTJY1"},
+{t:"Styling Books Cutting Boards with Stand, Decorative Wooden Board Set of 3",c:"Home",e:"🏠",n:"Use code 8UK2G984",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HC1NTYCW"},
+{t:"ESR 15W MagSafe Car Mounts",c:"Auto",e:"🚗",n:"50% off with code DGCBZMTX",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CZ4BFNCF"},
+{t:"Maison dHermine Coffee Mugs",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BBV21W1L"},
+{t:"FranklinCovey Monticello Weekly Planners",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GF7V8ZLL"},
+{t:"RXLUY Folding Pocket Knives (Black-Gold)",c:"Home",e:"🏠",n:"Use code SA5VVQQX",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GSS7DM4D"},
 {t:"Size Small",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B084SGV1PC"},
 {t:"Bissell Water Fountain Filters (20-Pack)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HNVVS1D9"},
 {t:"Toyota Front Bumper Brackets",c:"Home",e:"🏠",n:"Clip the 50% coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DK73CJNX"},
