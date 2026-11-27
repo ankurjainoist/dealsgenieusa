@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Enameled Cast Iron Dutch Oven Pot with Lid, 5QT Dutch Oven for Bread Baking",c:"Kitchen",e:"🍳",n:"30% off with code QTQ8JLOF",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F32DLZL5"},
+{t:"6FT Artificial Olive Tree with Lights & Planter, Realistic Faux Olive Plant",c:"Home",e:"🏠",n:"40% off with code HZT5MVN4",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HPDQRYM3"},
+{t:"Ninja SLUSHi Smart Frozen Drink Makers",c:"Electronics",e:"🔌",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HC7MNWYL"},
+{t:"Memory Foam Wedge Pillows",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HP98KZKF"},
+{t:"Solar Bird Feeder with Camera",c:"Electronics",e:"🔌",n:"50% off with code WZ03ODF7",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HNSND7H4"},
+{t:"Cricut Value Cardstock Paper, Neutrals Sampler - 80 sheets (8.5 in x 11 in)",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DXXL1ZB7"},
+{t:"Vitamin D3 K2",c:"Health",e:"💊",n:"50% off with code WL90JZFV",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H2M1NC5X"},
+{t:"Outdoor Projector 4K",c:"Electronics",e:"🔌",n:"Use code EO5ZSERM",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HNK4NTHR"},
+{t:"Electric Train Set for Kids 3D Race Infinity Train Track Toys 122PC",c:"Toys",e:"🧸",n:"63% off with code 55HCTZ1120",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H75HQM13"},
 {t:"New Balance Unisexult 370 V1",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DQ2GV9ZK"},
 {t:"adidas Womens Streettalk Sneakers",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DJTQ7HGK"},
 {t:"Columbia Men’s Glennaker Lake II Rain Jacket",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0CLR35N3T"},
