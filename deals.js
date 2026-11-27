@@ -3,6 +3,13 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"LANGE HAIR Glass Hair Heat Protectant Spray, Anti-Frizz Blow Dry Mist, Long Lasting Hold & Shine, Humidity",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0BG9GQYKX"},
+{t:"Urban Decay Eyeshadow Primer Potion - Nude Eyeshadow Base for Smooth Makeup",c:"Beauty",e:"💄",dt:"Nov 27",l:"https://www.amazon.com/dp/B015KBH894"},
+{t:"Entertaining by Martha",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/B0DVLPZJ48"},
+{t:"Axolotlvent Calendar 2026, 24 Days Christmas Countdown Calendar with 3D Printed Axolotl Toys",c:"Toys",e:"🎄",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H4L8PF2C"},
+{t:"The Little Blue Boxed Set of 4 Bright and Early Board Books",c:"Home",e:"🏠",dt:"Nov 27",l:"https://www.amazon.com/dp/030797586X"},
+{t:"6FT Prelit Pop Up Christmas Trees",c:"Home",e:"🎄",n:"Use code ISLFCDQD",dt:"Nov 27",l:"https://www.amazon.com/dp/B0H6FQVYRC"},
+{t:"Levis Mens Faux Leather Aviator Bomber Jacket With Sherpa Collar",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0C5YCWDQK"},
 {t:"Carters Baby Boys 3-piece Bodysuit Pant Sets",c:"Baby",e:"👶",dt:"Nov 27",l:"https://www.amazon.com/dp/B0GV4ZJSYK"},
 {t:"adidas Mens Astrastar Sneakers Shoes Casual - Green",c:"Fashion",e:"👗",dt:"Nov 27",l:"https://www.amazon.com/dp/B0F2FTSQR5"},
 {t:"Electric Foil Shavers for Men, 3 Floating Blades Electric Razor, USB-C Charging & Travel Lock, LED Battery",c:"Tools",e:"🔧",n:"65% off with code NZ8TH25L",dt:"Nov 27",l:"https://www.amazon.com/dp/B0HM3Z7LQ1"},
