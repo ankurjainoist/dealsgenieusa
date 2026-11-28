@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"UGG Womens Isle Set, Black Multi, One Size",c:"Fashion",e:"👗",dt:"Nov 28",l:"https://www.amazon.com/dp/B0DWBXQP2G",img:"img/B0DWBXQP2G.jpg"},
 {t:"Non Stick Frying Pans - 3 PCS 8 in+10 in+12 in Skillet Set, Cookware Set with Heat Resistant Ergonomic Handle",c:"Kitchen",e:"🍳",n:"50% off with code B2HXMAXY",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HNMY9ZC8",img:"img/B0HNMY9ZC8.jpg"},
 {t:"ShomPort Magnetic Marble Run Tiles",c:"Home",e:"🏠",n:"50% off with code SRHKKZZQ",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HLS449FN",img:"img/B0HLS449FN.jpg"},
 {t:"Persil Original Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz",c:"Grocery",e:"🛒",dt:"Nov 28",l:"https://www.amazon.com/dp/B07L67Z4CQ",img:"img/B07L67Z4CQ.jpg"},
