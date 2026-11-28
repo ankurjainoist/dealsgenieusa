@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Wonderskin Lip Oil Rehab Serum - Tinted Lip Oil, Hydrating Lip Serum",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B0D7HWLYM4",img:"img/B0D7HWLYM4.jpg"},
 {t:"Breathe Right Nasal Strips (Extra Strength)",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B07FHM225F",img:"img/B07FHM225F.jpg"},
 {t:"Pampers Sensitive Baby Wipes",c:"Baby",e:"👶",dt:"Nov 28",l:"https://www.amazon.com/dp/B0BJ13K7FR",img:"img/B0BJ13K7FR.jpg"},
 {t:"adidas Womens VL Court 3.0 Sneakers",c:"Fashion",e:"👗",dt:"Nov 28",l:"https://www.amazon.com/dp/B0F8Y3QDW7",img:"img/B0F8Y3QDW7.jpg"},
