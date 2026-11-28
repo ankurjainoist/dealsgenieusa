@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"BigBlue 30W Solar Chargers",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0DMNGYMCT"},
+{t:"Decksplore Swivel Patio Chairs",c:"Home",e:"🏠",n:"50% off with code RHKTEEA0",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HCNVK4PF"},
+{t:"Smile Paws Cat Beds",c:"Pets",e:"🐾",n:"Coupon: 40% off",dt:"Nov 28",l:"https://www.amazon.com/dp/B0DGGY1JZZ"},
+{t:"Insulated Dog Snowsuits with Boots",c:"Pets",e:"🐾",n:"50% off with code G0P0W59C",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HPJDJMFC"},
+{t:"RXLUY Tactical Survival Knives (Green)",c:"Home",e:"🏠",n:"50% off with code FWC5FWWA",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H3VKFRJ6"},
+{t:"Assisted Pull-Up Bars",c:"Home",e:"🏠",n:"50% off with code S0GARQ2Y",dt:"Nov 28",l:"https://www.amazon.com/dp/B0GZKD9R4K"},
+{t:"THLIER Kids Tractors with Trailer",c:"Kids",e:"🎨",n:"Use code UU8PNOAA",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HSN87ZBP"},
+{t:"Marcy 40 lbsjustable Dumbbell Set with Collars for Home Gym Bodybuilding, Weight Training, Strength Training",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B00GHA42YW"},
 {t:"JOULPOUZA Starlink Mini Dashboard Mounts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H6K1YCHZ"},
 {t:"Febreze Plug-In Air Freshener, Odor-Fighting Scented Oil Refill for Home, Bathroom & Kitchen, Holiday Baked",c:"Auto",e:"🚗",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FKW75C94"},
 {t:"Core Power Fairlife Elite 42g High Protein Milk Shakes For kosher diet, Ready to Drink for Workout Recovery",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B01DDIRDZA"},
