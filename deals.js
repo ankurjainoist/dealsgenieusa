@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Dropps Laundry Detergent Pods (64 Count) (Sensitive Skin, Unscented)",c:"Grocery",e:"🛒",dt:"Nov 28",l:"https://www.amazon.com/dp/B00NIUKYGY",img:"img/B00NIUKYGY.jpg"},
 {t:"KATE FARMS Pediatric 1.2 High Calorie Shake, Vanilla, 12 Pack",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B07DVZZMRK",img:"img/B07DVZZMRK.jpg"},
 {t:"Top 50 Horror Movies Scratch Off Cards. Gifts for Movie Night",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B0CR6T68WL",img:"img/B0CR6T68WL.jpg"},
 {t:"YUIOXDGL Portable Bluetooth Speakers",c:"Electronics",e:"🔌",n:"75% off with code DGOM0GKL",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HHW85LK3",img:"img/B0HHW85LK3.jpg"},
