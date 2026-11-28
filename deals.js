@@ -3,6 +3,14 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Women 2 Piece Striped Winter Matching Sets with Roomy Mock Neck",c:"Fashion",e:"👗",n:"Use code XH38995W",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H8YR581V"},
+{t:"Lume Acidified Body Cleansing Bar - SLS and Parabens Free - 5oz (Lavender)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0CJMRMQL5"},
+{t:"Amélie Home Pintuck Comforter for Hot Sleepers, Twin, Creamy Beige",c:"Home",e:"🏠",n:"Use code KLT9Z7XU",dt:"Nov 28",l:"https://www.amazon.com/dp/B0G3PF2Y8Q"},
+{t:"Cardigan Sweaters for Women Fall Fashion Clothes 2026 Knit Shrugs",c:"Fashion",e:"👗",n:"Use code 40VGRNSK",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FLK5Y18C"},
+{t:"JZW-Shop Bluetooth Receivers",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HKW8F2PR"},
+{t:"Bolle Safety Goggles",c:"Home",e:"🏠",n:"Clip the 40% coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0DFP9HNDG"},
+{t:"Tommy Hilfiger Boys Short Sleeve Pique Matt Polo Shirt",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B0DJRWWQKV"},
+{t:"ZMLM Christmas Water Coloring Books for Toddler-2 Pack Water Painting Books",c:"Baby",e:"🎄",n:"Use code R57EYGRV",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HGL99Y12"},
 {t:"Starlink Gen 3 Wall Mounts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0GZVKXQJJ"},
 {t:"Wall Mounted Toothbrush Holders",c:"Home",e:"🏠",n:"Use code BJEZHGZ6",dt:"Nov 28",l:"https://www.amazon.com/dp/B08YNTWD1W"},
 {t:"Love Wellness pH Balanced Wipes Fragrance-Free Travel Size 3-Pack",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B084KM514G"},
