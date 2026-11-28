@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Starlink Gen 3 Wall Mounts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0GZVKXQJJ"},
+{t:"Wall Mounted Toothbrush Holders",c:"Home",e:"🏠",n:"Use code BJEZHGZ6",dt:"Nov 28",l:"https://www.amazon.com/dp/B08YNTWD1W"},
+{t:"Love Wellness pH Balanced Wipes Fragrance-Free Travel Size 3-Pack",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B084KM514G"},
+{t:"Amélie Home Queen Bubble Comforter Set, Soft, Charcoal Grey, 3-Piece",c:"Home",e:"🏠",n:"Use code OH3NPNS5",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FG7KPW37"},
+{t:"Cortisol Support Supplements",c:"Health",e:"💊",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0GMXDTPGS"},
+{t:"NaturVet Quiet Moments Calming Plus Hemp Dog Supplement - 180 Soft Chews",c:"Pets",e:"🐾",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B07DM8XQ9C"},
+{t:"Bazzini Dark Chocolate Walnuts",c:"Grocery",e:"🛒",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FNS21NW9"},
+{t:"prices might vary by size",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0CKM654S2"},
+{t:"Tangle Teezer Ultimate Detangler Brush, Straight to Wavy, Apricot Blaze",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B09931QFT9"},
 {t:"Ninja Foodi Power Blender & Processor System",c:"Kitchen",e:"🍳",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B098RCQVRB"},
 {t:"Beetles Gel Nail Polish Kit with U V Light - 34pcs Gel Polish Set 20 Colors",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B0DK74J2DR"},
 {t:"Jack Links Sweet & Hot Beef Jerky Multipack - (2 Pack) 9 oz",c:"Grocery",e:"🛒",dt:"Nov 28",l:"https://www.amazon.com/dp/B07JMQBPD3"},
