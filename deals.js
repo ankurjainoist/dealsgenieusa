@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Nike Performance Crew Socks",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B079G4SJPG",img:"img/B079G4SJPG.jpg"},
 {t:"MaryRuths Hair Growth Max Liposomal 10000mcg Biotin, Thicker Hair, 15.22oz",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B0CNDDQ4WR",img:"img/B0CNDDQ4WR.jpg"},
 {t:"Columbia Benton Springs Full Zips",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B003NX8CKG",img:"img/B003NX8CKG.jpg"},
 {t:"7FT Animated Santa Airplane Inflatables",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HFHN3PML",img:"img/B0HFHN3PML.jpg"},
