@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Sol de Janeiro Limited Edition Leite Perfume Mists, 3 fl oz.",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H3MJ6VXB",img:"img/B0H3MJ6VXB.jpg"},
 {t:"Intex Inflatable Pull-Out Sofa Convertible Queen Size Air Mattress",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B07V1PPHWX",img:"img/B07V1PPHWX.jpg"},
 {t:"Bartesian Cocktail Maker – Capsule Machine for Home Bar (Cashmere, Classic)",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HHGDGRBL",img:"img/B0HHGDGRBL.jpg"},
 {t:"Turtle Beach Atlas 200 Wired Multiplatform Gaming Headset for PS5, PS4, PC",c:"Games",e:"🎮",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FFTR95H3",img:"img/B0FFTR95H3.jpg"},
