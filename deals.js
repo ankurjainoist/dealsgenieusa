@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"NIV Baby Gift Bibles",c:"Baby",e:"👶",dt:"Nov 28",l:"https://www.amazon.com/dp/0310764262",img:"img/0310764262.jpg"},
 {t:"CHI Volumizer Blowout Brushes",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B089TPH2D8",img:"img/B089TPH2D8.jpg"},
 {t:"BaubleBar Ultimate DIY Bag Charm Kit, Oprah’s Favorite Things, Great for a Gift, Party, or Family Activity",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FRP8KSWQ",img:"img/B0FRP8KSWQ.jpg"},
 {t:"Dropps Laundry Detergent Pods (64 Count) (Sensitive Skin, Unscented)",c:"Grocery",e:"🛒",dt:"Nov 28",l:"https://www.amazon.com/dp/B00NIUKYGY",img:"img/B00NIUKYGY.jpg"},
