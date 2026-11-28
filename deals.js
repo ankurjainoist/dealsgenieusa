@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"JOULPOUZA Starlink Mini Dashboard Mounts",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H6K1YCHZ"},
+{t:"Febreze Plug-In Air Freshener, Odor-Fighting Scented Oil Refill for Home, Bathroom & Kitchen, Holiday Baked",c:"Auto",e:"🚗",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FKW75C94"},
+{t:"Core Power Fairlife Elite 42g High Protein Milk Shakes For kosher diet, Ready to Drink for Workout Recovery",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B01DDIRDZA"},
+{t:"Milk Makeup Cooling Water Jelly Tint – Long-Lasting Sheer Lip + Cheek Stain with Firming Vegan Collagen +",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H77GY1PT"},
+{t:"ZFUHWT Memory Foam Seat Cushions",c:"Home",e:"🏠",n:"58% off with code HQID4NP6",dt:"Nov 28",l:"https://www.amazon.com/dp/B0G8HRB4MD"},
+{t:"BulkSupplements.com NSF Certified Micronized Creatine Monohydrate - 500g",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B00E9M4XFI"},
+{t:"COLOR WOW Dream Coat – Anti-Humidity Frizz Control Spray for Glass Hair",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B073CWSQ51"},
+{t:"FITORY Womens Suede Slippers, Slip On HoUse Flats with Faux Fur Lining",c:"Fashion",e:"👗",dt:"Nov 28",l:"https://www.amazon.com/dp/B0F7R41NMW"},
+{t:"amPark Facial Cleansing Brushes",c:"Home",e:"🏠",n:"Use code QFDM4JO4",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H4GG7FVK"},
 {t:"Women 2 Piece Striped Winter Matching Sets with Roomy Mock Neck",c:"Fashion",e:"👗",n:"Use code XH38995W",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H8YR581V"},
 {t:"Lume Acidified Body Cleansing Bar - SLS and Parabens Free - 5oz (Lavender)",c:"Home",e:"🏠",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0CJMRMQL5"},
 {t:"Amélie Home Pintuck Comforter for Hot Sleepers, Twin, Creamy Beige",c:"Home",e:"🏠",n:"Use code KLT9Z7XU",dt:"Nov 28",l:"https://www.amazon.com/dp/B0G3PF2Y8Q"},
