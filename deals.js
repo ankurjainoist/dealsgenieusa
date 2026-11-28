@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Turtle Beach Atlas 200 Wired Multiplatform Gaming Headset for PS5, PS4, PC",c:"Games",e:"🎮",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FFTR95H3",img:"img/B0FFTR95H3.jpg"},
 {t:"MONDAY HAIRCARE Moisture Shampoo + Conditioner Bathroom Set (2 Count) 27 oz Each for Dry, Coarse, Stressed",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B0D2S7KNC1",img:"img/B0D2S7KNC1.jpg"},
 {t:"Bliss Fabgirl Firm Firming & Contouring Body Cream & Sculpting Tool, 6 oz",c:"Tools",e:"🔧",dt:"Nov 28",l:"https://www.amazon.com/dp/B0GQVPTSC8",img:"img/B0GQVPTSC8.jpg"},
 {t:"Miss Mouths Messy Eater Stain Treater Spray - 4oz 3 Pack Stain Remover - Newborn & Baby Essentials - No Dry",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B07QQ3M74T",img:"img/B07QQ3M74T.jpg"},
