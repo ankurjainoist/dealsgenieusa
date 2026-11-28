@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Aveeno Baby Eczema Therapy Moisturizing Cream, 7.3 oz",c:"Baby",e:"👶",dt:"Nov 28",l:"https://www.amazon.com/dp/B0080I51NK",img:"img/B0080I51NK.jpg"},
 {t:"Medisana 3D Red Light Therapy Face Masks",c:"Beauty",e:"💄",n:"64% off with code D0QBAISQ",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HF82YCZ8",img:"img/B0HF82YCZ8.jpg"},
 {t:"Ferro Rod Fire Starters",c:"Home",e:"🏠",n:"Use code MHMB278V",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HSSFS4DR",img:"img/B0HSSFS4DR.jpg"},
 {t:"Zarbees Kids Cough Syrup + Mucus Value Pack with Honey, 2 x 4 fl oz",c:"Kids",e:"🎨",dt:"Nov 28",l:"https://www.amazon.com/dp/B09Z9YBDFJ",img:"img/B09Z9YBDFJ.jpg"},
