@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Zarbees Kids Cough Syrup + Mucus Value Pack with Honey, 2 x 4 fl oz",c:"Kids",e:"🎨",dt:"Nov 28",l:"https://www.amazon.com/dp/B09Z9YBDFJ",img:"img/B09Z9YBDFJ.jpg"},
 {t:"DANO CLINIC VT Hair Treatments",c:"Beauty",e:"💄",n:"Clip the 50% coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0G3XPXD4M",img:"img/B0G3XPXD4M.jpg"},
 {t:"Dimmable Candle Warmer Lamp with Timer, Light Gold U-Shape Table Lamp",c:"Home",e:"🏠",n:"40% off with code R3P5YGBM",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H6HN8VK2",img:"img/B0H6HN8VK2.jpg"},
 {t:"100% Cotton Bath Mat, Super Absorbent Bathroom Rugs",c:"Home",e:"🏠",n:"50% off with code KD91M2CT",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H755NYHD",img:"img/B0H755NYHD.jpg"},
