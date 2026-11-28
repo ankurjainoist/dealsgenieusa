@@ -3,6 +3,15 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Solar-Powered Ice Scrapers",c:"Home",e:"🏠",n:"Use code MG5G4USS",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HSSPL2GZ"},
+{t:"Nioxin System 2 Kit, For Natural Hair with Progressed Thinning",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B07FN52D8Q"},
+{t:"Beats Studio Pro Premium Wireless Over-Ear Headphones- Up to 40-Hour Battery Life, Active Noise Cancelling",c:"Electronics",e:"🔌",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H7Z164PJ"},
+{t:"MiaMily Hipster Infant Inserts (White)",c:"Baby",e:"👶",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B01JMRN21K"},
+{t:"Bamboo Kids Clothing Rack with Dual Poles, Child Dress Up Rack, Clothing OrganizerRack, Small GarmentRack",c:"Fashion",e:"👗",dt:"Nov 28",l:"https://www.amazon.com/dp/B0DBF2YLWZ"},
+{t:"Nalueeo Shower Steamers Aromatherapy",c:"Home",e:"🏠",n:"Use code G6N1IFWP",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H8YQKL67"},
+{t:"Turtle Beach Stealth Pro II Premium Wireless Gaming Headset for Xbox Series X, S, PS5, PS4, PC - Hi-Res",c:"Games",e:"🎮",dt:"Nov 28",l:"https://www.amazon.com/dp/B0GN4NBD2V"},
+{t:"goop Beauty Exosome Hydration Therapy Serum, Hydrating Serum for Plump, Radiant, & Smooth Skin, Cica Leaf",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FK82TX5C"},
+{t:"8FT Halloween Inflatable Archway with LED Lights",c:"Home",e:"🎃",dt:"Nov 28",l:"https://www.amazon.com/dp/B0H124D77X"},
 {t:"BigBlue 30W Solar Chargers",c:"Electronics",e:"🔌",n:"Clip the coupon",dt:"Nov 28",l:"https://www.amazon.com/dp/B0DMNGYMCT"},
 {t:"Decksplore Swivel Patio Chairs",c:"Home",e:"🏠",n:"50% off with code RHKTEEA0",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HCNVK4PF"},
 {t:"Smile Paws Cat Beds",c:"Pets",e:"🐾",n:"Coupon: 40% off",dt:"Nov 28",l:"https://www.amazon.com/dp/B0DGGY1JZZ"},
