@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Xituwell Rolling Storage Carts",c:"Home",e:"🏠",n:"50% off with code H3WQ6IUL",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HC33SD7P",img:"img/B0HC33SD7P.jpg"},
 {t:"Clinique My Happy Fragrance Spray, Cocoa & Cashmere, Baby Bouquet, Cookies & Kisses, Indigo Mist, Lily of the",c:"Baby",e:"👶",dt:"Nov 28",l:"https://www.amazon.com/dp/B096CFPBLY",img:"img/B096CFPBLY.jpg"},
 {t:"NIV Baby Gift Bibles",c:"Baby",e:"👶",dt:"Nov 28",l:"https://www.amazon.com/dp/0310764262",img:"img/0310764262.jpg"},
 {t:"CHI Volumizer Blowout Brushes",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B089TPH2D8",img:"img/B089TPH2D8.jpg"},
