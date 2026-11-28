@@ -3,6 +3,7 @@
 //         pin:1 = keep as Deal of the Day while still active (optional), l=full https://www.amazon.com/dp/ASIN link.
 // Do NOT add prices. The site adds your Associates tag to every link by itself.
 window.DEALS=[
+{t:"Intex Inflatable Pull-Out Sofa Convertible Queen Size Air Mattress",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B07V1PPHWX",img:"img/B07V1PPHWX.jpg"},
 {t:"Bartesian Cocktail Maker – Capsule Machine for Home Bar (Cashmere, Classic)",c:"Home",e:"🏠",dt:"Nov 28",l:"https://www.amazon.com/dp/B0HHGDGRBL",img:"img/B0HHGDGRBL.jpg"},
 {t:"Turtle Beach Atlas 200 Wired Multiplatform Gaming Headset for PS5, PS4, PC",c:"Games",e:"🎮",dt:"Nov 28",l:"https://www.amazon.com/dp/B0FFTR95H3",img:"img/B0FFTR95H3.jpg"},
 {t:"MONDAY HAIRCARE Moisture Shampoo + Conditioner Bathroom Set (2 Count) 27 oz Each for Dry, Coarse, Stressed",c:"Beauty",e:"💄",dt:"Nov 28",l:"https://www.amazon.com/dp/B0D2S7KNC1",img:"img/B0D2S7KNC1.jpg"},
